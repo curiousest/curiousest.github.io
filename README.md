@@ -1,3 +1,3 @@
-# curiousest.github.io
+# My website (blog)
 
-init
+[www.curiousest.com](www.curiousest.com)

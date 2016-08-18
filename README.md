@@ -1,0 +1,3 @@
+# curiousest.github.io
+
+init

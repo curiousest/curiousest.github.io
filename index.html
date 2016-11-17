@@ -6,7 +6,7 @@ title: Douglas' Blog
 <h2>Best Posts</h2>
 <ul class="posts">
 {% for post in site.posts %}
-{% if post.tag == favourite %}
+{% if post.tags == favourite %}
 	<li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
 {% endif %}
 </ul>

@@ -78,7 +78,7 @@ Sharing these things seems scary, but if EVERYONE shared, it wouldn't be as scar
 
 In a perfect world, everyone would always have the ability to know anything about anything.  (that is possible to know - the answer to life, the universe, and everything may be 42 or it may be hazy).
 
-A system/society that could get us there is one where in order to participate, one must continually share everything there is to know in order to participate.
+A system/society that could get us there is one where in order to participate, one must continually share everything one is capable of sharing and has privileged access to.
 
 A toned-down version could be that one slowly shares more and more to participate.
 

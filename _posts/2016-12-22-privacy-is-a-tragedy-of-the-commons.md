@@ -31,7 +31,7 @@ Really, 1 & 2 are the same thing, but individuals have so little information of 
 
 ## 3. Inability to share
 
-There are some technology and cost limitations on information we share. It's hard to share information from the North Pole and it would be unreasonable to have petabytes of weather data available for individual processing. As technology improves, ability to share increases.
+There are some technology and cost limitations on information we share. It's hard to share information from the North Pole and it would be unreasonable to have petabytes of weather data available for individual processing. As technology improves, ability to share is increasing.
 
 # Information inequality
 

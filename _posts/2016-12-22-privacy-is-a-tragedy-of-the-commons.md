@@ -9,6 +9,11 @@ modified_time: '2016-12-22T15:22:00.001-05:00'
 
 WORK IN PROGRESS - DON'T SHARE YET
 
+# Thesis
+
+* We have been, are now, and will continue sharing more and more information we have privileged access to.
+* With equal access to shared information, this is a good thing
+
 # Not sharing
 
 We want to move humanity forward.

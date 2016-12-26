@@ -17,12 +17,16 @@ The [distant future](https://en.wikipedia.org/wiki/Futures_studies) is worth con
 
 This is reducible to #2 (information processing power).
 
-# 4. Will this decrease diversity?
+# 4. Will sharing more cause more persecution (of minorities in race, beliefs, opinions)?
+
+Topic for another essay. Ideally it increases awareness and acceptance more than persecution. Knowing more about each other will likely reduce conflict, not increase it. Sources and resolutions of conflict will certainly be much clearer.
+
+# 5. Will this decrease diversity?
 
 It may. It may not. Either way, it will be worth it.
 
 We currently lack societies with exceptional abundances of sharing. Those societies are technologically and sociologically difficult to build for the first time. If we end up lacking societies where there is little sharing, it would not be as hard to recreate them for the sake of diversity.
 
-# 5. What happens when strong generalized AI comes into existence?
+# 6. What happens when strong generalized AI comes into existence?
 
 With access to more information about humanity, it will be able to understand humanity better. Hopefully our continued freedom and existence would be in line with its goals. 

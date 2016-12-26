@@ -3,72 +3,70 @@ layout: post
 title: Privacy is a tragedy of the commons
 date: '2016-12-22T15:22:00.001-05:00'
 author: Douglas Hindson
-tags: 
+tags: privacy
 modified_time: '2016-12-22T15:22:00.001-05:00'
 ---
 
 WORK IN PROGRESS - DON'T SHARE YET
 
-# Thesis
+# Summary
 
-* We have been, are now, and will continue sharing more and more information we have privileged access to.
-* With equal access to shared information, this is a good thing
+* We will continue sharing more and more information we have privileged access to.
+* With some conditions, this is a good thing:
+  * The information is as accessible to as many individuals as possible.
+  * Individuals and organizations share privileged information equally.
+* We should encourage sharing information. In particular, we should ask organizations with power over us to share more.
 
 # Not sharing
 
 We want to move humanity forward.
 
-More individuals with higher ability means a better/faster developing humanity.
+More individuals and organizations with higher ability means humanity develops more productively.
 
-Ability of individuals is influenced by what information is available to them and their capacity to process it.
+Ability of individuals and organizations is influenced by what information is available to them and their capacity to process it.
 
-Available information (and therefore individual ability) is reduced when others don't share information. There are three important ways information is not shared in our world right now:
+Available information (and therefore ability) is reduced when others do not share information. There are three relevant ways information is not shared in our world right now:
 
 ## 1. Individual privacy
 
-This is your privacy that you hear about in the news. It means reducing the amount of information other individuals/organizations know about you. In the news, individual privacy has good connotations.
+This is your privacy that you hear about in the news today. It means reducing the amount of information other individuals/organizations know about you. In the news today, individual privacy has good connotations.
 
-## 2. Privacy of organizations and not sharing information they have access to
+## 2. Privacy of organizations and not sharing information they control
 
-You don't hear about this kind of not sharing in the news. If you do, it's often how information was shared without their consent. It means not sharing information the organization has privileged access to.
+You don't hear about this kind of not sharing in the news. If you do, it's often how information was shared without their consent. It means not sharing information the organization has privileged access to. This information could be data intentionally/unintentionally collected over time, institutional knowledge, trade secrets, etc.
 
-Really, 1 & 2 are the same thing, but individuals have so little information of value that others want, with the exception of information uniquely about them (personal information).
+Really, 1 & 2 are the same, but individuals have so little information of value that others want (with the exception of personal information).
 
 ## 3. Inability to share
 
-There are some technology and cost limitations on information we share. It's hard to share information from the North Pole and it would be unreasonable to have petabytes of weather data available for individual processing. As technology improves, ability to share is increasing.
+There are technology and cost limitations on information we share. It's hard to share information from the North Pole and it would be unreasonable to have petabytes of weather data available for individual processing. As technology improves, ability to share is increasing.
 
 # Information inequality
 
-Information inequality means for some context, useful information available to one individual is much less than the information available to another. The individual with more information will have greater ability (available information x processing power), which often translates to greater power.
+Information inequality means for some context, useful information available to one is much less than the information available to another. The one with more information will have greater ability (available information x processing power), which often translates to greater power in that context.
 
-Information inequality means that sharing information has a cost. Sharing information benefits everyone else, giving others ability and power to others, without immediately gaining any yourself. It's a tragedy of the commons - we all have the ability to give others great value with little effort, but giving that value also gives others power (informational prowess) over us.
+Information inequality means that sharing information has a cost. Sharing information benefits everyone else, giving others ability and power to others, without inherently gaining any yourself. There are situations where sharing information benefits you, but it's because you're getting something in exchange for sharing that information rather than inherently benefitting from sharing - often services or social capital. Not sharing is a tragedy of the commons - we all have the ability to give others value with little effort, but giving that value also gives others power (informational prowess) over us. If everyone shared perfectly, everyone would gain incredible value.
 
-Organizations face those costs when sharing. To share information of value they hold on to - it would give others (including their competitors) power over them. Also, organizations currently have little incentive to share that massive amount of information they have. Individuals share information because the benefits are greater than the costs them - getting access to services or making the services they use more powerful is worth the power those services obtain over the individual.
+Organizations face those costs when sharing. To share information of value they hold on to - it would give others (including their competitors) power over them. In today's world, organizations have little incentive to share that massive amount of information they control. Individuals share information because the benefits are greater than the costs - getting access to services or making the services they use more useful is worth the power the organizations controlling those services obtain over the individual.
 
-# Gradual increase in sharing
+# Gradual increases in sharing
 
-If I shared all the information I have the ability to share about myself - my personal history, salary, bank details, passwords... I would be at the mercy of everyone I shared that information with. Individuals and companies may be able to use that information in a positive and productive way - finding that they should be asking for more/less at their job or knowing my locational history from my phone over the last two years. Someone out there would inevitably take advantage of that mercy and steal my valuables.
+If you shared all the information you have the ability to share about yourself - your personal history, salary, bank details, passwords... You would be at the mercy of everyone you shared that information with. Some individuals and companies may be able to use that information in a positive and productive way. Some bogeyman would inevitably take advantage of that mercy and use that information to steal or extort from you.
 
 BUT
 
-If everyone gradually shared more and more about themselves (not the same thing over time, but more % of the 100% of information one has privileged access to), the power others wield over you would not be so big.
+If everyone gradually shared more and more about themselves, the intermediary changes in power would not be so big ("sharing more" meaning not the same thing shared over time, but more % of the 100% of information one has privileged access to).
 
 The reflex you should have is not, 
-"I must make an effort to share less about myself so I don't get screwed over by some bogeyman." 
+"I must share less about myself so I don't get screwed over by some bogeyman." 
 It should be, 
-"I must know as much as possible about all the bogeymen." 
+"We must know as much as possible about everyone, and make sure that bogeymen also share." 
 
-Make everyone share as much as possible about themselves. Leave no stone unturned nor organization unexposed. The organizations with most power over you should be the first you ask to share. Hacking them to reveal their information, or sharing without permission, is a militant (often illegal) approach, so the real change will be achieved by individuals inside organizations due to the increasing pressure to share information.
-
-If powerful individuals / organizations gradually share more (not the same information over time, but a linear increase in % of the 100% of information they have privileged access to) in lock-step with each other, they also will not yield power to each other. This will happen gradually as sharing attitudes open up, but laws and movements could expediate the change.
-
-# We're experiencing a gradual increase in sharing
-
-You may be more and more aware of what you share, but it's likely that with every year that has passed since your birth, you have shared more of the 100% of information you have privileged access to. That's because information technology has and is developing, and information technology enables information collection and sharing.
+You may be getting more aware and cautious of what you share, but it's likely that with every year that has passed since your birth, you have shared more % of the 100% of information you have privileged access to. That's because information technology is developing, and better information technology enables better information collection and sharing.
 
 < statistics / graphs about increases in sharing>
 < historical context about how privacy is unnatural>
+< moore's law-esque thing about how sharing will continue to increase>
 
 And there's much more technological progress we have yet to experience in information collection and sharing:
 
@@ -77,19 +75,25 @@ And there's much more technological progress we have yet to experience in inform
 * The state of all the tissues in your body
 * What everyone is thinking
 
-Sharing these things seems scary, but if EVERYONE shared, it wouldn't be as scary. Others wouldn't have power over you because if they're sharing too, the information inequality won't be there.
+Sharing these things seems scary, but if *everyone* shares, it won't be scary. Others won't have power over you, as long as they're sharing too.
 
-# Systems and a perfect world
+# Call to action
 
-In a perfect world, everyone would always have the ability to know anything about anything.  (that is possible to know - the answer to life, the universe, and everything may be 42 or it may be hazy).
+The entire "information sharing is increasing and it benefits humanity" phenomenon is happening and it will inevitably continue to trudge on. Too many individuals are interested in progressing hamanity for a few to make it to regress.
 
-A system/society that could get us there is one where in order to participate, one must continually share everything one is capable of sharing and has privileged access to.
+Encourage individuals to share in a way that benefits everyone else and doesn't yield too much power to others. Wantonly ceasing from sharing information can be harmful to society, but can also can be used to make organizations share more. 
 
-A toned-down version could be that one slowly shares more and more to participate.
+Encourage every organization to gradually share as much privileged information as possible. Let no organization hide. The organizations with the most power over you should be the first you ask to share. Ask them to share in a way that makes them have less power over you. Hacking organizations to reveal the information they control or sharing without permission is a militant (often illegal) approach. Much of the real change will be achieved by individuals inside organizations feeling increasing societal and economic pressures to share information. Laws could expedite organizations sharing information.
 
-Another toned-down version could be that there are tiers of participation. In order to access some tier of information, one must share privileged information in accordance to the that tier's requirements. (ex: to everyone else's locational history, you have to share yours)
+Build and use systems where sharing information benefits everyone, causes the sharer to yield little power to others, and doesn't privately consolidate the information within organizations.
 
-The difficulty with toned-down versions is one can extract information from the system and share it with non-participants.
+*Note 1*: This does not reflect the views of my employer or any organizations I'm involved with.
+*Note 2*: This perspective originally came and progressed ~7 years ago from an (obviously flawed) idea of a private social network where one must share everything to participate.
 
+# Related
 
-Note: This does not reflect the views of my employer or any organizations I'm involved with.
+[Counter-arguments]()
+[Perfect information systems and societies]()
+
+# References
+

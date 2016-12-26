@@ -19,7 +19,7 @@ This is reducible to #2 (information processing power).
 
 # 4. Will sharing more cause more persecution and conflict (in race, beliefs, opinions)?
 
-Topic for another essay. Ideally it increases awareness and acceptance more than persecution. Knowing more about each other will likely reduce conflict, not increase it. Sources and resolutions of conflict will certainly be much clearer.
+Topic for another essay. Ideally it increases awareness and acceptance more than persecution. Knowing more about each other will likely reduce conflict, not increase it. Sources and resolutions of conflict will certainly be much clearer. If the answer to this question is *"no"*, *"don't know"*, or *"a bit"*, it's probably acceptable, given the benefits of increasing sharing. 
 
 # 5. Will this decrease diversity?
 

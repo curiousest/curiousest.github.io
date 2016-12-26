@@ -9,8 +9,8 @@ title: Douglas' Blog
 {% if post.tags contains "favourite" %}
 	<li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
 {% endif %}
-</ul>
 {% endfor %}
+</ul>
 <h2>All Posts</h2>
 <ul class="posts">
 {% for post in site.posts %}

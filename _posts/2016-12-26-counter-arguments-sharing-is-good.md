@@ -20,3 +20,7 @@ This is reducible to #2 (information processing power).
 It may. It may not. Either way, it will be worth it.
 
 We currently lack societies with exceptional abundances of sharing. Those societies are technologically and sociologically difficult to build for the first time. If we end up lacking societies where there is little sharing, it would not be as hard to recreate them for the sake of diversity.
+
+# 5. What happens when strong generalized AI comes into existence?
+
+With access to more information about humanity, it will be able to understand humanity better. Hopefully our continued freedom and existence would be in line with its goals. 

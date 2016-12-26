@@ -64,9 +64,9 @@ It should be,
 
 You may be getting more aware and cautious of what you share, but it's likely that with every year that has passed since your birth, you have shared more % of the 100% of information you have privileged access to. That's because information technology is developing, and better information technology enables better information collection and sharing.
 
-< statistics / graphs about increases in sharing>
-< historical context about how privacy is unnatural>
-< moore's law-esque thing about how sharing will continue to increase>
+* < INSERT statistics / graphs about increases in sharing>
+* < INSERT historical context about how privacy is unnatural>
+* < INSERT moore's law-esque thing about how sharing will continue to increase>
 
 And there's much more technological progress we have yet to experience in information collection and sharing:
 

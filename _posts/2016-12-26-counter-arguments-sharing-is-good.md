@@ -9,7 +9,7 @@ modified_time: '2016-12-26T12:52:00.001-05:00'
 
 # 1. In the distant future, what about X?
 
-The distant future is worth considering, but society and technology will be so different in so many unforseeable ways, that most conclusions drawn about the distant future will be incorrect. For this reason, thought experiments like [Big Brother](https://en.wikipedia.org/wiki/Big_Brother_(Nineteen_Eighty-Four)) are useful to influence, but not determine actions that we take in the near future.
+The [distant future](https://en.wikipedia.org/wiki/Futures_studies) is worth considering, but society and technology will be so different in so many unforseeable ways that most conclusions drawn about the distant future will be incorrect. For this reason, thought experiments, literary like [Big Brother](https://en.wikipedia.org/wiki/Big_Brother_(Nineteen_Eighty-Four)) or otherwise, are useful to influence, but not determine actions that we take in the near future.
 
 # 2. Information processing power
 

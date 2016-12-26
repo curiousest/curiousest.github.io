@@ -25,7 +25,7 @@ If the answer to this question is *"no"*, *"don't know"*, or *"a bit"*, it's pro
 
 ## 5. Will this decrease diversity?
 
-It may. It may not. Either way, it will be worth it.
+It may decrease diversity a little. It may increase diversity. Either way, it will be worth it.
 
 We currently lack societies with exceptional abundances of sharing. Those societies are technologically and sociologically difficult to build for the first time. If we end up lacking societies where there is little sharing, it would not be as hard to recreate them for the sake of diversity. Hopefully, because of this kind of society/technology, we'll have a record of anything that ceases to exist.
 

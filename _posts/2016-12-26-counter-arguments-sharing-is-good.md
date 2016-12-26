@@ -17,7 +17,7 @@ The [distant future](https://en.wikipedia.org/wiki/Futures_studies) is worth con
 
 This is reducible to #2 (information processing power).
 
-# 4. Will sharing more cause more persecution (of minorities in race, beliefs, opinions)?
+# 4. Will sharing more cause more persecution and conflict (in race, beliefs, opinions)?
 
 Topic for another essay. Ideally it increases awareness and acceptance more than persecution. Knowing more about each other will likely reduce conflict, not increase it. Sources and resolutions of conflict will certainly be much clearer.
 

@@ -3,7 +3,9 @@ layout: post
 title: Privacy is a tragedy of the commons
 date: '2016-12-22T15:22:00.001-05:00'
 author: Douglas Hindson
-tags: privacy
+tags: 
+ - privacy
+ - favourite
 modified_time: '2016-12-22T15:22:00.001-05:00'
 ---
 

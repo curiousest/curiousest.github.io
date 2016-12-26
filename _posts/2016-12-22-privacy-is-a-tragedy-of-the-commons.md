@@ -79,7 +79,7 @@ Sharing these things seems scary, but if *everyone* shares, it won't be scary. O
 
 # Call to action
 
-The entire *information sharing is increasing and it benefits humanity* phenomenon is happening and it will inevitably continue to trudge on. Too many individuals are interested in progressing hamanity for a few to make it to regress.
+The whole *"information sharing is increasing and it benefits humanity"* phenomenon is happening and it will inevitably continue to trudge on. Too many individuals are interested in progressing hamanity for a few to make it to regress.
 
 Encourage individuals to share in a way that benefits everyone else and doesn't yield too much power to others. Wantonly ceasing from sharing information can be harmful to society, but can also can be used to make organizations share more. 
 

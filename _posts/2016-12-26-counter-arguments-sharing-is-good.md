@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Counter-arguments: Sharing information is good
+title: Counter-arguments, Sharing information is good
 date: '2016-12-26T11:52:00.001-05:00'
 author: Douglas Hindson
 tags: privacy

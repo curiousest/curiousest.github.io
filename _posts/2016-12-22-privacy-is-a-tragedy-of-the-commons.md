@@ -79,7 +79,7 @@ Sharing these things seems scary, but if *everyone* shares, it won't be scary. O
 
 # Call to action
 
-The entire "information sharing is increasing and it benefits humanity" phenomenon is happening and it will inevitably continue to trudge on. Too many individuals are interested in progressing hamanity for a few to make it to regress.
+The entire *information sharing is increasing and it benefits humanity* phenomenon is happening and it will inevitably continue to trudge on. Too many individuals are interested in progressing hamanity for a few to make it to regress.
 
 Encourage individuals to share in a way that benefits everyone else and doesn't yield too much power to others. Wantonly ceasing from sharing information can be harmful to society, but can also can be used to make organizations share more. 
 
@@ -87,13 +87,14 @@ Encourage every organization to gradually share as much privileged information a
 
 Build and use systems where sharing information benefits everyone, causes the sharer to yield little power to others, and doesn't privately consolidate the information within organizations.
 
-*Note 1*: This does not reflect the views of my employer or any organizations I'm involved with.
-*Note 2*: This perspective originally came and progressed ~7 years ago from an (obviously flawed) idea of a private social network where one must share everything to participate.
+**Note 1**: This does not reflect the views of my employer or any organizations I'm involved with.
+
+**Note 2**: This perspective originally came and progressed ~7 years ago from an (obviously flawed) idea of a private social network where one must share everything to participate.
 
 # Related
 
-[Counter-arguments](http://www.curiousest.com/2016/12/26/counter-arguments-sharing-is-good.html)
-[Perfect information systems and societies](http://www.curiousest.com/2016/12/26/perfect-information-systems-and-societies.html)
+* [Counter-arguments](http://www.curiousest.com/2016/12/26/counter-arguments-sharing-is-good.html)
+* [Perfect information systems and societies](http://www.curiousest.com/2016/12/26/perfect-information-systems-and-societies.html)
 
 # References
 

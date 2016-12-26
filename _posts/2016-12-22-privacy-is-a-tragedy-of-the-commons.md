@@ -57,10 +57,13 @@ BUT
 
 If everyone gradually shared more and more about themselves, the intermediary changes in power would not be so big ("sharing more" meaning not the same thing shared over time, but more % of the 100% of information one has privileged access to).
 
-The reflex you should have is not, 
-"I must share less about myself so I don't get screwed over by some bogeyman." 
+The reflex you should have is not,
+
+*"I must share less about myself so I don't get screwed over by some bogeyman."*
+
 It should be, 
-"We must know as much as possible about everyone, and make sure that bogeymen also share." 
+
+*"We must know as much as possible about everyone, and make sure that bogeymen also share."*
 
 You may be getting more aware and cautious of what you share, but it's likely that with every year that has passed since your birth, you have shared more % of the 100% of information you have privileged access to. That's because information technology is developing, and better information technology enables better information collection and sharing.
 

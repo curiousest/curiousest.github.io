@@ -92,8 +92,8 @@ Build and use systems where sharing information benefits everyone, causes the sh
 
 # Related
 
-[Counter-arguments]()
-[Perfect information systems and societies]()
+[Counter-arguments](http://www.curiousest.com/2016/12/26/counter-arguments-sharing-is-good.html)
+[Perfect information systems and societies](http://www.curiousest.com/2016/12/26/perfect-information-systems-and-societies.html)
 
 # References
 

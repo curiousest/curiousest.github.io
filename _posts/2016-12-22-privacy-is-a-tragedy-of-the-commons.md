@@ -57,7 +57,9 @@ When others have *power over you*, it isn't always a bad thing. Most governments
 
 The cost of giving your personal information to companies in exchange for services is that they potentially use or sell that information in ways that harm you.
 
-The cost of a publicly traded company having to share their revenues, expenses, and profits is that private ones have a better idea whether competing is worth it. 
+The cost of a publicly traded company having to share their revenues, expenses, and profits is that private ones have a better idea whether competing is worth it.
+
+# Tradegy of the commons
 
 Information inequality means that sharing information has a cost. Sharing information benefits everyone else, giving ability and power to others, without inherently gaining any yourself. There are situations where sharing information benefits you, but it's because you're getting something in exchange for sharing that information rather than directly benefitting from sharing - often services, money, or social capital. Not sharing is a *tragedy of the commons* - we have the ability to give others value with little effort, but we then yield power to others (via informational prowess). If everyone shared perfectly, everyone would gain much more value than it would cost them.
 

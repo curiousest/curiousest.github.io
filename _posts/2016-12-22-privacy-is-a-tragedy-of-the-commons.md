@@ -23,7 +23,9 @@ WORK IN PROGRESS - DON'T SHARE YET
 
 **insert warm, personal introduction here**
 
-The ability of individuals and organizations is dependent on what information is available to them and their means to process and use it. When others do not share information, everyone's ability is reduced. Here are three ways information is not shared right now:
+The ability of individuals and organizations is dependent on what information is available to them and their means to process and use it. When others do not share information, everyone's ability is reduced. 
+
+Here are three ways information is not shared right now:
 
 ## 1. Privacy of individuals
 

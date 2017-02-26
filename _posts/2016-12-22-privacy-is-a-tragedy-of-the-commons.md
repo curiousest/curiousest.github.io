@@ -27,6 +27,8 @@ The ability of individuals and organizations is dependent on what information is
 
 Here are three ways information is not shared right now:
 
+**Talk about information "about" vs. "collected by" instead of individual vs org?**
+
 ## 1. Privacy of individuals
 
 This is the privacy that you hear about in the news today - your privacy. Your privacy reduces the amount of information other individuals/organizations know about you. In the news today, individual privacy has good connotations. These good connotations are curious, considering privacy is a selfish act, but they're well-deserved.

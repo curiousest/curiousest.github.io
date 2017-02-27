@@ -19,11 +19,43 @@ WORK IN PROGRESS - DON'T SHARE YET
   * Individuals and organizations share privileged information equally.
 * We should encourage sharing information. In particular, we should ask organizations with power over us to share more.
 
-# Not sharing
+# The information we can share
+
+**The individual**: one person.
+
+**The organization**: an entity that isn't *an individual*, but can claim ownership over information. Ex: a company, a country, a non-profit organization, a government organization, or even an informal fraternity. 
+
+**Personal information**: information *about* the particular individual or organization. Personal information can exist without anyone having access to it. Ex: date of birth, bank records, projected revenues, current locations of constituents.
+
+**Other information**: personal information about others or how the universe works. Ex: the average age of Americans, the formula for coca cola, industry best-practices, customer data, research papers.
+
+**insert picture here**
+
+# The information we share
 
 **insert warm, personal introduction here**
 
 The ability of individuals and organizations is dependent on what information is available to them and their means to process and use it. When others do not share information, everyone's ability is reduced. 
+
+Here are the ways information is shared:
+
+## 1. Personal information shared by law
+
+## 2. Personal information shared by choice
+
+## 3. Other information shared by law
+
+## 4. Other information shared by choice
+
+Here are the reasons information is not shared:
+
+## 1. By choice
+
+## 2. Inability to share
+
+## 3. Inability to collect the information in the first place
+
+
 
 Here are three ways information is not shared right now:
 
@@ -61,7 +93,7 @@ The cost of a publicly traded company having to share their revenues, expenses, 
 
 # Tradegy of the commons
 
-Information inequality means that sharing information has a cost. Sharing information benefits everyone else, giving ability and power to others, without inherently gaining any yourself. There are situations where sharing information benefits you, but it's because you're getting something in exchange for sharing that information rather than directly benefitting from sharing - often services, money, or social capital. Not sharing is a *tragedy of the commons* - we have the ability to give others value with little effort, but we then yield power to others (via informational prowess). If everyone shared perfectly, everyone would gain much more value than it would cost them.
+Information inequality means that sharing information has a cost. Sharing information benefits everyone else, giving ability and power to others, without inherently gaining any yourself. There are situations where sharing information benefits you, but it's because you're getting something in exchange for sharing that information rather than directly benefitting from sharing - often services, money, or social capital. Not sharing is a [*tragedy of the commons*](https://en.wikipedia.org/wiki/Tragedy_of_the_commons) - we have the ability to give others value with little effort, but we then yield power to others (via informational prowess). If everyone shared perfectly, everyone would gain much more value than it would cost them.
 
 Both collected and personal information are valuable, but organizations hoard more value to the general public in their collected data. If organizations shared their valuable collected information, it would give their current or future competitors power over them. In today's world, organizations have little incentive to share the stores of valuable information they control. In contrast, individuals sharing personal information is common because the benefits seem greater than the costs - the services exchanged are worth the incremental power transfer.
 

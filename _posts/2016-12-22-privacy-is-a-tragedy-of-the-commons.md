@@ -49,7 +49,7 @@ Here are the ways information is shared:
   * Examples are limited: Knowledge of others breaking the law, government demands for tech companies' customer data
 * **Other information shared by contract**
   * Ex: Management consultants, paid APIs, Forrester reports, etc.
-* **Other information shared by choice**
+* **Other information shared freely**
   * Ex: data within (Data.gov)[https://en.wikipedia.org/wiki/Data.gov] and (Data.gov.uk)[https://en.wikipedia.org/wiki/Data.gov.uk], research datasets, Wikipedia, torrenting, maps and meteorological data, free APIs, etc.
 
 Here are the reasons information is not shared:

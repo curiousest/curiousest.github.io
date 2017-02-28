@@ -40,17 +40,32 @@ The ability of individuals and organizations is dependent on what information is
 Here are the ways information is shared:
 
 * **Personal information shared by law**
-  * Ex: census data, for banking - address, name, and date of birth, for borrowing - financial history, etc.
+  * census data
+  * for banking - address, name, and date of birth
+  * for borrowing - financial history
 * **Personal information shared by contract**
-  * Ex: email address for online services, references and job history for job applications, comprehensive performance data for mergers and acquisitions, etc.
+  * email address for online services
+  * references and job history for job applications
+  * comprehensive performance data for mergers and acquisitions
 * **Personal information shared freely**
-  * Ex: personal photos and videos, personal blog/microblogging posts, data within (Data.gov)[https://en.wikipedia.org/wiki/Data.gov] and (Data.gov.uk)[https://en.wikipedia.org/wiki/Data.gov.uk]
+  * personal photos and videos
+  * personal blog/microblogging posts
+  * data within (Data.gov)[https://en.wikipedia.org/wiki/Data.gov] and (Data.gov.uk)[https://en.wikipedia.org/wiki/Data.gov.uk]
 * **Other information shared by law**
-  * Examples are limited: Knowledge of others breaking the law, government demands for tech companies' customer data
+  * Examples are limited
+  * Knowledge of others breaking the law
+  * government demands for tech companies' customer data
 * **Other information shared by contract**
-  * Ex: Management consultants, paid APIs, Forrester reports, etc.
+  * Management consultants
+  * paid APIs
+  * Forrester reports
 * **Other information shared freely**
-  * Ex: data within (Data.gov)[https://en.wikipedia.org/wiki/Data.gov] and (Data.gov.uk)[https://en.wikipedia.org/wiki/Data.gov.uk], research datasets, Wikipedia, torrenting, maps and meteorological data, free APIs, etc.
+  * Data within (Data.gov)[https://en.wikipedia.org/wiki/Data.gov] and (Data.gov.uk)[https://en.wikipedia.org/wiki/Data.gov.uk]
+  * research datasets
+  * Wikipedia
+  * torrenting
+  * maps and meteorological data
+  * free APIs
 
 Here are the reasons information is not shared:
 

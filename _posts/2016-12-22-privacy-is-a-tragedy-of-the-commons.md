@@ -23,11 +23,11 @@ WORK IN PROGRESS - DON'T SHARE YET
 
 **The individual**: one person.
 
-**The organization**: an entity that isn't *an individual*, but can claim ownership over information. Ex: a company, a country, a non-profit organization, a government organization, or even an informal fraternity. 
+**The organization**: an entity that is not *an individual*, but can own information. Ex: a company, a country, a non-profit organization, a government organization, or even an informal fraternity. 
 
 **Personal information**: information *about* the particular individual or organization. Personal information can exist without anyone having access to it. Ex: date of birth, bank records, projected revenues, current locations of constituents.
 
-**Other information**: personal information about others or how the universe works. Ex: the average age of Americans, the formula for coca cola, industry best-practices, customer data, research papers.
+**Other information**: personal information about others or how the universe works. Ex: the average age of Americans, the formula for coca cola, industry best-practices, customer data, research papers, the weather.
 
 **insert picture here**
 
@@ -39,47 +39,27 @@ The ability of individuals and organizations is dependent on what information is
 
 Here are the ways information is shared:
 
-## 1. Personal information shared by law
-
-## 2. Personal information shared by choice
-
-## 3. Other information shared by law
-
-## 4. Other information shared by choice
+* **Personal information shared by law**
+  * Ex: census data, for banking - address, name, and date of birth, for borrowing - financial history, etc.
+* **Personal information shared by contract**
+  * Ex: email address for online services, references and job history for job applications, comprehensive performance data for mergers and acquisitions, etc.
+* **Personal information shared freely**
+  * Ex: personal photos and videos, personal blog/microblogging posts, data within (Data.gov)[https://en.wikipedia.org/wiki/Data.gov] and (Data.gov.uk)[https://en.wikipedia.org/wiki/Data.gov.uk]
+* **Other information shared by law**
+  * Examples are limited: Knowledge of others breaking the law, government demands for tech companies' customer data
+* **Other information shared by contract**
+  * Ex: Management consultants, paid APIs, Forrester reports, etc.
+* **Other information shared by choice**
+  * Ex: data within (Data.gov)[https://en.wikipedia.org/wiki/Data.gov] and (Data.gov.uk)[https://en.wikipedia.org/wiki/Data.gov.uk], research datasets, Wikipedia, torrenting, maps and meteorological data, free APIs, etc.
 
 Here are the reasons information is not shared:
 
-## 1. By choice
+* By choice
+* Inability to share
+* Inability to collect the information in the first place
 
-## 2. Inability to share
+<sub>Aside: imagine a world where all collected *"other information"* is always shared, but there are complex societal rules about what information may be collected.</sub>
 
-## 3. Inability to collect the information in the first place
-
-
-
-Here are three ways information is not shared right now:
-
-**Talk about information "about" vs. "collected by" instead of individual vs org?**
-
-## 1. Privacy of individuals
-
-This is the privacy that you hear about in the news today - your privacy. Your privacy reduces the amount of information other individuals/organizations know about you. In the news today, individual privacy has good connotations. These good connotations are curious, considering privacy is a selfish act, but they're well-deserved.
-
-## 2. Privacy of organizations and not sharing information they control
-
-Companies aren't incentivised to share, so they generally don't. The rare news articles about companies sharing information are about how information was shared without the organization's consent. Organizations have vast troves of information, and that data is valuable. This information could be data intentionally/unintentionally collected over time, institutional knowledge, trade secrets, etc.
-
-Information about individuals and organizations are similar, but have a few key differences:
-
-* Information *about* individuals is most valuable to others
-* Information *collected by* organizations is most valuable to others
-* The information that must be made public about individuals vs. organizations is different
-
-<sub>Aside: imagine a world where all collected information is always shared, and there are complex societal rules about what information is collected.</sub>
-
-## 3. Inability to share
-
-There are technological and cost limitations on the information we share. It's hard to share information from across the universe and we can't process petabytes of weather data on our personal computers. As technology improves, so does our ability to share.
 
 # Information inequality
 

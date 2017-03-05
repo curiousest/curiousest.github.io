@@ -24,9 +24,9 @@ WORK IN PROGRESS - DON'T SHARE YET
   * Through information inequality
 * Too much information inequality is expensive
 * Not sharing is a tradegy of the commons
-* Gradual increases in sharing counteracts the tragedy
+* Hypothesis: Gradual increases in sharing counteracts the tragedy
   * Without introducing information inequalities
-* Gradual increases in sharing are inevitable
+* Hypothesis: Gradual increases in sharing are inevitable
 * We should still solve the tragedy by other means
 
 # We share different kinds of information
@@ -40,6 +40,11 @@ WORK IN PROGRESS - DON'T SHARE YET
 **Other information**: personal information about others or how the universe works. Ex: the average age of Americans, the formula for coca cola, industry best-practices, customer data, research papers, the weather.
 
 **insert picture here**
+
+* Individual x Personal: valuable
+* Individual x Other: not much of it
+* Organization x Personal: valuable
+* Organization x Other: lots and lots of it, very valuable, rarely shared
 
 # We share information for different reasons
 
@@ -85,7 +90,7 @@ Here are the reasons information is not shared:
 
 <sub>Aside: imagine a world where all collected *"other information"* is always shared, but there are complex societal rules about what information may be collected.</sub>
 
-# Sharing gives value to others
+# Sharing gives value to others (not_finished)
 
 asdf
 
@@ -95,37 +100,43 @@ Information inequality means useful information available to one is much less th
 
 When others have *power over you*, it isn't always a bad thing. Most governments have a great deal of power over their citizens and hopefully most of their citizens believe that's a good thing. However, trusting those with power over you is an expensive thing. Given the choice between another having power over you or not, with no other considerations, you should choose *not*, because the other can abuse their power to their gain and your loss. The cost of yielding power to others is the risk that they potentially abuse their power. 
 
-The cost of giving your personal information to companies in exchange for services is that they potentially use or sell that information in ways that harm you.
+Ex: The cost of giving your personal information to companies in exchange for services is that they potentially use or sell that information in ways that harm you.
 
-The cost of a publicly traded company having to share their revenues, expenses, and profits is that private ones have a better idea whether competing is worth it.
+Ex: The cost of a publicly traded company having to share their revenues, expenses, and profits is that private ones have a better idea whether competing is worth it.
 
-# Too much information inequality is expensive
+# Too much information inequality is expensive (not_finished)
 
-asdf
+Trusting others not to use your personal information to your detriment is a costly risk...
 
 # Not sharing is a tradegy of the commons
 
-Information inequality means that sharing information has a cost. Sharing information benefits everyone else, giving ability and power to others, without inherently gaining any yourself. There are situations where sharing information benefits you, but it's because you're getting something in exchange for sharing that information rather than directly benefitting from sharing - often services, money, or social capital. Not sharing is a [*tragedy of the commons*](https://en.wikipedia.org/wiki/Tragedy_of_the_commons) - we have the ability to give others value with little effort, but we then yield power to others (via informational prowess). If everyone shared perfectly, everyone would gain much more value than it would cost them.
+Information inequality means that sharing information has a cost. Sharing information benefits everyone else, giving ability and power to others, without inherently gaining any yourself. There are situations where sharing information benefits you, but it's because you're getting something in exchange for sharing that information rather than directly benefitting from sharing - often services, money, or social capital. Not sharing is a [*tragedy of the commons*](https://en.wikipedia.org/wiki/Tragedy_of_the_commons):
 
-Both collected and personal information are valuable, but organizations hoard more value to the general public in their collected data. If organizations shared their valuable collected information, it would give their current or future competitors power over them. In today's world, organizations have little incentive to share the stores of valuable information they control. In contrast, individuals sharing personal information is common because the benefits seem greater than the costs - the services exchanged are worth the incremental power transfer.
+> a situation within a shared-resource system where individual users acting independently according to their own self-interest behave contrary to the common good of all users by depleting or spoiling that resource through their collective action.
 
-# Gradual increases in sharing counteracts the tragedy
+If absolutely everyone shared as much as possible, it would significantly benefit everyone. Unfortunately, individuals and organizations acting in their own self-interest will generally choose not to share and the benefit is spoiled.
+
+# Hypothesis: Gradual increases in sharing counteracts the tragedy
 
 If you shared all your information you possibly could - your personal history, salary, bank details, passwords... You would be at the mercy of everyone. Some individuals and companies might use that information in a positive and productive way. Some bogeyman would inevitably take advantage of that power to steal or extort from you.
 
 BUT
 
-If everyone gradually shared more and more about themselves, the intermediary changes in power would not be so big ("sharing more" meaning more % of the 100% of information one has privileged access to, not the same thing shared over time).
+If everyone gradually shared more and more about themselves, the intermediary changes in power would not be so big ("sharing more" meaning more % of the 100% of information one has privileged access to, not the same thing shared over time). 
+
+Ex: if all individuals begin freely sharing their hair colour, the sharing ones don't yield much power to the non-sharing ones. Once everyone is sharing that information, individuals begin freely sharing their blood type. If the cycle of `begin sharing something > everyone shares that something > begin sharing something else` continues repeating for all kinds of information (both for individuals and organizations), everyone will have ended up sharing a great deal of information without yielding a great deal of power at any one point in time.
+
+It's important that the information continues to be shared, or power will be gained by those who stop sharing (and those who continue to share will experience the cost of giving others power). This can be induced by law, contract, or societal pressures.
 
 The reflex you should have is not,
 
-*"I must share less about myself so I don't get screwed over by some bogeyman."*
+*"I must share less about myself so I don't get harmed by some bogeyman."*
 
 It should be, 
 
-*"We must know as much as possible about everyone, and make sure that bogeymen also share."*
+*"I must gradually share more and more in lock-step with everyone, and make sure that bogeymen also share."*
 
-# Gradual increases in sharing are inevitable
+# Hypothesis: Gradual increases in sharing are inevitable (not_finished)
 
 You may be getting more aware and cautious of what you share, but it's likely that with every year that has passed since your birth, you have shared more of that 100%. That's because information technology is developing, and better information technology enables better information collection and sharing.
 
@@ -142,15 +153,23 @@ And there's much more technological progress we have yet to experience in inform
 
 Sharing these things seems scary, but if *everyone* shares it won't be! Others won't have power over you, as long as they're sharing too.
 
-# We should still solve the tragedy by other means
+# We should still solve the tragedy by other means (not_finished)
 
-The whole *"information sharing is increasing and it benefits humanity"* phenomenon is happening and it will inevitably trudge on. Too many individuals are interested in progressing humanity for a few to make it to regress.
+The *"information sharing is increasing and it benefits humanity"* phenomenon is happening and it will inevitably trudge on.
 
-Encourage individuals to share in a way that benefits everyone else and doesn't yield too much power to others. Wantonly ceasing from sharing information can be harmful to society, but can also can be used to make organizations share more. 
+Still, we must take care that the amount of information each individual and organization shares is balanced, so that everyone minimizes the costly risk that others will use shared information to the sharer's detriment. In particular, organizations are hoarding large amounts of *[other information](#we-share-different-kinds-of-information)*, and some of it is personal information [citation needed]. They aren't sharing information to counteract the power they are gaining over others [citation needed]. That means the individual and organizations making the world a better place by sharing personal information are suffering the costly risk that the hoarding organizations will use that personal information to the sharers' detriment.
 
-Encourage every organization to gradually share as much privileged information as possible. Let no organization hide. The organizations with the most power over you should be the first you ask to share. Ask them to share in a way that makes them have less power over you. Hacking organizations to reveal the information they control or sharing without permission is a militant (often illegal) approach. Much of the real change will be achieved by individuals inside organizations feeling increasing societal and economic pressures to share information. Laws could expedite organizations sharing information.
+We must also design systems and societies to encourage sharing information while keeping a balance of yielding power to others. Freely shared information benefits everyone more than information shared by law, which benefits everyone more than information shared by contract, which benefits everyone more than not sharing information.
 
-Build and use systems where sharing information benefits everyone, causes the sharer to yield little power to others, and doesn't privately consolidate the information within organizations.
+Here are some ways systems and societies can encourage sharing information:
+
+* In order to access shared information, you must share information yourself
+* Types of *other information* must be shared by law
+* Everyone knows what personal information about them is shared and who has access to it
+* Anyone can retract shared personal information that others have access to
+* Individuals / Organizations with too much information-based power must share until that power is balanced (or powerless individuals / organizations gain information-based power until that power is balanced)
+* Information can't be extracted from the system / society
+* Increase the value exchanged for information shared by contract
 
 **Note 1**: This does not reflect the views of my employer or any organizations I'm involved with.
 

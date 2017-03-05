@@ -54,6 +54,8 @@ The ability of individuals and organizations is dependent on what information is
 
 Here are the ways information is shared:
 
+**turn this into a picture**
+
 * **Personal information shared by law**
   * census data
   * for banking - address, name, and date of birth
@@ -88,8 +90,6 @@ Here are the reasons information is not shared:
 * Inability to share
 * Inability to collect the information in the first place
 
-<sub>Aside: imagine a world where all collected *"other information"* is always shared, but there are complex societal rules about what information may be collected.</sub>
-
 # Sharing gives value to others (not_finished)
 
 asdf
@@ -112,9 +112,9 @@ Trusting others not to use your personal information to your detriment is a cost
 
 Information inequality means that sharing information has a cost. Sharing information benefits everyone else, giving ability and power to others, without inherently gaining any yourself. There are situations where sharing information benefits you, but it's because you're getting something in exchange for sharing that information rather than directly benefitting from sharing - often services, money, or social capital. Not sharing is a [*tragedy of the commons*](https://en.wikipedia.org/wiki/Tragedy_of_the_commons):
 
-> a situation within a shared-resource system where individual users acting independently according to their own self-interest behave contrary to the common good of all users by depleting or spoiling that resource through their collective action.
+> *A situation within a shared-resource system where individual users acting independently according to their own self-interest behave contrary to the common good of all users by depleting or spoiling that resource through their collective action.*
 
-If absolutely everyone shared as much as possible, it would significantly benefit everyone. Unfortunately, individuals and organizations acting in their own self-interest will generally choose not to share and the benefit is spoiled.
+If absolutely everyone shared as much as possible, it would significantly benefit everyone. Unfortunately, individuals and organizations acting in their own self-interest will generally choose not to share and the benefit is spoiled. Also, when some indviduals or organizations obtain too much information-based power over others, those others will be scared into reducing the amount they share everywhere to reduce the risk of the powerful taking advantage of them. This means the informationally powerful cause a net detriment to everyone.  
 
 # Hypothesis: Gradual increases in sharing counteracts the tragedy
 
@@ -157,7 +157,7 @@ Sharing these things seems scary, but if *everyone* shares it won't be! Others w
 
 The *"information sharing is increasing and it benefits humanity"* phenomenon is happening and it will inevitably trudge on.
 
-Still, we must take care that the amount of information each individual and organization shares is balanced, so that everyone minimizes the costly risk that others will use shared information to the sharer's detriment. In particular, organizations are hoarding large amounts of *[other information](#we-share-different-kinds-of-information)*, and some of it is personal information [citation needed]. They aren't sharing information to counteract the power they are gaining over others [citation needed]. That means the individual and organizations making the world a better place by sharing personal information are suffering the costly risk that the hoarding organizations will use that personal information to the sharers' detriment.
+Still, we must take care that the amount of information each individual and organization shares is balanced, so that everyone minimizes the costly risk that others will use shared information to the sharer's detriment. In particular, organizations are hoarding large amounts of *[other information](#we-share-different-kinds-of-information)*, and some of it is personal information [citation needed]. Those organizations aren't sharing information to counteract the power they are gaining over others [citation needed]. That means the individual and organizations making the world a better place by sharing personal information are suffering the costly risk that the hoarding organizations will use that personal information to the sharers' detriment.
 
 We must also design systems and societies to encourage sharing information while keeping a balance of yielding power to others. Freely shared information benefits everyone more than information shared by law, which benefits everyone more than information shared by contract, which benefits everyone more than not sharing information.
 

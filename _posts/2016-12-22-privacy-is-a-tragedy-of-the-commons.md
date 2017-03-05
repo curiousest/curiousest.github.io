@@ -114,7 +114,7 @@ Information inequality means that sharing information has a cost. Sharing inform
 
 > *A situation within a shared-resource system where individual users acting independently according to their own self-interest behave contrary to the common good of all users by depleting or spoiling that resource through their collective action.*
 
-If absolutely everyone shared as much as possible, it would significantly benefit everyone. Unfortunately, individuals and organizations acting in their own self-interest will generally choose not to share and the benefit is spoiled. Also, when some indviduals or organizations obtain too much information-based power over others, those others will be scared into reducing the amount they share everywhere to reduce the risk of the powerful taking advantage of them. This means **the informationally powerful cause less information to be shared.**  
+If absolutely everyone shared as much as possible, it would significantly benefit everyone. Unfortunately, individuals and organizations acting in their own self-interest will generally choose not to share and the benefit is spoiled. Also, when some indviduals or organizations obtain too much information-based power over others, those others will be scared into reducing the amount they share everywhere to reduce the risk of the powerful taking advantage of them. This means **the informationally powerful, just by existing, cause less information to be shared.**  
 
 # Hypothesis: Gradual increases in sharing counteracts the tragedy
 

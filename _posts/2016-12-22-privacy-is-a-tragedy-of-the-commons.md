@@ -13,21 +13,7 @@ WORK IN PROGRESS - DON'T SHARE YET
 
 # Summary
 
-* We share different kinds of information
-  * Individual vs. organization
-  * Personal vs. other
-* We share information for different reasons
-  * Individual vs. organization
-  * Law vs. contract vs. freely
-* Sharing gives value to others
-* Sharing yields power to others
-  * Through information inequality
-* Too much information inequality is expensive
-* Not sharing is a tradegy of the commons
-* Hypothesis: Gradual increases in sharing counteracts the tragedy
-  * Without introducing information inequalities
-* Hypothesis: Gradual increases in sharing are inevitable
-* We should still solve the tragedy by other means
+We share different kinds of information and we share information for different reasons. Sharing gives value to others, but sharing also yields power to others through information inequalities. Too much information inequality is expensive, which means not sharing is a tradegy of the commons. Gradual increases in sharing counteracts the tragedy without introducing information inequalities, and gradual increases in sharing are inevitable. We should still solve the tragedy by other means.
 
 # We share different kinds of information
 

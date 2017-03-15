@@ -33,7 +33,7 @@ The dream dissolves...
 
 After a few moments, her REM cycle transitions out. Still sleepy, she stirs in the bed before beginning a new sleep cycle. I return to my own senses and consciousness, closing my eyes to join her.
 
-We are most 合适: mutually suitable. She's a banker that actually cares (and she's careful to hide it). I call her 冰后, a rough translation of Ice Empress, which aptly captures her elegance and demeanor. She's moving to London soon, and I don't know what I'm going to do. I won't find another so 合适. I tend to avoid even thinking about it.
+We are most 合适: mutually suitable. She's a banker that actually cares (and she's careful to hide it). I call her 冰后, a rough translation of Ice Empress, which aptly captures her elegance and demeanor. She's moving to London soon, and I don't know what I'm going to do. I won't find another so 合适. I discard that uncomfortable thought every time it seeps in, avoiding the inevitable.
 
 What would happen if we were living in the distant past? She wouldn't be able to enter my present or past minds to experience my thoughts secondhand. Those feelings can't be expressed with words or actions, so she would have to guess at how much I care. How would she know? I've never even said, "I love you."
 

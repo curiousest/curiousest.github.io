@@ -7,7 +7,7 @@ tags:
 modified_time: '2017-03-15T11:52:00.001-05:00'
 ---
 
-She's beside me, breathing gently. It's been just over 24 years since her body achieved consciousness, 757,383,396 seconds of thoughts recorded and every change in the state of her being publicly accessible. There are 813,457,106 seconds on record of me, but I know me.
+She's beside me, breathing gently. It's been just over 24 years since her body achieved consciousness, 757,383,396 seconds of thoughts recorded and every change in the state of her being publicly accessible. There are 813,457,106 seconds on record of me, but I know me. I've been reliving and reinterpreting my formative life experiences ever since I was old enough to learn how to.
 
 Since our first date not too many months ago, I've relived the recordings of most of her life's major events: family turbulence, risky career decisions, former relationships and still, I'm a far cry from knowing her as well as I know myself. Whenever we catch up on each other's day, I take a few extra minutes to review a little bit more of her past. It's slow progress, but I'm lucky to have found her as early as I did - I only have 742,436,803 seconds left to experience, digestible in a fraction of that time.
 

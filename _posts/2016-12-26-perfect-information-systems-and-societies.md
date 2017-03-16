@@ -7,6 +7,8 @@ tags: privacy
 modified_time: '2016-12-26T11:52:00.001-05:00'
 ---
 
+WORK IN PROGRESS
+
 In a perfect world, everyone would always have the ability to know anything about anything.  (that is possible to know - the answer to life, the universe, and everything may be 42 or it may be hazy).
 
 A system/society that could get us there is one where in order to participate, one must continually share everything one is capable of sharing and has privileged access to.

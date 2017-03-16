@@ -7,6 +7,8 @@ tags: DIY
 modified_time: '2017-03-13T11:52:00.001-05:00'
 ---
 
+WORK IN PROGRESS
+
 A year ago aI went on vacation and realized I had significant tension and pain in my shoulders and bcack. The pain was entirely attributable to my posture at my computer working all day. I decided that I would fix it. So be gan my desk journey...
 
 My first inspiration was seeing my scolleague @Oaten's split keyboard.

@@ -9,17 +9,19 @@ modified_time: '2017-03-13T11:52:00.001-05:00'
 
 WORK IN PROGRESS
 
-A year ago aI went on vacation and realized I had significant tension and pain in my shoulders and bcack. The pain was entirely attributable to my posture at my computer working all day. I decided that I would fix it. So be gan my desk journey...
+A year ago I went on vacation and realized I had significant tension and pain in my shoulders and back. The pain was entirely attributable to my posture programming at my desk all day. In particular, tensing forward/inward tightening my chest muscles as well as slouched-forward posture curving my back and neck. I decided that I would fix it. <sloched pic> <chest muscles pic>
 
 ## Standing desk
 
-My half-keyboard worked well, and I was able to use it with the other full keyboard productively. I had grander ideas , though. The two keyboards on the standing desk still wasn't especially comfortable - I had to half-kneel, hanlf stand at my standing desk. People made meemes about me being a flamingo. I required a pillow to kneel on, on top of my desk.
+A standing desk fixed my slouched-forward posture. I had tried a standing desk before (along with everyone else in the office). Another colleague, @Manoj, had a genius idea. He was using a standing desk, but he bought a balance board to keep him moving while standing. I immediately copied him and iterated, adding the standing mat on top of it. After digging a small hold in the wooden floor, management asked me to iterate again, and I put an old shoe underneath.
 
-Around this time, another colleague, @Manoj, came up with a genius itea. He was also using a standig desk, and he bought a balance board to keep him moving while standing. I immediately copied him and iterated, adding the standing mat on top of it. After digging a small hold int he wooden floor, mgmt asked m ye to iterate again, and I put a n old shoe underneath.
+My keyboard on the standing desk still wasn't especially comfortable - I had to half-kneel, half-stand at my standing desk for endurance. I needed a pillow to kneel on, on top of my desk. People made memes.
+
+<kneeling pic> <flamingo pic>
 
 ## Two keyboards
 
-My first inspiration was seeing my scolleague @Oaten's split keyboard.
+My first inspiration for fixing my tensing forward/inward was seeing my scolleague @Oaten's split keyboard.
 
 One of my intuitions was that I wants slouching in my chair. The other was that putting my hands together on a laptop keyboard was curving and tensing my upper back and shoulders.
 

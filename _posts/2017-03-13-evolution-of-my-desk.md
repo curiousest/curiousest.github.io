@@ -15,7 +15,7 @@ A year ago I went on vacation and realized I had significant tension and pain in
 
 A standing desk fixed my slouched-forward posture. I had tried a standing desk before (along with everyone else in the office). Another colleague, @Manoj, had a genius idea. He was using a standing desk, but he bought a balance board to keep him moving while standing. I immediately copied him and iterated, adding the standing mat on top of it. After digging a small hold in the wooden floor, management asked me to iterate again, and I put an old shoe underneath.
 
-My keyboard on the standing desk still wasn't especially comfortable - I had to half-kneel, half-stand at my standing desk for endurance. I needed a pillow to kneel on, on top of my desk. People made memes.
+My keyboard on the standing desk still wasn't especially comfortable - I had to half-kneel, half-stand at my standing desk to be able to stand all day. People made memes.
 
 <kneeling pic> <flamingo pic>
 

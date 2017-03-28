@@ -51,3 +51,19 @@ The balance board combines nicely with the palm rests and extending keyboards, s
 
 The setup is great for pair-programming, but pairers sometimes find the large screen to be too far away. I've only once had another developer plug in their keyboard to the setup to pair-program, so it's amenable to that kind of thing, but not really a part of our company's pair-programming culture. Unfortunately, the setup is not usable by other. It's rather intimidating, and would take a few days to get used to two keyboards + standing + wobble board. It's adapted to my height and preferred arm positioning, so it's immediately uncomfortable to anyone not ~6'1"-6'5".
 
+As a tech lead, much of my day is spent near my desk, but about half is interacting with other developers, stakeholders, etc. That means I don't need to be standing at my computer all the time. When my attention isn't on my computer, I take a seat to talk or ponder. That said, when it's a quiet (individually productive) day, standing for more than an hour at a time is uncomfortable.
+
+## Sitting/Standing alternative
+
+When I alternated between sitting in a chair and standing, I would inevitably begin to spend all my time sitting. A good solution was to not have a chair, but to use nearby couches after standing too long. This also wasn't a perfect solution because my couch-sitting posture is bad and only having a small laptop monitor isn't ideal. My requirements were strange:
+
+* About as comfortable as standing (not too much more or too much less)
+* Good posture
+* More than one screen (ideally)
+* At my desk (ideally)
+
+Around this time, I also bought an ironing board. @Manoj had one in his flat, and it was usable as a budget adjustable standing/sitting desk. My intentions were to attach my keyboards to it so that I could easily adjust the height of the keyboards. The edges of the ironing board were too flimsy and the tablet-holder clamps weren't versatile enough, so this wasn't possible, but the ironing board was still an adjustable-height desk.
+
+I had also recently bought a stool for meditation. I was using it to meditate at lunchtime, but it turned out to be a great alternative to sitting in an office chair - about as comfortable as standing with decent posture. I adjusted the ironing board to a reasonable height and found a spare monitor. The standing mat made a great kneeling mat, and all I needed was a comfortable keyboard. @0aten very generously gave me the split keyboard that seeded my desk evolution, and I tore a plank from a standing desk and taped it to the ironing board.
+
+This kneeling setup is great with a few caveats. Pair programming is not possible. The keyboard arms slightly block the view of a bit of the monitor.

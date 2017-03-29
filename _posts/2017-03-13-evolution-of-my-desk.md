@@ -62,11 +62,17 @@ Using two keyboards was initially awkward, but quickly became just as comfortabl
 
 My grander vision was to be able to walk around typing. I acted to achieve this with keyboard gauntlets. I bought two cheap wireless keybaords (£10 each), and thought about how to attach them to my hands. I experimented with my one cut-in-half keyboard, tried strapping it to my hand, but that blatantly obstructed typing. I Googled and Amazoned for gauntlets, but found nothing that made sense. I went to a large Decathalon sports store to spark some creativity. 
 
-I roamed the aisles searching and considering: boxing gloves, while an obvious choice, were expensive and not suited for purpose. All sorts of other golves - riding, golfing, skiing, cycling, lifting - weren't appropriate either. Splinting a badminton racquet to each arm was the best solution I could see so far... Then I walked past the swimming section. Flippers, while made for feet, were exactly what I was looking for. They were gauntlet-like and had a platform upon which a keyboard could be placed. I spent the next 20 minutes in the store sticking my hand in children-sized flippers, imagining the right size and orientation for forearm and considering how I would cut holes in them. I found a suitable size EU 5 pair for £5.
+I roamed the aisles searching and considering: boxing gloves, while an obvious choice, were expensive and not suited for purpose. All sorts of other golves - riding, golfing, skiing, cycling, lifting - weren't appropriate either. Splinting a badminton racquet to each arm was the best solution I could see so far... until I walked past the swimming section. Flippers, while made for feet, were exactly what I was looking for. They were gauntlet-like and had a platform upon which a keyboard could be placed. I spent the next 20 minutes in the store sticking my hand in children-sized flippers, imagining the right size and orientation for forearm and considering how I would cut holes in them. I found a suitable size EU 5 pair for £5.
 
 <pic of intact flipper with keyboard on top>
 
-Over the course of the next few weeks, I began slowly constructing the gauntlets. Step one was to cut up the flipper to trail it on my single halved keyboard (wired). I cut off the rubbery end and cut a hole in the bottom, so my forearm could fit through. It needed something to hold it --- It needed another point of contact to hold it against my arm, so I threaded a shoestring through the rubber. It was also rather abrasive in the parts where I hacksawed through rough plastic, so I covered those parts with pieces of old shoe and electrical tape.
+Over the course of the next few weeks, I began slowly constructing the keyboard gauntlets. The first step was to cut up the flipper to fit my arm through. I cut out the rubbery sole and heel of the flipper so my forearm could fit through. The flipper needed another point of attachment to my arm or it would tip over. I threaded shoelace through the rubber near the heel-end. It was also rather abrasive in the parts where I hacksawed through rough plastic, so I covered those parts with pieces of old shoes and electrical tape.
+
+===> resume editing here
+
+<basic flipper pic with arm>
+
+
 
 
 ## Mounted keyboards

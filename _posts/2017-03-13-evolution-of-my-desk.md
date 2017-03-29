@@ -9,40 +9,64 @@ modified_time: '2017-03-13T11:52:00.001-05:00'
 
 WORK IN PROGRESS
 
-A year ago I went on vacation and realized I had significant tension and pain in my shoulders and back. The pain was entirely attributable to my posture programming at my desk all day. In particular, tensing forward/inward tightening my chest muscles as well as slouched-forward posture curving my back and neck. I decided that I would fix it. <sloched pic> <chest muscles pic>
+A year ago I went on vacation and realized I had significant tension and pain in my shoulders and back. The pain was caused by my posture, programming at my desk all day. In particular,
+
+* slouched-forward posture curving my back and neck
+<sloched pic>
+
+* tensing forward/inward tightening my chest muscles 
+<chest muscles pic>
+
+I decided that I would fix it.  
 
 ## Standing desk
 
-A standing desk fixed my slouched-forward posture. I had tried a standing desk before (along with everyone else in the office). Another colleague, @Manoj, had a genius idea. He was using a standing desk, but he bought a balance board to keep him moving while standing. I immediately copied him and iterated, adding the standing mat on top of it. After digging a small hold in the wooden floor, management asked me to iterate again, and I put an old shoe underneath.
+A standing desk fixed my slouched-forward posture problem.
 
-My keyboard on the standing desk still wasn't especially comfortable - I had to half-kneel, half-stand at my standing desk to be able to stand all day. People made memes.
+<ikea standing table on desk with laptop on top>
+
+I had tried a standing desk before (along with everyone else in the office), but found I couldn't stand all day. I would gradually begin sitting 25% of the day, then 50%, then 75%, then 100%. Another colleague, @Manoj, had a genius idea. He was using a standing desk, but he purchased a balance board to keep him moving around while standing. I immediately copied him and iterated, adding a standing mat on top of it. After digging a small hold in the wooden floor, management asked me to iterate again, and I stuffed an old shoe underneath.
+
+The balance board didn't make it possible to stand all day, but it helped. I often had to half-kneel, half-stand at my standing desk to be able to stand all day. People made memes.
 
 <kneeling pic> <flamingo pic>
 
 ## Two keyboards
 
-My first inspiration for fixing my tensing forward/inward was seeing my scolleague @Oaten's split keyboard.
+Two keyboards fixed my tensing forward/inward, tightening my chest muscles problem.
 
-One of my intuitions was that I wants slouching in my chair. The other was that putting my hands together on a laptop keyboard was curving and tensing my upper back and shoulders.
+Placing my hands together in front of me on a keyboard was curving and tensing my upper back and shoulders. My first inspiration for freeing myself from this tension was seeing my colleague, @Oaten's, split keyboard.
 
-@Oatens keyboard was split, resolving one of the two problems. I looked online for the keyboard and found that it was unreasonably priced - $80. I knew I could get two keyboards for about $10, after a bit more searching, so I did.
+<laptop keyboard with hands on it pic>
+<split keyboard pic>
 
-I first used the extra keyboard s lying around at work. I had one of my own, as well as one owned by a different colleague. The first problem I encountered was theat the re wasn't enough room on the standing desk for two keybaords anda laptop.
+I looked online for the keyboard and found that it was unreasonably priced - £80. I knew I could two of my old bad keyboards for free, so I did. 
 
-<Above> standing desk. I had tried using a standing desk on a few occassionas. I found that after standing for a while, I would alsways return to sitting. The padded mats helped quite a bit, but never completely solved the problem. During this period, I did spent most of my day at my sdesk programming aloen.
+I placed the two keyboards on top of my standing desk, but they didn't fit side-by-side, along with a laptop and a monitor. The solution was to either get a bigger desk or get smaller keyboards. I decided to cut a keyboard in half. 
 
-A problem was that the keyboards were too big for the standing desk. The solution was to get a bigger desk or --. The solution was to make the keybaords smaller (I ignored all other possible solutions, like a bigger desk or more creative keyboard placement). Buying a smaller keyoboard wasn't really possible, so I decided to cut my keyboard in half. I borrowed a hacksaw and found out how keyboards work by trial and error.
+I borrowed a hacksaw and sandpaper from @javier, picked out some screwdrivers from the company's toolbox, and disassembled a keyboard.
 
-The internals of keyboards are very simple. There are two plastic sheets with circuits embedded within - about papter-thin. TWhen the metal of the circuits contact between the two sheets, it means a key is presed. Each key on your keyboard has a rubbery dome which pushes a pin down when pressed, causing the two sheets to contact at the opint where the key is pressed.
+<disassembled keyboard pic>
 
-Using two keyboards is initially awkward, but quickly becomes just as comfortable as using one. A caveat is that you must be mostly a touch-typist. Occassionally I miss keys without looking like "]" or "&", so if I'm looking at the keyboard, it's only ever the right-hand one.
+The internals of keyboards are simple. There are two paper-thin plastic sheets with circuits embedded within. When two metal contacts from different sheets touch, it means a key is presed. Each key on your keyboard has a rubbery dome covering a little pin, which when pressed, causes the two sheets to contact at that point.
+
+<rubbery thing pic>
+
+I guessed that I shouldn't mess with the circuits, so I left the plastic sheets and sawed the hard plastic enclosure in half, then placed a sheet of paper between the exposed half. Sometimes keys became unresponsive. I first tried with a wired keyboard, which worked beautifully. A while later, I tried two wireless keyboards. They never worked quite as well, because I had to deal with battery placement.
+
+<taped, halved keyboard pic>
+
+Using two keyboards was initially awkward, but quickly became just as comfortable as using one. A caveat is that it would slow you down if you're not a touch-typist. Occassionally I miss keys without looking like "]" or "&", so if I'm looking at the keyboard, it's only ever the right-hand one.
 
 ## Gauntlets
 
-My grand vision was to be able to walk around typing. This would be achieved with keyboard gauntlets. I bought two cheap wireless keybaords ($10)each) . and beginan to think about how to attach them to my hands. I tried strapping them to my hands, but ..---m I experimented with my one cut-in-half keyboard, tried strapping it to my hand, but the obstructed my typing ability. I googled and amazoned for gauntlets, but nothing came up that made sense. I descided to go to a large Decathalon sports store to spark some creativity. I roamed the aisles for a while - boxing gloves, while an obvious choice , were expensive and not suited for purpose. All sorts of other golves - riding, glofing, skiing, scycling, etc weren't appropriate either. Attaching ba-- Splinting a badminton rachqet to each arm was the best solution I could see so far... Then I walked past the switmming section. Flippers were exactly what I was looking for. They were glove-like and had a playform for attaching the keyboard. I spent the next 20 minutes in the store sticking children's my hand in children's flippers, trying to imagine what the right size would be for my forearm and imagining cutting holes in them, etc. I found a suitable pair and bought them.
+My grander vision was to be able to walk around typing. I acted to achieve this with keyboard gauntlets. I bought two cheap wireless keybaords (£10 each), and thought about how to attach them to my hands. I experimented with my one cut-in-half keyboard, tried strapping it to my hand, but that blatantly obstructed typing. I Googled and Amazoned for gauntlets, but found nothing that made sense. I went to a large Decathalon sports store to spark some creativity. 
 
+I roamed the aisles searching and considering: boxing gloves, while an obvious choice, were expensive and not suited for purpose. All sorts of other golves - riding, golfing, skiing, cycling, lifting - weren't appropriate either. Splinting a badminton racquet to each arm was the best solution I could see so far... Then I walked past the swimming section. Flippers, while made for feet, were exactly what I was looking for. They were gauntlet-like and had a platform upon which a keyboard could be placed. I spent the next 20 minutes in the store sticking my hand in children-sized flippers, imagining the right size and orientation for forearm and considering how I would cut holes in them. I found a suitable size EU 5 pair for £5.
 
-Over the course of the next few weeks, I slowly began constructing my gauntlets. Step one was to cut up the flipper to trail it on my single halved keyboard (wired). I cut off the rubbery end and cut a hole in the bottom, so my forearm could fit through. It needed something to hold it --- It needed another point of contact to hold it against my arm, so I threaded a shoestring through the rubber. It was also rather abrasive in the parts where I hacksawed through rough plastic, so I covered those parts with pieces of old shoe and electrical tape.
+<pic of intact flipper with keyboard on top>
+
+Over the course of the next few weeks, I began slowly constructing the gauntlets. Step one was to cut up the flipper to trail it on my single halved keyboard (wired). I cut off the rubbery end and cut a hole in the bottom, so my forearm could fit through. It needed something to hold it --- It needed another point of contact to hold it against my arm, so I threaded a shoestring through the rubber. It was also rather abrasive in the parts where I hacksawed through rough plastic, so I covered those parts with pieces of old shoe and electrical tape.
 
 
 ## Mounted keyboards

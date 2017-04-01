@@ -40,7 +40,7 @@ Ways information is shared:
 | :--:| :-- | :-- |
 | Shared by law | <ul><li>Census data</li><li>Traffic stops</li><li>Border control</li></ul> | <ul><li>Knowledge of others breaking the law</li><li>Government demands for tech companies' data</li></ul> |
 | Shared by contract | <ul><li>Email address for online services</li><li>Performance data for mergers and acquisitions</li></ul> | <ul><li>Paid APIs</li><li>Forrester reports</li></ul> |
-| Shared freely | <ul><li>Personal photos and videos</li><li>Blog / microblogging posts</li><li>Data within (Data.gov)[https://en.wikipedia.org/wiki/Data.gov] and (Data.gov.uk)</li></ul> | <ul><li>Research datasets</li><li>Wikipedia</li><li>Torrenting</li><li>Free APIs</li><li>Data within (Data.gov)[https://en.wikipedia.org/wiki/Data.gov] and (Data.gov.uk)</li></ul> |
+| Shared freely | <ul><li>Personal photos and videos</li><li>Blog / microblogging posts</li><li>Data within [Data.gov](https://en.wikipedia.org/wiki/Data.gov) and [Data.gov.uk](Data.gov.uk)</li></ul> | <ul><li>Research datasets</li><li>Wikipedia</li><li>Torrenting</li><li>Free APIs</li><li>Data within [Data.gov](https://en.wikipedia.org/wiki/Data.gov) and [Data.gov.uk](Data.gov.uk)</li></ul> |
 
 
 Reasons information is not shared:

@@ -22,9 +22,9 @@ We share different kinds of information and we share information for different r
 | The individual  | valuable, often exchanged for services   |   not much of it   |
 | THe organization     | valuable, usually shared by law | lots of it, very valuable, rarely shared |
 
-**The individual**: one person.
+**An individual**: one person.
 
-**The organization**: an entity that is not *an individual*, but can own information. Ex: a company, a country, a non-profit organization, a government organization, or even an informal fraternity. 
+**An organization**: not *an individual*, but can own information. Ex: a company, a country, a non-profit organization, a government organization, or even an informal fraternity. 
 
 **Personal information**: information *about* the particular individual or organization. Personal information can exist without anyone having access to it. Ex: date of birth, bank records, projected revenues, current locations of constituents.
 
@@ -49,27 +49,30 @@ Reasons information is not shared:
 * Inability to share
 * Inability to collect the information in the first place
 
-# Sharing gives value to others (not_finished)
+# Sharing gives value to others
 
-asdf
+In short, information can be valuable. The value of useful information generally exceeds the cost of processing useless/false information. Information can generally be shared with low cost and consuming it doesn't destroy it.
 
 # Sharing yields power to others
 
-Information inequality means useful information available to one is much less than the information available to another. The one with more information will have *greater ability* (information x processing power). When another has information about you, and you don't have comparable information about them, that *greater ability* turns into *power over you*.
+There is information inequality between two individuals/organizations on a topic if one has more useful information than the other about that topic. The two have inequal amounts of information on that topic. 
 
-When others have *power over you*, it isn't always a bad thing. Most governments have a great deal of power over their citizens and hopefully most of their citizens believe that's a good thing. However, trusting those with power over you is an expensive thing. Given the choice between another having power over you or not, with no other considerations, you should choose *not*, because the other can abuse their power to their gain and your loss. The cost of yielding power to others is the risk that they potentially abuse their power. 
+Generally speaking, the more information you have about a particular topic, the greater your ability will be at things relating to that topic. For example, if you know how much money a company that wants to hire you is willing to spend, you are in much better salary negotiating position than if you didn't have that information. When information inequality exists between two individuals/organizations, the one with more information will have *greater ability*. When someone else has your personal information and you don't have theirs, that *greater ability* becomes *power over you*.
 
-Ex: The cost of giving your personal information to companies in exchange for services is that they potentially use or sell that information in ways that harm you.
+# Too much information inequality is expensive
 
-Ex: The cost of a publicly traded company having to share their revenues, expenses, and profits is that private ones have a better idea whether competing is worth it.
+When others have *power over you*, it isn't always a bad thing. Most governments have a great deal of power over their citizens and hopefully most of their citizens believe that's a good thing. However, trusting those with power over you is an expensive thing.
 
-# Too much information inequality is expensive (not_finished)
+If you were to pick a random person, and decide whether to give them power over you, you should choose not to. There's no benefit in giving others power over you for nothing in exchange, but there is a cost. The other can abuse their power to their gain and your loss. The cost of yielding power to others is the risk that they potentially abuse their power. 
 
-Trusting others not to use your personal information to your detriment is a costly risk...
+Examples: 
+
+* The cost of giving your personal information to companies in exchange for services is that they potentially use or sell that information in ways that harm you.
+* The cost of a publicly traded company having to share their revenues, expenses, and profits is that private ones have a better idea whether competing is worth it.
 
 # Not sharing is a tradegy of the commons
 
-Information inequality means that sharing information has a cost. Sharing information benefits everyone else, giving ability and power to others, without inherently gaining any yourself. There are situations where sharing information benefits you, but it's because you're getting something in exchange for sharing that information rather than directly benefitting from sharing - often services, money, or social capital. Not sharing is a [*tragedy of the commons*](https://en.wikipedia.org/wiki/Tragedy_of_the_commons):
+Sharing information has a cost because it creates an information inequality that yields power to those you shared with. When you share information it benefits everyone else, giving ability and power to others without inherently gaining any yourself. There are situations where sharing information benefits you, but it's because you're getting something in exchange for sharing that information - often services, money, or social capital. Not sharing is a [*tragedy of the commons*](https://en.wikipedia.org/wiki/Tragedy_of_the_commons):
 
 > *A situation within a shared-resource system where individual users acting independently according to their own self-interest behave contrary to the common good of all users by depleting or spoiling that resource through their collective action.*
 
@@ -85,7 +88,7 @@ If everyone gradually shared more and more about themselves, the intermediary ch
 
 Ex: if all individuals begin freely sharing their hair colour, the sharing ones don't yield much power to the non-sharing ones. Once everyone is sharing that information, individuals begin freely sharing their blood type. If the cycle of `begin sharing something > everyone shares that something > begin sharing something else` continues repeating for all kinds of information (both for individuals and organizations), everyone will have ended up sharing a great deal of information without yielding a great deal of power at any one point in time.
 
-It's important that the information continues to be shared, or power will be gained by those who stop sharing (and those who continue to share will experience the cost of giving others power). This can be induced by law, contract, or societal pressures.
+It's important that the information continues to be shared, or power will be gained by those who stop sharing (and those who continue to share will experience the cost of giving others power). This can be induced by law, contract, or social pressures.
 
 The reflex you should have is not,
 
@@ -131,8 +134,6 @@ Here are some ways systems and societies can encourage sharing information:
 * Increase the value exchanged for information shared by contract
 
 **Note 1**: This does not reflect the views of my employer or any organizations I'm involved with.
-
-**Note 2**: This perspective originally came and progressed ~7 years ago from an (obviously flawed) idea of a private social network where one must share everything to participate.
 
 # Related
 

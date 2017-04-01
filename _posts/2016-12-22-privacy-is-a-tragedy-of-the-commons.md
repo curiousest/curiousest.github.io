@@ -17,10 +17,10 @@ We share different kinds of information and we share information for different r
 
 # We share different kinds of information
 
-|                       | Individual | Organization |
+|                       | Personal information | Other information |
 | :-------------------: | :--------: | :----------: |
-| Personal information  | valuable, often exchanged for services   | valuable, usually shared by law     |
-| Other information     | not much of it | lots of it, very valuable, rarely shared |
+| The individual  | valuable, often exchanged for services   |   not much of it   |
+| THe organization     | valuable, usually shared by law | lots of it, very valuable, rarely shared |
 
 **The individual**: one person.
 
@@ -39,6 +39,12 @@ The ability of individuals and organizations is dependent on what information is
 Here are the ways information is shared:
 
 **turn this into a picture**
+
+| | Personal information | Other information |
+| :--: | :--: | :--: |
+| Shared by law | * census data\n* traffic stop\n* border control | Not many examples: knowledge of others breaking the law, government demands for tech companies' data |
+| Shared by contract | | |
+| Shared freely | | |
 
 * **Personal information shared by law**
   * census data

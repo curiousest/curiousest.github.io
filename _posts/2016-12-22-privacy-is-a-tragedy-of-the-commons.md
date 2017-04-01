@@ -42,37 +42,12 @@ Here are the ways information is shared:
 
 | | Personal information | Other information |
 | :--: | :--: | :--: |
-| Shared by law | * census data\n* traffic stop\n* border control | Not many examples: knowledge of others breaking the law, government demands for tech companies' data |
-| Shared by contract | | |
-| Shared freely | | |
+| Shared by law | <ul><li>census data</li><li>traffic stop</li><li>border control</li></ul> | Not many examples: knowledge of others breaking the law, government demands for tech companies' data |
 
-* **Personal information shared by law**
-  * census data
-  * for banking - address, name, and date of birth
-  * for borrowing - financial history
-* **Personal information shared by contract**
-  * email address for online services
-  * references and job history for job applications
-  * comprehensive performance data for mergers and acquisitions
-* **Personal information shared freely**
-  * personal photos and videos
-  * personal blog/microblogging posts
-  * data within (Data.gov)[https://en.wikipedia.org/wiki/Data.gov] and (Data.gov.uk)[https://en.wikipedia.org/wiki/Data.gov.uk]
-* **Other information shared by law**
-  * Examples are limited
-  * Knowledge of others breaking the law
-  * government demands for tech companies' customer data
-* **Other information shared by contract**
-  * Management consultants
-  * paid APIs
-  * Forrester reports
-* **Other information shared freely**
-  * Data within (Data.gov)[https://en.wikipedia.org/wiki/Data.gov] and (Data.gov.uk)[https://en.wikipedia.org/wiki/Data.gov.uk]
-  * research datasets
-  * Wikipedia
-  * torrenting
-  * maps and meteorological data
-  * free APIs
+| Shared by contract | <ul><li>email address for online services</li><li>performance data for mergers and acquisitions</li></ul> | <ul><li>Paid APIs</li><li>Forrester reports</li></ul> |
+
+| Shared freely | <ul><li>Personal photos and videos</li><li>blog / microblogging posts</li><li>Data within (Data.gov)[https://en.wikipedia.org/wiki/Data.gov] and (Data.gov.uk)</li></ul> | <ul><li>Research datasets</li><li>Wikipedia</li><li>Torrenting</li><li>Maps and meteorological data</li><li>Free APIs</li><li>Data within (Data.gov)[https://en.wikipedia.org/wiki/Data.gov] and (Data.gov.uk)</li></ul> |
+
 
 Here are the reasons information is not shared:
 

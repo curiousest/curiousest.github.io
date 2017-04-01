@@ -42,7 +42,7 @@ Here are the ways information is shared:
 
 | | Personal information | Other information |
 | :--:| :-- | :-- |
-| Shared by law | <ul><li>census data</li><li>traffic stop</li><li>border control</li></ul> | Not many examples: knowledge of others breaking the law, government demands for tech companies' data |
+| Shared by law | <ul><li>census data</li><li>traffic stop</li><li>border control</li></ul> | <ul><li>Knowledge of others breaking the law</li><li>Government demands for tech companies' data</li></ul> |
 | Shared by contract | <ul><li>email address for online services</li><li>performance data for mergers and acquisitions</li></ul> | <ul><li>Paid APIs</li><li>Forrester reports</li></ul> |
 | Shared freely | <ul><li>Personal photos and videos</li><li>blog / microblogging posts</li><li>Data within (Data.gov)[https://en.wikipedia.org/wiki/Data.gov] and (Data.gov.uk)</li></ul> | <ul><li>Research datasets</li><li>Wikipedia</li><li>Torrenting</li><li>Maps and meteorological data</li><li>Free APIs</li><li>Data within (Data.gov)[https://en.wikipedia.org/wiki/Data.gov] and (Data.gov.uk)</li></ul> |
 

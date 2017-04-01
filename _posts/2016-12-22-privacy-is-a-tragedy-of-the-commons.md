@@ -17,8 +17,11 @@ We share different kinds of information and we share information for different r
 
 # We share different kinds of information
 
-<div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
-    <div style="display: inline-block;">
+|                       | Individual | Organization |
+| :-------------------: | :--------: | :----------: |
+| Personal information  | valuable, often exchanged for services   | valuable, usually shared by law     |
+| Other information     | not much of it | lots of it, very valuable, rarely shared |
+
 **The individual**: one person.
 
 **The organization**: an entity that is not *an individual*, but can own information. Ex: a company, a country, a non-profit organization, a government organization, or even an informal fraternity. 
@@ -26,23 +29,6 @@ We share different kinds of information and we share information for different r
 **Personal information**: information *about* the particular individual or organization. Personal information can exist without anyone having access to it. Ex: date of birth, bank records, projected revenues, current locations of constituents.
 
 **Other information**: personal information about others or how the universe works. Ex: the average age of Americans, the formula for coca cola, industry best-practices, customer data, research papers, the weather.
-    </div>
-    <div style="display: inline-block;">
-    |                       | Individual | Organization |
-    | :-------------------: | :--------: | :----------: |
-    | Personal information  | valuable, often exchanged for services   | valuable, usually shared by law     |
-    | Other information     | not much of it | lots of it, very valuable, rarely shared |
-    </div>
-</div>
-
-
-
-**insert picture here**
-
-* Individual x Personal: valuable
-* Individual x Other: not much of it
-* Organization x Personal: valuable
-* Organization x Other: lots and lots of it, very valuable, rarely shared
 
 # We share information for different reasons
 

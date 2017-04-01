@@ -32,22 +32,18 @@ We share different kinds of information and we share information for different r
 
 # We share information for different reasons
 
-**insert warm, personal introduction here**
-
 The ability of individuals and organizations is dependent on what information is available to them and their means to process and use it. When others do not share information, everyone's ability is reduced. 
 
-Here are the ways information is shared:
-
-**turn this into a picture**
+Ways information is shared:
 
 | | Personal information | Other information |
 | :--:| :-- | :-- |
-| Shared by law | <ul><li>census data</li><li>traffic stop</li><li>border control</li></ul> | <ul><li>Knowledge of others breaking the law</li><li>Government demands for tech companies' data</li></ul> |
-| Shared by contract | <ul><li>email address for online services</li><li>performance data for mergers and acquisitions</li></ul> | <ul><li>Paid APIs</li><li>Forrester reports</li></ul> |
-| Shared freely | <ul><li>Personal photos and videos</li><li>blog / microblogging posts</li><li>Data within (Data.gov)[https://en.wikipedia.org/wiki/Data.gov] and (Data.gov.uk)</li></ul> | <ul><li>Research datasets</li><li>Wikipedia</li><li>Torrenting</li><li>Maps and meteorological data</li><li>Free APIs</li><li>Data within (Data.gov)[https://en.wikipedia.org/wiki/Data.gov] and (Data.gov.uk)</li></ul> |
+| Shared by law | <ul><li>Census data</li><li>Traffic stops</li><li>Border control</li></ul> | <ul><li>Knowledge of others breaking the law</li><li>Government demands for tech companies' data</li></ul> |
+| Shared by contract | <ul><li>Email address for online services</li><li>Performance data for mergers and acquisitions</li></ul> | <ul><li>Paid APIs</li><li>Forrester reports</li></ul> |
+| Shared freely | <ul><li>Personal photos and videos</li><li>Blog / microblogging posts</li><li>Data within (Data.gov)[https://en.wikipedia.org/wiki/Data.gov] and (Data.gov.uk)</li></ul> | <ul><li>Research datasets</li><li>Wikipedia</li><li>Torrenting</li><li>Maps and meteorological data</li><li>Free APIs</li><li>Data within (Data.gov)[https://en.wikipedia.org/wiki/Data.gov] and (Data.gov.uk)</li></ul> |
 
 
-Here are the reasons information is not shared:
+Reasons information is not shared:
 
 * By choice
 * Inability to share

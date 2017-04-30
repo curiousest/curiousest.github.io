@@ -74,6 +74,7 @@ For example, the USA has a generic air quality index that combines O<sub>3</sub>
 
 ## Comparison of air pollution indexes
 
+<iframe src="https://docs.google.com/spreadsheets/d/17Zim8kxONMOG1ZSQIsEvhxQcXNyNbffvmougnEzuLVU/pubhtml?widget=true&amp;headers=false"></iframe>
 
 ## References
 

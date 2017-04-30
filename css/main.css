@@ -3,8 +3,9 @@ body {
     width: 70%;
 }
 li {   
-    font-size: 24px;
+    font-size: 1.5em;
     line-height: 1.4em;
+    color: #333;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -30,6 +31,11 @@ h1 {
 p {
     font-size: 1.5em;
     line-height: 1.4em;
+    color: #333;
+}
+table {
+    font-size: 1.5em;
+    border-spacing: 0.5em;
     color: #333;
 }
 footer {

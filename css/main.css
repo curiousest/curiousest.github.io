@@ -35,6 +35,11 @@ h3 {
     font-size: 1.8em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
+div.post ul li {
+    font-size: 1.5em;
+    line-height: 1.4em;
+    color: #333;
+}
 p {
     font-size: 1.5em;
     line-height: 1.4em;
@@ -57,5 +62,4 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
-    font-size: 1.5em;
 }

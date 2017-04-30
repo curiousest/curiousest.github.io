@@ -41,18 +41,20 @@ div.post ul li {
     color: #333;
 }
 div.post ul li li {
-    font-size: 1.3em;
+    font-size: 90%;
 }
 div.post ul li li li {
-    font-size: 1.2em;
+    font-size: 90%;
 }
 div.post ul li li li {
-    font-size: 1.1em;
+    font-size: 90%;
 }
 p {
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
 }
 table {
     font-size: 1.5em;

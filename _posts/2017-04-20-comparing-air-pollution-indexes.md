@@ -1,19 +1,21 @@
 ---
 layout: post
 title: Comparing air pollution indexes
-date: '2017-04-20T15:22:00.001-05:00'
+date: '2017-04-30T15:22:00.001-05:00'
 author: Douglas Hindson
 tags:
 - O2Canada
 - air pollution
-modified_time: '2017-04-20T15:22:00.001-05:00'
+modified_time: '2017-04-30T15:22:00.001-05:00'
 ---
 
-[There are a lot of air pollution indexes](#there-are-a-lot-of-air-pollution-indexes). One governing body often has multiple air quality indexes because [air quality over time is hard to express](#air-quality-over-time-is-hard-to-express) and [indexes can use different combinations of particles](#indexes-can-use-different-combinations-of-particles). Since there are so many factors that make up an air quality index, it's difficult to compare the air pollution indexes of different governing bodies. Nevertheless, [here is a best-effort comparison of some air pollution indexes](#comparison-of-air-pollution-indexes).
+[There are a lot of air pollution indexes](#there-are-a-lot-of-air-pollution-indexes). One governing body often has multiple air quality indexes because [air quality over time is hard to express](#air-quality-over-time-is-hard-to-express) and [indexes can use different combinations of particles](#indexes-can-use-different-combinations-of-particles). Since there are so many factors that make up an air quality index, it's difficult to compare the air pollution indexes of different governing bodies. 
+
+Nevertheless, [here is a best-effort comparison of major air pollution indexes](#comparison-of-air-pollution-indexes).
 
 ## There are a lot of air pollution indexes
 
-There are ten major government bodies represented in [this wikipedia air pollution article, as of April 2017](https://en.wikipedia.org/wiki/Air_quality_index#Indices_by_location), each with their own set of air quality indexes. There is such a variety because:
+There are ten major government bodies represented in [this wikipedia air pollution article, as of April 2017](https://en.wikipedia.org/wiki/Air_quality_index#Indices_by_location), each with their own set of air quality indexes. Such variety is because:
 
 * There are many different particles that affect air pollution.
   * Some particles are more prevalent in certain areas of the world.
@@ -30,11 +32,9 @@ Relevant [xkcd](xkcd.com):
 
 ## Air quality over time is hard to express
 
-A major reason for one governing body having multiple air quality indexes is because the "badness" of air pollution is determined by the number of bad particles in the air over time.
+A major reason for one governing body having multiple air quality indexes is because the "badness" of air pollution is determined by the number of bad particles in the air over time. Every index has to make a tradeoff between detail and usefulness of individual AQI readings.
 
-An example:
-
-Suppose *London* has readings for *particle X* as follows:
+As an example, suppose *London* has readings for *particle X* as follows:
 
 | Time                           | **1pm** | **2pm** | **3pm**  | **4pm** |
 | # of *particle X* in *London*  | 10  | 10  | 1000 | 10  |
@@ -56,30 +56,31 @@ Notice the differences at 3-4pm.
 * With the *D AQI*, you have a better understanding of the recent past, but it lacks both detail and a long-term view on air pollution.
 * With the *E AQI*, a huge hourly change had relatively little impact on the readings.
 
-Every index has to make a tradeoff between detail and usefulness of individual AQI readings. Also, to compare between an hour-by-hour index (like "*C AQI*" above) and a day-by-day index (like "*E AQI*" above), the values of a real day-by-day index are often weighted higher (multiplied by a number > 1). This is because you may read the current hour-by-hour index together with the current day-by-day index. Inhaling 1000 particles an hour for 24 hours is much worse than inhaling 1000 particles an hour for one hour, so the 24 hour index is weighted to be bigger and scarier.
+China, for a real-world example, has different AQI calculations for:
 
-China, for example, has different AQI calculations for:
+* 1hr AQI
+* 24hr AQI
+* several-month AQI (less common)
+* annual AQI
 
-* 1hr readings
-* 8hr readings
-* 24hr readings
-* several-month readings (less common)
-* annual readings
+Also, to compare between an hour-by-hour index (like "*C AQI*" above) and a day-by-day index (like "*E AQI*" above), the values of a real day-by-day index are often weighted higher (multiplied by a number > 1). This is because you may read the current hour-by-hour index together with the current day-by-day index. Inhaling 1000 particles an hour for 24 hours is much worse than inhaling 1000 particles an hour for one hour, so the 24 hour index is weighted to seem bigger and scarier.
 
 The AQI values you see in most AQI apps or websites are usually 1hr readings. Some will also show 24hr readings. Government bodies often talk about AQI benchmarks or goals - in those cases, they are talking about their several-month or annual AQI calculations.
 
 ## Indexes can use different combinations of particles
 
-For example, the USA has a generic air quality index that combines O<sub>3</sub>, PM<sub>2.5</sub>, PM<sub>10</sub>, CO, SO<sub>2</sub>, and NO<sub>2</sub> concentrations. It also has an air quality index called "NowCast" that just combines O3, PM2.5, and PM10 concentrations.
+For example, the USA has a generic air quality index that combines O<sub>3</sub>, PM<sub>2.5</sub>, PM<sub>10</sub>, CO, SO<sub>2</sub>, and NO<sub>2</sub> concentrations. It also has an air quality index called "NowCast" that just combines O3, PM2.5, and PM10 concentrations [[2]](#references).
 
 ## Comparison of air pollution indexes
 
-<iframe src="https://docs.google.com/spreadsheets/d/17Zim8kxONMOG1ZSQIsEvhxQcXNyNbffvmougnEzuLVU/pubhtml?widget=true&amp;headers=false"></iframe>
+<iframe width=1000px height=300px src="https://docs.google.com/spreadsheets/d/17Zim8kxONMOG1ZSQIsEvhxQcXNyNbffvmougnEzuLVU/pubhtml?widget=true&amp;headers=false"></iframe>
 
 ## References
 
 [1] A New Multipollutant, No-Threshold Air Quality Health Index Based on Short-Term Associations Observed in Daily Time-Series Analyses, http://www.tandfonline.com/doi/abs/10.3155/1047-3289.58.3.435
 
-[2] USA EPA AQI calculator, https://airnow.gov/index.cfm?action=resources.conc_aqi_calc
+[2] Overview of the new PM2.5 NowCast Method, https://www.arb.ca.gov/carpa/iascpresentations/2015/nowcastaqiforpm25overview.pdf
 
-[3] USA / China AQI calculator, https://github.com/kkpoon/aqicalc-js
+[3] USA EPA AQI calculator, https://airnow.gov/index.cfm?action=resources.conc_aqi_calc
+
+[4] USA / China AQI calculator, https://github.com/kkpoon/aqicalc-js

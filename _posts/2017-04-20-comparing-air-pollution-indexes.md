@@ -9,9 +9,9 @@ tags:
 modified_time: '2017-04-20T15:22:00.001-05:00'
 ---
 
-[There are a lot of air pollution indexes](#there-are-a-lot-of-air-pollution-indexes). One governing body often has multiple air quality indexes because [air quality over time is hard to express](#air-quality-over-time-is-hard-to-express) and [indexes can use different combinations of particles](#indexes-can-use-different-combinations-of-particles). Since there are so many factors to decide on how to make an air quality index, it's difficult to compare the air pollution indexes of different governing bodies. Nevertheless, [here is a best-effort comparison of some air pollution indexes](#comparison-of-air-pollution-indexes).
+[There are a lot of air pollution indexes](#there-are-a-lot-of-air-pollution-indexes). One governing body often has multiple air quality indexes because [air quality over time is hard to express](#air-quality-over-time-is-hard-to-express) and [indexes can use different combinations of particles](#indexes-can-use-different-combinations-of-particles). Since there are so many factors that make up an air quality index, it's difficult to compare the air pollution indexes of different governing bodies. Nevertheless, [here is a best-effort comparison of some air pollution indexes](#comparison-of-air-pollution-indexes).
 
-# There are a lot of air pollution indexes
+## There are a lot of air pollution indexes
 
 There are ten major government bodies represented in [this wikipedia air pollution article, as of April 2017](https://en.wikipedia.org/wiki/Air_quality_index#Indices_by_location), each with their own set of air quality indexes. There is such a variety because:
 
@@ -28,7 +28,7 @@ Relevant [xkcd](xkcd.com):
 
 ![Standards](https://imgs.xkcd.com/comics/standards.png)
 
-# Air quality over time is hard to express
+## Air quality over time is hard to express
 
 A major reason for one governing body having multiple air quality indexes is because the "badness" of air pollution is determined by the number of bad particles in the air over time.
 
@@ -68,15 +68,17 @@ China, for example, has different AQI calculations for:
 
 The AQI values you see in most AQI apps or websites are usually 1hr readings. Some will also show 24hr readings. Government bodies often talk about AQI benchmarks or goals - in those cases, they are talking about their several-month or annual AQI calculations.
 
-# Indexes can use different combinations of particles
+## Indexes can use different combinations of particles
 
 For example, the USA has a generic air quality index that combines O<sub>3</sub>, PM<sub>2.5</sub>, PM<sub>10</sub>, CO, SO<sub>2</sub>, and NO<sub>2</sub> concentrations. It also has an air quality index called "NowCast" that just combines O3, PM2.5, and PM10 concentrations.
 
-# Comparison of air pollution indexes
+## Comparison of air pollution indexes
 
 
-# References
+## References
 
 [1] A New Multipollutant, No-Threshold Air Quality Health Index Based on Short-Term Associations Observed in Daily Time-Series Analyses, http://www.tandfonline.com/doi/abs/10.3155/1047-3289.58.3.435
+
 [2] USA EPA AQI calculator, https://airnow.gov/index.cfm?action=resources.conc_aqi_calc
+
 [3] USA / China AQI calculator, https://github.com/kkpoon/aqicalc-js

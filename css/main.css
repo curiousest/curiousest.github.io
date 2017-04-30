@@ -36,9 +36,18 @@ h3 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 div.post ul li {
-    font-size: 1.5em;
+    font-size: 1.4em;
     line-height: 1.4em;
     color: #333;
+}
+div.post ul li li {
+    font-size: 1.3em;
+}
+div.post ul li li li {
+    font-size: 1.2em;
+}
+div.post ul li li li {
+    font-size: 1.1em;
 }
 p {
     font-size: 1.5em;

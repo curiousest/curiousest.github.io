@@ -73,7 +73,7 @@ For example, the USA has a generic air quality index that combines O<sub>3</sub>
 
 ## Comparison of air pollution indexes
 
-<iframe style="width:1000px; height:300px;" src="https://docs.google.com/spreadsheets/d/17Zim8kxONMOG1ZSQIsEvhxQcXNyNbffvmougnEzuLVU/pubhtml?widget=true&amp;headers=false"></iframe>
+<iframe style="width:1000px; height:2000px;" src="https://docs.google.com/spreadsheets/d/17Zim8kxONMOG1ZSQIsEvhxQcXNyNbffvmougnEzuLVU/pubhtml?widget=true&amp;headers=false"></iframe>
 
 ## References
 
@@ -81,6 +81,18 @@ For example, the USA has a generic air quality index that combines O<sub>3</sub>
 
 [2] Overview of the new PM2.5 NowCast Method, https://www.arb.ca.gov/carpa/iascpresentations/2015/nowcastaqiforpm25overview.pdf
 
-[3] USA EPA AQI calculator, https://airnow.gov/index.cfm?action=resources.conc_aqi_calc
+[3] USA AQI calculator, https://airnow.gov/index.cfm?action=resources.conc_aqi_calc
 
 [4] USA / China AQI calculator, https://github.com/kkpoon/aqicalc-js
+
+[5] Review of Air Quality Index and Air Quality Health Index (Canada), https://www.publichealthontario.ca/en/eRepository/Air_Quality_Indeces_Report_2013.pdf
+
+[6] Air Quality in Europe Indices definition, https://www.airqualitynow.eu/about_indices_definition.php
+
+[7] Calculation of AQI (India), cpcb.nic.in/AQI%20-Calculator.xls
+
+[8] National Air Quality Index (India), http://cpcb.nic.in/FINAL-REPORT_AQI_.pdf
+
+[9] Review of the UK Air Quality Index, https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/304633/COMEAP_review_of_the_uk_air_quality_index.pdf
+
+[10] NowCast Calculator, https://www3.epa.gov/airnow/aqicalctest/nowcast.htm

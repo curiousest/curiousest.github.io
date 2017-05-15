@@ -9,9 +9,16 @@ tags:
 modified_time: '2017-04-30T15:22:00.001-05:00'
 ---
 
-[There are a lot of air pollution indexes](#there-are-a-lot-of-air-pollution-indexes). One governing body often has multiple air quality indexes because [air quality over time is hard to express](#air-quality-over-time-is-hard-to-express) and [indexes can use different combinations of particles](#indexes-can-use-different-combinations-of-particles). Since there are so many factors that make up an air quality index, it's difficult to compare the air pollution indexes of different governing bodies. 
+[There are a lot of air pollution indexes](#there-are-a-lot-of-air-pollution-indexes). [Air quality over time is hard to express](#air-quality-over-time-is-hard-to-express) and [indexes can use different combinations of particles](#indexes-can-use-different-combinations-of-particles), so one governing body often has multiple air quality indexes.
 
-Nevertheless, [here is a best-effort comparison of major air pollution indexes](#comparison-of-air-pollution-indexes).
+It's still useful to compare the scales of air pollution indexes. Below is a comparison and further sections describe why it's hard to compare air pollution indexes.
+
+## Comparison of air pollution indexes by hourly PM<sub>2.5</sub>
+
+These indexes are compared by hourly PM<sub>2.5</sub> values. Some indexes use more than one hour of measurement data, and those indexes will appear less tolerant of pollution.
+
+<iframe style="width:1000px; height:2000px;" src="https://docs.google.com/spreadsheets/d/17Zim8kxONMOG1ZSQIsEvhxQcXNyNbffvmougnEzuLVU/pubhtml?widget=true&amp;headers=false"></iframe>
+
 
 ## There are a lot of air pollution indexes
 
@@ -70,10 +77,6 @@ The AQI values you see in most AQI apps or websites are usually 1hr readings. So
 ## Indexes can use different combinations of particles
 
 For example, the USA has a generic air quality index that combines O<sub>3</sub>, PM<sub>2.5</sub>, PM<sub>10</sub>, CO, SO<sub>2</sub>, and NO<sub>2</sub> concentrations. It also has an air quality index called "NowCast" that just combines O3, PM2.5, and PM10 concentrations [[2]](#references).
-
-## Comparison of air pollution indexes
-
-<iframe style="width:1000px; height:2000px;" src="https://docs.google.com/spreadsheets/d/17Zim8kxONMOG1ZSQIsEvhxQcXNyNbffvmougnEzuLVU/pubhtml?widget=true&amp;headers=false"></iframe>
 
 ## References
 

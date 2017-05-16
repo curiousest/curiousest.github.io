@@ -21,7 +21,7 @@ These indexes are compared by hourly PM<sub>2.5</sub> values. PM<sub>2.5</sub> i
 
 Some indexes use more than one hour of measurement data, and those indexes will appear less tolerant of pollution.
 
-<iframe style="width:1000px; height:2000px;" src="https://docs.google.com/spreadsheets/d/17Zim8kxONMOG1ZSQIsEvhxQcXNyNbffvmougnEzuLVU/pubhtml?widget=true&amp;headers=false"></iframe>
+<iframe style="width:1000px; height:1600px;" src="https://docs.google.com/spreadsheets/d/17Zim8kxONMOG1ZSQIsEvhxQcXNyNbffvmougnEzuLVU/pubhtml?widget=true&amp;headers=false"></iframe>
 
 
 ## There are a lot of air pollution indexes
@@ -35,7 +35,7 @@ There are ten major government bodies represented in [this wikipedia air polluti
 * Some particles may be relevant in some conditions and not others.
   * Ex: Ozone (O<sub>3</sub>) may not be as dangerous in cold weather [[1]](#references).
 * Indexes can use different combinations of particles
-  * Ex: the USA has a generic air quality index (EPA) that combines O<sub>3</sub>, PM<sub>2.5</sub>, PM<sub>10</sub>, CO, SO<sub>2</sub>, and NO<sub>2</sub> concentrations. It also has an air quality index called "NowCast" that just combines O3, PM2.5, and PM10 concentrations [[2]](#references).
+  * Ex: the USA has a generic air quality index (EPA) that combines O<sub>3</sub>, PM<sub>2.5</sub>, PM<sub>10</sub>, CO, SO<sub>2</sub>, and NO<sub>2</sub> concentrations. It also has an air quality index called "NowCast" that just combines O3, PM<sub>2.5</sub>, and PM<sub>10</sub> concentrations [[2]](#references).
 
 ### Air pollution is complex to measure and explain
 
@@ -47,7 +47,7 @@ There are ten major government bodies represented in [this wikipedia air polluti
 
 If your pollution index says every reading above 100 is "very bad", but many places in your country consistently have readings ranging from 100 to 900, your pollution index will not be useful to your constituents - you need different kinds of "very bad".
 
-Relevant [xkcd](xkcd.com):
+### One pollution index sounds like a good idea, but...
 
 ![Standards](https://imgs.xkcd.com/comics/standards.png)
 
@@ -87,10 +87,6 @@ China, for a real-world example, has different AQI calculations for:
 Also, to compare between an hour-by-hour index (like "*C AQI*" above) and a day-by-day index (like "*E AQI*" above), the values of a real day-by-day index are often weighted higher (multiplied by a number > 1). This is because you may read the current hour-by-hour index together with the current day-by-day index. Inhaling 1000 particles an hour for 24 hours is much worse than inhaling 1000 particles an hour for one hour, so the 24 hour index is weighted to seem bigger and scarier.
 
 The AQI values you see in most AQI apps or websites are usually 1hr readings. Some will also show 24hr readings. Government bodies often talk about AQI benchmarks or goals - in those cases, they are talking about their several-month or annual AQI calculations.
-
-## Indexes can use different combinations of particles
-
-
 
 ## References
 

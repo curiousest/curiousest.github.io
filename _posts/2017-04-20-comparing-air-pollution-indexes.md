@@ -6,16 +6,20 @@ author: Douglas Hindson
 tags:
 - O2Canada
 - air pollution
-modified_time: '2017-04-30T15:22:00.001-05:00'
+modified_time: '2017-05-15T15:22:00.001-05:00'
 ---
 
 [There are a lot of air pollution indexes](#there-are-a-lot-of-air-pollution-indexes). [Air quality over time is hard to express](#air-quality-over-time-is-hard-to-express) and [indexes can use different combinations of particles](#indexes-can-use-different-combinations-of-particles), so one governing body often has multiple air quality indexes.
 
-It's still useful to compare the scales of air pollution indexes. Below is a comparison and further sections describe why it's hard to compare air pollution indexes.
+First we'll try to compare air pollution indexes and further sections describe why it's hard to compare.
 
 ## Comparison of air pollution indexes by hourly PM<sub>2.5</sub>
 
-These indexes are compared by hourly PM<sub>2.5</sub> values. Some indexes use more than one hour of measurement data, and those indexes will appear less tolerant of pollution.
+If you wanted to look at each different air pollution index for the city you're in on your app/website of choice, it would be close to this chart. 
+
+These indexes are compared by hourly PM<sub>2.5</sub> values. PM<sub>2.5</sub> is a good, but imperfect way to compare indexes that you would see on air pollution websites / apps.
+
+Some indexes use more than one hour of measurement data, and those indexes will appear less tolerant of pollution.
 
 <iframe style="width:1000px; height:2000px;" src="https://docs.google.com/spreadsheets/d/17Zim8kxONMOG1ZSQIsEvhxQcXNyNbffvmougnEzuLVU/pubhtml?widget=true&amp;headers=false"></iframe>
 
@@ -24,14 +28,24 @@ These indexes are compared by hourly PM<sub>2.5</sub> values. Some indexes use m
 
 There are ten major government bodies represented in [this wikipedia air pollution article, as of April 2017](https://en.wikipedia.org/wiki/Air_quality_index#Indices_by_location), each with their own set of air quality indexes. Such variety is because:
 
-* There are many different particles that affect air pollution.
-  * Some particles are more prevalent in certain areas of the world.
-  * Some particles are relevant everywhere.
-  * Some particles may be relevant in some conditions and not others.
-    * Ex: Ozone (O<sub>3</sub>) may not be as dangerous in cold weather [[1]](#references).
-* Air pollution is complex to measure and explain
-* Different countries want to give different recommendations.
-  * Ex: If your pollution index says every reading above 100 is "very bad", but many places in your country consistently have readings ranging from 100 to 900, your pollution index will not be useful to your constituents - you need different kinds of "very bad".
+### There are many different particles that affect air pollution
+
+* Some particles are more prevalent in certain areas of the world.
+* Some particles are relevant everywhere.
+* Some particles may be relevant in some conditions and not others.
+  * Ex: Ozone (O<sub>3</sub>) may not be as dangerous in cold weather [[1]](#references).
+* Indexes can use different combinations of particles
+  * Ex: the USA has a generic air quality index (EPA) that combines O<sub>3</sub>, PM<sub>2.5</sub>, PM<sub>10</sub>, CO, SO<sub>2</sub>, and NO<sub>2</sub> concentrations. It also has an air quality index called "NowCast" that just combines O3, PM2.5, and PM10 concentrations [[2]](#references).
+
+### Air pollution is complex to measure and explain
+
+* Air quality over time is hard to express
+* The maximum, minimum, and average concentrations of different particles all have different effects
+* Combining all these concepts and measurements together to give one number/recommendation is a significant simplification
+
+### Different countries want to give different recommendations.
+
+If your pollution index says every reading above 100 is "very bad", but many places in your country consistently have readings ranging from 100 to 900, your pollution index will not be useful to your constituents - you need different kinds of "very bad".
 
 Relevant [xkcd](xkcd.com):
 
@@ -76,7 +90,7 @@ The AQI values you see in most AQI apps or websites are usually 1hr readings. So
 
 ## Indexes can use different combinations of particles
 
-For example, the USA has a generic air quality index that combines O<sub>3</sub>, PM<sub>2.5</sub>, PM<sub>10</sub>, CO, SO<sub>2</sub>, and NO<sub>2</sub> concentrations. It also has an air quality index called "NowCast" that just combines O3, PM2.5, and PM10 concentrations [[2]](#references).
+
 
 ## References
 

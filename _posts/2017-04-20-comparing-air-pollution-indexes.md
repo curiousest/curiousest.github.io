@@ -15,11 +15,15 @@ First we'll try to compare air pollution indexes and further sections describe w
 
 ## Comparison of air pollution indexes by hourly PM<sub>2.5</sub>
 
-If you wanted to look at each different air pollution index for the city you're in on your app/website of choice, it would be close to this chart. 
+If you wanted to compare each different air pollution index as they would appear on your app/website of choice, it would be close to this chart. 
 
-These indexes are compared by hourly PM<sub>2.5</sub> values. PM<sub>2.5</sub> is a good, but imperfect way to compare indexes that you would see on air pollution websites / apps.
+The way air pollution indexes work is:
 
-Some indexes use more than one hour of measurement data, and those indexes will appear less tolerant of pollution.
+# Take a bunch of measurements
+# Pass those measurements through an algorithm (each index has a different algorithm)
+# A number and some text comes out
+
+PM<sub>2.5</sub> is one of the measurements used. These indexes are compared by hourly/daily PM<sub>2.5</sub> values - which is a good, but imperfect way to compare indexes that you would see on air pollution websites / apps. The number and text that comes out of the algorithm is represented in the "Text (AQI range)" column of the below chart.
 
 <iframe style="width:1000px; height:1600px;" src="https://docs.google.com/spreadsheets/d/17Zim8kxONMOG1ZSQIsEvhxQcXNyNbffvmougnEzuLVU/pubhtml?widget=true&amp;headers=false"></iframe>
 
@@ -109,3 +113,11 @@ The AQI values you see in most AQI apps or websites are usually 1hr readings. So
 [9] Review of the UK Air Quality Index, https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/304633/COMEAP_review_of_the_uk_air_quality_index.pdf
 
 [10] NowCast Calculator, https://www3.epa.gov/airnow/aqicalctest/nowcast.htm
+
+[11] The New AHQI System - Purpose and Use (Hong Kong), http://www.aqhi.gov.hk/en/what-is-aqhi/faqs.html
+
+[12] Technical Regulation on Ambient Air Quality Index (China), http://www.zzemc.cn/em_aw/Content/HJ633-2012.pdf
+
+[13] National Ambient Air Quality Standards for Particulate Matter; Final Rule (USA), https://www.gpo.gov/fdsys/pkg/FR-2012-06-29/pdf/2012-15017.pdf
+ 
+ 

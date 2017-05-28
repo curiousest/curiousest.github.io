@@ -19,9 +19,9 @@ If you wanted to compare each different air pollution index as they would appear
 
 The way air pollution indexes work is:
 
-# Take a bunch of measurements
-# Pass those measurements through an algorithm (each index has a different algorithm)
-# A number and some text comes out
+1. Take a bunch of measurements
+2. Pass those measurements through an algorithm (each index has a different algorithm)
+3. A number and some text comes out
 
 PM<sub>2.5</sub> is one of the measurements used. These indexes are compared by hourly/daily PM<sub>2.5</sub> values - which is a good, but imperfect way to compare indexes that you would see on air pollution websites / apps. The number and text that comes out of the algorithm is represented in the "Text (AQI range)" column of the below chart.
 

@@ -6,7 +6,7 @@ title: Douglas' Blog
 <h2>Best Posts</h2>
 <ul class="posts">
 {% for post in site.posts %}
-{% if post.tag == "favourite" %}
+{% if post.tag contains "favourite" %}
 	<li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
 {% endif %}
 {% endfor %}
@@ -14,7 +14,7 @@ title: Douglas' Blog
 <h2>Stories</h2>
 <ul class="posts">
 {% for post in site.posts %}
-{% if post.tag == "story" %}
+{% if post.tag contains "story" %}
 	<li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
 {% endif %}
 {% endfor %}
@@ -22,7 +22,7 @@ title: Douglas' Blog
 <h2>Essays</h2>
 <ul class="posts">
 {% for post in site.posts %}
-{% if post.tag == "essay" %}
+{% if post.tag contains "essay" %}
 	<li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
 {% endif %}
 {% endfor %}
@@ -30,7 +30,7 @@ title: Douglas' Blog
 <h2>Facts and Data</h2>
 <ul class="posts">
 {% for post in site.posts %}
-{% if post.tag == "facts and data" %}
+{% if post.tag contains "facts and data" %}
 	<li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
 {% endif %}
 {% endfor %}
@@ -38,7 +38,7 @@ title: Douglas' Blog
 <h2>Blog Posts</h2>
 <ul class="posts">
 {% for post in site.posts %}
-{% if post.tag == "blog" %}
+{% if post.tag contains "blog" %}
 	<li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
 {% endif %}
 {% endfor %}

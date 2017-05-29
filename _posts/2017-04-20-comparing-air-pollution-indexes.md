@@ -49,13 +49,15 @@ There are ten major government bodies represented in [this wikipedia air polluti
 * The maximum, minimum, and average concentrations of different particles all have different effects
 * Combining all these concepts and measurements together to give one number/recommendation is a significant simplification
 
-### Different countries want to give different recommendations.
+### Different countries want to give different recommendations
 
 If your pollution index says every reading above 100 is "very bad", but many places in your country consistently have readings ranging from 100 to 900, your pollution index will not be useful to your constituents - you need different kinds of "very bad".
 
 ### One pollution index sounds like a good idea, but...
 
 ![Standards](https://imgs.xkcd.com/comics/standards.png)
+
+Source: [XKCD](https://xkcd.com/927/)
 
 ## Air quality over time is hard to express
 

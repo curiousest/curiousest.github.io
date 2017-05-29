@@ -4,6 +4,7 @@ title: Dream Girl Fading
 date: '2017-03-15T11:52:00.001-05:00'
 author: Douglas Hindson
 tags: 
+- story
 modified_time: '2017-03-15T11:52:00.001-05:00'
 ---
 

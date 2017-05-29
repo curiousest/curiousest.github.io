@@ -3,7 +3,9 @@ layout: post
 title: Evolution of my desk
 date: '2017-03-13T11:52:00.001-05:00'
 author: Douglas Hindson
-tags: DIY
+tags: 
+- DIY
+- blog
 modified_time: '2017-03-13T11:52:00.001-05:00'
 ---
 

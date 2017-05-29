@@ -19,14 +19,16 @@ If you wanted to compare each different air pollution index as they would appear
 
 The way air pollution indexes work is:
 
-1. Take a bunch of measurements
+1. Take some measurements (of particle concentrations in the air)
 2. Pass those measurements through an algorithm (each index has a different algorithm)
-3. A number and some text comes out
+3. A number and some text comes out, explaining the air quality
 
-PM<sub>2.5</sub> is one of the measurements used. These indexes are compared by hourly/daily PM<sub>2.5</sub> values - which is a good, but imperfect way to compare indexes that you would see on air pollution websites / apps. The number and text that comes out of the algorithm is represented in the "Text (AQI range)" column of the below chart.
+PM<sub>2.5</sub> is an important measurement that is commonly used. These indexes are compared by hourly/daily PM<sub>2.5</sub> values - which is a good, but imperfect way to compare indexes that you would see on air pollution websites / apps. The number and text that comes out of the algorithm is represented in the "Text (AQI range)" column of the below chart.
 
-<iframe style="width:1000px; height:1600px;" src="https://docs.google.com/spreadsheets/d/17Zim8kxONMOG1ZSQIsEvhxQcXNyNbffvmougnEzuLVU/pubhtml?widget=true&amp;headers=false"></iframe>
 
+<iframe style="width:1000px; height:1650px;" src="https://docs.google.com/spreadsheets/d/17Zim8kxONMOG1ZSQIsEvhxQcXNyNbffvmougnEzuLVU/pubhtml?widget=true&amp;headers=false"></iframe>
+
+Colours are approximated.
 
 ## There are a lot of air pollution indexes
 
@@ -120,4 +122,8 @@ The AQI values you see in most AQI apps or websites are usually 1hr readings. So
 
 [13] National Ambient Air Quality Standards for Particulate Matter; Final Rule (USA), https://www.gpo.gov/fdsys/pkg/FR-2012-06-29/pdf/2012-15017.pdf
  
- 
+[14] Computation of the Pollutant Standards Index (PSI), (Singapore), http://www.haze.gov.sg/docs/default-source/faq/computation-of-the-pollutant-standards-index-(psi).pdf
+
+[15] FAQs on Air Quality (Singapore), http://www.nea.gov.sg/anti-pollution-radiation-protection/air-pollution-control/faqs-on-air-quality
+
+[16] What's CAI?, http://www.airkorea.or.kr/eng/cai/cai1

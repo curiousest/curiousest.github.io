@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Comparing air pollution indexes
-date: '2017-04-30T15:22:00.001-05:00'
+date: '2017-05-29T15:22:00.001-05:00'
 author: Douglas Hindson
 tags:
 - O2Canada
 - air pollution
-modified_time: '2017-05-15T15:22:00.001-05:00'
+modified_time: '2017-05-30T15:22:00.001-05:00'
 ---
 
 [There are a lot of air pollution indexes](#there-are-a-lot-of-air-pollution-indexes). [Air quality over time is hard to express](#air-quality-over-time-is-hard-to-express) and [indexes can use different combinations of particles](#indexes-can-use-different-combinations-of-particles), so one governing body often has multiple air quality indexes.

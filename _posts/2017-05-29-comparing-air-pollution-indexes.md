@@ -29,7 +29,7 @@ PM<sub>2.5</sub> is an important measurement that is commonly used. These indexe
 
 <iframe style="width:1000px; height:1650px;" src="https://docs.google.com/spreadsheets/d/17Zim8kxONMOG1ZSQIsEvhxQcXNyNbffvmougnEzuLVU/pubhtml?widget=true&amp;headers=false"></iframe>
 
-If the above frame didn't load correctly (if you're somewhere Google Sheets is blocked), [click here to see the chart](). Colours are approximated.
+If the above frame didn't load correctly (if you're somewhere Google Sheets is blocked), [click here to see the chart](https://github.com/curiousest/curiousest.github.io/blob/master/_posts/resources/aqi_chart.png). Colours are approximated.
 
 ## There are a lot of air pollution indexes
 

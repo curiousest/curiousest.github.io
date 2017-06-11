@@ -67,7 +67,7 @@ I figured messing with the circuits would fail, so I left the plastic sheets and
 
 <img src="http://i.imgur.com/YPvpN1V.jpg" max-width="1024" width="100%"><br/>
 
-<img src="http://imgur.com/tdZVEHq" max-width="1024" width="100%"><br/>
+<img src="http://imgur.com/tdZVEHq.jpg" max-width="1024" width="100%"><br/>
 
 <img src="http://i.imgur.com/YRcq2WI.jpg" max-width="1024" width="100%"><br/>
 

@@ -32,6 +32,44 @@ Headphones alone aren't enough to drown out people talking. Personally, I'm not 
 
 ## Proposed solution
 
+There's a lot of material on soundproofing. The vast majority is focused on how to soundproof a room or plug your ears.
+
+Soundproofing options:
+
+* Reflect and absorb incoming sound waves
+* Dampen sound waves that have made their way into the enclosure (absorb and prevent reverberation)
+* Cancel sound (active antinoise sound generators)
+* Increase distance between source and receiver
+
+https://en.wikipedia.org/wiki/Soundproofing
+
+
+### How to plug your ears
+
+Types of earplugs:
+
+These suck:
+<picture of foam earplug>
+
+These were interesting, but not great:
+<picture of metal earplugs>
+
+There are earplugs that reduce the intensity of sound without changing it much:
+<picture of hi-fi earplugs>
+
+These are my favourite:
+<picture of custom molded earplugs>
+
+Most earbuds don't fit my ears and most earplugs don't work for me. These fit perfectly, since they are moulded to my ear. They both reduce the intensity of sound and change sound.
+
+Even if your ears are perfectly soundproofed, you will be able to hear via bone conduction - bone is used as the medium to transmit sound waves to your eardrums.
+
+### How to soundproof a room (the size of your head)
+
+https://www.explainthatstuff.com/soundproofing.html
+
+### Thought experiment 1
+
 Scuba diving helmet
 
 ...
@@ -40,28 +78,26 @@ Picture of cone thing
 
 ...
 
-Motorcycle helmet
-
-...
-
-Sound blocking
-
-...
-
-Sealing
-
-...
-
 Deadmau5 head
-
-...
-
-Hair fuzzing machines hanging from lamp pole
 
 ...
 
 Sound-proof box <pyramid head>
 
+...
+
+### Thought experiment 2
+
+
+Hair fuzzing machines hanging from lamp pole
+
+...
+
+### Thought experiment 3
+
+Motorcycle helmet
+
+...
 
 ## Building the solution
 

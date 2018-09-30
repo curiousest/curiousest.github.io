@@ -68,48 +68,83 @@ Even if your ears are perfectly soundproofed, you will be able to hear via bone 
 
 https://www.explainthatstuff.com/soundproofing.html
 
-### Thought experiment 1
+1. Reduce unsealed airpaths
 
-Scuba diving helmet
+Most noise will come through sound's path of least resistance, then it will bounce around inside the enclosure. That path of least resistance is most likely going to be air - whether it's a window, gaps around doors, or an open neckline for the box on your head.
 
-...
+2. Improve mediums of least resistance
 
-Picture of cone thing
+<image of noise reduction coefficients https://cdn4.explainthatstuff.com/noise-reduction-coefficient-comparison.png>
 
-...
+Commonly used transparent materials don't seem to have high noise reduction coefficients [citation needed]. To improve any barrier, you can add multiple layers or make them thicker.
 
-Deadmau5 head
+Materials with high noise reduction coefficients seem to mostly be very heavy [citation needed] - a major problem for headwear. 
 
-...
+3. Absorb sound inside enclosure
 
-Sound-proof box <pyramid head>
+<image of pylons, pads>
 
-...
+4. Cancel sound
 
-### Thought experiment 2
+### Real-life design constraints
 
+1. Weight: things that are good at blocking sound are also heavy [citation needed]. Heavy things on your head are very uncomfortable.
+2. Air: restricting air movement around your head affects breathing, making enclosures hot + stuffy
+3. Time to set up: like I learned in my previous experiment, impediments to start doing work are highly undesirable.
 
-Hair fuzzing machines hanging from lamp pole
+### Thought experiment: container on head
 
-...
+1. Design project title
 
-### Thought experiment 3
+<Picture of existing cone thing>
 
-Motorcycle helmet
+This is what you may find if you look around for avante-garde office soundproofing. It's probably useless because it's completely unsealed.
 
-...
+2. Deadmau5 head
+
+<picture of diy deadmau5 head>
+
+This is probably a good idea. Especially if the eyes are closed off with a transparent material and mouth hole is closed off with breathable material. I strongly considered building this, but I couldn't find a head-sized sphere to conveniently buy at a reasonable price and they seems difficult to reinforce with more layers of barriers without introducing gaps/cracks.
+
+3. Pyramid head
+
+<picture of pyramid head>
+
+Boxes don't comfortably balance on your head, especially heavy ones. Changing the orientation of boxes to rest diamond-like, point-up distributes the weight on the shoulders and sides of your head.
+
+### Thought experiment: hanging container
+
+Regardless of which container-on-head option is chosen, it's likely to be too heavy to support without assistance.
+
+<picture Hair fuzzing machines hanging from lamp pole>
+
+<picture of box hanging from curved lamp post>
+
+### Thought experiment: existing helmets
+
+1. Diving helmet
+
+<picture Scuba diving helmet>
+
+This is probably a decent sound barrier, but very expensive and heavy relative to the sound-blocking it provides.
+
+2. Motorcycle helmet
+
+<picture of motorcycle helmet>
+<link to helmet>
+
+Much of the sound-reduction from motorcycle helmets come from aerodynamics (not generating noise in the first place). Still, they are:
+
+* Made of sound-blocking materials
+* Equipped with sound-cancelling
+* Light enough to rest comfortably on your head
+* Close to air-tight
 
 ## Building the solution
 
+Can't find a reasonably-priced sphere.
+
 Can't get a sound-proof box
-
-Stuff is heavy
-
-Air carries sound
-
-How to block sound (reflect + absorb, water analogy)
-
-Blocking air movement is also hot+stuffy
 
 Clear box with parts covered
 
@@ -123,4 +158,4 @@ It sucked + was impractical
 
 ## Conclusion
 
-I got bose headphones 1/4 of the way through the project. They're amazing
+I got bose headphones + earplugs. They're amazing

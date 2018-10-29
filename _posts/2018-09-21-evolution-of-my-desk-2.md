@@ -12,7 +12,7 @@ WORK IN PROGRESS
 I work in an open office. Open offices are loud and distracting. I attempted to build a solution.
 
 I started with this
-<picture of black headphones with earplugs>
+https://i.imgur.com/inq91fL.jpg
 
 I tried doing this:
 <img src="https://i.imgur.com/6vq80zJ.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
@@ -48,16 +48,21 @@ https://en.wikipedia.org/wiki/Soundproofing
 
 Types of earplugs:
 
-These suck:
-<picture of foam earplug>
+These suck. Foam earplugs and all types of apple earbuds have always fallen out for me:
+https://en.wikipedia.org/wiki/File:Disposable_foam_earplugs.jpg
 
-These were interesting, but not great:
-<picture of metal earplugs>
+These were interesting, but not great. For me, they were a slight improvement over foam earplugs:
+https://i.imgur.com/0fvIq7o.jpg
 
-There are earplugs that reduce the intensity of sound without changing it much:
-<picture of hi-fi earplugs>
+Source: https://www.flareaudio.com/products/isolate-aluminium
+
+There are earplugs that reduce the intensity of sound without changing it much (hi-fi earplugs). I've never tried any before:
+
+https://i.imgur.com/9GZqDos.jpg
+Source: https://www.earasers.store/
 
 These are my favourite:
+<picture of molded earplugs instructions>
 <picture of custom molded earplugs>
 
 Most earbuds don't fit my ears and most earplugs don't work for me. These fit perfectly, since they are moulded to my ear. They both reduce the intensity of sound and change sound.
@@ -74,7 +79,8 @@ Most noise will come through sound's path of least resistance, then it will boun
 
 2. Improve mediums of least resistance
 
-<image of noise reduction coefficients https://cdn4.explainthatstuff.com/noise-reduction-coefficient-comparison.png>
+<image of noise reduction coefficients https://i.imgur.com/bJJpsQ7.png>
+Source: https://cdn4.explainthatstuff.com
 
 Commonly used transparent materials don't seem to have high noise reduction coefficients [citation needed]. To improve any barrier, you can add multiple layers or make them thicker.
 
@@ -82,7 +88,10 @@ Materials with high noise reduction coefficients seem to mostly be very heavy [c
 
 3. Absorb sound inside enclosure
 
-<image of pylons, pads>
+https://i.imgur.com/E7hO2dg.jpg
+Source: https://www.amazon.co.uk/gp/product/B015NJTHQA
+
+http://www.hometheaternoisecontrol.com/wp-content/uploads/2016/03/soundproof-room-1.jpg
 
 4. Cancel sound
 
@@ -94,27 +103,34 @@ Materials with high noise reduction coefficients seem to mostly be very heavy [c
 
 ### Thought experiment: container on head
 
-1. Design project title
+1. Existing design project: Helmfon
 
-<Picture of existing cone thing>
+http://hochurayu.com/product_design/helmfon/
 
-This is what you may find if you look around for avante-garde office soundproofing. It's probably useless because it's completely unsealed.
+This is what you may find if you look around for avante-garde office soundproofing. Generic headphones with horse-blinders would be more effective at achieving the same functional purpose. It's probably useless because:
+
+* It's completely unsealed
+* If the material is a good sound barrier (dense), it will be uncomfortably heavy
 
 2. Deadmau5 head
 
-<picture of diy deadmau5 head>
+https://cdn.instructables.com/F23/S7JT/GGPF37Q3/F23S7JTGGPF37Q3.LARGE.jpg
+
+Source: https://www.instructables.com/id/How-to-build-your-own-Deadmau5-mouse-head-helmet/
 
 This is probably a good idea.
 
+DIY instructions: https://www.google.com/search?q=DIY+deadmau5+helmet
+
 Especially if the eyes are closed off with a transparent material and mouth hole is closed off with breathable material. I strongly considered building this, but:
 
-* I couldn't find a head-sized sphere to conveniently buy at a reasonable price
+* I couldn't find a head-sized sphere to conveniently buy at a reasonable price in UK
 * DIY spheres are flimsy (paper-mache + chicken wire)
 * It is difficult to reinforce a sphere (you have to paste rectangles on a sphere)
 
 3. Pyramid head
 
-<picture of pyramid head>
+https://i.ytimg.com/vi/8oRtaoQYsVY/maxresdefault.jpg
 
 Boxes don't comfortably balance on your head, especially heavy ones. Changing the orientation of boxes to rest diamond-like, point-up distributes the weight on the shoulders and sides of your head.
 

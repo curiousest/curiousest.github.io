@@ -9,13 +9,13 @@ modified_time: '2018-09-21T11:00:00.001-05:00'
 
 WORK IN PROGRESS
 
-I work in an open office. Open offices are loud and distracting. I attempted to solve this problem with a second iteration on my desk <link to first iteration>.
+I work in an open office. Open offices are loud and distracting. I attempted to build a solution.
 
 I started with this
 <picture of black headphones with earplugs>
 
-I tried doing this
-<picture of box on head>
+I tried doing this:
+<img src="https://i.imgur.com/6vq80zJ.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
 
 I ended up with this
 <picture of bose with earplugs>
@@ -32,7 +32,7 @@ Headphones alone aren't enough to drown out people talking. Personally, I'm not 
 
 ## Proposed solution
 
-There's a lot of material on soundproofing. The vast majority is focused on how to soundproof a room or plug your ears.
+There's a lot of material on soundproofing. The material is focused on how to soundproof a room or plug your ears. There is little material on how to sound-proof your head.
 
 Soundproofing options:
 
@@ -89,8 +89,8 @@ Materials with high noise reduction coefficients seem to mostly be very heavy [c
 ### Real-life design constraints
 
 1. Weight: things that are good at blocking sound are also heavy [citation needed]. Heavy things on your head are very uncomfortable.
-2. Air: restricting air movement around your head affects breathing, making enclosures hot + stuffy
-3. Time to set up: like I learned in my previous experiment, impediments to start doing work are highly undesirable.
+2. Air: restricting air movement around your head affects breathing and makes enclosures hot + stuffy
+3. Time to set up: like I learned in my previous experiment, impediments to start doing work (inertia) are highly undesirable.
 
 ### Thought experiment: container on head
 
@@ -104,21 +104,19 @@ This is what you may find if you look around for avante-garde office soundproofi
 
 <picture of diy deadmau5 head>
 
-This is probably a good idea. Especially if the eyes are closed off with a transparent material and mouth hole is closed off with breathable material. I strongly considered building this, but I couldn't find a head-sized sphere to conveniently buy at a reasonable price and they seems difficult to reinforce with more layers of barriers without introducing gaps/cracks.
+This is probably a good idea.
+
+Especially if the eyes are closed off with a transparent material and mouth hole is closed off with breathable material. I strongly considered building this, but:
+
+* I couldn't find a head-sized sphere to conveniently buy at a reasonable price
+* DIY spheres are flimsy (paper-mache + chicken wire)
+* It is difficult to reinforce a sphere (you have to paste rectangles on a sphere)
 
 3. Pyramid head
 
 <picture of pyramid head>
 
 Boxes don't comfortably balance on your head, especially heavy ones. Changing the orientation of boxes to rest diamond-like, point-up distributes the weight on the shoulders and sides of your head.
-
-### Thought experiment: hanging container
-
-Regardless of which container-on-head option is chosen, it's likely to be too heavy to support without assistance.
-
-<picture Hair fuzzing machines hanging from lamp pole>
-
-<picture of box hanging from curved lamp post>
 
 ### Thought experiment: existing helmets
 
@@ -140,21 +138,52 @@ Much of the sound-reduction from motorcycle helmets come from aerodynamics (not 
 * Light enough to rest comfortably on your head
 * Close to air-tight
 
+### Thought experiment: hanging container
+
+Regardless of which container-on-head option is chosen, it's likely to be too heavy to support without assistance.
+
+<picture Hair fuzzing machines hanging from lamp pole>
+
+<picture of me standing inside our curved lamp>
+
 ## Building the solution
 
 Can't find a reasonably-priced sphere.
 
 Can't get a sound-proof box
 
-Clear box with parts covered
+I bought this acrylic box on Amazon (£30) and acoustic sealant (~£2) to glue things together while soundproofing the cracks/joints/gaps between the things being glued together.
+https://i.imgur.com/6vq80zJ.jpg
 
-Car sound-proofing
+I bought acoustic barrier, used to sound-proof cars.
+https://i.imgur.com/jZNocWm.jpg
 
-Soundproof glue
+I cut it up and cleaned it
+https://i.imgur.com/e4kxtWj.jpg
 
-Emergent abstract art
+I glued everything together
 
-It sucked + was impractical
+Edge 1: https://i.imgur.com/AlQ7rLf.jpg
+Edge 2: https://i.imgur.com/hIAuPyi.jpg
+Edge 3: https://i.imgur.com/qdeqbW8.jpg
+Glue closeup: https://i.imgur.com/Xy1QJBl.jpg
+
+I put it on my head
+
+https://i.imgur.com/qdeqbW8.jpg
+https://i.imgur.com/6vq80zJ.jpg
+https://i.imgur.com/l5Z0Q8S.jpg
+https://i.imgur.com/mCr9a7b.jpg
+https://i.imgur.com/WG1kBPN.jpg
+
+It sucked + was impractical.
+* Flimsy (I could feel the edges & corners of the box flexing too much)
+* Very heavy and uncomfortable
+* Didn't block sound very well (exposed neckline, acrylic face area not a great barrier)
+
+To finish it off, I was going to add flaps to seal the neck/shoulder area,
+<picture of predator dreadlocks>
+ but it wasn't working well as it existed already, so I trashed the idea.
 
 ## Conclusion
 

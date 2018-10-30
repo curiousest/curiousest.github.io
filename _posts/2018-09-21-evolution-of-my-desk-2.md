@@ -15,14 +15,14 @@ WORK IN PROGRESS
 
 I work in an open office. Open offices are loud and distracting. I attempted to build a solution.
 
-I started with this
+I started with this:<br/>
 <img src="https://i.imgur.com/inq91fL.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
 
-I tried doing this:
+I tried doing this:<br/>
 <img src="https://i.imgur.com/6vq80zJ.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
 
-I ended up with this
-<picture of bose with earplugs>
+I ended up with this:<br/>
+picture of bose with earplugs
 
 
 ## The problem
@@ -66,8 +66,8 @@ There are earplugs that reduce the intensity of sound without changing it much (
 Source: https://www.earasers.store/
 
 These are my favourite:
-<picture of molded earplugs instructions>
-<picture of custom molded earplugs>
+picture of molded earplugs instructions
+picture of custom molded earplugs
 
 Most earbuds don't fit my ears and most earplugs don't work for me. These fit perfectly, since they are moulded to my ear. They both reduce the intensity of sound and change sound.
 
@@ -206,7 +206,7 @@ It sucked + was impractical.
 * Didn't block sound very well (exposed neckline, acrylic face area not a great barrier)
 
 To finish it off, I was going to add flaps to seal the neck/shoulder area,
-<picture of predator dreadlocks>
+picture of predator dreadlocks
  but it wasn't working well as it existed already, so I trashed the idea.
 
 ## Conclusion

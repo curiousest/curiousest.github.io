@@ -3,7 +3,11 @@ layout: post
 title: Evolution of my desk part 2 
 date: '2018-09-21T11:00:00.001-05:00'
 author: Douglas Hindson
-tags: essay
+tags: 
+- DIY
+- blog
+- favourite
+- projects
 modified_time: '2018-09-21T11:00:00.001-05:00'
 ---
 
@@ -12,7 +16,7 @@ WORK IN PROGRESS
 I work in an open office. Open offices are loud and distracting. I attempted to build a solution.
 
 I started with this
-https://i.imgur.com/inq91fL.jpg
+<img src="https://i.imgur.com/inq91fL.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
 
 I tried doing this:
 <img src="https://i.imgur.com/6vq80zJ.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
@@ -49,16 +53,16 @@ https://en.wikipedia.org/wiki/Soundproofing
 Types of earplugs:
 
 These suck. Foam earplugs and all types of apple earbuds have always fallen out for me:
-https://en.wikipedia.org/wiki/File:Disposable_foam_earplugs.jpg
+<img src="https://en.wikipedia.org/wiki/File:Disposable_foam_earplugs.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
 
 These were interesting, but not great. For me, they were a slight improvement over foam earplugs:
-https://i.imgur.com/0fvIq7o.jpg
+<img src="https://i.imgur.com/0fvIq7o.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
 
-Source: https://www.flareaudio.com/products/isolate-aluminium
+Source: <img src="https://www.flareaudio.com" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>/products/isolate-aluminium
 
 There are earplugs that reduce the intensity of sound without changing it much (hi-fi earplugs). I've never tried any before:
 
-https://i.imgur.com/9GZqDos.jpg
+<img src="https://i.imgur.com/9GZqDos.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
 Source: https://www.earasers.store/
 
 These are my favourite:
@@ -79,7 +83,7 @@ Most noise will come through sound's path of least resistance, then it will boun
 
 2. Improve mediums of least resistance
 
-<image of noise reduction coefficients https://i.imgur.com/bJJpsQ7.png>
+<img src="https://i.imgur.com/bJJpsQ7.png" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
 Source: https://cdn4.explainthatstuff.com
 
 Commonly used transparent materials don't seem to have high noise reduction coefficients [citation needed]. To improve any barrier, you can add multiple layers or make them thicker.
@@ -88,7 +92,7 @@ Materials with high noise reduction coefficients seem to mostly be very heavy [c
 
 3. Absorb sound inside enclosure
 
-https://i.imgur.com/E7hO2dg.jpg
+<img src="https://i.imgur.com/E7hO2dg.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
 Source: https://www.amazon.co.uk/gp/product/B015NJTHQA
 
 http://www.hometheaternoisecontrol.com/wp-content/uploads/2016/03/soundproof-room-1.jpg
@@ -105,6 +109,7 @@ http://www.hometheaternoisecontrol.com/wp-content/uploads/2016/03/soundproof-roo
 
 1. Existing design project: Helmfon
 
+<img src="https://i.imgur.com/sV9GYUc.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
 http://hochurayu.com/product_design/helmfon/
 
 This is what you may find if you look around for avante-garde office soundproofing. Generic headphones with horse-blinders would be more effective at achieving the same functional purpose. It's probably useless because:
@@ -114,7 +119,7 @@ This is what you may find if you look around for avante-garde office soundproofi
 
 2. Deadmau5 head
 
-https://cdn.instructables.com/F23/S7JT/GGPF37Q3/F23S7JTGGPF37Q3.LARGE.jpg
+<img src="https://cdn.instructables.com/F23/S7JT/GGPF37Q3/F23S7JTGGPF37Q3.LARGE.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
 
 Source: https://www.instructables.com/id/How-to-build-your-own-Deadmau5-mouse-head-helmet/
 
@@ -130,7 +135,7 @@ Especially if the eyes are closed off with a transparent material and mouth hole
 
 3. Pyramid head
 
-https://i.ytimg.com/vi/8oRtaoQYsVY/maxresdefault.jpg
+<img src="https://i.ytimg.com/vi/8oRtaoQYsVY/maxresdefault.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
 
 Boxes don't comfortably balance on your head, especially heavy ones. Changing the orientation of boxes to rest diamond-like, point-up distributes the weight on the shoulders and sides of your head.
 
@@ -138,14 +143,15 @@ Boxes don't comfortably balance on your head, especially heavy ones. Changing th
 
 1. Diving helmet
 
-<picture Scuba diving helmet>
+<img src="https://i.imgur.com/lb9CWDr.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
+Source: https://www.amazon.co.uk/Historicalmuseum-Antique-ANCHOR-Yellow-Divers/dp/B07D22S2YM/
 
 This is probably a decent sound barrier, but very expensive and heavy relative to the sound-blocking it provides.
 
 2. Motorcycle helmet
 
-<picture of motorcycle helmet>
-<link to helmet>
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/White_full-face-helmet.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
+By User:Motorrad-67 - Own work (Original text: I created this work entirely by myself.), Attribution, https://commons.wikimedia.org/w/index.php?curid=9944417
 
 Much of the sound-reduction from motorcycle helmets come from aerodynamics (not generating noise in the first place). Still, they are:
 
@@ -154,11 +160,13 @@ Much of the sound-reduction from motorcycle helmets come from aerodynamics (not 
 * Light enough to rest comfortably on your head
 * Close to air-tight
 
+More information: https://badasshelmetstore.com/noise-canceling-motorcycle-helmets-the-quietest-helmets-ever/
+
 ### Thought experiment: hanging container
 
 Regardless of which container-on-head option is chosen, it's likely to be too heavy to support without assistance.
 
-<picture Hair fuzzing machines hanging from lamp pole>
+<img src="https://i.imgur.com/5w7rcsh.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
 
 <picture of me standing inside our curved lamp>
 
@@ -169,28 +177,28 @@ Can't find a reasonably-priced sphere.
 Can't get a sound-proof box
 
 I bought this acrylic box on Amazon (£30) and acoustic sealant (~£2) to glue things together while soundproofing the cracks/joints/gaps between the things being glued together.
-https://i.imgur.com/6vq80zJ.jpg
+<img src="https://i.imgur.com/6vq80zJ.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
 
 I bought acoustic barrier, used to sound-proof cars.
-https://i.imgur.com/jZNocWm.jpg
+<img src="https://i.imgur.com/jZNocWm.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
 
 I cut it up and cleaned it
-https://i.imgur.com/e4kxtWj.jpg
+<img src="https://i.imgur.com/e4kxtWj.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
 
 I glued everything together
 
-Edge 1: https://i.imgur.com/AlQ7rLf.jpg
-Edge 2: https://i.imgur.com/hIAuPyi.jpg
-Edge 3: https://i.imgur.com/qdeqbW8.jpg
-Glue closeup: https://i.imgur.com/Xy1QJBl.jpg
+Edge 1: <img src="https://i.imgur.com/AlQ7rLf.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
+Edge 2: <img src="https://i.imgur.com/hIAuPyi.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
+Edge 3: <img src="https://i.imgur.com/qdeqbW8.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
+Glue closeup: <img src="https://i.imgur.com/Xy1QJBl.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
 
 I put it on my head
 
-https://i.imgur.com/qdeqbW8.jpg
-https://i.imgur.com/6vq80zJ.jpg
-https://i.imgur.com/l5Z0Q8S.jpg
-https://i.imgur.com/mCr9a7b.jpg
-https://i.imgur.com/WG1kBPN.jpg
+<img src="https://i.imgur.com/qdeqbW8.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
+<img src="https://i.imgur.com/6vq80zJ.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
+<img src="https://i.imgur.com/l5Z0Q8S.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
+<img src="https://i.imgur.com/mCr9a7b.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
+<img src="https://i.imgur.com/WG1kBPN.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
 
 It sucked + was impractical.
 * Flimsy (I could feel the edges & corners of the box flexing too much)

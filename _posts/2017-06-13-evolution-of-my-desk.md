@@ -7,6 +7,7 @@ tags:
 - DIY
 - blog
 - favourite
+- projects
 modified_time: '2017-06-13T11:52:00.001-05:00'
 ---
 

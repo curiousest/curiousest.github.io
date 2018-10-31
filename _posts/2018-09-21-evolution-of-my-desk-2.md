@@ -31,7 +31,7 @@ Open offices are loud - for your ears and your eyes. Discussions, pair programmi
 
 Headphones alone aren't enough to drown out people talking. Personally, I'm not willing to constantly play music loud enough to drown out 2+ volume-competing conversations. 
 
-## Proposed solution
+## Sound context
 
 There's a lot of material on soundproofing. The material is focused on how to soundproof a room or plug your ears. There is little material on how to sound-proof your head.
 
@@ -44,16 +44,14 @@ Soundproofing options:
 
 [Wikipedia article](https://en.wikipedia.org/wiki/Soundproofing)
 
-## Sound context
-
-### How to plug your ears
-
-Types of earplugs:
+### Types of earplugs
 
 **Foam earplugs.** These suck. My ear canal is not suited for this type of earplug - foam earplugs and all types of apple earbuds have always fallen out for me. (~$1):
+
 <img src="https://i.imgur.com/GeO24V1.png" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
 
 **Metal earplugs with foam inserts.** These were interesting, but not great. For me, they were a slight improvement over foam earplugs (~$30):
+
 <img src="https://i.imgur.com/0fvIq7o.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
 
 [Source](https://www.flareaudio.com/products/isolate-aluminium)
@@ -61,6 +59,7 @@ Types of earplugs:
 **Hi-fi earplugs.** There are earplugs that reduce the intensity of sound without changing it much. I've never tried any before. (~$50):
 
 <img src="https://i.imgur.com/9GZqDos.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
+
 [Source](https://www.earasers.store/)
 
 **Moulded earplugs** These are my favourite. They are very good at blocking sound, but they muffle/distort sound heavily. (~$10):
@@ -71,11 +70,11 @@ Even if your ears are perfectly soundproofed, you will be able to hear via bone 
 
 ### How to soundproof a room (the size of your head)
 
-#### Reduce unsealed airpaths
+**Reduce unsealed airpaths**
 
 Most noise will come through sound's path of least resistance, then it will bounce around inside the enclosure. That path of least resistance is most likely going to be air - whether it's a window, gaps around doors, or an open neckline under the box on your head.
 
-#### Improve mediums of least resistance
+**Improve mediums of least resistance**
 
 <img src="https://i.imgur.com/bJJpsQ7.png" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
 Source: https://cdn4.explainthatstuff.com
@@ -84,42 +83,43 @@ Commonly used transparent materials don't seem to have high noise reduction coef
 
 Materials with high noise reduction coefficients seem to mostly be very heavy [citation needed] - a major problem for headwear. 
 
-#### Absorb sound inside enclosure
+**Absorb sound inside enclosure**
 
 <img src="https://i.imgur.com/E7hO2dg.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
 
 [Source](https://www.amazon.co.uk/gp/product/B015NJTHQA)
 
-#### Cancel sound
+**Cancel sound**
 
-[Active sound canelling - wikipedia](https://en.wikipedia.org/wiki/Active_noise_control)
+[Active sound cancelling - wikipedia](https://en.wikipedia.org/wiki/Active_noise_control)
 
 [Comprehensive article on how to soundproof a room](https://www.explainthatstuff.com/soundproofing.html)
 
 ### Real-life design constraints
 
-1. Weight: things that are good at blocking sound are also heavy [citation needed]. Heavy things on your head are very uncomfortable.
-2. Air: restricting air movement around your head affects breathing and makes enclosures hot + stuffy
-3. Time to set up: like I learned in my previous experiment, impediments to start doing work (inertia) are highly undesirable.
+1. **Weight:** things that are good at blocking sound are also heavy [citation needed]. Heavy things on your head are very uncomfortable.
+2. **Air:** restricting air movement around your head affects breathing and makes enclosures hot + stuffy
+3. **Time to set up:** like I learned in my previous experiment, impediments to start doing work (inertia) are highly undesirable.
 
 ## Thought experiments before building
 
 ### Thought experiment: container on head
 
-#### Existing design project: [Helmfon](http://hochurayu.com/product_design/helmfon/)
+**Existing design project: [Helmfon](http://hochurayu.com/product_design/helmfon/)**
 
 <img src="https://i.imgur.com/sV9GYUc.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
 
 This is what you may find if you look around for avante-garde office soundproofing. Generic headphones with horse-blinders would be more effective at achieving the same functional purpose. It's probably useless because:
 
-* It's completely unsealed
+* It's completely unsealed - air is the medium of least resistance
 * If the material is a good sound barrier (dense), Helmfon would be uncomfortably heavy. It's probably not (the project is design over function), so the helmet part of Helmfon probably wouldn't be very effective.
 
-#### Sphere on head
+**Sphere on head**
 
 <img src="https://cdn.instructables.com/F23/S7JT/GGPF37Q3/F23S7JTGGPF37Q3.LARGE.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
 
 [Source.](https://www.instructables.com/id/How-to-build-your-own-Deadmau5-mouse-head-helmet/) [Other DIY instructions.](https://www.google.com/search?q=DIY+deadmau5+helmet)
+
 This is probably a good idea.
 
 This could work particularly well if the eyes are closed off with a transparent material and mouth hole is closed off with breathable material. I strongly considered building this, but:
@@ -128,7 +128,7 @@ This could work particularly well if the eyes are closed off with a transparent 
 * DIY spheres are flimsy (paper-mache + chicken wire)
 * It is difficult to reinforce a sphere (you have to paste rectangles on a sphere)
 
-#### Box on head
+**Box on head**
 
 <img src="https://i.ytimg.com/vi/8oRtaoQYsVY/maxresdefault.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
 
@@ -136,14 +136,14 @@ Boxes don't comfortably balance on your head, especially heavy ones. Changing th
 
 ### Thought experiment: repurpose existing helmets
 
-#### Diving helmet
+**Diving helmet**
 
 <img src="https://i.imgur.com/lb9CWDr.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
 [Source](https://www.amazon.co.uk/Historicalmuseum-Antique-ANCHOR-Yellow-Divers/dp/B07D22S2YM/)
 
 This is probably a decent sound barrier, but very expensive and heavy relative to the sound-blocking it provides.
 
-#### Motorcycle helmet
+**Motorcycle helmet**
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/White_full-face-helmet.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
 By User:Motorrad-67 - Own work (Original text: I created this work entirely by myself.), Attribution, https://commons.wikimedia.org/w/index.php?curid=9944417

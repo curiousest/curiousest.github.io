@@ -10,9 +10,9 @@ tags:
 modified_time: '2018-09-21T11:00:00.001-05:00'
 ---
 
-I work in an open office. Open offices are loud and distracting. I attempted to build a solution.
-
 [Part 1 - on keyboards](/2017/06/13/evolution-of-my-desk.html)
+
+I work in an open office. Open offices are loud and distracting. I attempted to build a solution.
 
 I started with earplugs and headphones:<br/>
 <img src="https://i.imgur.com/inq91fL.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
@@ -114,10 +114,12 @@ I like to imagine droplets of water bouncing around - it'll keep bouncing around
 
 <img src="https://i.imgur.com/sV9GYUc.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
 
+This is probably useless. 
+
 This is what you may find if you look around for avante-garde office soundproofing. Generic headphones with horse-blinders would be more effective at achieving the same functional purpose. It's probably useless because:
 
-* It's completely unsealed - air is the medium of least resistance
-* If the material is a good sound barrier (dense), Helmfon would be uncomfortably heavy. It's probably not (the project is design over function), so the helmet part of Helmfon probably wouldn't be very effective.
+* **It's completely unsealed:** air is the medium of least resistance and the whole face is open
+* **It's either heavy or non-blocking:** If the material is a good sound barrier (dense), Helmfon would be uncomfortably heavy due to its size. It's probably not (the project is design over function), so the helmet part of Helmfon probably wouldn't be very effective.
 
 **Sphere on head**
 
@@ -129,15 +131,15 @@ This is probably a good idea.
 
 This could work particularly well if the eyes are closed off with a transparent material and mouth hole is closed off with breathable material. I strongly considered building this, but:
 
-* **Can't find sphere:** I couldn't find a head-sized sphere to conveniently buy at a reasonable price in UK
-* **Structurally weak?:** DIY spheres are probably flimsy (paper-mache + chicken wire)
-* **Hard to sound-proof?:** It is difficult to reinforce a sphere with sound-blocking material (you have to paste rectangles on a sphere)
+* **Couldn't buy a sphere:** I couldn't find a head-sized sphere to conveniently buy at a reasonable price in UK
+* **DIY structurally weak:** DIY spheres are probably flimsy (paper-mache + chicken wire)
+* **Hard to sound-proof:** It is difficult to reinforce a sphere with sound-blocking material (you have to paste rectangles on a sphere)
 
 **Box on head**
 
-<img src="https://i.ytimg.com/vi/8oRtaoQYsVY/maxresdefault.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
-
 Boxes don't comfortably balance on your head, especially heavy ones. Changing the orientation of boxes to rest diamond-like, point-up distributes the weight on the shoulders and sides of your head. Boxes are convenient to buy and reasonably-priced.
+
+<img src="https://i.ytimg.com/vi/8oRtaoQYsVY/maxresdefault.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
 
 ### Thought experiment: repurpose existing helmets
 
@@ -207,7 +209,7 @@ It sucked.
 
 * **Flimsy:** I could feel the edges & corners of the box flexing too much
 * **Heavy:** wearing it for just 5 minutes was uncomfortable for my shoulders and nect
-* **Didn't block sound:** the exposed neckline was large, and the acrylic face area wasn't a great barrier
+* **Didn't block sound:** the exposed neckline was large, and the clear face area wasn't a great sound barrier
 
 I was going to add predator-like dreadlock flaps to seal the neckline, but it wasn't working well as it existed already, so I trashed the project:
 

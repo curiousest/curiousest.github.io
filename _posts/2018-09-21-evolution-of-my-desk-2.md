@@ -10,7 +10,9 @@ tags:
 modified_time: '2018-09-21T11:00:00.001-05:00'
 ---
 
-I work in an open office. Open offices are loud and distracting. I attempted to build a solution. [Part 1 - on keyboards](/2017/06/13/evolution-of-my-desk.html)
+I work in an open office. Open offices are loud and distracting. I attempted to build a solution.
+
+[Part 1 - on keyboards](/2017/06/13/evolution-of-my-desk.html)
 
 I started with earplugs and headphones:<br/>
 <img src="https://i.imgur.com/inq91fL.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
@@ -22,6 +24,7 @@ I ended up with earplugs and sound-cancelling headphones:<br/>
 picture of bose with earplugs
 
 
+
 ## The problem
 
 * Hearing people talking
@@ -31,16 +34,18 @@ Open offices are loud - for your ears and your eyes. Discussions, pair programmi
 
 Headphones alone aren't enough to drown out people talking. Personally, I'm not willing to constantly play music loud enough to drown out 2+ volume-competing conversations. 
 
+
+
 ## Sound context
 
 There's a lot of material on soundproofing. The material is focused on how to soundproof a room or plug your ears. There is little material on how to sound-proof your head.
 
 Soundproofing options:
 
-* *Stop sound coming in*: reflect and absorb incoming sound waves
-* *Absorb sound inside*: dampen sound waves that have made their way into the enclosure to absorb and prevent reverberation
-* *Cancel sound*: active antinoise sound generators
-* *Don't be near sound*: increase distance between source and receiver
+* **Stop sound coming in**: reflect and absorb incoming sound waves
+* **Absorb sound inside**: dampen sound waves that have made their way into the enclosure to absorb and prevent reverberation
+* **Cancel sound**: active antinoise sound generators
+* **Don't be near sound**: increase distance between source and receiver
 
 [Wikipedia article](https://en.wikipedia.org/wiki/Soundproofing)
 
@@ -74,30 +79,32 @@ Most noise will come through sound's path of least resistance, then it will boun
 
 **Improve mediums of least resistance**
 
+Commonly used transparent materials don't seem to have high noise reduction coefficients [citation needed]. To improve any barrier, you can add multiple layers or make them thicker. The human body has a high noise reduction coeffieicent - this significantly reduces the complexity of sound-proofing your head. Materials with high noise reduction coefficients seem to mostly be very heavy [citation needed] - a major problem for headwear. 
+
 <img src="https://i.imgur.com/bJJpsQ7.png" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
 [Source](https://cdn4.explainthatstuff.com)
 
-Commonly used transparent materials don't seem to have high noise reduction coefficients [citation needed]. To improve any barrier, you can add multiple layers or make them thicker. The human body has a high noise reduction coeffieicent - this significantly reduces the complexity of sound-proofing your head. Materials with high noise reduction coefficients seem to mostly be very heavy [citation needed] - a major problem for headwear. 
-
 **Absorb sound inside enclosure**
+
+I like to imagine droplets of water bouncing around - it'll keep bouncing around until it's completely absorbed by materials on the inside. The main difference being, water is matter and sound is energy. 
 
 <img src="https://i.imgur.com/E7hO2dg.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
 
 [Source](https://www.amazon.co.uk/gp/product/B015NJTHQA)
 
-I like to imagine droplets of water bouncing around - it'll keep bouncing around until it's completely absorbed by materials on the inside. The main difference being, water is matter and sound is energy. 
-
 **Cancel sound**
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Active_Noise_Reduction.svg/284px-Active_Noise_Reduction.svg.png" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
-
 [Active sound cancelling - wikipedia](https://en.wikipedia.org/wiki/Active_noise_control)
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Active_Noise_Reduction.svg/284px-Active_Noise_Reduction.svg.png" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
 
 ### Real-life design constraints
 
 1. **Weight:** things that are good at blocking sound are also heavy [citation needed]. Heavy things on your head are very uncomfortable.
-2. **Air:** restricting air movement around your head affects breathing and makes enclosures hot + stuffy
+2. **Air:** restricting air movement around your head affects breathing, making enclosures hot and stuffy.
 3. **Time to set up:** like I learned in [my previous desk project](/2017/06/13/evolution-of-my-desk.html), impediments to start doing work (inertia) are highly undesirable.
+
+
 
 ## Thought experiments before building
 
@@ -163,6 +170,8 @@ Regardless of which container-on-head option is chosen, it's likely to be too he
 
 picture of me standing inside our curved lamp
 
+
+
 ## Building the solution
 
 ### Sound-proof head container
@@ -196,9 +205,9 @@ I put it on my head.
 
 It sucked.
 
-* *Flimsy:* I could feel the edges & corners of the box flexing too much
-* *Heavy:* wearing it for just 5 minutes was uncomfortable for my shoulders and nect
-* *Didn't block sound:* the exposed neckline was large, and the acrylic face area wasn't a great barrier
+* **Flimsy:** I could feel the edges & corners of the box flexing too much
+* **Heavy:** wearing it for just 5 minutes was uncomfortable for my shoulders and nect
+* **Didn't block sound:** the exposed neckline was large, and the acrylic face area wasn't a great barrier
 
 I was going to add predator-like dreadlock flaps to seal the neckline, but it wasn't working well as it existed already, so I trashed the project:
 
@@ -209,6 +218,7 @@ I was going to add predator-like dreadlock flaps to seal the neckline, but it wa
 
 I got bose headphones + earplugs. They're amazing. Description of why....
 picture....
+
 
 
 ## Conclusion

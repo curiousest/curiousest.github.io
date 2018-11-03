@@ -10,15 +10,15 @@ tags:
 modified_time: '2018-09-21T11:00:00.001-05:00'
 ---
 
-I work in an open office. Open offices are loud and distracting. I attempted to build a solution. [Part 1](/2017/06/13/evolution-of-my-desk.html)
+I work in an open office. Open offices are loud and distracting. I attempted to build a solution. [Part 1 - on keyboards](/2017/06/13/evolution-of-my-desk.html)
 
-I started with this:<br/>
+I started with earplugs and headphones:<br/>
 <img src="https://i.imgur.com/inq91fL.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
 
 I tried doing this:<br/>
 <img src="https://i.imgur.com/6vq80zJ.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
 
-I ended up with this:<br/>
+I ended up with earplugs and sound-cancelling headphones:<br/>
 picture of bose with earplugs
 
 
@@ -37,10 +37,10 @@ There's a lot of material on soundproofing. The material is focused on how to so
 
 Soundproofing options:
 
-* Reflect and absorb incoming sound waves
-* Dampen sound waves that have made their way into the enclosure (absorb and prevent reverberation)
-* Cancel sound (active antinoise sound generators)
-* Increase distance between source and receiver
+* *Stop sound coming in*: reflect and absorb incoming sound waves
+* *Absorb sound inside*: dampen sound waves that have made their way into the enclosure to absorb and prevent reverberation
+* *Cancel sound*: active antinoise sound generators
+* *Don't be near sound*: increase distance between source and receiver
 
 [Wikipedia article](https://en.wikipedia.org/wiki/Soundproofing)
 
@@ -50,17 +50,13 @@ Soundproofing options:
 
 <img src="https://i.imgur.com/GeO24V1.png" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
 
-**Metal earplugs with foam inserts.** These were interesting, but not great. For me, they were a slight improvement over foam earplugs (~$30):
+**Metal earplugs with foam inserts.** These were interesting, but not great. For me, they were a slight improvement over foam earplugs (~$30: [Source](https://www.flareaudio.com/products/isolate-aluminium)):
 
 <img src="https://i.imgur.com/0fvIq7o.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
 
-[Source](https://www.flareaudio.com/products/isolate-aluminium)
-
-**Hi-fi earplugs.** There are earplugs that reduce the intensity of sound without changing it much. I've never tried any before. (~$50):
+**Hi-fi earplugs.** There are earplugs that reduce the intensity of sound without changing it much. I've never tried any before. (~$50: [Source](https://www.earasers.store/)):
 
 <img src="https://i.imgur.com/9GZqDos.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
-
-[Source](https://www.earasers.store/)
 
 **Moulded earplugs** These are my favourite. They are very good at blocking sound, but they muffle/distort sound heavily. (~$10):
 picture of molded earplugs instructions
@@ -70,6 +66,8 @@ Even if your ears are perfectly soundproofed, you will be able to hear via bone 
 
 ### How to soundproof a room (the size of your head)
 
+[Comprehensive article on how to soundproof a room](https://www.explainthatstuff.com/soundproofing.html)
+
 **Reduce unsealed airpaths**
 
 Most noise will come through sound's path of least resistance, then it will bounce around inside the enclosure. That path of least resistance is most likely going to be air - whether it's a window, gaps around doors, or an open neckline under the box on your head.
@@ -77,11 +75,9 @@ Most noise will come through sound's path of least resistance, then it will boun
 **Improve mediums of least resistance**
 
 <img src="https://i.imgur.com/bJJpsQ7.png" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
-Source: https://cdn4.explainthatstuff.com
+[Source](https://cdn4.explainthatstuff.com)
 
-Commonly used transparent materials don't seem to have high noise reduction coefficients [citation needed]. To improve any barrier, you can add multiple layers or make them thicker. The human body has a high noise reduction coeffieicent - this significantly reduces the complexity of sound-proofing your head.
-
-Materials with high noise reduction coefficients seem to mostly be very heavy [citation needed] - a major problem for headwear. 
+Commonly used transparent materials don't seem to have high noise reduction coefficients [citation needed]. To improve any barrier, you can add multiple layers or make them thicker. The human body has a high noise reduction coeffieicent - this significantly reduces the complexity of sound-proofing your head. Materials with high noise reduction coefficients seem to mostly be very heavy [citation needed] - a major problem for headwear. 
 
 **Absorb sound inside enclosure**
 
@@ -89,17 +85,19 @@ Materials with high noise reduction coefficients seem to mostly be very heavy [c
 
 [Source](https://www.amazon.co.uk/gp/product/B015NJTHQA)
 
+I like to imagine droplets of water bouncing around - it'll keep bouncing around until it's completely absorbed by materials on the inside. The main difference being, water is matter and sound is energy. 
+
 **Cancel sound**
 
-[Active sound cancelling - wikipedia](https://en.wikipedia.org/wiki/Active_noise_control)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Active_Noise_Reduction.svg/284px-Active_Noise_Reduction.svg.png" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
 
-[Comprehensive article on how to soundproof a room](https://www.explainthatstuff.com/soundproofing.html)
+[Active sound cancelling - wikipedia](https://en.wikipedia.org/wiki/Active_noise_control)
 
 ### Real-life design constraints
 
 1. **Weight:** things that are good at blocking sound are also heavy [citation needed]. Heavy things on your head are very uncomfortable.
 2. **Air:** restricting air movement around your head affects breathing and makes enclosures hot + stuffy
-3. **Time to set up:** like I learned in my previous experiment, impediments to start doing work (inertia) are highly undesirable.
+3. **Time to set up:** like I learned in [my previous desk project](/2017/06/13/evolution-of-my-desk.html), impediments to start doing work (inertia) are highly undesirable.
 
 ## Thought experiments before building
 
@@ -146,7 +144,7 @@ This is probably a decent sound barrier, but very expensive and heavy relative t
 **Motorcycle helmet**
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/White_full-face-helmet.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
-By User:Motorrad-67 - Own work (Original text: I created this work entirely by myself.), Attribution, https://commons.wikimedia.org/w/index.php?curid=9944417
+[Source](https://commons.wikimedia.org/w/index.php?curid=9944417)
 
 Much of the sound-reduction from motorcycle helmets come from aerodynamics (not generating noise in the first place). Still, they are:
 
@@ -171,9 +169,9 @@ picture of me standing inside our curved lamp
 
 I bought an acrylic box on Amazon (£30) and acoustic sealant (~£2) to glue things together while soundproofing the cracks/joints/gaps between the things being glued together.
 
-<img src="https://i.imgur.com/6vq80zJ.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
+<img src="https://i.imgur.com/YyzFyKE.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
 
-I bought acoustic barrier, usually used to sound-proof cars.
+I bought acoustic barrier (£24), usually used to sound-proof cars.
 
 <img src="https://i.imgur.com/jZNocWm.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
 
@@ -187,10 +185,10 @@ I glued everything together.
 <img src="https://i.imgur.com/hIAuPyi.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
 <img src="https://i.imgur.com/qdeqbW8.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
 <img src="https://i.imgur.com/Xy1QJBl.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
+<img src="https://i.imgur.com/qdeqbW8.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
 
 I put it on my head.
 
-<img src="https://i.imgur.com/qdeqbW8.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
 <img src="https://i.imgur.com/6vq80zJ.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
 <img src="https://i.imgur.com/l5Z0Q8S.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
 <img src="https://i.imgur.com/mCr9a7b.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
@@ -198,13 +196,14 @@ I put it on my head.
 
 It sucked.
 
-* Flimsy (I could feel the edges & corners of the box flexing too much)
-* Very heavy and uncomfortable
-* Didn't block sound very well (exposed neckline, acrylic face area not a great barrier)
+* *Flimsy:* I could feel the edges & corners of the box flexing too much
+* *Heavy:* wearing it for just 5 minutes was uncomfortable for my shoulders and nect
+* *Didn't block sound:* the exposed neckline was large, and the acrylic face area wasn't a great barrier
 
-To finish it off, I was going to add flaps to seal the neck/shoulder area, but it wasn't working well as it existed already, so I trashed the idea.
+I was going to add predator-like dreadlock flaps to seal the neckline, but it wasn't working well as it existed already, so I trashed the project:
 
-picture of predator dreadlocks 
+<img src="https://i.imgur.com/LDcqRbE.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
+[Source](https://editorial.rottentomatoes.com/article/predator-first-reviews-its-a-mixed-bag-but-it-isnt-bad/)
 
 ### The more practical solution
 

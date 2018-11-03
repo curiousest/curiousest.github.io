@@ -23,7 +23,7 @@ I tried doing this:<br/>
 I ended up with earplugs and sound-cancelling headphones:<br/>
 picture of bose with earplugs
 
-
+<br/>
 
 ## The problem
 
@@ -34,7 +34,7 @@ Open offices are loud - for your ears and your eyes. Discussions, pair programmi
 
 Headphones alone aren't enough to drown out people talking. Personally, I'm not willing to constantly play music loud enough to drown out 2+ volume-competing conversations. 
 
-
+<br/>
 
 ## Sound context
 
@@ -104,7 +104,7 @@ I like to imagine droplets of water bouncing around - it'll keep bouncing around
 2. **Air:** restricting air movement around your head affects breathing, making enclosures hot and stuffy.
 3. **Time to set up:** like I learned in [my previous desk project](/2017/06/13/evolution-of-my-desk.html), impediments to start doing work (inertia) are highly undesirable.
 
-
+<br/>
 
 ## Thought experiments before building
 
@@ -129,9 +129,9 @@ This is probably a good idea.
 
 This could work particularly well if the eyes are closed off with a transparent material and mouth hole is closed off with breathable material. I strongly considered building this, but:
 
-* I couldn't find a head-sized sphere to conveniently buy at a reasonable price in UK
-* DIY spheres are flimsy (paper-mache + chicken wire)
-* It is difficult to reinforce a sphere (you have to paste rectangles on a sphere)
+* **Can't find sphere:** I couldn't find a head-sized sphere to conveniently buy at a reasonable price in UK
+* **Structurally weak?:** DIY spheres are probably flimsy (paper-mache + chicken wire)
+* **Hard to sound-proof?:** It is difficult to reinforce a sphere with sound-blocking material (you have to paste rectangles on a sphere)
 
 **Box on head**
 
@@ -143,15 +143,12 @@ Boxes don't comfortably balance on your head, especially heavy ones. Changing th
 
 **Diving helmet**
 
+This is probably a decent sound barrier, but very expensive and heavy relative to the sound-blocking it provides.
+
 <img src="https://i.imgur.com/lb9CWDr.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
 [Source](https://www.amazon.co.uk/Historicalmuseum-Antique-ANCHOR-Yellow-Divers/dp/B07D22S2YM/)
 
-This is probably a decent sound barrier, but very expensive and heavy relative to the sound-blocking it provides.
-
 **Motorcycle helmet**
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/White_full-face-helmet.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
-[Source](https://commons.wikimedia.org/w/index.php?curid=9944417)
 
 Much of the sound-reduction from motorcycle helmets come from aerodynamics (not generating noise in the first place). Still, they are:
 
@@ -162,6 +159,9 @@ Much of the sound-reduction from motorcycle helmets come from aerodynamics (not 
 
 [More information](https://badasshelmetstore.com/noise-canceling-motorcycle-helmets-the-quietest-helmets-ever/)
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/White_full-face-helmet.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
+[Source](https://commons.wikimedia.org/w/index.php?curid=9944417)
+
 ### Thought experiment: hanging container
 
 Regardless of which container-on-head option is chosen, it's likely to be too heavy to support without assistance.
@@ -170,7 +170,7 @@ Regardless of which container-on-head option is chosen, it's likely to be too he
 
 picture of me standing inside our curved lamp
 
-
+<br/>
 
 ## Building the solution
 
@@ -219,6 +219,6 @@ I was going to add predator-like dreadlock flaps to seal the neckline, but it wa
 I got bose headphones + earplugs. They're amazing. Description of why....
 picture....
 
-
+<br/>
 
 ## Conclusion

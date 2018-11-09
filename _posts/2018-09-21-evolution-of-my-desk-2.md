@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Evolution of my desk part 2 
+title: Evolution of my desk part 2 - sound-proofing 
 date: '2018-09-21T11:00:00.001-05:00'
 author: Douglas Hindson
 tags: 
@@ -21,7 +21,7 @@ I tried doing this:<br/>
 <img src="https://i.imgur.com/6vq80zJ.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
 
 I ended up with earplugs and sound-cancelling headphones:<br/>
-picture of bose with earplugs
+!!!!!!!!!picture of bose with earplugs
 
 <br/>
 
@@ -30,7 +30,7 @@ picture of bose with earplugs
 * Hearing people talking
 * Seeing activity in field of vision
 
-Open offices are loud - for your ears and your eyes. Discussions, pair programming, and X around your desk produce attention-grabbing sound and motion. While each individual distraction may be small and easy to ignore, they collectively leech willpower, focus, and productivity over time.
+Open offices are loud - for your ears and your eyes. Discussions, pair programming, and phone calls around your desk produce attention-grabbing sound and motion. While each individual distraction may be small and easy to ignore, they collectively leech willpower, focus, and productivity over time.
 
 Headphones alone aren't enough to drown out people talking. Personally, I'm not willing to constantly play music loud enough to drown out 2+ volume-competing conversations. 
 
@@ -49,25 +49,7 @@ Soundproofing options:
 
 [Wikipedia article](https://en.wikipedia.org/wiki/Soundproofing)
 
-### Types of earplugs
-
-**Foam earplugs.** These suck. My ear canal is not suited for this type of earplug - foam earplugs and all types of apple earbuds have always fallen out for me. (~$1):
-
-<img src="https://i.imgur.com/GeO24V1.png" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
-
-**Metal earplugs with foam inserts.** These were interesting, but not great. For me, they were a slight improvement over foam earplugs (~$30: [Source](https://www.flareaudio.com/products/isolate-aluminium)):
-
-<img src="https://i.imgur.com/0fvIq7o.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
-
-**Hi-fi earplugs.** There are earplugs that reduce the intensity of sound without changing it much. I've never tried any before. (~$50: [Source](https://www.earasers.store/)):
-
-<img src="https://i.imgur.com/9GZqDos.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
-
-**Moulded earplugs** These are my favourite. They are very good at blocking sound, but they muffle/distort sound heavily. (~$10):
-picture of molded earplugs instructions
-picture of custom molded earplugs
-
-Even if your ears are perfectly soundproofed, you will be able to hear via bone conduction - bone is used as the medium to transmit sound waves to your eardrums.
+<br/>
 
 ### How to soundproof a room (the size of your head)
 
@@ -84,6 +66,8 @@ Commonly used transparent materials don't seem to have high noise reduction coef
 <img src="https://i.imgur.com/bJJpsQ7.png" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
 [Source](https://cdn4.explainthatstuff.com)
 
+<br/>
+
 **Absorb sound inside enclosure**
 
 I like to imagine droplets of water bouncing around - it'll keep bouncing around until it's completely absorbed by materials on the inside. The main difference being, water is matter and sound is energy. 
@@ -91,6 +75,8 @@ I like to imagine droplets of water bouncing around - it'll keep bouncing around
 <img src="https://i.imgur.com/E7hO2dg.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
 
 [Source](https://www.amazon.co.uk/gp/product/B015NJTHQA)
+
+<br/>
 
 **Cancel sound**
 
@@ -114,12 +100,14 @@ I like to imagine droplets of water bouncing around - it'll keep bouncing around
 
 <img src="https://i.imgur.com/sV9GYUc.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
 
-This is probably useless. 
+This probably doesn't block much sound. 
 
-This is what you may find if you look around for avante-garde office soundproofing. Generic headphones with horse-blinders would be more effective at achieving the same functional purpose. It's probably useless because:
+This is what you may find if you look around for avante-garde office soundproofing. Generic headphones with horse-blinders would be more effective at achieving the same functional purpose. Where it may be useful is signalling, "don't bother me". It's probably useless because:
 
 * **It's completely unsealed:** air is the medium of least resistance and the whole face is open
 * **It's either heavy or non-blocking:** If the material is a good sound barrier (dense), Helmfon would be uncomfortably heavy due to its size. It's probably not (the project is design over function), so the helmet part of Helmfon probably wouldn't be very effective.
+
+<br/>
 
 **Sphere on head**
 
@@ -134,6 +122,8 @@ This could work particularly well if the eyes are closed off with a transparent 
 * **Couldn't buy a sphere:** I couldn't find a head-sized sphere to conveniently buy at a reasonable price in UK
 * **DIY structurally weak:** DIY spheres are probably flimsy (paper-mache + chicken wire)
 * **Hard to sound-proof:** It is difficult to reinforce a sphere with sound-blocking material (you have to paste rectangles on a sphere)
+
+<br/>
 
 **Box on head**
 
@@ -170,13 +160,11 @@ Regardless of which container-on-head option is chosen, it's likely to be too he
 
 <img src="https://i.imgur.com/5w7rcsh.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
 
-picture of me standing inside our curved lamp
+!!!!!!!!!!!!!!!!picture of me standing inside our curved lamp
 
 <br/>
 
-## Building the solution
-
-### Sound-proof head container
+## Building a sound-proof head container
 
 I bought an acrylic box on Amazon (£30) and acoustic sealant (~£2) to glue things together while soundproofing the cracks/joints/gaps between the things being glued together.
 
@@ -216,10 +204,50 @@ I was going to add predator-like dreadlock flaps to seal the neckline, but it wa
 <img src="https://i.imgur.com/LDcqRbE.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
 [Source](https://editorial.rottentomatoes.com/article/predator-first-reviews-its-a-mixed-bag-but-it-isnt-bad/)
 
-### The more practical solution
+## The more practical solution
 
-I got bose headphones + earplugs. They're amazing. Description of why....
-picture....
+My original headphones + earplugs solution was a high base to improve upon. Headphones alone are what most people in open offices default to. Pros:
+
+* Reduces lots of sound
+* Easy to put on (low inertia)
+* Socially acceptable
+
+Cons:
+
+* Need to play uncomfortably loud music to drown out open office sound
+* No vision-blocking
+
+<br/>
+
+### Sound-cancelling headphones
+
+I got [these Bose sound-cancelling headphones](https://www.bose.co.uk/en_gb/products/headphones/over_ear_headphones/quietcomfort-35-wireless-ii.html#v=qc35_ii_black) and they are exceptional. In most open office settings, low-volume music with sound cancelling drowns out all sound. Combined with earplugs, it even drowns out drilling and construction sound.
+
+<img src="https://i.imgur.com/4JA3o4w.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
+
+<br/>
+
+### Earplugs
+
+Intro to earplugs...
+
+Even if your ears are perfectly soundproofed, you will be able to hear via bone conduction - bone is used as the medium to transmit sound waves to your eardrums.
+
+**Foam earplugs.** These suck. My ear canal is not suited for this type of earplug - foam earplugs and all types of apple earbuds have always fallen out for me. (~$1):
+
+<img src="https://i.imgur.com/GeO24V1.png" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
+
+**Metal earplugs with foam inserts.** These were interesting, but not great. For me, they were a slight improvement over foam earplugs (~$30: [Source](https://www.flareaudio.com/products/isolate-aluminium)):
+
+<img src="https://i.imgur.com/0fvIq7o.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
+
+**Hi-fi earplugs.** There are earplugs that reduce the intensity of sound without changing it much. I've never tried any before. (~$50: [Source](https://www.earasers.store/)):
+
+<img src="https://i.imgur.com/9GZqDos.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
+
+**Moulded earplugs** These are my favourite. They are very good at blocking sound, but they muffle/distort sound heavily. (~$10):
+picture of molded earplugs instructions
+picture of custom molded earplugs
 
 <br/>
 

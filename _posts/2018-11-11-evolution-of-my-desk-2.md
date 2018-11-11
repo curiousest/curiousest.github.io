@@ -1,13 +1,14 @@
 ---
 layout: post
 title: Evolution of my desk part 2 - sound-proofing 
-date: '2018-09-21T11:00:00.001-05:00'
+date: '2018-11-11T11:00:00.001-05:00'
 author: Douglas Hindson
 tags: 
 - DIY
 - blog
 - projects
-modified_time: '2018-09-21T11:00:00.001-05:00'
+- sound
+modified_time: '2018-11-11T11:00:00.001-05:00'
 ---
 
 [Part 1 - on keyboards](/2017/06/13/evolution-of-my-desk.html)
@@ -17,11 +18,11 @@ I work in an open office. Open offices are loud and distracting. I attempted to 
 I started with earplugs and headphones:<br/>
 <img src="https://i.imgur.com/inq91fL.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
 
-I tried doing this:<br/>
+I tried building something in this direction:<br/>
 <img src="https://i.imgur.com/6vq80zJ.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
 
 I ended up with earplugs and sound-cancelling headphones:<br/>
-!!!!!!!!!picture of bose with earplugs
+<img src="https://i.imgur.com/zBenZSh.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
 
 <br/>
 
@@ -102,7 +103,7 @@ I like to imagine droplets of water bouncing around - it'll keep bouncing around
 
 This probably doesn't block much sound. 
 
-This is what you may find if you look around for avante-garde office soundproofing. Generic headphones with horse-blinders would be more effective at achieving the same functional purpose. Where it may be useful is signalling, "don't bother me". It's probably useless because:
+This is what you may find if you look around for avante-garde office soundproofing. Generic headphones with horse-blinders would be more effective at achieving the same functional purpose. While it may be useful is signalling, "don't bother me", it's probably useless because:
 
 * **It's completely unsealed:** air is the medium of least resistance and the whole face is open
 * **It's either heavy or non-blocking:** If the material is a good sound barrier (dense), Helmfon would be uncomfortably heavy due to its size. It's probably not (the project is design over function), so the helmet part of Helmfon probably wouldn't be very effective.
@@ -131,6 +132,16 @@ Boxes don't comfortably balance on your head, especially heavy ones. Changing th
 
 <img src="https://i.ytimg.com/vi/8oRtaoQYsVY/maxresdefault.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
 
+### Thought experiment: hanging container
+
+Regardless of which container-on-head option is chosen, it's likely to be too heavy to support without assistance.
+
+<img src="https://i.imgur.com/5w7rcsh.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
+
+!!!!!!!!!!!!!!!!picture of me standing inside our curved lamp
+
+<br/>
+
 ### Thought experiment: repurpose existing helmets
 
 **Diving helmet**
@@ -141,6 +152,8 @@ This is probably a decent sound barrier, but very expensive and heavy relative t
 [Source](https://www.amazon.co.uk/Historicalmuseum-Antique-ANCHOR-Yellow-Divers/dp/B07D22S2YM/)
 
 **Motorcycle helmet**
+
+This is probably a good idea, although a good one is expensive.
 
 Much of the sound-reduction from motorcycle helmets come from aerodynamics (not generating noise in the first place). Still, they are:
 
@@ -153,14 +166,6 @@ Much of the sound-reduction from motorcycle helmets come from aerodynamics (not 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/White_full-face-helmet.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
 [Source](https://commons.wikimedia.org/w/index.php?curid=9944417)
-
-### Thought experiment: hanging container
-
-Regardless of which container-on-head option is chosen, it's likely to be too heavy to support without assistance.
-
-<img src="https://i.imgur.com/5w7rcsh.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
-
-!!!!!!!!!!!!!!!!picture of me standing inside our curved lamp
 
 <br/>
 
@@ -206,7 +211,7 @@ I was going to add predator-like dreadlock flaps to seal the neckline, but it wa
 
 ## The more practical solution
 
-My original headphones + earplugs solution was a high base to improve upon. Headphones alone are what most people in open offices default to. Pros:
+My original headphones + earplugs solution was a high starting bar to improve upon. Headphones alone are what most people in open offices default to. Pros:
 
 * Reduces lots of sound
 * Easy to put on (low inertia)
@@ -229,13 +234,15 @@ I got [these Bose sound-cancelling headphones](https://www.bose.co.uk/en_gb/prod
 
 ### Earplugs
 
-Intro to earplugs...
-
-Even if your ears are perfectly soundproofed, you will be able to hear via bone conduction - bone is used as the medium to transmit sound waves to your eardrums.
+Even if your ears are perfectly soundproofed, you will be able to hear via bone conduction - bone is used as the medium to transmit sound waves to your eardrums. I've found that any type of earplug takes practice to be comfortably wear longer than 20min.
 
 **Foam earplugs.** These suck. My ear canal is not suited for this type of earplug - foam earplugs and all types of apple earbuds have always fallen out for me. (~$1):
 
 <img src="https://i.imgur.com/GeO24V1.png" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
+
+**Moulded earplugs** These are my favourite. It's malleable foam plasticy putty-like substance that "hardens" after 30sec. You stuff it as deep into your ear canal as you can in that time window, and 1/2 times you get perfectly-fitted ear plugs. They are very good at blocking sound, but they muffle/distort sound heavily. (~£15 for 2: [Source](https://www.amazon.co.uk/Proguard-MYO-Mould-custom-earplugs/dp/B006ZLXQ68)):
+
+<img src="https://i.imgur.com/ORVs42Z.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
 
 **Metal earplugs with foam inserts.** These were interesting, but not great. For me, they were a slight improvement over foam earplugs (~$30: [Source](https://www.flareaudio.com/products/isolate-aluminium)):
 
@@ -245,10 +252,10 @@ Even if your ears are perfectly soundproofed, you will be able to hear via bone 
 
 <img src="https://i.imgur.com/9GZqDos.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
 
-**Moulded earplugs** These are my favourite. They are very good at blocking sound, but they muffle/distort sound heavily. (~$10):
-picture of molded earplugs instructions
-picture of custom molded earplugs
-
 <br/>
 
 ## Conclusion
+
+Wearing earplugs with sound-cancelling headphones are so good at reducing sound that they make loud places tolerable: offices, airplanes, trains... I wear them travelling and it's the closest to deaf I hope I will ever be.
+
+If those headphones didn't exist, buying a motorcycle helmet would have been my next choice. Sound-proofing was much more difficult than keyboard layout ergonomics. It required an intuition for materials (density, malleability, price) and the applied physics of sound. What I built wasn't close to being useful, but I gained some of that intuition in trying.

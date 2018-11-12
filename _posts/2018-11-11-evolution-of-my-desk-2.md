@@ -22,7 +22,7 @@ I tried building something in this direction:<br/>
 <img src="https://i.imgur.com/6vq80zJ.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
 
 I ended up with earplugs and sound-cancelling headphones:<br/>
-<img src="https://i.imgur.com/zBenZSh.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
+<img src="https://i.imgur.com/mF72A70.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
 
 <br/>
 
@@ -138,7 +138,9 @@ Regardless of which container-on-head option is chosen, it's likely to be too he
 
 <img src="https://i.imgur.com/5w7rcsh.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
 
-!!!!!!!!!!!!!!!!picture of me standing inside our curved lamp
+<img src="https://i.imgur.com/CCKpzOQ.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
+
+<img src="https://i.imgur.com/di0rkQA.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
 
 <br/>
 
@@ -204,7 +206,7 @@ It sucked.
 * **Heavy:** wearing it for just 5 minutes was uncomfortable for my shoulders and nect
 * **Didn't block sound:** the exposed neckline was large, and the clear face area wasn't a great sound barrier
 
-I was going to add predator-like dreadlock flaps to seal the neckline, but it wasn't working well as it existed already, so I trashed the project:
+I was going to add predator-like dreadlock flaps to seal the neckline and cover the insides in pyramid foam, but it wasn't working well as it existed already, so I trashed the project:
 
 <img src="https://i.imgur.com/LDcqRbE.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
 [Source](https://editorial.rottentomatoes.com/article/predator-first-reviews-its-a-mixed-bag-but-it-isnt-bad/)
@@ -242,7 +244,7 @@ Even if your ears are perfectly soundproofed, you will be able to hear via bone 
 
 **Moulded earplugs** These are my favourite. It's malleable foam plasticy putty-like substance that "hardens" after 30sec. You stuff it as deep into your ear canal as you can in that time window, and 1/2 times you get perfectly-fitted ear plugs. They are very good at blocking sound, but they muffle/distort sound heavily. (~£15 for 2: [Source](https://www.amazon.co.uk/Proguard-MYO-Mould-custom-earplugs/dp/B006ZLXQ68)):
 
-<img src="https://i.imgur.com/ORVs42Z.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
+<img src="https://i.imgur.com/fLdltdZ.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
 
 **Metal earplugs with foam inserts.** These were interesting, but not great. For me, they were a slight improvement over foam earplugs (~$30: [Source](https://www.flareaudio.com/products/isolate-aluminium)):
 

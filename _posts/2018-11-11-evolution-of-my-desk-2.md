@@ -261,3 +261,5 @@ Even if your ears are perfectly soundproofed, you will be able to hear via bone 
 Wearing earplugs with sound-cancelling headphones are so good at reducing sound that they make loud places tolerable: offices, airplanes, trains... I wear them travelling and it's the closest to deaf I hope I will ever be.
 
 If those headphones didn't exist, buying a motorcycle helmet would have been my next choice. Sound-proofing was much more difficult than keyboard layout ergonomics. It required an intuition for materials (density, malleability, price) and the applied physics of sound. What I built wasn't close to being useful, but I gained some of that intuition in trying.
+
+<img src="https://i.imgur.com/mF72A70.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>

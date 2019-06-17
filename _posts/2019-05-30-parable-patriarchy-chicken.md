@@ -6,6 +6,7 @@ author: Douglas Hindson
 tags: 
 - short
 - parable
+- essay
 modified_time: '2019-06-17T00:00:00.001-05:00'
 ---
 

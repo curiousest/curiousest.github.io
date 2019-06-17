@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'A Parable: Patriarchy Chicken'
+title: A Parable: Patriarchy Chicken
 date: '2019-05-30T00:00:00.001-05:00'
 author: Douglas Hindson
 tags: 

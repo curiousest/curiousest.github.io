@@ -18,7 +18,9 @@ I am frequently thinking about how to set myself up for success. An important pa
 
 ## What
 
-The main objective is to influence my default behaviour in my personal time. The hypothesis of this time management strategy is: if you book plans in your calendar for doing something, you're likely to do the planned activity during that timeslot.
+The main objective is to influence my default behaviour in my personal time. The hypotheses of this time management strategy are: 
+- Your can plan default activities that are "better" than what you would normally do, and this behaviour change is worth some investment
+- If you book plans in your calendar for doing something, you're likely to do the planned activity during that timeslot
 
 ### Execution
 
@@ -41,8 +43,9 @@ Here are some examples of weeks in my calendars where I attempted to book most o
 
 ## Observations, results, and conclusions
 
-- This strategy makes sense when there is consistency in your life. It doesn't make sense when there is high uncertainty - ex: you need to travel for work.
+- This strategy makes sense when there is consistency in your life. It doesn't make sense when there is high uncertainty - ex: you need to travel for work. Anecdotally, I've done this for a few weeks, then had disruptive weeks, took a while to recover, then resumed.
+- The weeks where I performed this activity were anecdotally more productive. They may also have been more mentally taxing.
 - Sometimes you blow through a whole set of calendar items, ignoring them. That's ok. You can move them to the future.
 - You need to have some sort of goals framework or tasks list to generate calendar items from.
 - You will have limited ability to perform productive activities outside of your standard full day of work. Make an achievable plan for future you.
-- Using calendar meetings to communicate with others is very effiecient and unambiguous. With my significant other, it reduces conflict resulting from ambiguity, and events without calendar items are always at risk of miscommunication.
+- Using calendar meetings to communicate with others in your personal life is very effiecient and unambiguous. With my significant other, it reduces conflict resulting from ambiguity, and events without calendar items are always at risk of miscommunication.

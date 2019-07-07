@@ -27,7 +27,7 @@ I have never experimented with fasting before (outside of the intermittent fasti
 
 ## Setup
 
-I fasted from 8am Saturday to 8am Sunday. On Saturday, I started with a ~1.25x bigger breakfast than my "cutting breakfast". I went to a 1pm HIIT kickboxing class at (Flykick)[https://flykick.co.uk/], and otherwise had a relatively sedentary day. On Sunday, the recovery day after fasting, I consumed comparable calories to a normal cutting day.
+I fasted from 8am Saturday to 8am Sunday. On Saturday, I started with a ~1.25x bigger breakfast than my "cutting breakfast". I went to a 1pm HIIT kickboxing class at [Flykick](https://flykick.co.uk/), and otherwise had a relatively sedentary day. On Sunday, the recovery day after fasting, I consumed comparable calories to a normal cutting day.
 
 ## Outcomes
 

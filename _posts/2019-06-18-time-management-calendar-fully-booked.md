@@ -12,27 +12,31 @@ modified_time: '2019-06-18T00:00:00.001-05:00'
 
 I've been trialing a time management strategy: a fully booked calendar for my personal life.
 
-## Why
+## Why do I need to change anything?
 
-I am frequently thinking about how to set myself up for success. An important part of that is finding ways of making my default behaviour a good one (and ideally the "right" one). This time management strategy gives me more influence over my default behaviour. This strategy doesn't help me figure out what the "right" behaviours or goals are.
+I am goal-oriented and frequently thinking about how to set myself up to meet my goals. An important part of that is finding ways of making my default behaviours oriented towards my goals. I have found that my default behaviour is often sub-optimal when I'm tired and have a large number of choices. This time management strategy gives me more influence over my default behaviour, especially under the conditions where I'm more likely to make poor decisions.
 
-## What
+## What is this time management strategy?
 
-The main objective is to influence my default behaviour in my personal time. The hypotheses of this time management strategy are: 
-- Your can plan default activities that are "better" than what you would normally do, and this behaviour change is worth some investment
-- If you book plans in your calendar for doing something, you're likely to do the planned activity during that timeslot
+### Objectives
 
-### Execution
+The main objective is to influence my default behaviour in my personal time towards meeting my goals. The hypotheses of this time management strategy are: 
+- You can make better decisions about what is the best thing to do with a timeslot 1-5 days in advance instead of in the moment/hour, and this improvement in decision-making is worth the planning admin time investment
+- If you book plans in your calendar for doing something 1-5 days in advance, you're likely to decide to follow through on the planned activity during that timeslot
 
-Here's what the fully booked calendar strategy involves:
+The objectives of this strategy do not include:
+- Figuring out out what the "right" behaviours or goals are.
+- Prioritizing different behaviours or goals.
+
+### What must I physically do?
 
 - Write entries in your calendar
-    - Have things that can go into calendar items that are "the right thing to do"
-    - Spend the time to compose those calendar items into an achievable calendar 
+    - Make calendar items that are good decisions for those timeslots
+    - Compose those calendar items into an achievable calendar 
 - Adhere to the plans laid out in the calendar
     - Be aware of the calendar items
     - Accept that adhering to the calendar should be your default behaviour
-    - Change the calendar to reflect a realistic future
+    - Update the calendar to reflect a realistic future
 
 Here are some examples of weeks in my calendars where I attempted to book most of my personal time (blue is personal, grey is work):
 

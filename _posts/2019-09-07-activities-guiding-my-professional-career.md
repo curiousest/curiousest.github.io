@@ -16,11 +16,11 @@ I had been unhappy with my job, but I thought my company was great. I was lookin
 
 ## Defining terms
 
-"Activities" in this context are categories of things that I do in a professional capacity that have similar properties: skills used, inputs and outputs, . Activities can have some overlap in these properties.
+"Activities" in this context are categories of things that I do in a professional capacity.
 
-"Liking an activity" means that doing the activity is rewarding and motivating. My skills are far more likely to concentrate around activities I like. It does not mean that the activity is a requirement for my job/career, but it will be a strong influence on my career choices and performance on a given job.  
+"Liking an activity" means that doing the activity is rewarding and motivating. My skills are far more likely to concentrate around activities I like. It does not mean that the activity is a requirement for my job/career, but it will influence my career choices and performance on a given job.  
 
-"Disliking an activity" means that doing the activity can be demotivating and draining for me. For an activity I know that I dislike, I must have had enough experience with it to be wary and a good idea of how skilled I am at doing it. Again, this does not mean that I must avoid that activity in my job/career, but it will be a strong influence on my career choices and performance on a given job.
+"Disliking an activity" means that doing the activity can be demotivating and draining for me. For an activity I know that I dislike, I must have had enough experience with it to be wary and a good idea of how skilled I am at doing it. Again, this does not mean that I must avoid that activity in my job/career, but it will influence my career choices and performance on a given job.
 
 # Activities I strongly like
 

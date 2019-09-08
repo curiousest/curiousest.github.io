@@ -22,15 +22,15 @@ When actively looking for a new position, I like to crystallize my goals. This p
 - Highly collaborative environments (and highly collaborative, bottom-up decision-making)
 - Radical transparency
 
-## My 10+ year goals:
+## My 10-year goals:
 
 * I want to coach companies/departments/teams and mentor founders/executives/architects/principal devs (senior management and individual contributors)
 * I want to understand everything about how successful tech companies work by deep diving into them
 * I want to live concurrently in China and Europe
 
-## My 5 year goals:
+## My 5-year goals:
 
-These clearly can't be achieved by staying in the same position for 5 years. They require sustained growth.
+I want to leverage my experience and concentrate on the activites I like to be a high performer in new roles. The experience I gain in those roles should enable me to achieve my 10+ year goals. These goals clearly can't be achieved by staying in the same position for 5 years. They require sustained growth.
 
 * I want more individual contributor depth and breadth
 * I want more experience in senior/executive management

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What I'm looking for in my career"
+title: "What I'm looking for in my next job"
 date: '2019-09-08T00:00:00.001-05:00'
 author: Douglas Hindson
 tags: 

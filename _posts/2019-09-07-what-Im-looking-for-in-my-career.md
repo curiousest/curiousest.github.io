@@ -28,10 +28,12 @@ When actively looking for a new position, I like to crystallize my goals. This p
 * I want to understand everything about how successful tech companies work by deep diving into them
 * I want to live concurrently in China and Europe
 
-## My 2-5 year goals:
+## My 5 year goals:
 
-* I want more experience in senior/executive management
+These clearly can't be achieved by staying in the same position for 5 years. They require sustained growth.
+
 * I want more individual contributor depth and breadth
+* I want more experience in senior/executive management
 * I want to learn from people who are "top 10 in Europe at what they do" via recurring professional interaction
 
 # 2017

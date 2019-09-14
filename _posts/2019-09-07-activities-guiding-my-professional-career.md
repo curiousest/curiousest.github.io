@@ -26,7 +26,7 @@ I had been unhappy with my job, but I thought my company was great. I was lookin
 
 These are mostly in the areas of understanding and influencing complex systems. I find myself naturally gravitating toward performing these activities.
 
-## Understanding complex systems (extraction and building mental models)
+## Understanding complex systems (information extraction and building mental models)
 
 * Understanding how a company or department works - internal structure and processes of people.
 * Understanding a tech product - use cases, underlying technical systems, history of changes.
@@ -34,13 +34,13 @@ These are mostly in the areas of understanding and influencing complex systems. 
 
 ## Coaching
 
-* Individuals - explaining to a non-technical colleague how to interact with a difficult technical colleague.
+* Individuals - explaining to a non-technical colleague how to request a feature for our product.
 * Teams - explaining a process I've seen in the past that may improve their performance.
 * Activities - facilitating a meeting to ensure it is effective as possible.
 
 ## Mentoring
 
-* Career transitions - preparing someone for job applications (picking roles, recommending interview prep strategies, reviewing their resume).
+* Career transitions - preparing someone for job applications (exploring roles/companies, guiding preparation strategies, cv review).
 * Goal setting - recommending strategies and unpacking/improving goals.
 
 # Activities I like
@@ -82,8 +82,8 @@ These activities are necessary for middle and upper management, so they will be 
 
 I find a variety of roles interesting, but none of them are perfect matches or paths for my entire career.
 
-As middle/executive management, I develop a great overview of the whole organization, but I miss out on understanding systems/technologies necessary to understand related companies/complex systems.
+As middle/executive management, I develop a great overview of the whole organization, but I miss out on deep understanding of systems/technologies that drive the company and are a source of great risk and uncertainty.
 
-As a principal/architect individual contributor, I get deep understanding of systems and many mentoring opportunities, but I miss out on understanding the whole organization.
+As a principal/architect individual contributor, I get a deep understanding of systems and many mentoring opportunities, but I miss out on understanding the whole organization.
 
-As a consultant or solutions architect, I get to understand customer companies in my domain of expertise, but I'm not getting the deep and holistic understanding of my company like I would be getting in management or individual contribution roles, reducing my future ability to coach companies or mentor executives.
+As a consultant or solutions architect, I get to understand customer companies in my domain of expertise, but I'm not getting the deep and holistic understanding of my company that I would be getting in management or individual contribution roles, reducing my future ability to coach companies or mentor executives.

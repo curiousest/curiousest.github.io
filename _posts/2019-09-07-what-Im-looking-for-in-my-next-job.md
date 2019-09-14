@@ -25,14 +25,15 @@ When actively looking for a new position, I like to crystallize my goals. This p
 ## My 10-year goals:
 
 * I want to coach companies/departments/teams and mentor founders/executives/architects/principal devs (senior management and individual contributors)
-* I want to understand everything about how successful tech companies work by deep diving into them
+* I want to understand everything about how successful tech companies work by diving deep into them
 * I want to live concurrently in China and Europe
+* I want to be expressing what I've learned in a highly scalable way (writing posts/books/software)
 
 ## My 5-year goals:
 
-I want to leverage my experience and concentrate on the activites I like to be a high performer in new roles. The experience I gain in those roles should enable me to achieve my 10+ year goals. These goals clearly can't be achieved by staying in the same position for 5 years. They require sustained growth.
+I want to leverage my experience and concentrate on the [activites I like](/2019/09/07/activities-guiding-my-professional-career.html). to consistently be a high performer. The experience I gain in those roles should enable me to achieve my 10+ year goals. These goals are unlikely to be achieved by staying in the same role/level - they require sustained growth.
 
-* I want more individual contributor depth and breadth
+* I want to influence a larger organization as a senior individual contributor
 * I want more experience in senior/executive management
 * I want to learn from people who are "top 10 in Europe at what they do" via recurring professional interaction
 

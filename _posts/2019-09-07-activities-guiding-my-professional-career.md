@@ -26,7 +26,9 @@ I had been unhappy with my job, but I thought my company was great. I was lookin
 
 These are mostly in the areas of understanding and influencing complex systems. I find myself naturally gravitating toward performing these activities.
 
-## Understanding complex systems (information extraction and building mental models)
+## Understanding complex systems
+
+Building mental models, often by extracting information. This is not building or changing complex systems, but those activities can be useful ways to develop an understanding of the system. 
 
 * Understanding how a company or department works - internal structure and processes of people.
 * Understanding a tech product - use cases, underlying technical systems, history of changes.

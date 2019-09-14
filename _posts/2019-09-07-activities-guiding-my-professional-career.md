@@ -24,7 +24,7 @@ I had been unhappy with my job, but I thought my company was great. I was lookin
 
 # Activities I strongly like
 
-These are mostly in the areas of understanding and influencing complex systems. I find myself naturally gravitating toward performing these activities.
+These are mostly in the areas of understanding complex systems. I find myself naturally gravitating toward performing these activities.
 
 ## Understanding complex systems
 
@@ -47,7 +47,7 @@ Building mental models, often by extracting information. This is not building or
 
 # Activities I like
 
-These are mostly in the areas of collaborating or building complex systems. When I perform these activities, I enjoy myself and look for more opportunities to do them.
+These are mostly in the areas of building complex systems or collaborating. When I perform these activities, I enjoy myself and look for more opportunities to do them.
 
 ## Building
 

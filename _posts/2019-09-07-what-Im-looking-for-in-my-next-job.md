@@ -12,7 +12,7 @@ modified_time: '2019-07-08T00:00:00.001-05:00'
 
 # Purpose
 
-When actively looking for a new position, I like to crystallize my goals. This post documents the goals in my transitions. 
+When actively looking for a new position, I like my goals to be clear to me and available to others. This post documents the goals in my transitions. 
 
 # 2019
 
@@ -31,7 +31,7 @@ When actively looking for a new position, I like to crystallize my goals. This p
 
 ## My 5-year goals:
 
-I want to leverage my experience and concentrate on the [activites I like](/2019/09/07/activities-guiding-my-professional-career.html). to consistently be a high performer. The experience I gain in those roles should enable me to achieve my 10+ year goals. These goals are unlikely to be achieved by staying in the same role/level - they require sustained growth.
+I want to leverage my experience and concentrate on the [activites I like](/2019/09/07/activities-guiding-my-professional-career.html) so that I consistently am a high performer and enjoy the work I do. The experience I gain in those roles should enable me to achieve my 10+ year goals. These goals are unlikely to be achieved by staying in the same role/level - they require sustained growth.
 
 * I want to influence a larger organization as a senior individual contributor
 * I want more experience in senior/executive management

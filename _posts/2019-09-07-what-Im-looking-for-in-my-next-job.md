@@ -16,7 +16,7 @@ When actively looking for a new position, I like my goals to be clear to me and 
 
 # 2019
 
-I want to leverage my experience and concentrate on the [activites I like](/2019/09/07/activities-guiding-my-professional-career.html) so that I consistently am a high performer and enjoy the work I do.
+I want to leverage my experience and concentrate on the [activities I like](/2019/09/07/activities-guiding-my-professional-career.html) so that I consistently am a high performer and enjoy the work I do.
 
 ## What I value
 

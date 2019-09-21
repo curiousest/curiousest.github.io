@@ -7,6 +7,7 @@ tags:
 - blog
 - career
 - personal development
+- tech industry
 modified_time: '2019-07-07T00:00:00.001-05:00'
 ---
 

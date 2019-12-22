@@ -1,0 +1,18 @@
+Write a narrative describing an activity that you do regularly which incorporates at least ten steps—something you perform preferably every day, but at least several times a week. With attention to voice, imbue the writing with a sense of character and personality. Pay attention to the way you transition from one step to the next. Connect each step in a unique way that is not merely repetitive like “first I do this, then I do that.” Instead, think about cause and effect. Explain the rationale for each step and why it follows the one before it. You are only allowed to use the words “next” or “and then” twice total.
+
+=====
+
+
+I'm awake but not yet alert. The next two minutes are autopiloted. (1) I shuffle into the kitchen. It's a modern one: a right-angled granite countertop, four overhead cupboards with light oak faces, an obsidian induction stove, and a steel vent. No handles on anything - they're unecessary when a door's edge is sufficient. The counter is empty, so we're ready to start.
+
+Resting on the steel vent are three items. (2) I reach for the cup first. It's giraffe-themed, orange and white, with a giraffe's head and the associated ossicones pointing out of the handle. This handle is unecessary, but I suffer it. I place the cup on the countertop. The inside is stained dark from the remains of previous uses. I don't wash this cup. If I put it in the dishwasher, the giraffe head fills with soapy water that only seems to drain via repeated angular disturbances (i.e. drinking from the cup). It's more sanitary not to wash the cup. I don't wash the cup.
+
+(3) I struggle dragging the tower of various implements off the vent head. Once on the countertop, I extract from the pile: the scoop, the filter, and finally grasp the conjoined cylinder and plunger. (4) I retract the plunger from the cylinder and place the contraption with the empty cavity facing upwards.
+
+I retrieve the third item from the vent head: the tin of ground coffee. (5) Half a scoop goes into the cylinder. (6) Boiled water follows suit. I started the kettle earlier with a voice command from my bedroom, "Alexa turn on the kettle." Same thing goes with the lights and the robot vacuum clearner. The only three things I've found to be worth controlling with voice commands. The lights aren't on, though. I prefer my mornings to take place in the dark, since the light isn't needed and I can focus on my less exercised senses.
+
+(7) I stir the brackish soup in one direction until the liquid is swirling at the same speed as my stirring instrument, then I reverse direction and repeat. I feel like the most utility of stirring comes from accelleration of the substance, not from the velocity of it - speeding up or changing direction, not the spinning motion. This is likely a false intuition, but it's now a habit and hardly worth testing. I perform this activity for less than the ten seconds I'm supposed to, but long enough that it feels like ten seconds.
+
+(8) I fetch the stainless steel filter and its holder, clicking them into place on top of the cylinder. (9) I hold the cup upside-down over top of the filter, flip everything over so the cup is resting on the countertop, and begin pressing the plunger to push the coffee liquid through the filter and into the cup. This is supposed to go on for thirty seconds, but I can't tolerate more than five. The coffee is "made". (10) I unclick the filter, and empty the coffee grinds into the garbage, tapping the stainless steel mesh until it's spotless. I used to use paper filters and throw them out with the grinds, but I tired of buying new ones. The stainless steel one lasts for as long as it doesn't fall in the garbage, which is about two years.
+
+Then I start my day.

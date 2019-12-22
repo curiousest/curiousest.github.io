@@ -1,0 +1,28 @@
+Write a letter (two pages or so) to a “straw man,” someone who is not a friend or family member, but who was a significant figure in your life as a child or young person. This should be, for example, an elementary school teacher, a soccer coach, a piano teacher, etc.—someone associated with a specific period in your life, a period long enough ago that you would not have a clear sense of events occurring beyond your neighborhood or region. Addressing your writing to an adult who would have had the social consciousness then that you have now will help you to maintain a mature perspective as you explore the memory.
+
+In the letter, recount a specific personal event that had a notable impact on your life alone, and which occurred while you were, say, that teacher’s student. Incorporate references to what we’ll call a “global” event that made headlines in the newspapers at the time. Try to find a headline(s) as close to the date of the experience, as well as you can recall, as possible. If you cannot determine the exact date through your memory or others, approximate as best you can. In essence your letter is an attempt to connect your childhood experience to a larger social and historical consciousness you may not have had as a child.
+
+Dear Mrs. Kempt,
+
+I'm writing to thank you for the impact you had early in my education. You were critical in making my switch between elementary schools so successful.
+
+I want to illustrate to you what my circumstances were like in my previous elementary school. It was a catholic school, and I was there from ages four to ten. The school was rather small - there was one teacher for every two years of students. My first few years there were positive, but in my last two years there, I struggled academically and socially. I was performing in the bottom half of my class in most subjects. I had an acceptable group of friends, but I was still in the bottom half of the class in terms of social capital.
+
+My mother chose to take action when she saw how I was suffering and met my current and prospective teachers. She believed it was the circumstances of the school that were responsible for my low performance and general discontentment. She switched me into the school you taught at, Stonecrest, the following year.
+
+Stonecrest was in a unique position when I joined. It was a brand new school, having first opened its doors the previous year. The oldest students were in grade 6 at the time - my year. My year continued to be the oldest for the next two years so the school could more slowly scale up services as the total population gradually increased by a class size each year. Being the most senior students for three consecutive years accelerated my development as a mentor and role model. It also put you in a position of great importance - being the teacher of the most influential segment of the student population.
+
+I have no recollection of the beginning of my time there. My memories get more concrete one or two months in, but I get the impression that you helped me quite a bit during my early days at Stonecrest. In November, two months into the school year, you assigned a major project to the class and chose who would work together. You paired me with the most popular student, Richard.
+
+Richard came from an upper-middle class background. His academic performance was near the top, he was the second-best athlete in the school, and he had a twin sister in the same class who performed at the top. He was at the center of a the most popular clique consisting of about eight people. The peer group was considered the popular, athletic, and academically-gifted one. At this point, I was very humble about my abilities in all these areas. I didn't believe I was socially stunted, unintelligent, or unathletic, but I also didn't believe I was anywhere near high performing.
+
+Richard and I worked hard on the project. We were equal contributors and we worked on it together outside of school at both of our homes. I distinctly remember going to his home one weekend. On the Saturday afternoon, we worked on the project for a few hours. At the time, personal computing for education use was still in its early days, so we sat on kitchen chairs around his desktop Windows PC writing paragraph after paragraph on Microsoft Word. Finally, we had dinner with his family, and our connection became deeper as I took part in socializing at the dinner table.
+
+Soon after in early January, the Great Ice Storm of 1998 hit North America. Up to two inches of ice built up on trees and power lines, causing thousands of electricity transmission towers to collapse. It left our province without power or water for weeks. I fondly recall ice skating around our neighbourhood on the streets with my father.
+
+My house was in a suburb, and Richard's was in a forested area, so the lines powering my neighbourhood were repaired much sooner than his. My family helped out his by providing water, showers, and the occassional meal. Our families bonded over that period and they remain close to this day.
+
+I had a great start in my first year at Stonecrest - academically, athletically, and socially. Richard and I became close friends as a direct result of your influence. Establishing that kind of connection with Richard was very unlikely in retrospect. He had high social capital and little reason to invest in building another deep friendship. Partly by virtue of that friendship, I established myself as part of that critical peer group which shaped my high-growth early adolescence and teen years. That means a nontrivial portion of the success I have achieved can be attributed to you shaping my first months at Stonecrest.
+
+Best Regards,
+-Douglas

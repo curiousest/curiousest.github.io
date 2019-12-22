@@ -15,19 +15,19 @@ title: Douglas' Blog
 		{% endfor %}
 		</ul>
 
-		<h2>Stories</h2>
+		<h2>Personal Development</h2>
 		<ul class="posts">
 		{% for post in site.posts %}
-		{% if post.tags contains "story" %}
+		{% if post.tags contains "personal development" %}
 			<li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
 		{% endif %}
 		{% endfor %}
 		</ul>
 
-		<h2>Personal Development</h2>
+		<h2>Stories</h2>
 		<ul class="posts">
 		{% for post in site.posts %}
-		{% if post.tags contains "personal development" %}
+		{% if post.tags contains "story" %}
 			<li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
 		{% endif %}
 		{% endfor %}

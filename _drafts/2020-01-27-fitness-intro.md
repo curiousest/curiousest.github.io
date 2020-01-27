@@ -108,7 +108,7 @@ Exercise is a simple topic, but slow to learn on your own. That makes it a great
 
 ### Always look good
 
-In the 10-15% bodyfat range, men look great. There's a desirable range for women too. Lose fat until you look good, then do bulk/cut cycles in that range to stay looking good. All goals require building or maintaining muscle with strength exercises (including losing fat). Cardio and conditioning barely builds or maintains muscle. The more muscle mass you have, the more calories you burn.
+In the 10-15% bodyfat range, men look great. There's a desirable range for women too. Lose fat until you look good, then do bulk/cut cycles in that range to stay looking good. All goals require building or maintaining muscle with strength exercises (including losing fat). The more muscle mass you have, the more calories you burn. Cardio and conditioning barely build or maintain muscle, but they are good for your health and burn lots of calories.
 
 ### Fitness effort complements office work effort
 

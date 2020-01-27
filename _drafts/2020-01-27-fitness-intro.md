@@ -84,7 +84,7 @@ I couldn't find trustworthy diet information on the internet. The fastest way to
 </tr>
 </table>
 
-## The last 20%
+## The last 20% that won't be found via self-study
 
 ### Count calories
 

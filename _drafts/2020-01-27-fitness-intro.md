@@ -15,16 +15,16 @@ I grew up playing most sports. I grew up eating healthy. Despite that, when I wa
 
 "Fitness" covers three areas where you may want to improve: body aesthetics, health, and functional fitness. Those areas have high overlap, but they require focusing your effort in different places. You can be beautifully toned and unhealthy. You can be a flabby olympic athlete. You can be perfectly healthy and otherwise average.
 
-Regardless of your goals, diet is the most important topic to focus effort on. Exercise is the second most important topic. To progress towards your goals, you will have to spend time learning and building habits in both topics. Focusing on one and not the other will slow your progress.
+Regardless of your goals, diet is the most important topic to focus effort on. Exercise is the second most important topic. You will have to spend time learning and building habits in both topics - focusing on one and not the other will slow your progress.
 
 <table>
 <tr>
-<td>
+<td width="20%">
 </td>
-<td>
+<td width="40%">
 <h3>Diet</h3>
 </td>
-<td>
+<td width="40%">
 <h3>Exercise</h3>
 </td>
 </tr>
@@ -43,14 +43,15 @@ Regardless of your goals, diet is the most important topic to focus effort on. E
 <td>
 <ul>
 <li>Have weekly exercise commitments</li>
-<li>Your weekly commitments involve learning about exercise (personal trainer / friends / class / self-study)</li>
+<li>Learn exercise theory, techniques, programs</li>
+<li>Track progress in your exercise of choice</li>
 <ul>
 </td>
 </tr>
 
 <tr>
 <td>
-<h3>Basic learning</h3>
+<h3>Basic knowledge</h3>
 </td>
 <td>
 <ul>
@@ -70,7 +71,7 @@ Regardless of your goals, diet is the most important topic to focus effort on. E
 <h3>Where to go next</h3>
 </td>
 <td>
-It was difficult for me to find and trust diet information on the internet. The fastest way to get to a foundation is to first spend 1-3 hours learning from a professional: a dietician or personal trainer. After that, try different approaches to your diet and measure results.
+It was difficult for me to find and trust diet information on the internet. The fastest way to get to a foundation is to first spend a few hours learning from a professional: a dietician or personal trainer. After that, try different approaches to your diet and measure results.
 </td>
 <td>
 <ol>
@@ -93,9 +94,13 @@ So much of diet centers around controlling the calories/protein you eat and the 
 
 It's hard. Either track everything you eat for a week (use [myfitnesspal](https://www.myfitnesspal.com/food/search)) or decide in advance everything you will eat and add up the calories. Track your weight over that week to measure calories burned.
 
-#### How accurate do they have to be?
+#### How accurate do the measurements have to be?
 
-One kilogram of bodyfat takes 7700 calories to burn off. If you eat 7700 calories extra, you won't gain one kilogram of bodyfat, but it's the right order of magnitude. If your measurements are 100 calories off, it's around 13 grams of bodyfat. 1000 calories off, and it's around 0.13 kilograms of bodyfat.
+It's up to you, but here's a rough guide.
+
+One kilogram of bodyfat allegedly takes 7700 calories to burn off. If you eat 7700 calories extra, you won't gain one kilogram of bodyfat, but it's the right order of magnitude. If your measurements are 1000 calories off, it's around 0.13 kilograms of bodyfat.
+
+A red bell pepper has ~31 calories, a carrot has ~41 calories, an apply has ~52 calories. A cup of rice has 200 calories, a mars bar has 228 calories, half a box of ritz crackers has 1120 calories. 20% error on 200 calories is the same as forgetting a whole fruit or vegetable. Forgetting a candy bar is like forgetting a picnic of fruits and vegetables. Expend effort where it matters - know what's calorie-dense and track it carefully.
 
 ### Learn from people IRL
 

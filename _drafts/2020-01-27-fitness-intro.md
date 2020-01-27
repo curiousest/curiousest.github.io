@@ -4,18 +4,18 @@ title: "Fast introduction to fitness"
 date: '2020-01-27T00:00:00.001-05:00'
 author: Douglas Hindson
 tags: 
-- tag 1
-- tag 2
+- personal development
+- fitness
 modified_time: '2020-01-27T00:00:00.001-05:00'
 ---
 
-I grew up playing most sports. I grew up eating healthy. Despite that, when I wanted to change my body to be more attractive I made countless mistakes. This is the article I wish I had at that time.
+I grew up playing most sports and eating healthy. Despite that, when I wanted to get fit and be more attractive I made mistakes. It is easy to screw up improving your fitness, but it's easy to do well too - you need a breadth of simple knowledge. This is the article I wish I had when I started intentionally improving my fitness.
 
 ## 80% of my advice
 
-"Fitness" covers three areas where you may want to improve: body aesthetics, health, and functional fitness. Those areas have high overlap, but they require focusing your effort in different places. You can be beautifully toned and unhealthy. You can be a flabby olympic athlete. You can be perfectly healthy and otherwise average.
+"Fitness" covers three areas where you may want to improve: body aesthetics, health, and functional fitness. Those areas have high overlap, but they require focusing your effort in different places. You can be toned and unhealthy. You can be a flabby olympian. You can be perfectly healthy and otherwise mediocre.
 
-Regardless of your goals, diet is the most important topic to focus effort on. Exercise is the second most important topic. You will have to spend time learning and building habits in both topics - focusing on one and not the other will slow your progress.
+Regardless of your goals, diet is the most important topic to focus effort on. Exercise is second. You will have to spend time learning and building habits in both topics - focusing on one and not the other will slow your progress. Diet and exercise are lifetime timesinks, so invest in learning them earlier to become efficient sooner.
 
 <table>
 <tr>
@@ -43,7 +43,7 @@ Regardless of your goals, diet is the most important topic to focus effort on. E
 <td>
 <ul>
 <li>Have weekly exercise commitments</li>
-<li>Learn exercise theory, techniques, programs</li>
+<li>Learn exercise theory, techniques, and programs</li>
 <li>Track progress in your exercise of choice</li>
 <ul>
 </td>
@@ -71,7 +71,7 @@ Regardless of your goals, diet is the most important topic to focus effort on. E
 <h3>Where to go next</h3>
 </td>
 <td>
-It was difficult for me to find and trust diet information on the internet. The fastest way to get to a foundation is to first spend a few hours learning from a professional: a dietician or personal trainer. After that, try different approaches to your diet and measure results.
+It was difficult for me to find and trust diet information on the internet. The fastest way to get to a foundation is to spend a few hours learning from a professional: a dietician or personal trainer. After that, try different approaches to your diet and measure results.
 </td>
 <td>
 <ol>
@@ -100,16 +100,16 @@ It's up to you, but here's a rough guide.
 
 One kilogram of bodyfat allegedly takes 7700 calories to burn off. If you eat 7700 calories extra, you won't gain one kilogram of bodyfat, but it's the right order of magnitude. If your measurements are 1000 calories off, it's around 0.13 kilograms of bodyfat.
 
-A red bell pepper has ~31 calories, a carrot has ~41 calories, an apply has ~52 calories. A cup of rice has 200 calories, a mars bar has 228 calories, half a box of ritz crackers has 1120 calories. 20% error on 200 calories is the same as forgetting a whole fruit or vegetable. Forgetting a candy bar is like forgetting a picnic of fruits and vegetables. Expend effort where it matters - know what's calorie-dense and track it carefully.
+A red bell pepper has ~31 calories, a carrot has ~41 calories, and an apple has ~52 calories. A cup of rice has 200 calories, a mars bar has 228 calories, and half a box of ritz crackers has 1120 calories. 20% error on 200 calories is the same as forgetting a whole fruit or vegetable. Forgetting a candy bar is like forgetting a picnic of fruits and vegetables. Expend effort where it matters - know what's calorie-dense and track it carefully.
 
 ### Learn from people IRL
 
-Exercise is a simple topic, but it's slow to learn by yourself. That makes it a great topic to learn from non-professionals. Find a peer group that pushes you to learn and improve. Weightlifting buddies and technique-focused group weightlifting classes are great. Personal trainers and dieticians are expensive, so you're not going to spend a lot of time with them. They are great for foundational knowledge or advanced knowledge - the vast middle is best filled by others.
+Exercise is a simple topic, but slow to learn on your own. That makes it a great topic to learn from amateurs. Find a peer group that pushes you to learn and improve. Weightlifting buddies and technique-focused group weightlifting classes are fun learning opportunities. Personal trainers and dieticians are expensive, so you're not going to spend a lot of time with them. Use them to teach you the fundementals or advanced knowledge - the vast middle is best filled by others.
 
 ### Always look good
 
-In the 10-15% bodyfat range, men look great. Lose fat until you look good, then do bulk/cut cycles in that range to stay looking good. All goals require building or maintaining muscle with strength exercises (including losing fat). Cardio and conditioning barely builds or maintains muscle. The more muscle mass you have, the more calories you burn.
+In the 10-15% bodyfat range, men look great. There's a desirable range for women too. Lose fat until you look good, then do bulk/cut cycles in that range to stay looking good. All goals require building or maintaining muscle with strength exercises (including losing fat). Cardio and conditioning barely builds or maintains muscle. The more muscle mass you have, the more calories you burn.
 
 ### Fitness effort complements office work effort
 
-Performing an office job for a full work day exhausts your ability to do more white-collar work. On top of a full work day, you can exercise. They are different, complementary efforts. You can pursue goals in both areas of life with low conflict.
+After working in an office 9am-5pm, it's hard to do more white-collar work. You can exercise, though. They are different, complementary efforts. You can pursue goals in both areas of life with low conflict. 

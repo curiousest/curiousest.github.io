@@ -9,13 +9,13 @@ tags:
 modified_time: '2020-01-27T00:00:00.001-05:00'
 ---
 
-I grew up playing most sports and eating healthy. Despite that, when I wanted to get fit and be more attractive I made mistakes. It is easy to screw up improving your fitness, but it's easy to do well too - you need a breadth of simple knowledge. This is the article I wish I had when I started intentionally improving my fitness.
+I grew up playing most sports and eating healthy. Despite that, I made mistakes when I tried to get fit and be more attractive. It's easy to screw up improving your fitness, but it's easy to do well too - you need a breadth of simple knowledge. This is the article I wish I had when I started intentionally improving my fitness.
 
 ## 80% of my advice
 
-"Fitness" covers three areas where you may want to improve: body aesthetics, health, and functional fitness. Those areas have high overlap, but they require focusing your effort in different places. You can be toned and unhealthy. You can be a flabby olympian. You can be perfectly healthy and otherwise mediocre.
+"Fitness" covers three areas where you may want to improve your body: aesthetics, health, and functional fitness. Those areas have high overlap, but they require focusing your effort on different things. You can be toned and unhealthy. You can be a flabby olympian. You can be perfectly healthy and otherwise mediocre.
 
-Regardless of your goals, diet is the most important topic to focus effort on. Exercise is second. You will have to spend time learning and building habits in both topics - focusing on one and not the other will slow your progress. Diet and exercise are lifetime timesinks, so invest in learning them earlier to become efficient sooner.
+Regardless of your goals, diet is the most important topic to focus effort on. Exercise is second. You will have to spend time learning and building habits in both topics - focusing on one and not the other will slow your progress. 
 
 <table>
 <tr>
@@ -37,14 +37,14 @@ Regardless of your goals, diet is the most important topic to focus effort on. E
 <ul>
 <li>Know the total calories and protein you eat every week</li>
 <li>Know the total calories you burn every week</li>
-<li>Know the target total calories and protein you should eat every week to work towards your goals</li>
+<li>Know your target calories and protein</li>
 <ul>
 </td>
 <td>
 <ul>
 <li>Have weekly exercise commitments</li>
-<li>Learn exercise theory, techniques, and programs</li>
-<li>Track progress in your exercise of choice</li>
+<li>Learn theory, techniques, and programs</li>
+<li>Track progress (time, weight lifted, repititions)</li>
 <ul>
 </td>
 </tr>
@@ -71,7 +71,7 @@ Regardless of your goals, diet is the most important topic to focus effort on. E
 <h3>Where to go next</h3>
 </td>
 <td>
-It was difficult for me to find and trust diet information on the internet. The fastest way to get to a foundation is to spend a few hours learning from a professional: a dietician or personal trainer. After that, try different approaches to your diet and measure results.
+I couldn't find trustworthy diet information on the internet. The fastest way to get a foundation is to spend a few hours learning from a professional: a dietician or personal trainer. After that, experiment with different approaches to your diet and measure results.
 </td>
 <td>
 <ol>

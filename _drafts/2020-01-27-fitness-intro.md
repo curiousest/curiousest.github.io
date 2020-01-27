@@ -40,11 +40,11 @@ Regardless of your goals, diet is the most important topic to focus effort on. E
 <li>Know the target total calories and protein you should eat every week to work towards your goals</li>
 <ul>
 </td>
+<td>
 <ul>
 <li>Have weekly exercise commitments</li>
 <li>Your weekly commitments involve learning about exercise (personal trainer / friends / class / self-study)</li>
 <ul>
-<td>
 </td>
 </tr>
 
@@ -73,25 +73,29 @@ Regardless of your goals, diet is the most important topic to focus effort on. E
 It was difficult for me to find and trust diet information on the internet. The fastest way to get to a foundation is to first spend 1-3 hours learning from a professional: a dietician or personal trainer. After that, try different approaches to your diet and measure results.
 </td>
 <td>
-</td>
 <ol>
 <li>Personal trainer</li>
 <li>Fitness friends (gym buddies)</li>
 <li>Fitness classes (technique-focused)</li>
 <li>Self-study (reddit, youtube, etc)</li>
 </ol>
+</td>
 </tr>
 </table>
 
-## The last 20% of advice
+## The last 20%
 
 ### Count calories
 
-So much of diet depends on controlling the calories/protein you eat and the calories you burn. Know these numbers!
+So much of diet centers around controlling the calories/protein you eat and the calories you burn. This was the biggest failure in my fitness journey.
 
-How do you find these numbers? Either track everything you eat for a week or decide in advance everything you will eat and add up the calories. Track your weight over that week to measure calories burned.
+#### How do you find these numbers?
 
-How accurate do they have to be? One kilogram of bodyfat takes 7700 calories to burn off. If you eat 7700 calories extra, you won't gain one kilogram of bodyfat, but it's the right order of magnitude. If your measurements are 100 calories off, it's around 13 grams of bodyfat. 1000 calories off, and it's around 0.13 kilograms of bodyfat.
+It's hard. Either track everything you eat for a week (use [myfitnesspal](https://www.myfitnesspal.com/food/search)) or decide in advance everything you will eat and add up the calories. Track your weight over that week to measure calories burned.
+
+#### How accurate do they have to be?
+
+One kilogram of bodyfat takes 7700 calories to burn off. If you eat 7700 calories extra, you won't gain one kilogram of bodyfat, but it's the right order of magnitude. If your measurements are 100 calories off, it's around 13 grams of bodyfat. 1000 calories off, and it's around 0.13 kilograms of bodyfat.
 
 ### Learn from people IRL
 

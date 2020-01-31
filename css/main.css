@@ -35,6 +35,10 @@ h3 {
     font-size: 1.8em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
+h4 {
+    font-size: 1.5em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
 div.post ul li {
     font-size: 1.4em;
     line-height: 1.4em;

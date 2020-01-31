@@ -17,7 +17,7 @@ I grew up playing most sports and eating healthy. Despite that, I made mistakes 
 
 Regardless of your goals, diet is the most important topic to focus effort on. Exercise is second. You will have to spend time learning and building habits in both topics - focusing on one and not the other will slow your progress. 
 
-First, establish these habits and execute for a few months. That journey will teach you enough to figure out *what next?*.
+First, establish these habits and execute for a few months. That journey will teach you enough to figure out, *'what next'?*
 
 ### Diet habits
 
@@ -39,7 +39,7 @@ Here's a good self-study start:
 * [Introduction to diet](https://thefitness.wiki/improving-your-diet/)
 * [Exercise programs basic theory](https://www.youtube.com/playlist?list=PLp4G6oBUcv8yxB4H2Y7IdOjst78R9UmCg)
 
-## The last 20% I learned from experience
+## The last 20%
 
 ### Count calories
 
@@ -77,8 +77,6 @@ In the 10-15% bodyfat range, men look great. There's a desirable range for women
 
 After working in an office 9am-5pm, it's hard to do more white-collar work. You can exercise, though. They are different, complementary efforts. You can pursue goals in both areas of life with low conflict.
 
-
-
-
+---
 
 **Thanks** to Anthony, Issy, Lukas, and Phillip for reading drafts of this.

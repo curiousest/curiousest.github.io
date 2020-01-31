@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "How I should have started my fitness journey"
-date: '2020-01-30T00:00:00.001-05:00'
+title: "Hey, fitness noob!"
+date: '2020-01-31T00:00:00.001-05:00'
 author: Douglas Hindson
 tags: 
 - personal development
 - fitness
-modified_time: '2020-01-30T00:00:00.001-05:00'
+modified_time: '2020-01-31T00:00:00.001-05:00'
 ---
 
 I grew up playing most sports and eating healthy. Despite that, I made mistakes when I tried to get fit and be more attractive. It's easy to screw up improving your fitness, but it's easy to do well too - you need a breadth of simple knowledge. This is the article I wish I had when I started intentionally improving my fitness.
@@ -17,7 +17,7 @@ I grew up playing most sports and eating healthy. Despite that, I made mistakes 
 
 Regardless of your goals, diet is the most important topic to focus effort on. Exercise is second. You will have to spend time learning and building habits in both topics - focusing on one and not the other will slow your progress. 
 
-First, establish these habits and execute for a few months. That journey will teach you enough to figure out "what next?".
+First, establish these habits and execute for a few months. That journey will teach you enough to figure out *what next?*.
 
 ### Diet habits
 
@@ -33,7 +33,7 @@ First, establish these habits and execute for a few months. That journey will te
 
 To establish those habits, you're going to have to learn. The fastest way to get a foundation is to spend a few hours learning from a professional: a dietician or personal trainer. You can also learn from fitness friends (gym buddies), fitness classes (find ones where learning technique is part of the class), or self-study (reddit, youtube, etc). I couldn't find trustworthy diet information on the internet, but exercise content was great.
 
-This is a good self-study start:
+Here's a good self-study start:
 
 * [Introduction to fitness](https://thefitness.wiki/getting-started-with-fitness/)
 * [Introduction to diet](https://thefitness.wiki/improving-your-diet/)
@@ -45,17 +45,17 @@ This is a good self-study start:
 
 This was the biggest failure in my fitness journey.
 
-So much of diet centers around controlling the calories/protein you eat. Your body is bad at telling you what you need to eat to bulk or cut. Your intuition for your stomach will be off, but you can build an intuition for the numbers.
+So much of diet centers around controlling the calories/protein you eat. Your body is bad at telling you what you need to eat to bulk or cut. Your intuition for your stomach will be off, but you can build an intuition for the numbers. This exercise is more painful than physical exercise, but it yields far more in return.
 
 #### How do you count the calories/protein you eat?
 
-This exercise is more painful than physical exercise, but it yields far more in return. Use the [myfitnesspal](https://www.myfitnesspal.com/food/search) app or website to find the calorie counts of food. Once you've done your regular meals and days, you can reuse the past. For example, "My cereal meal is 600kcal. Today I added an apple and ate half as much, so it's 350kcal." The data you collect will tell you what eating habits need to change.
+Use the [myfitnesspal](https://www.myfitnesspal.com/food/search) app or website to find the calorie counts of food. Once you've recorded your regular meals and days, you can reuse the past. For example, "My cereal meal is 600kcal. Today I added an apple and ate half as much, so it's 350kcal." The data you collect will tell you what must change.
 
 #### How do you figure out target calories/protein?
 
 Talk to a dietician or personal trainer and give them data: calorie consumption, fitness tracker, and weight change. 
 
-Alternatively, you can iterate until you figure out your target. Track your weight change. Adjust your diet and training until the velocity is correct. You can't gain more than a couple pounds of muscle a month - the rest will be fat. If you're losing weight, maintain your weightlifting numbers or you'll lose muscle too. You need to hit a target protein number, independent of the calorie target. Google, "how much protein should I eat to <goal>". Unless your target is 5000kcal/day, you're going to have to change your diet so protein can take a larger percentage of your calorie intake.
+Alternatively, you can iterate until you figure out your target. Track your weight change. Adjust your diet and training until the velocity is correct. You can't gain more than a couple pounds of muscle a month - the rest will be fat. If you're losing weight, maintain your weightlifting numbers or you'll lose muscle too. You need to hit a target protein number, independent of the calorie target. Google, "how much protein should I eat to {your_goal}". Unless your target is 5000kcal/day, you're going to have to change your diet so protein can take a larger percentage of your calorie intake.
 
 #### How accurate do the measurements have to be?
 
@@ -75,4 +75,10 @@ In the 10-15% bodyfat range, men look great. There's a desirable range for women
 
 ### Fitness effort complements office work effort
 
-After working in an office 9am-5pm, it's hard to do more white-collar work. You can exercise, though. They are different, complementary efforts. You can pursue goals in both areas of life with low conflict. 
+After working in an office 9am-5pm, it's hard to do more white-collar work. You can exercise, though. They are different, complementary efforts. You can pursue goals in both areas of life with low conflict.
+
+
+
+
+
+**Thanks** to Anthony, Issy, Lukas, and Phillip for reading drafts of this.

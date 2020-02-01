@@ -7,14 +7,14 @@ tags:
 - blog
 - fitness
 - personal development
-modified_time: '2019-07-07T00:00:00.001-05:00'
+modified_time: '2020-02-01T00:00:00.001-05:00'
 ---
 
 # Cutting, dieting
 
 I had been bulking for the last 8 months and achieved my second-heaviest mass and bodyfat percentage: ~91.5kg and ~20% bodyfat. I read a fitness article that explained how it can be preferrable to bulk and cut in the 5%-15% bodyfat range because your appearance will be more trim in that range and it is possible to remain within that range during bulking/cutting cycles. It convinced me, and I decided to begin intentionally "cutting" for the first time in my life to lay a foundation for a future bulk.
 
-< insert unfinished results here >
+Cutting was easy for me. I lost 12kg over three months. Cutting was a new experience, and enjoyed exploring the sensations of hunger, physical weakness "unfed workouts", and tiredness. My lowest sustained weight was 80kg and my minimum weight was 78kg (with dehydration and fasting). I didn't follow a diet - I ate to the point that I was always hungry but not starving. I maintained my 5-6x/week weightlifting routine and added a bit more cardio (2-3x per week instead of 1x on top of ~50min cycling every weekday). I probably lost some muscle because my cut was so rapid. My weightlifting numbers were reduced slightly.
 
 # 24-hour fast
 

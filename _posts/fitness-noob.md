@@ -4,7 +4,6 @@ title: "Hey, fitness noob!"
 date: '2020-01-31T00:00:00.001-05:00'
 author: Douglas Hindson
 tags: 
-- personal development
 - fitness
 modified_time: '2020-01-31T00:00:00.001-05:00'
 ---

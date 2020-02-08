@@ -6,7 +6,6 @@ author: Douglas Hindson
 tags: 
 - blog
 - fitness
-- personal development
 modified_time: '2020-02-01T00:00:00.001-05:00'
 ---
 

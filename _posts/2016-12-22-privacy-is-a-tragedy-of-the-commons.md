@@ -137,8 +137,8 @@ Here are some ways systems and societies can encourage sharing information:
 
 # Related
 
-* [Counter-arguments](http://www.curiousest.com/counter-arguments-sharing-is-good.html)
-* [Perfect information systems and societies](http://www.curiousest.com/perfect-information-systems-and-societies.html)
+* [Counter-arguments](https://www.curiousest.com/counter-arguments-sharing-is-good.html)
+* [Perfect information systems and societies](https://www.curiousest.com/perfect-information-systems-and-societies.html)
 
 # References
 

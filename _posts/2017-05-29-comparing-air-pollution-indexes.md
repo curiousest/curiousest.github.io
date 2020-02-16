@@ -99,7 +99,7 @@ The AQI values you see in most AQI apps or websites are usually 1hr readings. So
 
 ## References
 
-[1] A New Multipollutant, No-Threshold Air Quality Health Index Based on Short-Term Associations Observed in Daily Time-Series Analyses, http://www.tandfonline.com/doi/abs/10.3155/1047-3289.58.3.435
+[1] A New Multipollutant, No-Threshold Air Quality Health Index Based on Short-Term Associations Observed in Daily Time-Series Analyses, https://www.tandfonline.com/doi/abs/10.3155/1047-3289.58.3.435
 
 [2] Overview of the new PM2.5 NowCast Method, https://www.arb.ca.gov/carpa/iascpresentations/2015/nowcastaqiforpm25overview.pdf
 
@@ -113,20 +113,20 @@ The AQI values you see in most AQI apps or websites are usually 1hr readings. So
 
 [7] Calculation of AQI (India), cpcb.nic.in/AQI%20-Calculator.xls
 
-[8] National Air Quality Index (India), http://cpcb.nic.in/FINAL-REPORT_AQI_.pdf
+[8] National Air Quality Index (India), https://cpcb.nic.in/FINAL-REPORT_AQI_.pdf
 
 [9] Review of the UK Air Quality Index, https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/304633/COMEAP_review_of_the_uk_air_quality_index.pdf
 
 [10] NowCast Calculator, https://www3.epa.gov/airnow/aqicalctest/nowcast.htm
 
-[11] The New AHQI System - Purpose and Use (Hong Kong), http://www.aqhi.gov.hk/en/what-is-aqhi/faqs.html
+[11] The New AHQI System - Purpose and Use (Hong Kong), https://www.aqhi.gov.hk/en/what-is-aqhi/faqs.html
 
-[12] Technical Regulation on Ambient Air Quality Index (China), http://www.zzemc.cn/em_aw/Content/HJ633-2012.pdf
+[12] Technical Regulation on Ambient Air Quality Index (China), https://www.zzemc.cn/em_aw/Content/HJ633-2012.pdf
 
 [13] National Ambient Air Quality Standards for Particulate Matter; Final Rule (USA), https://www.gpo.gov/fdsys/pkg/FR-2012-06-29/pdf/2012-15017.pdf
  
-[14] Computation of the Pollutant Standards Index (PSI), (Singapore), http://www.haze.gov.sg/docs/default-source/faq/computation-of-the-pollutant-standards-index-(psi).pdf
+[14] Computation of the Pollutant Standards Index (PSI), (Singapore), https://www.haze.gov.sg/docs/default-source/faq/computation-of-the-pollutant-standards-index-(psi).pdf
 
-[15] FAQs on Air Quality (Singapore), http://www.nea.gov.sg/anti-pollution-radiation-protection/air-pollution-control/faqs-on-air-quality
+[15] FAQs on Air Quality (Singapore), https://www.nea.gov.sg/anti-pollution-radiation-protection/air-pollution-control/faqs-on-air-quality
 
-[16] What's CAI?, http://www.airkorea.or.kr/eng/cai/cai1
+[16] What's CAI?, https://www.airkorea.or.kr/eng/cai/cai1

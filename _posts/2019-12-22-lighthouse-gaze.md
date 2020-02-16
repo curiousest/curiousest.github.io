@@ -14,7 +14,7 @@ _Some people look most beautiful in sunlight because their low-contrast features
 _Some people look most beautiful in moonlight because their high-contrast features become striking._
 
 
-<img src="http://i.imgur.com/ZIWmfp9.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
+<img src="https://i.imgur.com/ZIWmfp9.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
 
 <iframe src="https://open.spotify.com/embed/album/1knXI5GIUlQrtwY1OYe9BK" width="400" height="100" frameborder="0" allowtransparency="true"></iframe>
 

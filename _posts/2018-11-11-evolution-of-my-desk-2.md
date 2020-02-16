@@ -97,7 +97,7 @@ I like to imagine droplets of water bouncing around - it'll keep bouncing around
 
 ### Thought experiment: container on head
 
-**Existing design project: [Helmfon](http://hochurayu.com/product_design/helmfon/)**
+**Existing design project: [Helmfon](https://hochurayu.com/product_design/helmfon/)**
 
 <img src="https://i.imgur.com/sV9GYUc.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
 

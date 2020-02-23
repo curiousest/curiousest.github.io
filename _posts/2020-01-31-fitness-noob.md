@@ -44,7 +44,7 @@ Here's a good self-study start:
 
 This was the biggest failure in my fitness journey.
 
-So much of diet centers around controlling the calories/protein you eat. Your body is bad at telling you what you need to eat to bulk or cut. Your intuition for your stomach will be off, but you can build an intuition for the numbers. This exercise is more painful than physical exercise, but it yields far more in return.
+So much of diet centers around controlling the calories/protein you eat. Your body is bad at telling you what you need to eat to bulk or cut. Your intuition for your stomach will be off, but you can build an intuition for the numbers. Counting calories is so boring. Just do it.
 
 #### How do you count the calories/protein you eat?
 

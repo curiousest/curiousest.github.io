@@ -167,4 +167,4 @@ In the short term, a technical strategy was needed to convince senior management
 
 Every time a person or team puts effort into something, they are working on a solution to some problem. These things exist, even if we don't think about them every time we work on something.
 
-Every second spent clarifying the problem is not spent making the solution happen. Like all things in product, you must do exactly what is needed and no more.
+Every second spent clarifying the problem is not spent making the solution happen. Like all things in product, you must aim do exactly what is needed and no more.

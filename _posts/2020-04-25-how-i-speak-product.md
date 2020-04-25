@@ -25,7 +25,7 @@ I can point to countless projects where I should have clarified the problem more
 
 ## Still abstract. How do I use this?
 
-Clarifying the problem (or <i>problem definition</i>) means we're getting more specific:
+Clarifying the problem means we're getting more specific:
 
 * What opportunities?
 * How much value can be captured?

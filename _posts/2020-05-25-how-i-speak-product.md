@@ -101,9 +101,9 @@ The product was not providing enough value to the customer to justify the cost. 
 
 At some point there's little value in clarifying problems and solutions.
 
-You can give feeling of progress to customers in many ways - sharing roadmaps, reflecting on past growth, demoing R&D results, etc. Using product development resources to give the feeling of progress is highly inefficient.
+You can give feeling of progress to customers in many ways - sharing roadmaps, reflecting on past growth, demoing R&D results, etc. Using product development resources to give the feeling of progress is inefficient.
 
-If the salesperson and tech lead had clarified the tree of problems, they could have made decisions that brought greater rewards for the same effort effort.
+If the salesperson and tech lead had clarified the tree of problems, they could have made decisions that brought greater rewards for the same effort.
 
 ## More real-life examples
 

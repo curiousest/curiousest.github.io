@@ -9,7 +9,7 @@ tags:
 modified_time: 'xxxx-xx-xxT00:00:00.001-05:00'
 ---
 
-I've observed that people around me are solution-oriented. We like to focus on what needs to be done - the solution. The following interaction happens frequently (with everyone, from engineers to salespeople):
+I've observed that people around me are solution-oriented. We like to focus on what needs to be done - the solution. The following interaction happens with everyone, from engineers to salespeople:
 
 *Colleague*: "We need to build XYZ."
 

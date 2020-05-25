@@ -44,13 +44,13 @@ Here's a good self-study start:
 
 This was the biggest failure in my fitness journey.
 
-So much of diet centers around controlling the calories/protein you eat. Your body is bad at telling you what you need to eat to bulk or cut. Your intuition for your stomach will be off, but you can build an intuition for the numbers. Counting calories is so boring. Just do it.
+So much of diet centers around controlling the calories + protein you eat. Your body is bad at telling you what you need to eat to bulk or cut. Your intuition for your stomach will be off, but you can build an intuition for the numbers. Counting calories is so boring. Just do it.
 
 #### How do you count the calories/protein you eat?
 
 Use the [myfitnesspal](https://www.myfitnesspal.com/food/search) app or website to find the calorie counts of food. Once you've recorded your regular meals and days, you can reuse the past. For example, "My cereal meal is 600kcal. Today I added an apple and ate half as much, so it's 350kcal." The data you collect will tell you what must change.
 
-#### How do you figure out target calories/protein?
+#### How do you figure out target calories + protein?
 
 Talk to a dietician or personal trainer and give them data: calorie consumption, fitness tracker, and weight change. 
 
@@ -62,7 +62,16 @@ It depends on how accurate you want to be in working towards your goals, but her
 
 One kilogram of bodyfat allegedly takes 7700 calories to burn off. If you eat 7700 calories extra, you won't gain one kilogram of bodyfat, but it's the right order of magnitude. If your measurements are 1000 calories off, it's around 1/10 kilograms or 1/3 pounds of bodyfat.
 
-A red bell pepper has 31 calories, a carrot has 41 calories, and an apple has 52 calories. A cup of rice has 200 calories, a mars bar has 228 calories, and half a box of ritz crackers has 1120 calories. 20% error on 200 calories is the same as forgetting a whole fruit or vegetable. Omitting a candy bar is like forgetting a picnic of fruits and vegetables. Expend effort where it matters - know what's calorie-dense and track it carefully.
+Expend effort where it matters - know what's calorie-dense and track it carefully:
+
+* Red bell pepper: 31 calories
+* Carrot: 41 calories
+* Apple has 52 calories
+* Cup of rice: 200 calories
+* Mars bar: 228 calories
+* Half a box of ritz crackers: 1120 calories
+
+20% error on 200 calories is the same as forgetting a whole fruit or vegetable. Omitting a candy bar is like forgetting a picnic of fruits and vegetables. 
 
 ### Learn from people IRL
 

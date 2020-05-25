@@ -9,15 +9,15 @@ tags:
 modified_time: 'xxxx-xx-xxT00:00:00.001-05:00'
 ---
 
-I've observed that people around me are solution-oriented. We like to focus on what needs to be done - the solution. This situation is commonplace with engineers and salespeople alike:
+I've observed that people around me are solution-oriented. We like to focus on what needs to be done - the solution. The following interaction happens frequently (with everyone, from engineers to salespeople):
 
-*Colleague*: "Hey Douglas, we need to build XYZ."
+*Colleague*: "We need to build XYZ."
 
 *Me*: "What problem is that solving?"
 
-*Colleague*: "Talking about the problem doesn't get us any closer to delivering. This is a great idea, we just need to execute."
+*Colleague*: "Talking about the problem doesn't get us any closer to delivering. It's a great idea, so we just need to execute."
 
-We both have good intentions, but there is conflict. This article explains where I'm coming from - a way of thinking that exceptional product people drilled it into me.
+We all have good intentions, but there's conflict. This article explains where I'm coming from - a way of thinking that exceptional product people drilled it into me.
 
 ## The framework
 

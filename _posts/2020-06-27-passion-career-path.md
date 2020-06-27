@@ -9,7 +9,7 @@ tags:
 modified_time: '2020-06-27T00:00:00.001-05:00'
 ---
 
-A university student approached me for advice on their career direction. They asked a question that reminded me of how I felt at that stage in my career.
+A university student approached me for advice on their career direction. They asked a question that reminded me of how I felt at that stage in my career. I'm sure this same advice has been given many times before.
 
 ## Request for advice
 

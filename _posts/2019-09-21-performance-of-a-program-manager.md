@@ -6,7 +6,6 @@ author: Douglas Hindson
 tags: 
 - career
 - tech industry
-- essay
 modified_time: '2019-09-21T00:00:00.001-05:00'
 ---
 

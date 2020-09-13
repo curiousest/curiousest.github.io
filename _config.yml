@@ -5,3 +5,5 @@ collections:
   posts:
     output: true
     permalink: /:title/
+
+google_analytics: UA-40144218-1

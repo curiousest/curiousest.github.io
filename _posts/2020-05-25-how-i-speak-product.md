@@ -17,7 +17,7 @@ I've observed that people around me are solution-oriented. We like to focus on w
 
 *Colleague*: "Talking about the problem doesn't get us any closer to delivering. It's a great idea, so we just need to execute."
 
-We all have good intentions, but there's conflict. This article explains where I'm coming from - a way of thinking that exceptional product people drilled it into me.
+We all have good intentions, but there's conflict. This article explains where I'm coming from - a way of thinking that exceptional product people drilled into me.
 
 ## The framework
 

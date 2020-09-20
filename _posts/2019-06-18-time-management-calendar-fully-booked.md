@@ -20,8 +20,8 @@ I am goal-oriented and frequently thinking about how to set myself up to meet my
 ### Objectives
 
 The main objective is to influence my default behaviour in my personal time towards meeting my goals. The hypotheses of this time management strategy are: 
-- You can make better decisions about what is the best thing to do with a timeslot 1-5 days in advance instead of in the moment/hour, and this improvement in decision-making is worth the planning admin time investment
-- If you book plans in your calendar for doing something 1-5 days in advance, you're likely to decide to follow through on the planned activity during that timeslot
+- I can make better decisions about what is the best thing to do with a timeslot 1-5 days in advance instead of in the moment/hour, and this improvement in decision-making is worth the planning admin time investment
+- If I book plans in my calendar for doing something 1-5 days in advance, I'm likely to decide to follow through on the planned activity during that timeslot
 
 The objectives of this strategy do not include:
 - Figuring out out what the "right" behaviours or goals are.
@@ -29,15 +29,15 @@ The objectives of this strategy do not include:
 
 ### What must I physically do?
 
-- Write entries in your calendar
+- Write in my calendar every day
     - Make calendar items that are good decisions for those timeslots
-    - Compose those calendar items into an achievable calendar 
-- Adhere to the plans laid out in the calendar
-    - Be aware of the calendar items
-    - Accept that adhering to the calendar should be your default behaviour
-    - Update the calendar to reflect a realistic future
+    - Don't book so much that I'm guaranteed to fail 
+- Follow the plans in my calendar
+    - Be aware of my calendar items
+    - Following my calendar should be my default behaviour
+    - Update my calendar to reflect a realistic future
 
-Here are some examples of weeks in my calendars where I attempted to book most of my personal time (blue is personal, grey is work):
+Here are some examples of weeks in my calendar where I booked most of my personal time (blue is personal, grey is work):
 
 <img src="https://i.imgur.com/4XcLZsA.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
 
@@ -46,9 +46,10 @@ Here are some examples of weeks in my calendars where I attempted to book most o
 
 ## Observations, results, and conclusions
 
-- This strategy makes sense when there is consistency in your life. It doesn't make sense when there is high uncertainty - ex: you need to travel for work. Anecdotally, I've done this for a few weeks, then had disruptive weeks, took a while to recover, then resumed.
-- The weeks where I performed this activity were anecdotally more productive. They may also have been more mentally taxing.
-- Sometimes you blow through a whole set of calendar items, ignoring them. That's ok. You can move them to the future.
-- You need to have some sort of goals framework or tasks list to generate calendar items from.
-- You will have limited ability to perform productive activities outside of your standard full day of work. Make an achievable plan for future you.
-- Using calendar meetings to communicate with others in your personal life is very effiecient and unambiguous. With my significant other, it reduces conflict resulting from ambiguity, and events without calendar items are always at risk of miscommunication.
+- This strategy makes sense when there is consistency in my life. It doesn't make sense when there is high uncertainty - ex: I need to travel for work. Anecdotally, I've done this for a few weeks, then had disruptive weeks, took a while to recover, then resumed.
+- The weeks where I performed this activity were anecdotally more productive. They were also more mentally taxing.
+- Sometimes I blow through a whole set of calendar items, ignoring them. That's ok. I can move them to the future.
+- I need to have some sort of goals framework or tasks list to generate calendar items from.
+- I will have limited ability to perform productive activities outside of my standard full day of work. Make an achievable plan for future me.
+- Using calendar meetings to communicate with others in my personal life is very efficient and unambiguous. With my significant other, it reduces conflict resulting from ambiguity, and events without calendar items are always at risk of miscommunication.
+- To follow the plan, it needs to be relevant to “today’s me” and I need to be invested - for example, leaving a recurring “write for 1hr” block in the morning gets ignored.

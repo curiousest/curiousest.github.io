@@ -135,6 +135,16 @@ button:focus {
     outline-offset: -2px;
 }
 
+img {
+    width: 50rem;
+    height: auto;
+}
+.row .column img {
+    width: 25rem;
+    height: auto;
+
+}
+
 .frontpage-by-category li {
     padding: 0.2em 0px;
 }

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Evolution of my desk part 2 - sound-proofing 
+title: 'Evolution of my desk part 2: sound-proofing'
 date: '2018-11-11T11:00:00.001-05:00'
 author: Douglas Hindson
 tags: 

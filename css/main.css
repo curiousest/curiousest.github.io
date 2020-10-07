@@ -1,6 +1,7 @@
 body {
-    margin: 60px auto;
-    width: 70%;
+    margin-right: auto;
+    margin-left: auto;
+    width: 50rem;
 }
 li {
     line-height: 1.4em;
@@ -28,11 +29,11 @@ h1 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 h2 {
-    font-size: 2.2em;
+    font-size: 2em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 h3 {
-    font-size: 1.8em;
+    font-size: 1.6em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 h4 {
@@ -40,7 +41,7 @@ h4 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 div.post ul li {
-    font-size: 1.4em;
+    font-size: 1.3em;
     line-height: 1.4em;
     color: #333;
 }
@@ -68,21 +69,21 @@ div.post ol li li li {
     font-size: 90%;
 }
 p {
-    font-size: 1.5em;
+    font-size: 1.3em;
     line-height: 1.4em;
     color: #333;
-    margin-top: 0.5em;
-    margin-bottom: 0.5em;
+    margin-top: 0.7em;
+    margin-bottom: 0.7em;
 }
 details {
-    font-size: 1.5em;
+    font-size: 1.3em;
     line-height: 1.4em;
     color: #333;
     margin-top: 0.5em;
     margin-bottom: 0.5em;
 }
 table {
-    font-size: 1.5em;
+    font-size: 1.3em;
     border-spacing: 0.5em;
     color: #333;
 }
@@ -93,7 +94,8 @@ footer {
 
 ul.posts { 
     margin: 20px auto 40px; 
-    font-size: 1.5em;
+    font-size: 1.3em;
+    padding-inline-start: 0px;
 }
 
 ul.posts li {
@@ -131,4 +133,8 @@ button:focus {
     outline: thin dotted #444;
     outline: 5px auto -webkit-focus-ring-color;
     outline-offset: -2px;
+}
+
+.frontpage-by-category li {
+    padding: 0.2em 0px;
 }

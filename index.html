@@ -2,25 +2,16 @@
 layout: default
 title: Douglas' Blog
 ---
-<h1>{{ page.title }}</h1>
-<table style="width:100%;font-size:1em">
+<h1 style="margin-block-end: 0px;">{{ page.title }}</h1>
+<table style="width:100%;font-size:1em" class="frontpage-by-category">
 	<tr>
 	  <td style="vertical-align:top">
-		
-		<h2>Best Posts</h2>
-		<ul class="posts">
-		{% for post in site.posts %}
-		{% if post.tags contains "favourite" %}
-			<li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-		{% endif %}
-		{% endfor %}
-		</ul>
 
-		<h2>Personal Development</h2>
+		<h2>Grow</h2>
 		<ul class="posts">
 		{% for post in site.posts %}
 		{% if post.tags contains "personal development" %}
-			<li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+			<li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
 		{% endif %}
 		{% endfor %}
 		</ul>
@@ -29,28 +20,37 @@ title: Douglas' Blog
 		<ul class="posts">
 		{% for post in site.posts %}
 		{% if post.tags contains "fitness" %}
-			<li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+			<li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+		{% endif %}
+		{% endfor %}
+		</ul>
+
+		<h2>Best Posts</h2>
+		<ul class="posts">
+		{% for post in site.posts %}
+		{% if post.tags contains "favourite" %}
+			<li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
 		{% endif %}
 		{% endfor %}
 		</ul>
 
 	  </td>
 	  <td>
-		
-		<h2>Essays</h2>
-		<ul class="posts">
-		{% for post in site.posts %}
-		{% if post.tags contains "essay" %}
-			<li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-		{% endif %}
-		{% endfor %}
-		</ul>
 
 		<h2>Projects</h2>
 		<ul class="posts">
 		{% for post in site.posts %}
 		{% if post.tags contains "projects" or post.tags contains "facts and data" %}
-			<li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+			<li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+		{% endif %}
+		{% endfor %}
+		</ul>
+
+		<h2>Essays</h2>
+		<ul class="posts">
+		{% for post in site.posts %}
+		{% if post.tags contains "essay" %}
+			<li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
 		{% endif %}
 		{% endfor %}
 		</ul>
@@ -59,7 +59,7 @@ title: Douglas' Blog
 		<ul class="posts">
 		{% for post in site.posts %}
 		{% if post.tags contains "story" %}
-			<li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+			<li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
 		{% endif %}
 		{% endfor %}
 		</ul>
@@ -67,7 +67,7 @@ title: Douglas' Blog
 	  </td>
 	</tr>
 </table>
-<h2>All Posts</h2>
+<h2>Posts by date</h2>
 <ul class="posts">
 {% for post in site.posts %}
 	<li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>

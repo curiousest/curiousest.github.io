@@ -15,6 +15,29 @@ modified_time: '2019-07-08T00:00:00.001-05:00'
 
 When actively looking for a new position, I like my goals to be clear to me and available to others. This post documents the goals in my transitions. Like most goals/values lists, what's excluded is often as notable as what's included.
 
+# 2022
+
+I want to work in China and the Western World.
+- Need better Chinese language and culture (in a business/management setting)
+- Need better Chinese network
+
+I want to consult/coach/mentor companies/teams/founders/managers.
+- Need experience in executive positions.
+- Continue building experience consulting/coaching/mentoring.
+
+I want to work on AI B2B software companies - ones that automate expert tasks with data.
+- Need more data science exposure/expertise/experience.
+- Need more business dev / solution architect experience.
+
+From a business school, I would get:
+- Learn business fundamentals
+- Network with people (esp Chinese businesspeople)
+- Stamp of approval on CV/profile (because of strong filters)
+- Understand my future users
+
+As an engineer, I like to understand and build complex systems.
+I like to understand and build companies - and that needs a breadth of knowledge/experience.
+
 # 2019
 
 I want to leverage my experience and concentrate on the [activities I like](/2019/09/07/activities-guiding-my-professional-career.html) so that I consistently am a high performer and enjoy the work I do.

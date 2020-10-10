@@ -5,5 +5,19 @@ collections:
   posts:
     output: true
     permalink: /:title/
+  drafts:
+    output: true
+    permalink: /:title/
 
 google_analytics: UA-40144218-1
+
+defaults:
+  - scope:
+      path: ""
+      type: drafts
+    values:
+      layout: draft
+      author_profile: true
+      read_time: true
+      sitemap: false
+      noindex: true   #To hide from robots and crawlers

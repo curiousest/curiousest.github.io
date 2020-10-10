@@ -11,7 +11,7 @@ modified_time: '2020-05-25T00:00:00.001-05:00'
 
 I've observed that people around me are solution-oriented. We like to focus on what needs to be done - the solution. The following interaction happens with everyone, from engineers to salespeople:
 
-*Colleague*: "We need to build XYZ."
+*Colleague*: "We need to build a dashboard for our customers to understand their data."
 
 *Me*: "What problem is that solving?"
 

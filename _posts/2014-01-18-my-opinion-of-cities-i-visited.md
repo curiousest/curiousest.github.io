@@ -4,7 +4,6 @@ title: My Opinion of the Cities I Visited
 date: '2014-01-18T12:53:00.000-05:00'
 author: Doug Hindson
 tags:
-- facts and data
 modified_time: '2014-01-18T12:55:17.974-05:00'
 thumbnail: https://3.bp.blogspot.com/-Qxqh8AV1XhA/Utq-MxEPVfI/AAAAAAAAAUk/_S1pQzfdYG0/s72-c/Screenshot+from+2014-01-18+16:19:30.png
 blogger_id: tag:blogger.com,1999:blog-3762968903344452987.post-8167292371862107731

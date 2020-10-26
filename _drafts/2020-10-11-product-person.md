@@ -5,7 +5,7 @@ date: 'xxxx-xx-xxT00:00:00.001-05:00'
 author: Douglas Hindson
 tags: 
 - personal development
-- short
+- professional
 modified_time: 'xxxx-xx-xxT00:00:00.001-05:00'
 ---
 
@@ -13,42 +13,35 @@ In a previous job I was onboarding a senior product person. I complained that so
 
 "Douglas, get over yourself. You're in product. What matters is making the business successful."
 
-And that stuck with me. Now I cultivate that, "do what the business needs" compass in product people of all roles and responsibilities.
-
-
-Business-orientied --> product-oriented + technical-oriented. Easy to lean hard either way, try to toe the line.
-Learn to be tech lead + product manager + architect.
-Spectrum
-
-### What's the value?
-
-### Too far technical-oriented
+And that stuck with me. "Do what the business needs" is a great compass for product people of all roles and responsibilities. Of course, everyone in the company should think like that. But product people, whose metrics and problem/solution space can be all over the place, will have to refer back to the fundementals more often.
 
 #### Sub-optimal investment
 
-Healthcare systems in a foreign country? Doctors, nurses, hospitals, gp practices, rota management... I had no interest in this domain. The marketplace aspect was interesting. I expected product managers and designers to hand me specs, so I could focus on architecting and building. That social contract mostly worked, but when our team met the cofounders for strategic discussions, I couldn't contribute. All I could do was estimate the effort involved in building a mockup. And others could smell my lack of enthusiasm for the business - especially cofounders, who live and breathe it. Cofounders, bosses, etc all want you to be invested in the company, and when you prove that, they will invest more in you. I could have accellerated my advancement if I displayed more. 
+Healthcare systems in a foreign country? Doctors, nurses, hospitals, gp practices, rota management... I worked in this company, but I had no interest in this domain.
 
-Five years later, here I am working in that same product domain with a different tech stack - healthcare systems, doctors, etc. AI instead of marketplace.
+I wanted to improve transferrable skills. I expected product managers and designers to hand me specs, so I could focus on architecting and building. That mostly worked out, but when our team met the cofounders for strategic discussions, I couldn't contribute. I could estimate the effort involved in building a mockup, but I couldn't propose an alternative with 2x value and 0.5x cost.
 
-#### No power
+And others could smell my lack of enthusiasm for the business - especially the cofounders, who lived and breathed it. Cofounders, managers, teammates - they all want you to be invested in the company and team. When you prove your devotion, they will invest more in you. I could have accelerated my growth in responsibilities and position if I displayed more enthusiasm for the product and business.
 
-I once joined a team that needed engineers to behave like product engineers, but didn't.
+Five years later, here I am working in that same product domain and a different technical one.
 
-The developers only met with their users when directed to, even though their users worked at desks a few meters away. The developer team waited for decisions to come from product managers and designers. The product they worked on was just a piece of a much larger product, about which they had little context. Decisions *happened to them* and they weren't in control of their future. Off-track projects were cancelled. They often built the wrong thing, and how could they know what the right thing was? They barely grasped what was needed of _their_ small piece of a much larger puzzle. What they built was inevitably going to be 
+#### Weak without product context
 
-I had to correct this. The PM expressed that the developers were always invited, but didn't really participate. Like my usual self-directed onboarding, I did some user interviews to build context. Afterwards, I shared how I interviewed our users, and that the developers were missing out on key information. They felt FOMO.
+I once joined a team that needed its engineers to behave like product engineers. They didn't.
 
-One month in, my first project on the team was to begin bridging two products. The team over and over resisted a solution, because they had a fear of risks. We ended up going the "low-risk" path. We spent six man-months on a project. The solution was scrapped and we did it properly later when everyone had sufficient context.
+The developers only met with their users when directed to, even though their users worked at desks a few meters away. The developer team waited for decisions to come from product managers and designers. The product they worked on was just a piece of a much larger product, about which they had little context. Decisions *happened to them* and they weren't in control of their future. Off-track projects were cancelled, they often built the wrong thing. And how could they know what the right thing was? They barely grasped what was needed of _their_ small piece of a much larger puzzle.
 
-### Too far product-oriented
+The PM expressed that the developers were always invited to interact with users, but didn't really participate. During onboarding, I did some user interviews to build context. Afterwards, I shared how I interviewed our users, and that the developers were missing out on key information and relationships. They felt FOMO.
 
-Tractable?
+One month in, my first project on the team was to begin bridging two products. Over and over, the team resisted a solution because we had a fear of imagined risks. We ended up going down the "low-risk" path that incurred tech debt - we spent six man-months on a project and didn't finish. The solution was scrapped and we redid it properly later when everyone had sufficient context.
 
-### How can you tell?
+### What does a product engineer sound like?
 
-When I interview engineers, this is the question I use to evaluate how "product-oriented" they are:
+"Product-oriented" people aren't *better*, but they are *different* - in their motivations, skills, and experiences. For example, I would be wary of a product-oriented person solo rebuilding a data pipeline to eliminate tech debt because they might get bored and frustrated. Deeply technical people who are also product-oriented are rare, because those are divergent paths.
 
-> How do you prefer to get specifications for features or things you have to build? **There's no right answer - it's a spectrum.**
+When I interview engineers, this is what I ask to evaluate how "product-oriented" they are:
+
+> How do you prefer to get specifications for features or things you have to build? *There's no right answer - it's a spectrum.*
 > 
 > For example:
 > * Do you prefer to get user stories from a PM so you can focus on architecting and building the solution?
@@ -57,21 +50,19 @@ When I interview engineers, this is the question I use to evaluate how "product-
 >
 > Where do you fall on that spectrum? Can you give an example?
 
-### Caveats
+A "good" answer is when the person says they're on the part of the spectrum that I'm hiring for.
 
-Career considerations are important - one of the things that makes a business successful is it's employees continuing to want to work there.
-
-Product teams with good attitudes are still ruined by mismanagement - ex: putting four engineers and a PM on a project with heavy UX and project management needs will burn out the PM and bore the engineers.
-
-More "product-oriented" isn't better or worse, and highly technical people who are also product-oriented are hard to find. I would be wary of a very product-oriented person solo rebuilding a data pipeline - they might get bored and frustrated.
+An "experienced" answer is, "I've done all of them. I'm best at X, prefer Y, and try to avoid Z."
 
 ---
 
 Related articles:
 
-https://blog.pragmaticengineer.com/the-product-minded-engineer/
-https://amplitude.com/blog/how-to-build-product-oriented-engineering-teams
-https://jproco.medium.com/your-startup-needs-a-product-engineer-immediately-8902f7787c25
+* https://blog.pragmaticengineer.com/the-product-minded-engineer/
+* https://amplitude.com/blog/how-to-build-product-oriented-engineering-teams
+* https://jproco.medium.com/your-startup-needs-a-product-engineer-immediately-8902f7787c25
+* https://hbr.org/2017/12/what-it-takes-to-become-a-great-product-manager
 
+---
 
-https://hbr.org/2017/12/what-it-takes-to-become-a-great-product-manager
+Thanks to * for reviewing drafts of this.

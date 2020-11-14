@@ -17,22 +17,40 @@ modified_time: 'XXXX-XX-XXT11:00:00.001-05:00'
 
 ---
 
+(three orientations - standing, lying, kneeling)
+
 Pandemic struck and overnight we started working from home five-days-a-week.
 
+(picture slouching/sleeping on couch)
 
-The beginning was painful - you get into a love-hate relationship with your couch. I thought, "it can't last more than another month or so". A few more months rolled by, and I built makeshift monitor towers out of shoe boxes and hardcover books. I assembled my desk every Monday and tore it down every Friday.
+The beginning was painful. I got into a love-hate relationship with my couch. I thought, "it can't last more than another month or so". A few more months rolled by, and I built makeshift monitor towers out of shoe boxes and hardcover books. I assembled my desk every Monday and tore it down every Friday.
 
-Five months in, management at my workplace shared the results of an employee survey. The vast majority of a ~2000-person tech company wanted to work from home three or more days per week.
+(two sitting in circle carpet pictures)
 
-I accepted the new reality - remote work is here to stay.
+Five months in, management at my workplace shared the results of an employee survey. An overwhelming majority of my ~2000-person tech company wanted to work from home 3+ days per week.
 
-That meant I needed a WFH workspace.
+I accepted the new reality: remote work is here to stay. I needed a WFH setup.
 
---
+## Video: Camera and Lighting
 
-# Interesting
-## Videoconferencing
-### Sound and Microphone
+amazon.co.uk/gp/product/B08423RKGL
+ring light
+
+Any light is much better than no light. Apparently circle lights make your face look better because there are no shadows. They also give your eyes an aesthetically pleasing ring reflection.
+
+100ms video instead of picture. Bobbling head / moving eyes. Capture as zoom mini viewer box?
+matrix:
+iphone camera, video camera, laptop camera
+light, no light
+nighttime, moderate, bright
+
+
+zoomed-in eye ring closeup picture
+
+amazon.co.uk/gp/product/B006A2Q81M
+It used to be 45, now it's 90...
+
+## Audio: Microphone and Soundscape
 
 I have a beautiful voice, so I wanted to make sure it is heard.
 https://www.amazon.co.uk/gp/product/B00N1YPXW2
@@ -51,31 +69,27 @@ I got an adapter that let me use the microphone with my devices
 
 https://en.wikipedia.org/wiki/Harvard_sentences
 
-### Videocamera and Lighting
+## Desk setup
 
-amazon.co.uk/gp/product/B08423RKGL
-ring light
-
-Any light is much better than no light. Apparently circle lights make your face look better because there are no shadows. They also give your eyes a funny ring reflection.
-
-amazon.co.uk/gp/product/B006A2Q81M
-It used to be 45, now it's 90...
-
-### Software mastery and the art of meetings
-
-# BAU
-## The basics
-I started with the basics (for me):
+The key considerations for any of my desk setups are:
 
 * Standing / kneeling alternatives
+* Good posture enforced
+* One position is comfortable enough to program for up to one hour
 
+Work from home introduced new considerations:
+
+* State-dependent memory, so not bedroom desk.
+* 
+
+I have no separate room with windows in my flat, so 
 monitor mount with keyboard shelf
 
 ## What room?
 
 bookshelf
 
-state-dependent memory, so not bedroom desk.
+
 
 # 
 

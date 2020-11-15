@@ -19,15 +19,14 @@ And that stuck with me. It's great compass for product people of all roles and r
 
 "Product-oriented" people aren't *better*, but they are *different* in their motivations, skills, and experiences. Product-oriented people prioritize individually contributing towards business impact at the cost of working on less interesting technical problems. Deeply technical, product-oriented people are like deeply technical managers - rare, because they're divergent paths.
 
-**When I look at an engineer's resume**, I look for prioritizing impact over interesting tech. Prioritizing impact looks a lot like prioritizing status. Today's impact is tomorrow's status? Or maybe impact feels like the road to status?
+**When I look at an engineer's resume**, I look for prioritizing impact over working on interesting tech. Prioritizing impact looks a lot like prioritizing status. Today's impact is tomorrow's status? Or maybe impact feels like the road to status?
 
-Here are some indicators of being product-oriented that show up on resumes:
+Here are some indicators of prioritizing impact over interesting tech that show up on resumes:
 
-* Founder or early stage startup
-* Forward-deployed engineer
+* Founder or worked at an early-stage startup
 * Lead of a team and talks about users or customers
+* Forward-deployed engineer or engineer in consulting company
 * UX experience or interest
-* Consulting company
 
 **When I interview engineers**, I look for decisions where they decided between impact and interesting tech. I often use this question to evaluate how "product-oriented" they are:
 

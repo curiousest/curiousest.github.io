@@ -17,7 +17,7 @@ When looking for a new position, I like my goals to be clear to me and available
 
 # 2022
 
-* I'm not looking, just projecting that I will want some sort of change by this point in time (either within my current company or to a new one).
+I'm not looking, just projecting that I will want some sort of change by this point in time (either within my current company or to a new one).
 
 I want to work in China and the Western World.
 - Need better Chinese language and culture (in a business/management setting)

@@ -13,13 +13,13 @@ In a previous job I was onboarding a senior product person. I complained that so
 
 > "Douglas, get over yourself. You're in product. Make the business successful - that's what matters."
 
-And that stuck with me. It's great compass for product people of all roles and responsibilities. Of course, everyone in the company should think like that. But *"product people"*, whose KPIs and problem/solution space can be all over the place, will have to start from the fundementals more often.
+That stuck with me. It's a compass for product people of all roles and responsibilities. Of course, everyone in the company should think like that. But *"product people"*, whose KPIs and problem/solution space can be all over the place, will have to start from the fundementals more often.
 
 ## What does a product engineer look like?
 
-"Product-oriented" people aren't *better*, but they are *different* in their motivations, skills, and experiences. Product-oriented people prioritize individually contributing towards business impact at the cost of working on less interesting technical problems. Deeply technical, product-oriented people are like deeply technical managers - rare, because they're divergent paths.
+"Product-oriented" people aren't *better*, but they are *different* in their motivations, skills, and experiences. Product-oriented people prioritize individually contributing towards business impact at the cost of working on less "interesting" problems. Deeply technical, product-oriented people are like deeply technical managers - rare, because they're divergent paths.
 
-**When I look at an engineer's resume**, I look for prioritizing impact over working on interesting tech. Prioritizing impact looks a lot like prioritizing status. Today's impact is tomorrow's status? Or maybe impact feels like the road to status?
+**When I look at an engineer's resume**, I look for prioritizing impact over working on interesting tech. Prioritizing impact looks a lot like prioritizing status. Today's status was yesterday's impact? Or maybe impact feels like the road to status?
 
 Here are some indicators of prioritizing impact over interesting tech that show up on resumes:
 
@@ -28,7 +28,7 @@ Here are some indicators of prioritizing impact over interesting tech that show 
 * Forward-deployed engineer or engineer in consulting company
 * UX experience or interest
 
-**When I interview engineers**, I look for decisions where they decided between impact and interesting tech. I often use this question to evaluate how "product-oriented" they are:
+**When I interview engineers**, I look for decisions where they decided between impact and interesting tech. I also use this question to evaluate how "product-oriented" they are:
 
 > How do you prefer to get specifications for features or things you have to build? *There's no right answer - it's a spectrum.*
 > 
@@ -53,11 +53,11 @@ Healthcare systems in a foreign country? Doctors, nurses, hospitals, gp practice
 
 <br/><br/>
 
-I wanted to improve transferrable skills. I expected product managers and designers to hand me specs, so I could focus on architecting and building. That mostly worked out, but when our team met the cofounders for strategic discussions, I couldn't contribute. I could estimate the effort involved in building a mockup, but I couldn't propose an alternative with 2x value and 0.5x cost.
+I wanted to improve transferrable skills. I expected product managers and designers to hand me specs, so I could focus on architecting and building. That mostly worked out, but when our team met the cofounders for strategic discussions, I couldn't contribute. I could estimate the effort involved in building a mockup, but I couldn't propose an alternative with 2x value at 0.5x cost.
 
 <br/><br/>
 
-And others could smell my lack of enthusiasm for the business - especially the cofounders, who lived and breathed it. Cofounders, managers, teammates - they all want you to be invested in the company and team. When you prove your investment in the business, others will reciprocate with more investment in you. I could have accelerated my growth in responsibilities and position if I displayed more enthusiasm for the product and business.
+Others could smell my lack of enthusiasm for the business - especially the cofounders, who lived and breathed it. Cofounders, managers, and teammates all want you to be invested in the company and team. When you prove your investment in the business, others will reciprocate with more investment in you. I could have accelerated my growth in responsibilities and position if I displayed more enthusiasm for the product and business.
 
 <br/><br/>
 
@@ -76,7 +76,7 @@ I once joined a team that needed its engineers to behave like product engineers.
 
 <br/><br/>
 
-The developers only met with their users when directed to, even though their users worked at desks a few meters away. The developer team waited for decisions to come from product managers and designers. The service they worked on was just a piece of a much larger product, about which they had little context. Decisions *happened to them* and they weren't in control of their future. Their projects went off-track and got cancelled. They often built the wrong thing, and how could they know what the right thing was? They barely grasped what was needed of _their_ small piece of a much larger puzzle.
+The developers only met with their users when directed to, even though their users worked at desks a few meters away. The developer team waited for decisions to come from product managers and designers. The service they worked on was just a piece of a much larger product, about which they had little context. Decisions <i>happened to them</i> and they weren't in control of their future. Their projects went off-track and got cancelled. They often built the wrong thing, and how could they know what the right thing was? They barely grasped what was needed of <i>their</i> small piece of a much larger puzzle.
 
 <br/><br/>
 
@@ -84,11 +84,11 @@ Of course, these circumstances came from mismanagement, blitz-scaling, and recen
 
 <br/><br/>
 
-The PM expressed that the developers were always invited to interact with users, but didn't really participate. During onboarding, I did some user interviews to build context. Afterwards, I shared how I interviewed our users, and that the developers were missing out on key information and relationships. They expressed FOMO.
+The PM expressed that the developers were always invited to interact with users, but didn't really participate. During onboarding, I did some user interviews to build context. Afterwards, I seeded FOMO by sharing how I interviewed our users, gaining key information and relationships necessary to make the best technical decisions.
 
 <br/><br/>
 
-One month in, my first project on the team was to begin bridging two products. Over and over, the team resisted a solution because we had a fear of imagined risks. We ended up going down the "low-risk" path that incurred tech debt - we spent six developer-months on a project and didn't finish. The solution was scrapped and we redid it properly later when everyone had sufficient context.
+One month in, my first project on the team was set to begin bridging two products. Over and over, the team resisted a solution because we had a fear of imagined risks. We ended up going down the "low-risk" path that incurred tech debt - we spent six developer-months on a project and didn't finish. The solution was scrapped and we redid it properly later when everyone had sufficient context.
 
 <br/><br/>
 

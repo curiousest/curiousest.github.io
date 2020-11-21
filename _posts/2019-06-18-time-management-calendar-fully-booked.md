@@ -13,7 +13,7 @@ I've been trialing a time management strategy: a fully booked calendar for my pe
 
 ## Why do I need to change anything?
 
-I am goal-oriented and frequently thinking about how to set myself up to meet my goals. An important part of that is finding ways of making my default behaviours oriented towards my goals. I have found that my default behaviour is often sub-optimal when I'm tired and have a large number of choices. This time management strategy gives me more influence over my default behaviour, especially under the conditions where I'm more likely to make poor decisions.
+I want my default behaviours to be oriented towards my goals. My default choices aren't the best when I'm tired and have a large number of choices. Empty calendars are filled with "tired and large number of choices." This time management strategy gives me more high-willpower influence over my default behaviour in low-willpower circumstances.
 
 ## What is this time management strategy?
 

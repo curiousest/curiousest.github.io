@@ -45,7 +45,7 @@ A "good" answer is when the person says they're on the part of the spectrum that
 An "experienced" answer sounds something like, "I've done all of them. I'm best at #3, prefer #2, and avoid #1."
 
 <details>
-<summary><b>Story #1</b>: My sub-optimal investment</summary>
+<summary><b>Story #1</b>: My mistaken investment</summary>
 
 <br/>
 

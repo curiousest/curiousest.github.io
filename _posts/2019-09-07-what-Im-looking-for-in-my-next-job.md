@@ -13,9 +13,11 @@ modified_time: '2019-07-08T00:00:00.001-05:00'
 
 # Purpose
 
-When actively looking for a new position, I like my goals to be clear to me and available to others. This post documents the goals in my transitions. Like most goals/values lists, what's excluded is often as notable as what's included.
+When looking for a new position, I like my goals to be clear to me and available to others. This post documents the goals in my transitions. Like most goals/values lists, what's excluded is often as notable as what's included.
 
 # 2022
+
+* I'm not looking, just projecting that I will want some sort of change by this point in time (either within my current company or to a new one).
 
 I want to work in China and the Western World.
 - Need better Chinese language and culture (in a business/management setting)

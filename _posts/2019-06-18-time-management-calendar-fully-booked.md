@@ -4,7 +4,6 @@ title: "Time management for personal life: a fully booked calendar"
 date: '2019-06-18T00:00:00.001-05:00'
 author: Douglas Hindson
 tags: 
-- personal development
 - lifehacking
 modified_time: '2019-06-18T00:00:00.001-05:00'
 ---

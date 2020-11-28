@@ -8,8 +8,6 @@ tags:
 modified_time: 'xxxx-xx-xxT00:00:00.001-05:00'
 ---
 
-<iframe src="https://open.spotify.com/embed/album/1knXI5GIUlQrtwY1OYe9BK" width="400" height="100" frameborder="0" allowtransparency="true"></iframe>
-
 I'm in the moment with you.
 
 <closeup face no shoulders, serious face, staring into camera pic>
@@ -26,27 +24,27 @@ I recall your scent.
 
 ---
 
-_Days later,_ those emotions dissipated,
+_Days later,_ those feelings have dissipated,
 
-But new feelings are born in the space between us.
+But new ones are born in the space between us.
 
 <whole loveseat fullbody, lying down relaxed clothes feet up in the sun balcony serious face contemplating>
 
-I recall your face.
+I recall your gaze.
 
 ---
 
-_Weeks later,_ those emotions faded,
+_Weeks later,_ those feelings have faded too,
 
 But they're still within reach - I weave in and out of them.
 
 <1/2 - 1/4 body size in frame, picture... remembering?>
 
-I recall your style.
+I recall your face.
 
 ---
 
-_Months later,_ those emotions are forgotten,
+_Months later,_ those feelings are forgotten,
 
 But I remember that you made me feel.
 

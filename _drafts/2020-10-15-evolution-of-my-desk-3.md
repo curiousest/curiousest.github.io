@@ -17,81 +17,76 @@ modified_time: 'XXXX-XX-XXT11:00:00.001-05:00'
 
 ---
 
-(three orientations - standing, lying, kneeling)
-
-Pandemic struck and overnight we started working from home five-days-a-week.
+Pandemic struck and overnight we started working from home. The beginning was painful. I had a deep relationship with my couch.
 
 (picture slouching/sleeping on couch)
 
-The beginning was painful. I got into a love-hate relationship with my couch. I thought, "it can't last more than another month or so". A few more months rolled by, and I built makeshift monitor towers out of shoe boxes and hardcover books. I assembled my desk every Monday and tore it down every Friday.
+I thought, "it can't last more than another month or so". A few months rolled by. Management at my workplace shared the results of an employee survey: an overwhelming majority of the 1000-3000 person tech company wanted to work from home for most of the week, forevermore. I accepted the new reality - remote work is here to stay. I needed a wfh setup.
 
-(two sitting in circle carpet pictures)
-
-Five months in, management at my workplace shared the results of an employee survey. An overwhelming majority of my ~2000-person tech company wanted to work from home 3+ days per week.
-
-I accepted the new reality: remote work is here to stay. I needed a WFH setup.
-
-## Video: Camera and Lighting
-
-amazon.co.uk/gp/product/B08423RKGL
-ring light
-
-Any light is much better than no light. Apparently circle lights make your face look better because there are no shadows. They also give your eyes an aesthetically pleasing ring reflection.
-
-100ms video instead of picture. Bobbling head / moving eyes. Capture as zoom mini viewer box?
-matrix:
-iphone camera, video camera, laptop camera
-light, no light
-nighttime, moderate, bright
-
-
-zoomed-in eye ring closeup picture
-
-amazon.co.uk/gp/product/B006A2Q81M
-It used to be 45, now it's 90...
-
-## Audio: Microphone and Soundscape
-
-I have a beautiful voice, so I wanted to make sure it is heard.
-https://www.amazon.co.uk/gp/product/B00N1YPXW2
-blue yeti
-
-The first time I used it with colleagues, they died laughing that I sounded like a late-night radio broadcaster.
-
-I haven't solved the sound reflecting off hard surfaces around me.
-
-I got an adapter that let me use the microphone with my devices
-
-"this is my voice on an iphone 6S+ mic"
-"this is my voice on an 2017 ipad pro mic"
-"this is my voice on a 2019 dell laptop mic"
-"and THIS is my voice on a blue yeti mic"
-
-https://en.wikipedia.org/wiki/Harvard_sentences
+(picture daily standupside-down)
+(picture from zoom perspective)
 
 ## Desk setup
 
-The key considerations for any of my desk setups are:
+[I figured out my preferences years ago](/2017/06/13/evolution-of-my-desk.html). I started in my living room on the floor, building up and tearing down the setup every week. (lasted ~2-3 months)
+[pic]
 
-* Standing / kneeling alternatives
-* Good posture enforced
-* One position is comfortable enough to program for up to one hour
+I wanted alternative orientations and less setup/teardown effort. I set up this. (lasted ~4-6 months)
+[kneeling]
+[standing]
+[lying]
 
-Work from home introduced new considerations:
+I was easily distracted and interrupted in the living room. It was also too messy. I set up in my bedroom hallway floor because I didn't have a desk. (lasted ~4-6months)
+[kneeling]
 
-* State-dependent memory, so not bedroom desk.
-* 
+It was in an awkward position and being in one position all the time was tiring. I set up a standing/kneeling desk with an [ikea shelf](https://www.ikea.com/gb/en/p/fjaellbo-shelving-unit-black-70342199/).
+[kneeling]
+[standing]
 
-I have no separate room with windows in my flat, so 
-monitor mount with keyboard shelf
+* I don't stay in one bad posture for a long time (no sitting on a chair).
+* One position is comfortable enough to write code for up to one hour
+* Low setup to change positions
+* Don't make home messy
 
-## What room?
+## Video
 
-bookshelf
+The [Logitech H1250](amazon.co.uk/gp/product/B006A2Q81M) seemed to be the webcam to get. The price went from 45 to 90 in the pandemic and never came back down. 
+
+laptop daylight vs webcam daylight
+
+Any light is much better than no light. Ring lights are a good first step because they're the hardest to do "wrong" with unflattering shadows. Shadows are inconsistent light intensity - they happen on your face at a desk when light sources come from the sides with varying intensities. They also give your eyes an aesthetically-pleasing, gleaming ring reflection. After one light, you can explore three-point lighting and more. The world of streaming, portrait photography, and lighting is vast.
+
+There's high overlap between lighting pictures and video. The main differences between them is the moving subject, the ability to choose which images are used, the differing shutter speed, and the ability to use flash. [More](https://www.techsmith.com/blog/get-perfect-lighting-video/) [here](https://www.borrowlenses.com/blog/portrait-lighting/).
+
+I got a [ring light](amazon.co.uk/gp/product/B08423RKGL) and a back light. I use the ring light all the time because it makes a big difference. I rarely use the back light, because it's more setup and only adds a cool contrast outline effect.
+
+daylight no light vs daylight ring light
+
+dark no light vs dark right light vs dark 3-point light
+
+zoomed-in eye ring closeup picture
+
+100ms gif instead of picture. Bobbling head / moving eyes. Capture as zoom mini viewer box?
 
 
+Is what you see in zoom similar to what others see? Check screenshots on iPad in zoom meeting to check that they're the same quality (so that it looks like how others would see)
+Screenshot on my monitor vs. screenshot on my iPad.
 
-# 
+## Audio
+
+I'm proud of my beautiful voice, so I wanted to make it heard. I got a [Blue Yeti microphone](https://www.amazon.co.uk/gp/product/B00N1YPXW2). 
+
+The first time I used it with colleagues, they died laughing that I sounded like a late-night radio broadcaster.
+
+"this is my voice on a 2019 dell laptop mic"
+"this is my voice on a blue yeti microphone"
+"this is my voice with 2019 Apple EarPods Pro"
+
+https://en.wikipedia.org/wiki/Harvard_sentences
+
+I haven't solved the sound reflecting off hard surfaces around me. That's a guaranteed rabbit hole.
+
+I got an adapter that let me use the microphone with my devices
 
 ---
 

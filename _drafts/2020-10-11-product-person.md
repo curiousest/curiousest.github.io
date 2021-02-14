@@ -13,13 +13,13 @@ In a previous job I was onboarding a senior product person. I complained that so
 
 > "Douglas, get over yourself. You're in product. Make the business successful - that's what matters."
 
-That stuck with me. It's a compass for product people of all roles and responsibilities. Of course, everyone in the company should think like that. But *"product people"*, whose KPIs and problem/solution space can be all over the place, will have to start from the fundementals more often.
+That stuck with me. It's a compass for product people of all roles and responsibilities. Of course, everyone in the company should think like that. But *"product people"*, whose KPIs and problem/solution space can be all over the place, will have to start from first principles more often.
 
 ## What does a product engineer look like?
 
-"Product-oriented" people aren't *better*, but they are *different* in their motivations, skills, and experiences. Product-oriented people prioritize individually contributing towards business impact at the cost of working on less "interesting" problems. Deeply technical, product-oriented people are like deeply technical managers - rare, because they're divergent paths.
+"Product-oriented" people aren't *better*, but they are *different* in their motivations, skills, and experiences. Product-oriented people prioritize individually contributing towards business impact at the cost of working on less "technically interesting" problems. Deeply technical, product-oriented people are like deeply technical managers - rare, because they're divergent paths.
 
-**When I look at an engineer's resume**, I look for prioritizing impact over working on interesting tech. Prioritizing impact looks a lot like prioritizing status. Today's status was yesterday's impact? Or maybe impact feels like the road to status?
+**When I look at an engineer's resume**, I look for prioritizing impact over working on interesting tech. Prioritizing impact looks a lot like prioritizing status.
 
 Here are some indicators of prioritizing impact over interesting tech that show up on resumes:
 

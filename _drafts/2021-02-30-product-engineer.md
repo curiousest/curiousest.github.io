@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Product Person"
+title: "Product Engineer"
 date: 'xxxx-xx-xxT00:00:00.001-05:00'
 author: Douglas Hindson
 tags: 

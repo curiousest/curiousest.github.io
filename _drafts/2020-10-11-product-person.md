@@ -9,7 +9,7 @@ tags:
 modified_time: 'xxxx-xx-xxT00:00:00.001-05:00'
 ---
 
-In a previous job I was onboarding a senior product person. I complained that some important task wasn't one of my responsibilities so I wasn't going to put in the effort. The senior product person said, in effect,
+In a previous job I was onboarding a senior product person. I complained that some important task didn't make sense to be one of my responsibilities so I wasn't going to put in the effort. The senior product person said, in effect,
 
 > "Douglas, get over yourself. You're in product. Make the business successful - that's what matters."
 

@@ -13,18 +13,18 @@ In a previous job I was onboarding a senior product person. I complained that so
 
 > "Douglas, get over yourself. You're in product. Make the business successful - that's what matters."
 
-That stuck with me. It's a compass for product people of all roles and responsibilities. Of course, everyone in the company should think like that. But *"product people"*, whose KPIs and problem/solution space can be all over the place, will have to start from first principles more often.
+That stuck with me. It's a compass for product people of all roles and responsibilities. But *"product people"*, whose KPIs and problem/solution space can be all over the place, will have to start from first principles more often.
 
 ## What does a product engineer look like?
 
-"Product-oriented" people aren't *better*, but they are *different* in their motivations, skills, and experiences. Product-oriented people prioritize individually contributing towards business impact at the cost of working on less "technically interesting" problems. Deeply technical, product-oriented people are like deeply technical managers - rare, because they're divergent paths.
+"Product-oriented" people aren't *better*, but they are *different* in their motivations, skills, and experiences. Product-oriented people prioritize business impact at the cost of working on less "technically interesting" problems. Deeply technical, product-oriented people are like deeply technical managers - rare, because they're divergent paths.
 
 **When I look at an engineer's resume**, I look for prioritizing impact over working on interesting tech. Prioritizing impact looks a lot like prioritizing status.
 
 Here are some indicators of prioritizing impact over interesting tech that show up on resumes:
 
 * Founder or worked at an early-stage startup
-* Lead of a team and talks about users or customers
+* Lead of a team and talks about users or customers instead of technical achievements
 * Forward-deployed engineer or engineer in consulting company
 * UX experience or interest
 
@@ -38,7 +38,7 @@ Here are some indicators of prioritizing impact over interesting tech that show 
 > 2. Do you prefer to get high-level requirements from a sales-person so that you can work with them to turn it into specs?
 > 3. Do you prefer to get raw feedback from end-users so you can figure out what feature to build?
 >
-> Where do you fall on that spectrum? Can you give an example?
+> Where do you fall on that spectrum? Can you give examples?
 
 A "good" answer is when the person says they're on the part of the spectrum that the team needs.
 
@@ -53,15 +53,15 @@ Healthcare systems in a foreign country? Doctors, nurses, hospitals, gp practice
 
 <br/><br/>
 
-I wanted to improve transferrable skills. I expected product managers and designers to hand me specs, so I could focus on architecting and building. That mostly worked out, but when our team met the cofounders for strategic discussions, I couldn't contribute. I could estimate the effort involved in building a mockup, but I couldn't propose an alternative with 2x value at 0.5x cost.
+I wanted to improve transferrable skills. I expected product managers and designers to hand me specs, so I could focus on architecting and building. That mostly worked out, but when our team met the cofounders for strategic discussions, I couldn't contribute much. I could estimate the effort involved in building a mockup, but I couldn't propose an alternative with 2x value at 0.5x cost. Others could smell my lack of enthusiasm for the business - especially the cofounders, who lived and breathed it.
 
 <br/><br/>
 
-Others could smell my lack of enthusiasm for the business - especially the cofounders, who lived and breathed it. Cofounders, managers, and teammates all want you to be invested in the company and team. When you prove your investment in the business, others will reciprocate with more investment in you. I could have accelerated my growth in responsibilities and position if I displayed more enthusiasm for the product and business.
+Your colleagues want you to be invested in the company and team. People who care want to work with other people who care. When you prove your investment in the business, others will reciprocate by investing more in you. I could have accelerated my growth in responsibilities and position if I displayed more enthusiasm for the product and business.
 
 <br/><br/>
 
-Five years later, here I am working in that same product domain and a different technical one.
+Five years later, here I am working in that same business domain and a different technical one.
 
 <br/><br/>
 
@@ -84,11 +84,11 @@ Of course, these circumstances came from mismanagement, blitz-scaling, and recen
 
 <br/><br/>
 
-The PM expressed that the developers were always invited to interact with users, but didn't really participate. During onboarding, I did some user interviews to build context. Afterwards, I seeded FOMO by sharing how I interviewed our users, gaining key information and relationships necessary to make the best technical decisions.
+The PM expressed that the developers were always invited to interact with users, but didn't really participate. During onboarding, I did some user interviews to build context. Afterwards, I seeded FOMO by sharing how I interviewed our users, gaining key information and relationships necessary to make better technical decisions.
 
 <br/><br/>
 
-One month in, my first project on the team was set to begin bridging two products. Over and over, the team resisted a solution because we had a fear of imagined risks. We ended up going down the "low-risk" path that incurred tech debt - we spent six developer-months on a project and didn't finish. The solution was scrapped and we redid it properly later when everyone had sufficient context.
+One month in, my first project on the team was set to begin bridging two products. Over and over, the team resisted the better solution because we had a fear of imagined risks. We ended up going down the "low-risk" path that incurred tech debt - we spent six developer-months on a project and didn't ship it. The solution was scrapped and we redid it properly later when everyone had sufficient context.
 
 <br/><br/>
 
@@ -98,7 +98,7 @@ One month in, my first project on the team was set to begin bridging two product
 
 * [Collaborative Single Player Mode](https://blog.rstankov.com/collaborative-single-player-mode/)
 * [The Product-Minded Engineer](https://blog.pragmaticengineer.com/the-product-minded-engineer/)
-* [How to Build Product-Oriented Engineering Teams](https://amplitude.com/blog/how-to-build-product-oriented-engineering-teams)
+* [How to Build Product-Oriented Engineering Teams](https://blog.amplitude.com/how-to-build-product-oriented-engineering-teams)
 * [Your Startup Needs a Product Engineer Immediately](https://jproco.medium.com/your-startup-needs-a-product-engineer-immediately-8902f7787c25)
 * [What It Takes to Become a Great Product Manager](https://hbr.org/2017/12/what-it-takes-to-become-a-great-product-manager)
 

@@ -9,26 +9,26 @@ tags:
 modified_time: 'xxxx-xx-xxT00:00:00.001-05:00'
 ---
 
-In a previous job I was onboarding a senior product person. I complained that some important task didn't make sense to be one of my responsibilities so I wasn't going to put in the effort. The senior product person said, in effect,
+In a previous job I was onboarding a senior product person. I complained that some important task shouldn't be mine to do. The senior product person said, in effect,
 
 > "Douglas, get over yourself. You're in product. Make the business successful - that's what matters."
 
-That stuck with me. It's a compass for product people of all roles and responsibilities. But *"product people"*, whose KPIs and problem/solution space can be all over the place, will have to start from first principles more often.
+That compass stuck with me.
+
+*"Product-oriented"* people make decisions about product direction. They're in all kinds of roles: product managers, engineers, founders, etc. The [problem/solution space](/how-i-speak-product) for these decisions can be all over the place, so they often start from first principles (making the business successful).
 
 ## What does a product engineer look like?
 
-"Product-oriented" people aren't *better*, but they are *different* in their motivations, skills, and experiences. Product-oriented people prioritize business impact at the cost of working on less "technically interesting" problems. Deeply technical, product-oriented people are like deeply technical managers - rare, because they're divergent paths.
+"Product-oriented" engineers aren't *better*, but they are *different* - in their motivations, skills, and experiences. Product-oriented engineers prioritize business impact at the cost of working on less "technically interesting" problems. Deeply technical, product-oriented engineers are like deeply technical managers - rare, because they're divergent paths.
 
-**When I look at an engineer's resume**, I look for prioritizing impact over working on interesting tech. Prioritizing impact looks a lot like prioritizing status.
-
-Here are some indicators of prioritizing impact over interesting tech that show up on resumes:
+**When I look at an engineer's resume**, I look for prioritizing impact over working on interesting tech. Here are some indicators:
 
 * Founder or worked at an early-stage startup
 * Lead of a team and talks about users or customers instead of technical achievements
 * Forward-deployed engineer or engineer in consulting company
 * UX experience or interest
 
-**When I interview engineers**, I look for decisions where they decided between impact and interesting tech. I also use this question to evaluate how "product-oriented" they are:
+**When I interview engineers**, I use this question to see how "product-oriented" they are:
 
 > How do you prefer to get specifications for features or things you have to build? *There's no right answer - it's a spectrum.*
 > 
@@ -40,12 +40,12 @@ Here are some indicators of prioritizing impact over interesting tech that show 
 >
 > Where do you fall on that spectrum? Can you give examples?
 
-A "good" answer is when the person says they're on the part of the spectrum that the team needs.
+A "good" answer is when the candidate matches what the team needs. A product-oriented person might have a bad time solo refactoring a data pipeline. Someone on the other end of the spectrum may struggle on a user-facing team without a Product Manager.
 
-An "experienced" answer sounds something like, "I've done all of them. I'm best at #3, prefer #2, and avoid #1."
+An "experienced" answer sounds something like, "I've done them all. I'm best at #3, prefer #2, and avoid #1."
 
 <details>
-<summary><b>Story #1</b>: My mistaken investment</summary>
+<summary><b>Story #1</b>: My mistaken investment <i>(click to expand)</i></summary>
 
 <br/>
 
@@ -53,11 +53,11 @@ Healthcare systems in a foreign country? Doctors, nurses, hospitals, gp practice
 
 <br/><br/>
 
-I wanted to improve transferrable skills. I expected product managers and designers to hand me specs, so I could focus on architecting and building. That mostly worked out, but when our team met the cofounders for strategic discussions, I couldn't contribute much. I could estimate the effort involved in building a mockup, but I couldn't propose an alternative with 2x value at 0.5x cost. Others could smell my lack of enthusiasm for the business - especially the cofounders, who lived and breathed it.
+I wanted to improve transferrable skills. I expected product managers and designers to hand me specs, so I could focus on architecting and building. That kinda worked out, but when our team met the cofounders for strategic discussions, I couldn't contribute much. I could estimate the effort involved in building a mockup, but I couldn't propose an alternative with 2x value at 0.5x cost. Others could smell my lack of enthusiasm for the business - especially the cofounders, who lived and breathed it.
 
 <br/><br/>
 
-Your colleagues want you to be invested in the company and team. People who care want to work with other people who care. When you prove your investment in the business, others will reciprocate by investing more in you. I could have accelerated my growth in responsibilities and position if I displayed more enthusiasm for the product and business.
+Your colleagues want you to care about the team and company. People who care want to work with other people who care. When you prove your investment in the business, others will reciprocate by investing more in you. I could have accelerated my growth in responsibilities and position if I displayed more enthusiasm for the product and business.
 
 <br/><br/>
 
@@ -76,7 +76,7 @@ I once joined a team that needed its engineers to behave like product engineers.
 
 <br/><br/>
 
-The developers only met with their users when directed to, even though their users worked at desks a few meters away. The developer team waited for decisions to come from product managers and designers. The service they worked on was just a piece of a much larger product, about which they had little context. Decisions <i>happened to them</i> and they weren't in control of their future. Their projects went off-track and got cancelled. They often built the wrong thing, and how could they know what the right thing was? They barely grasped what was needed of <i>their</i> small piece of a much larger puzzle.
+The developers only met with their users when directed to, even though their users worked at desks a few meters away. The developer team waited for decisions to come from product managers and designers. The service they worked on was just a piece of a much larger product, about which they had little context. Decisions <i>happened to them</i> and they weren't in control of their future. Their projects went off-track and got cancelled. They often built the wrong thing, and how could they know what the right thing was? They barely grasped the much larger puzzle they were a part of.
 
 <br/><br/>
 
@@ -88,11 +88,31 @@ The PM expressed that the developers were always invited to interact with users,
 
 <br/><br/>
 
-One month in, my first project on the team was set to begin bridging two products. Over and over, the team resisted the better solution because we had a fear of imagined risks. We ended up going down the "low-risk" path that incurred tech debt - we spent six developer-months on a project and didn't ship it. The solution was scrapped and we redid it properly later when everyone had sufficient context.
+One month in, my first project on the team was set to begin bridging two products. Over and over, the team resisted a solution because we had a fear of imagined risks. We ended up going down the "low-risk" path that incurred tech debt - we spent six developer-months on a project and didn't ship it. We scrapped the solution and we redid it properly later when everyone had sufficient context.
 
 <br/><br/>
 
 </details>
+
+<details>
+<summary><b>Story #3</b>: Maximum productivity: a product team of one</summary>
+
+<br/>
+
+I once kicked off a project composed of just one engineer and the users of a narrowly-scoped service. The goal was to make the most impactful improvements possible within five weeks.
+
+<br/><br/>
+
+The developer onboarded to the problem space as and when needed. The users and developer prioritized ruthlessly together. They met ad-hoc every couple days to review the latest iteration and reprioritize. They shipped and shipped.
+
+<br/><br/>
+
+The entire problem space, solution space, priorities, and project plan lived in the brain of one person. There was little-to-no communication overhead, waiting, or blockers. It was an exceptionally productive and fulfilling project for everyone involved.
+
+<br/><br/>
+
+</details>
+
 
 ## Related articles:
 
@@ -104,4 +124,4 @@ One month in, my first project on the team was set to begin bridging two product
 
 ---
 
-Thanks to * for reviewing drafts of this.
+Thanks to Manon for reviewing drafts of this.

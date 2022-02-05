@@ -16,7 +16,7 @@ Celebrating commitment is both critical and bland. It's like having a party to c
 
 And there's already celebrations for commitment. Anniversaries - of a first date, or a first encounter, or a wedding. Every relationship is a whole new world, all-together form a starry sky - profound and impersonable. Just imagine if everyone's birthday or wedding was on the same day? (He says, [days away from Chinese New Year](https://en.wikipedia.org/wiki/Chinese_New_Year#:~:text=The%20seventh%20day%2C%20traditionally%20known,for%20continued%20wealth%20and%20prosperity))
 
-There's still a touch of the divine in Valentine's Day - naive romantic love. The festival could have so much more of it. It's a drip from the right keg of human conditions, eager to be tapped. What could let flow?
+There's still a touch of the divine in Valentine's Day - naive romantic love. The festival could have so much more of it. It's a drip from one of the kegs of human conditions, ripe to be tapped. What could let flow?
 
 Desire.
 

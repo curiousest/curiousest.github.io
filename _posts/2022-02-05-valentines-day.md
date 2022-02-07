@@ -22,7 +22,7 @@ Desire.
 
 Hunger. Yearning. Want. Lust. Wish. Craving. Need. Addiction. Ambition.
 
-There's no festival focused on celebrating desire (many observe gluttony, desire's fulfilment). And it's a powerful force that sparks many-an-action. We each have our own complex relationship with desire, sometimes life-making, sometimes ruinous. But we don't festively celebrate it or the world-building activity it channels.
+There's no festival focused on celebrating desire (many observe gluttony, satisfying desire). And it's a volatile fuel that empowers us. We each have our own complex relationship with desire - sometimes life-making, sometimes ruinous. But we don't festively celebrate it or the world-building activity it channels.
 
 We should, despite its Christian origins. On Valentine's Day.
 

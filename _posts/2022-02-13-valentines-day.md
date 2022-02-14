@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "Valentine's Day"
-date: '2022-02-14T00:00:00.001-05:00'
+date: '2022-02-13T00:00:00.001-05:00'
 author: Douglas Hindson
 tags: 
 - essay
-modified_time: '2022-02-14T00:00:00.001-05:00'
+modified_time: '2022-02-13T00:00:00.001-05:00'
 ---
 
 Modern Valentine's Day feels dystopian. Consumerism and romantic love culture have carried it off to Vatican Disneyland. If you don't have a committed relationship, it's a tossup between unexpected butterflies and unpleasant reminders. For the committed, it's celebrating that commitment.

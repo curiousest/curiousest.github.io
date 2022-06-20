@@ -17,10 +17,11 @@ modified_time: 'XXXX-XX-XXT11:00:00.001-05:00'
 
 ---
 
-Pandemic struck and overnight we started working from home. The beginning was painful. I had a deep relationship with my couch.
+Pandemic struck and overnight we started working from home. The beginning was painful. I had a deep, sinking relationship with my couch.
 
 (picture slouching/sleeping on couch)
 
+I thought, "it can't last more than another month or so". A few months rolled by. Management at my workplace shared the results of an employee survey: an overwhelming majority of the 1000-3000 person tech company wanted to work from home for most of the week, forevermore. I accepted the new reality - remote work is here to stay. I needed a wfh setup.
 I thought, "it can't last more than another month or so". A few months rolled by. Management at my workplace shared the results of an employee survey: an overwhelming majority of the 1000-3000 person tech company wanted to work from home for most of the week, forevermore. I accepted the new reality - remote work is here to stay. I needed a wfh setup.
 
 (picture daily standupside-down)
@@ -60,9 +61,13 @@ There's high overlap between lighting pictures and video. The main differences b
 
 I got a [ring light](amazon.co.uk/gp/product/B08423RKGL) and a back light. I use the ring light all the time because it makes a big difference. I rarely use the back light, because it's more setup and only adds a cool contrast outline effect.
 
-daylight no light vs daylight ring light
+These are screenshots of zoom video with under different lighting conditions.
 
-dark no light vs dark right light vs dark 3-point light
+bright daylight vs. cloudy vs. dark
+
+no lighting vs. overhead lamp vs. ring light
+
+macbook camera vs. logitech
 
 zoomed-in eye ring closeup picture
 
@@ -74,19 +79,17 @@ Screenshot on my monitor vs. screenshot on my iPad.
 
 ## Audio
 
-I'm proud of my beautiful voice, so I wanted to make it heard. I got a [Blue Yeti microphone](https://www.amazon.co.uk/gp/product/B00N1YPXW2). 
+I'm proud of my beautiful voice and I want it heard. I got a [Blue Yeti microphone](https://www.amazon.co.uk/gp/product/B00N1YPXW2). 
 
 The first time I used it with colleagues, they died laughing that I sounded like a late-night radio broadcaster.
 
-"this is my voice on a 2019 dell laptop mic"
-"this is my voice on a blue yeti microphone"
-"this is my voice with 2019 Apple EarPods Pro"
+"this is my voice on the built-in 2020 macbook laptop microphone two feet from my face"
+"this is my voice through Bose 35 headphones"
+"and this, this is my voice on a blue yeti microphone three inches from my face. mmmm much better"
 
 https://en.wikipedia.org/wiki/Harvard_sentences
 
 I haven't solved the sound reflecting off hard surfaces around me. That's a guaranteed rabbit hole.
-
-I got an adapter that let me use the microphone with my devices
 
 ---
 

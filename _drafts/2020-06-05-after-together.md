@@ -20,34 +20,34 @@ But I'm warm in the afterglow.
 
 <face and chest, walking looking sideways in happy thought.>
 
-I recall your scent.
+I remember your scent.
 
 ---
 
-_Days later,_ those feelings have dissipated,
+_Days later,_ my feelings have run their course,
 
 But new ones are born in the space between us.
 
 <whole loveseat fullbody, lying down relaxed clothes feet up in the sun balcony serious face contemplating>
 
-I recall your gaze.
+I remember your touch.
 
 ---
 
-_Weeks later,_ those feelings have faded too,
+_Weeks later,_ my new feelings have faded too,
 
-But they're still within reach - I weave in and out of them.
+But they're all still within reach - I weave in and out of them.
 
 <1/2 - 1/4 body size in frame, picture... remembering?>
 
-I recall your face.
+I remember your face.
 
 ---
 
-_Months later,_ those feelings are forgotten,
+_Months later,_ my feelings have been forgotten,
 
-But I remember that you made me feel.
+But I know _that_ you made me feel.
 
 <1/10th body in frame in motion, somewhere with feeling of scale>
 
-I recall your name.
+I remember your name.

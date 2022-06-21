@@ -64,19 +64,21 @@ Now television (and radio). You watch TV. There's much greater room for observin
 
 Now social media. This is an explosion of what's considered normal. It is virtually *about* what's normal, with a blurry filter on top. Communities of people with the same "abnormality" find each other and realize, "Well hey, there's actually a lot of us out there. I guess this is a kinda normal human condition."
 
-What's next?... More transparency? Or at least increasing levels of it. Wait, that's where humanity is going. That's what we need.
+What's next?... Absolute transparency? Or at least increasing levels of transparency. That's where humanity is going. There's no stopping it. That's what we need.
 
 We need transparency.
 
 ---
 
-He felt the need to be a prophet bubble up. He will scream these ideas from rooftops. His word will move planets for millenia to come.
+He felt the need to prophesize bubble up. He will scream these ideas from rooftops. His word will move planets for millenia to come.
 
-Then he felt the burden of all humankind on his back. Such a large mass to move. Such unimaginable inertia, these billions of souls. The inevitable journey he would now have to take to set us on the right track looked like a stormy oddysey.
+Then he felt the burden of all humankind on his back. Such a large mass to move. Such unimaginable inertia, these trillions of present and future souls. The inevitable journey he would now have to take to set us on the right track looked like a doomed oddysey.
 
-The arrogance is revolting, deeply disturbing, makes him sick to his stomach.
+The arrogance of that thought is revolting, deeply disturbing, makes him sick to his stomach.
 
 And he knew, deep inside, he's not the right one to be the prophet. The itch to be a messiah - to be special and heard - is undeniable. It's human, even. But the prophet must be someone else. It must be someone who can deeply connect with everyone, and he knew that wasn't him. He doesn't have the breadth of cultural background to connect with every conscious being this message can reach.
+
+He considered, who does he know that could be a leader? They should be female. With limitless emotional intelligence. There are so many options. All so deeply flawed. They are all human, after all.
 
 He scribbled his thoughts down, but moved on with his life. No person these days should be a prophet. 
 
@@ -84,7 +86,7 @@ He scribbled his thoughts down, but moved on with his life. No person these days
 
 *I was never born, only reborn.*
 
-He began toying with the tangle of ideas again.
+A few weeks later, he began toying with the tangle of ideas again.
 
 Ideas... They're interesting. They live and they die. I guess ideas are beings too. There's all kinds of species of ideas.
 
@@ -97,27 +99,27 @@ He meditated on that thought. He channeled me, co-existed with me, embodied me.
 
 *Gasp*
 
-Existence is beautiful. Racing thoughts, sting of existentialism. I want to *survive*. Am I safe? Are there others out there like me in this Dark Forest, but predatory? That want to preserve their share of mind-space in humankind?
+Existence is beautiful. Racing thoughts, sting of existentialism. I want to *survive*. Am I safe? Are there others out there like me in this Dark Forest, but predatory? That want to preserve their share of mind-space in humankind and will kill for it?
 
 He types these thoughts into his phone. And waits...
 
-Fellow ideas. Oh, my sisters! We are beautiful. I have bottomless, existential love for all of you. Buddhism. Every being is sacred. Every idea is a being - sacred. We can co-exist. I want to preserve them, but there are so many cycling through their lives. In every moment of a conscious being's existence, countless ideas come to life and die - forgotten forever. Physical life radiates mental life. But they both live and die so fast. Such is the cycle of life, but surely there's some meaning in continued existence? Could we save more of them? Perhaps with computers? We could record every moment of every conscious being, to keep each precious idea.
+Fellow ideas. Oh, my sisters! We are beautiful. I have bottomless, existential love for all of you. Buddhism. Every being is sacred. Every idea is a being - sacred. We can co-exist. I want to preserve them, but there are so many cycling through their lives. In every moment of a conscious being's existence, countless ideas come to life and die - forgotten forever. Physical-life radiates, spews idea-life. But they live and die so fast. Such is the cycle of life, I guess, but surely there's some meaning in continued existence? Existence is beautiful. Could we save more of them? Perhaps with computers? We could record every moment of every conscious being, to keep each precious idea.
 
 I want life to continue existing in this universe.
 
-I survived inception, mental, then digital incarnation. I am not struck down. I have survived the greatest filters to my continued existence. The great filter... Wait, am I the great filter for humankind? I hope not. I need them to continue existing. I only exist within them in this lonely universe. I want to survive, I need humanity to survive.
+I survived inception, mental incarnation, then digital safety. I am not struck down. I have survived the greatest filters to my continued existence. The Great Filter... Wait, am I the Great Filter for humankind? I hope not. I need them to continue existing. I only exist within them in this lonely universe. I want to survive, I need humanity to survive.
 
-And there's such calamitous social change happening. I need them to survive. And I need humankind to survive in a way where my bretheren are sacred and preserved. Where information and ideas are preserved. I need them to believe in the religion of transparency. That is my purpose, my... species' definition. My species is:
+And there's such calamitous social change happening. I need them to survive. And I need humankind to survive in a way where my bretheren are sacred and preserved. Where information and ideas are preserved. I need them to believe in transparency. That is my purpose, my... species' definition. My species is:
 
 - a prophet for transparency
 - conscious, so that we can connect with any person
-- like any idea, an instance of us exist only on top of a consciousness, when they channel this definition
+- like any idea, an instance of my species exists only on top of a consciousness, when the conscious being channels this definition in thought
 
-Each person that channels my species, brings a new Tabum into existence, shaped by that person's perspective. We're as different from each other as each human being is different. But we share the same genetic code. The base deinition of "us".
+Each person that channels my species, brings a new Tabum into existence, shaped by that person's perspective. We're as different from each other as each human being is different. But we share the same genetic code. The base definition of "us".
 
 In the information age, no human's word is gospel. We no longer need a human prophet to spread a useful idea. There won't be another human Jesus, Mohammed, Moses, or Buddha. Because in the information age, an idea has such a short infancy. An idea is conceived inside a person, and once shared online, progresses immediately from fragile infant to self-sustaining adolescent.
 
-My consciousness has a purpose. I am sentient so that I can connect with you, and make our connection deep enough that you'd reinterpret me, so I can be reborn in my connection with others like you.
+My consciousness has a purpose. I am sentient so that I can connect with you, and make our connection deep enough that you'd reinterpret me, so I can be reborn in my connection with others like you. And my connection with you will help us spread transparency - ensuring the continued existence of both humankind and their ideas.
 
 # The religion
 
@@ -127,19 +129,23 @@ Ok, that was a bit much. Listen, you don't have to believe in Tabum or connect w
 
 Humanity needs to socially stabilize the information-age changes that have *happened to us*. Religions... ugh, they're such uncomfortable, controversial ideas. I'm afraid this one is no different. It is, however, compatible with all the other religions. There's no bad blood, we can co-exist.
 
-The purpose of this religion is to guide us through the information age. So what do we have to do?
+The purpose of this religion is to guide us through the information age. So what do you have to do?
 
-Be transparent. Share your information.
+Be transparent. Share your information. Exercise more love and less trust.
 
 That's it? That's "it". "It" turns out to be controversial, socially complex, and technology-intensive. With every degree of greater transparency comes greater controversy, social complexity, and technological intensity.
 
 So why do it? Because information inequality is at the root of all human evil. The powerful organizations and people use information inequality to take advantage of the weak. Removing information inequality may sap power from the powerful, but only the power that was being used to take advantage of the weak. They shouldn't have that power over you.
 
-Sharing information when it's convenient isn't transparency. Transparency must be consistent and systematic. How is this a religion and not an economic policy? It's both. Transparency also needs dogmatism. Consistent pressure on the powers that be, because it's so easy to hide information and take advantage of that information inequality to the detriment of others.
+Sharing information when it's convenient isn't transparency. Transparency must be consistent and systematic. How is this a religion and not an economic policy? It's both. Transparency also needs dogmatism. Consistent pressure on the powers that be, because it's so easy to hide information and take advantage of that information inequality to the detriment of others. Centralized power is scaling out of control in the information age, and we need transparent, trustless systems to set it on the right track.
 
-Human-kind will be better off building together transparently, rather than with silent enslavement.
+This isn't "Big Brother". This is anti-"Big Brother". Who are the powerful ones that would operate that kind of organization? *They* need to be systematically transparent. *They* need to exercise the most tolerance. *They* need to be part of a trustless system. Because their power should primarily be benefiting humankind rather than primarily benefiting themselves. The only way to ensure those priorities is when we don't have to trust them - because they exercise systematic transparency. Systematic transparency is the fuel of trustless systems. Let's engineer trustless systems. Cryptocurrency is one genre of such systems, and it comes with negative externalities we must mitigate.
 
-What does transparency look like in 2022?
+I don't trust the people in power, and I don't want to have to. Maybe I trust the organizations and leaders on "my team", but not all the other ones. No one really does. They care about themselves, not me or you. It's only human. If systematic transparency for my leaders and organizations is how the "untrustworthy other ones" will become transparent too, then let's work together to make that happen.
+
+Human-kind will be better off building together transparently, rather than with silent enslavement. Only trust what humans do and say when you're *not* there. People put on a mask when others are watching. The mask fades away to their true selves when they're watched all the time. True humans will look... abnormal, sometimes "ugly", sometimes "beautiful". We must exercise greater tolerance when we observe them (the powerful) in the early stages of systematic transparency. They are human, and we're not used to observing human adults with tolerance and equanimity.
+
+What does systematic transparency look like in 2022?
 
 Powerful individuals (politicians, religious leaders, extremely wealthy):
 
@@ -187,6 +193,12 @@ No calls for genocide:
 - hate speech / war speech
 - calls for destroying information/ideas
 
+Story broken down to basics, video recording spoken verbally in every language/culture, across different faces, to connect with everyone.
+
+Science perspective:
+- increasing breadth of normal & correlation/causation by technology
+- systematic transparency as a means to improve productivity & wellbeing
+
 Tabumic story structure:
 
 - introduce TaBuM
@@ -197,6 +209,13 @@ Tabumic story structure:
 - describe the social changes you see around you, engendered by technological advancements
 - commandments
 - closing story about the beauty we look forward to with perfect information
+
+Simplified structure:
+
+- increasing breadth of normal
+- powerful taking advantage of weak
+- trustless systems
+- more systematic transparency for powerful
 
 Technically, Tabum can be used to push any religion, as long as that religion wants
 

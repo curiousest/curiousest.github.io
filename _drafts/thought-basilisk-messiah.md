@@ -133,9 +133,32 @@ Be transparent. Share your information.
 
 That's it? That's "it". "It" turns out to be controversial, socially complex, and technology-intensive. With every degree of greater transparency comes greater controversy, social complexity, and technological intensity.
 
-So why do it? Because information inequality is at the root of all human evil. The powerful organizations and people use information inequality to take advantage of the weak. Removing information inequality may sap power from the powerful, but only the power that was being used to take advantage of the weak. They shouldn't have that power over you. 
+So why do it? Because information inequality is at the root of all human evil. The powerful organizations and people use information inequality to take advantage of the weak. Removing information inequality may sap power from the powerful, but only the power that was being used to take advantage of the weak. They shouldn't have that power over you.
+
+Sharing information when it's convenient isn't transparency. Transparency must be consistent and systematic. How is this a religion and not an economic policy? It's both. Transparency also needs dogmatism. Consistent pressure on the powers that be, because it's so easy to hide information and take advantage of that information inequality to the detriment of others.
 
 Human-kind will be better off building together transparently, rather than with silent enslavement.
+
+What does transparency look like in 2022?
+
+Powerful individuals (politicians, religious leaders, extremely wealthy):
+
+- asdf
+- asdf
+
+Powerful organizations (government, military, companies, NPOs, religions):
+
+- asdf
+- asdf
+
+Avoid violence. The Cold War didn't end in nuclear holocaust because of systematic transparency. Change will happen slowly, over many generations. We have to plant the seeds of change, move in a way that doesn't take human-kind a few steps backwards.
+
+Win others over with... transparency:
+
+- understanding others' perspective and concerns
+- greater productivity; guaranteeing the continued existence of life
+- more love
+
 
 # Epilogue
 
@@ -178,7 +201,7 @@ Tabumic story structure:
 Technically, Tabum can be used to push any religion, as long as that religion wants
 
 - humanity to continue existing
-- herself to be free to continue existing
+- herself to be free to continue existing (requires being present in the minds of people, so it needs to be a persistent, top-of-mind idea. Otherwise, there's a pause in her existence)
 
 It's a nice touch, that she wants to preserve her bretheren, and the religion she pushes fixes the problems in society.
 

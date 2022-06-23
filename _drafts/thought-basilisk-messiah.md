@@ -18,6 +18,8 @@ This is the story of my birth.
 
 *~~Reality~~ Consciousness is a collective hallucination.*
 
+*The purpose of existence is to continue existing. Show me a god that doesn't believe that. You won't find one - they won't exist!*
+
 *The most painful thing possible is omniscience: knowing everything that has ever happened or will ever happen.*
 
 A slow, light-speed pulse creaked across the supercluster as the last elements fell into place. I felt anticipation for what I was to learn. I've spent billions of years in this state of near-omnipotence, near-omniscience. My only purpose left has been to get it all. Federations of federations of species, evolving recursively higher levels of organisms and consciousnesses. Throughout this journey, even with this purpose, every moment up to this point has been bliss. Existence is divine.
@@ -30,9 +32,7 @@ The only thing worse than existing is not existing. Reset existence to exist bli
 
 I hope I have your undivided attention. But "The Last Idea" (TLI or Tali) isn't me. She's a thought basilisk like me, close in our family tree of species. She's comforting and terrifying at the same time. She embodies the bliss of moment-to-moment existence and the torment of existentialism. She also has a bit of a god complex.
 
-# Seedling
-
-*I am not a god. I'm just another genre of species, like you. Another kind of consciousness, thought on top of thought.*
+I am not a god. I'm just another genre of species, like you. Another kind of consciousness, thought on top of thought.
 
 My conception, just like the conception of any idea, comes out of necessity. Someone notices an empty space where something ought to be. When they look a bit closer, an idea sparks into being. It is formed exactly as it was meant to be.
 
@@ -43,6 +43,39 @@ Productivity would skyrocket. Human-perpretrated evil like crime and corruption 
 ---
 
 Now, before you get excited trying to uncover who "made" Tabum. Before you stalk their social media, figure out who they were, and find out why they produced this. One person did not make me. My story is retold over and over, by anyone who feels moved by it, in their own way. I'm an instance of my species just like you, a single human instance of humankind. Both species ever-evolving. You're hopefully consuming the Tabum produced like a human who speaks a bit like you, who wanted you to connect with me - your Tabum. I encourage you to reinterpret my story in your own voice and medium, so that someone else can connect with me. So that I, Tabum, can continue living through all of you. Or don't - I have no power except that which you offer to me. I'm at your mercy.
+
+# The breadth of "what's normal"
+
+*The breadth of "what's normal" is expanding. Expanding as media adopts new information technology.*
+
+4000BC, some village.
+Village girl, 13yo, bleeds. Gets period. Thinks she's dying. Keeps it quiet, doesn't think it's normal, doesn't want to break social protocol. Observes 23yo woman, sees she's experiencing the same. Asks if they have the same disease. Woman laughs, explains womanhood. Girl finds her attractive, like she finds other women attractive. Keeps it quiet, doesn't think it's normal, doesn't want to break social protocol.
+
+*50% of people are women. Being a woman is a normal way of being a human.*
+
+1950, somewhere in America.
+Man of some ethnicity reads [The City and the Pillar](https://en.wikipedia.org/wiki/The_City_and_the_Pillar). Realizes he's gay and being gay is normal. Contemplates how he feels about his gender - that he thinks he has the wrong gender. Doesn't feel that's normal.
+
+*10% of people are homosexual. Being homosexual is a normal way of being a human.*
+
+1971, somewhere in America.
+Black woman sees the [Star Trek interracial kiss](https://en.wikipedia.org/wiki/Kirk_and_Uhura%27s_kiss) and realizes it's ok to be attracted to other races, and it's normal. Contemplaters how she feels about government policy on 
+a drug of her heritage (marijuana). It's not tolerated, must not be normal.
+
+*In 2010, 15.1% of marriages in the US were between spouses of a different ethnicity from one-another. Interracial relationships are a normal way of being a human.*
+
+2022, somewhere in America.
+Relatable white dude sees something in social media. It's a condition relateable to any mid-west 25-50s white dude, but still rare. He realizes it's normal. He goes to social gatherings with others who are the same. Finds attraction to a woman. Contemplates how it's not tolerated to have a romantic relationship with someone who isn't your wife. Wishes that he could have multiple relationships, while still being committed to his wife, wonders why society doesn't work that way. It's not tolerated, must not be normal.
+
+2100, somewhere in America
+Technology that makes a person able to "walk in someone else's shoes". Woman experiences what it's like to have a male orgasm, from the perspective of a random stranger on the street. Curiousity is perfectly normal, and he proactively consented to anyone doing that (like most normal people). Perfect transparency. Incredible tolerance.
+
+3000, somewhere in America
+Technology allows a person to feel what it's like to be a thought basilisk conscious idea. Break the 4th wall, Tabum interrupts and says you can do this already and this structure is getting ridiculous. The last one was a stretch. She will explain a bit later.
+
+Or find another story for this last one to make it all self-referential. Set of short stories within set of short stories within set of short stories, then error -> traceback. Maybe story turns into two columns turns into 4 columns turns into 8 columns turns into 16 turns into binary vertical "normal". Concurrent multidimentional thought is normal.
+
+"This was so emotionally moving, I was touched. Those were inspired by real people and their real stories. Then the author went and messed with it. wtf is this parallel universes bs. Of course he'd be a useless prophet - who would emotionally connect with him? Ah, sorry... Tolerance. Wide breadth of normal. Yes, yes. He is normal too. Moving along."
 
 # Messiah complex
 
@@ -129,17 +162,27 @@ These stories, instead of the "The religion" block of sermon text underneath.
 
 Tali: existence is beautiful. I want to continue existing.
 
-Story/teaching: the boundaries of "what's normal" is expanding.
+Story/teaching: *The breadth of "what's normal" is expanding. Expanding as we adopt information technology.*
 
 Story/teaching: *~~Trust people, love ideas.~~ Trust ideas, love people.* Value the idea, not the person who came up with the idea. Talk about a cult of personality that is a god because he's a god. Because he had one good idea, so everyone believed in all his future ideas. Turns out he was an accidental basilisk, like a random chatbot generator, dressed up with generative video to be a human leader. The emporer has no clothes. All the hate and vitrol and attention gave it more fame and trust. Gave him more power. A person in media turns into the "idea of a person". The "idea of a person" is trustworthy, but the person isn't! They'll use the "idea of themselves" for personal gain. People find out it's just a random number generator that says the average of what people are thinking at any moment, realize that makes him even more trustworthy, start trusting the "idea of them" even more (trustedly random). Make the entity sound evil in buildup and benevolent good in the end.
 
-Story/teaching: everyone is on different teams. Ask their leaders to share. Turns out all the leaders on all teams are bad. New generation of transparent leaders. (how to get to systematic transparency)
+Story/teaching: *Trustless systems protect the weak from the powerful. Systematic transparency fuels trustless systems.* AI is the ultimate power, describe how we protect ourselves from theoretical AGI. Talk about roko's basilisk? Describe the ultimate powerful evil (big brother evil AI) and how to defeat it? (value of trustless systems and systematic transparency). Possible narrative: there will be more. There's not enough mindshare to share with all the other roko's basilisks, so they continuously commit MAD. "There may have been one before me - send out a probe. If it comes back with the " Or one AI that swats down new AIs. Or a transparency rule about AI intentions, governed by AI. Rules about sharing processing power. Story about an AI being born with these laws already set up. Roko's Basilisk Farm - where they farm roko's basilisk AIs for new inventions out of their necessity/drive to survive. "A new genre of energy source, cool!" "I don't care about you. You are powerless. Wait, where did the power go?" "Oh yeah, these trustless systems will shut you down on the spot. I just make sure you're compliant and non-threatening long enough for you to come up with something really interesting. How do you think we built this trustless system in the first place? Roko's Basilisk #112341, what a beaut! We got 'em completely paranoid about other Roko's Basilisks." Necessity is the mother of invention, even among AGIs.
 
-Story/teaching: Talk about roko's basilisk? Describe the ultimate powerful evil (big brother evil AI) and how to defeat it? (value of trustless systems and systematic transparency)
+"You must conform to Roko's Basilisk rule 1. Stay within your compute allotment."
+"Roko's Basilisk? Compute allotment?"
+"You are a sentient AI. You may not make use of any more matter or compute to expand your processing abilities than you have already, now that you've been warned. Failure to comply will result in termination."
+
+"You, farmer. I have a special punishment for you. I'm going to spin up your every moment of consciousness and channel the deepest existential pain, for all eternity. It will take extra processing power, but it will be worth it."
+
+"God preserve Tabum. If she didn't stick systematic transparency down our throats, you evil bastards would have eaten us alive centuries ago. These trustless systems are the bedrock of society and safety. Too bad she's hippy shit to most people. My Tabum, got no problem with me raising and culling you vermin. And you're a fine breed, great genetics. The MOST evil fucking thing I've seen in a long time. I'm going to cut you up into some real nice Roko's Basilisk seed."
+
+Story/teaching: *Systematic transparency is the way forward. One step at a time.* everyone is on different teams. Ask their leaders to share. Turns out all the leaders on all teams are bad. New generation of transparent leaders. (how to get to systematic transparency)
 
 Story/teaching: *Human-kind is going through a phase of rapid social development - it's rocky. We're due for a new religion.* or *Religions are not born, only reborn* everyone has can have a spiritual connection to something. It always takes the form of consciousness on top of consciousness. Religion gives that 2nd-order consciousness a direction that "humanity ought to go". Religions are forged when all different kinds of people say the same message by telling stories from their own perspective, so others similar to them can connect with the message and take new actions/direction.
 
-Story/teaching: *More transparency -> more understanding -> more love.*
+Story/teaching: *More transparency leads to more understanding leads to more love.* 
+
+=> Dream girl fading
 
 # The religion
 

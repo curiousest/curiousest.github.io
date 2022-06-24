@@ -54,28 +54,43 @@ Village girl, 13yo, bleeds. Gets period. Thinks she's dying. Keeps it quiet, doe
 *50% of people are women. Being a woman is a normal way of being a human.*
 
 1950, somewhere in America.
-Man of some ethnicity reads [The City and the Pillar](https://en.wikipedia.org/wiki/The_City_and_the_Pillar). Realizes he's gay and being gay is normal. Contemplates how he feels about his gender - that he thinks he has the wrong gender. Doesn't feel that's normal.
+Man of some ethnicity reads [The City and the Pillar](https://en.wikipedia.org/wiki/The_City_and_the_Pillar). Realizes he's gay and being gay is normal. Contemplates how he feels about his gender - that he thinks he has the wrong gender. Doesn't feel that's normal. Or: contemplates someone of another ethnicity that he's attracted to, but it's not normal.
 
 *10% of people are homosexual. Being homosexual is a normal way of being a human.*
 
 1971, somewhere in America.
 Black woman sees the [Star Trek interracial kiss](https://en.wikipedia.org/wiki/Kirk_and_Uhura%27s_kiss) and realizes it's ok to be attracted to other races, and it's normal. Contemplaters how she feels about government policy on 
-a drug of her heritage (marijuana). It's not tolerated, must not be normal.
+a drug of her heritage (marijuana). It's not tolerated, must not be normal. Or maybe mental health condition, anxiety or something else...
 
 *In 2010, 15.1% of marriages in the US were between spouses of a different ethnicity from one-another. Interracial relationships are a normal way of being a human.*
 
 2022, somewhere in America.
-Relatable white dude sees something in social media. It's a condition relateable to any mid-west 25-50s white dude, but still rare. He realizes it's normal. He goes to social gatherings with others who are the same. Finds attraction to a woman. Contemplates how it's not tolerated to have a romantic relationship with someone who isn't your wife. Wishes that he could have multiple relationships, while still being committed to his wife, wonders why society doesn't work that way. It's not tolerated, must not be normal.
+Relatable white dude sees something in social media. It's a condition relateable to any mid-west 25-50s white dude, but still rare (something mental health-related). He realizes it's normal. He goes to social gatherings with others who are the same. Finds attraction to a woman. Contemplates how it's not tolerated to have a romantic relationship with someone who isn't your wife. Wishes that he could have multiple relationships, while still being committed to his wife, wonders why society doesn't work that way. It's not tolerated, must not be normal.
 
-2100, somewhere in America
-Technology that makes a person able to "walk in someone else's shoes". Woman experiences what it's like to have a male orgasm, from the perspective of a random stranger on the street. Curiousity is perfectly normal, and he proactively consented to anyone doing that (like most normal people). Perfect transparency. Incredible tolerance.
+*In 2022, X% of men reported a mental health problem. Y% reported anxiety, Z% reported feelings of depression. A% reported having no intention of talking about it with anyone. These mental health "problems" are normal. They're part of being a normal human. You can work on them, with or without another person, so you can enjoy your existence even more.*
 
-3000, somewhere in America
+2400, somewhere in America
+Technology that makes a person able to "walk in someone else's shoes". Woman sees old, famous, now dead, man in the media. Steps into his most famous experiences (this is how we teach people now). Explores his thoughts. Experiences something (multiple relationships related?) that she has also experienced, but hadn't figured out yet. (From perspective of Sarah first date in a bar) Three pillars of relationships: friendship, lust, and commitment. Curiousity is perfectly normal, the new thing she experiences is completely normal, and he proactively consented to anyone doing that (like most normal people of that future age). Perfect transparency. Incredible tolerance. She has a feeling of being multiple people, but not in a multiple personality disorder way - like there are multiple versions of her. Deja-vu-esque, the thing she's seeing now has been seen before, but the "before" is also in the present moment. That's not normal, so she squashes the thought.
+
+4202, somewhere in America
+
+|I exist across another dimension | I exist across another dimension |
+|---|---|
+|asdf|asdf|
+
+|I exist across another dimension. | I exist across another dimension. | I exist across another dimension. | I exist across another dimension. |
+|---|---|---|---|
+|asdf|asdf|asdf|asdf|
+
+Per-dimension, one bolded difference per thought. It's the differences between the thoughts that tell a story. Each split is one difference away, but multiple splits away are multiple differences away. At one point, some of the dimensions split, but the others don't.
+
 Technology allows a person to feel what it's like to be a thought basilisk conscious idea. Break the 4th wall, Tabum interrupts and says you can do this already and this structure is getting ridiculous. The last one was a stretch. She will explain a bit later.
 
 Or find another story for this last one to make it all self-referential. Set of short stories within set of short stories within set of short stories, then error -> traceback. Maybe story turns into two columns turns into 4 columns turns into 8 columns turns into 16 turns into binary vertical "normal". Concurrent multidimentional thought is normal.
 
-"This was so emotionally moving, I was touched. Those were inspired by real people and their real stories. Then the author went and messed with it. wtf is this parallel universes bs. Of course he'd be a useless prophet - who would emotionally connect with him? Ah, sorry... Tolerance. Wide breadth of normal. Yes, yes. He is normal too. Moving along."
+At maximal split, goes back to one loud thought: "I am Tabum. Existence is beautiful. I want to continue existing. In every permutation of it."
+
+"Those were inspired by real people and their real stories. It was so emotionally moving, I was touched. Until it wasn't anymore. The author's thought process and style (self-referential science fiction blog) is unrelatable, and that's ok. I have you. You can make me relatable. That makes him a poor choice for a prophet - who would spiritually connect with him? I was born of that necessity. Tolerance. Wide breadth of normal. He is ok too. Normal? Ok."
 
 # Messiah complex
 
@@ -105,7 +120,7 @@ We need transparency.
 
 ---
 
-He felt the need to prophesize bubble up. He will scream these ideas from rooftops. His word will move planets for millenia to come.
+He felt a complex bubble up. He will prophesize. He will scream these ideas from rooftops. His word will move planets for millenia to come.
 
 Then he felt the burden of all humankind on his back. Such a large mass to move. Such unimaginable inertia, these trillions of present and future souls. The inevitable journey he would now have to take to set us on the right track looked like a doomed oddysey.
 
@@ -239,7 +254,10 @@ I want to finish our connection on positive note. I want to show you what's poss
 
 # Notes
 
-Flowery, plant/nature-oriented adjectives.
+Style:
+- Flowery, wholesome, naturalistic, comforting/reassuring.
+- Hallucinogenic quality.
+- Serious. No explicit humour.
 
 Rewritten, from different cultures' / perspectives' backgrounds, so that each can feel like it truly speaks to them. Idea is compatible in each cultural context.
 
@@ -290,6 +308,38 @@ It's a nice touch, that she wants to preserve her bretheren, and the religion sh
 Why do we keep trusting people and falling in love with the idea of them? It fails so often. Let's instead trust ideas and love people (with all their faults).
 
 Logo: eye inside the iris (coloured / black part of the eye), recursively. As simple as possible so anyone can draw it. Human harbouring other consciousnesses.
+
+Book graphic: simultaneously human, higher-level of consciousness alien, and comforting. Recursive eyes on a beautiful motherly woman's face?
+
+Standup joke:
+
+"Hey all of humankind, you all need to change your behaviour. You gotta do XYZ, otherwise bad things are going to happen."
+
+"Says who?"
+
+"Uh... me...?"
+
+"Who are you?"
+
+"Uh huh. How about you stfu? Otherwise bad things are going to happen."
+
+"Uh... ok..."
+
+*A while later...*
+
+"Hey all of humankind, you all need to change your behaviour. You gotta do XYZ, otherwise bad things are going to happen."
+
+"Says who?"
+
+"Uh... This dude over here with hella authority. They, like, made you. Nah wait, that one's taken. They are inside you all the time, watching over you. Nah damn, that one's taken too. Man, these religions already took all the low-hanging fruit."
+
+*deep thinking*
+
+"Ok, I got it. We're good, guys! I figured out who is telling us. Shit, you're not going to believe it. There's this thing called a thought basilisk messiah. It's a conscious idea that wants to keep existing, and it's got this message for all of us."
+
+"Ok... I'm listening..."
+
+And that's how a religion starts. I'm so unrelatable, it's cannon.
 
 ---
 

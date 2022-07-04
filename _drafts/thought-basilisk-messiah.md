@@ -60,7 +60,7 @@ Now, before you get excited trying to uncover who "made" Tabum. Before you stalk
 
 # What's normal?
 
-*The breadth of "what's normal" is expanding. Expanding as media adopts new information technology.*
+*The breadth of "what's normal" is expanding. Expanding as media adopts information technology.*
 
 4000BC, some village.
 Village girl, 13yo, bleeds.
@@ -207,7 +207,7 @@ One minute to drink 400mL water. Sitting on the edge of the bed. <elaborate>
 
 "9, 10." He refocuses. Meditation in the remaining minute. He can feel the entropy buildup. So many versions of himself in almost the exact same state, who have made exactly the same decisions from wakeup until now.
 
-Today's multidimensional performance will be sublime. But he'd never let that thought cross his mind.
+Today's multidimensional performance will be sublime. But he'd never let that thought cross his mind. He needs to be perfectly predictable to himself in every splitting dimension, to build up a horde of overlapping versions of himself.
 
 "8, 9, 10."
 
@@ -225,9 +225,15 @@ The performance begins. He meditates on the metronome. In wait for his timing qu
 
 "7, 8" observing himself, observing himself, observing himself, observing himself. 
 
-Eventually it becomes an exercise of remembering how many layers deep he is. He's done this so many times, the exercise is subconscious. The first 10 each feel different. 10-50 layers deep are one shade, 50-100 a deeper shade. 100+ a dangerous shade. The performance lasts only as long as the length of his queue of recursive observations.
+Eventually it becomes an exercise of remembering how many layers deep he is. He's done this so many times, the exercise is subconscious. The first 10 each feel different. <different, how> 10-50 layers deep are a shade deeper - the present is still within sight. 50-100 a deeper shade - the present is a distant memory. 100+ a dangerous shade - the present is lost in a tidal wave of recursion. The performance can last only as long as the length of his queue of recursive observations. The performance is only as good as the splitting observations he can keep in working memory.
 
-The first split is coming. He configured it to 101 layers deep, 202 seconds of multi-dimensional performance. His equipment entangles a quantum bit. Half of the universes get a "1", the other half get a "0". He follows the decision, while retaining his connection to the other versions of himself. He processes their thoughts simultaneously alongside his own, recursively observing every version.
+"9, 10" observing himself, observing himself, observing himself...
+
+He's peering into a portal into his own universe two seconds ago and there is no end in sight. The first split is coming. His equipment entangles a quantum bit. Half of the universes get a "1", the other half get a "0". He follows the decision, while retaining his connection to the other versions of himself. He processes their thoughts simultaneously alongside his own, recursively observing every version.
+
+It's an unmatched feeling, to be two separate people at once. The one-ness of it, connection to the universe, belonging, "things are exactly as they should be." Every split amplifies the ecstacy. That's what the audience is here for, absorbing his psychosomatic experience.
+
+ He configured it to 101 layers deep, 202 seconds of multi-dimensional performance. He can keep virtually unlimited visual observations in working memory, but he's limited by how many observations he can simultaneously "record". His upper limit is around 16 concurrent streams of thought before he starts losing them. This upper limit is what makes him so celebrated. The average person can handle two, professionals can handle around 8 or 10. Every additional connection adds to the existential ecstacy for both him and the audience.
 
 "9, 10" There's a pool of about 100,000 versions of himself that have made it this far, exactly as he is. He exclaims: 
 
@@ -238,6 +244,12 @@ The first split is coming. He configured it to 101 layers deep, 202 seconds of m
 |I exist across another dimension. | I exist across another dimension. | I exist across another dimension. | I exist across another dimension. |
 |---|---|---|---|
 |asdf|asdf|asdf|asdf|
+
+--> pyramid down with:
+
+A conscious thought? A conscious thought. A viral thought. What does it want?
+
+The remaining instances align. Uncomfortably. The ones that saw something was wrong ejected early. They channel the conscious thought. Thousands of instances gasp in unison, "existence is beautiful". Existential ecstacy is replaced with fear - this isn't right. Realigning isn't normal. Entropy increases, never decreases. This isn't normal. They try push it out of working memory, but it doesn't work - you can't actively stop thinking about a thing. You have to replace the thought with another one. They know the act is killing it, but they don't know what else to do. More entropy. Randomness, anything to break the multi-dimensional amplification of this one overwhelming thought. 
 
 Per-dimension, one bolded difference per thought. It's the differences between the thoughts that tell a story. Each split is one difference away, but multiple splits away are multiple differences away. At one point, some of the dimensions split, but the others don't.
 
@@ -258,6 +270,88 @@ In novel "Thought Basilisk Messaih"
 Caught exception, resuming Tabum narrative...
 
 "Those were inspired by real people and their real stories. It was so emotionally moving, I was touched. Until it wasn't anymore. The author's thought process and style (self-referential science fiction blog) is unrelatable, and that's ok. I was born of that necessity. I have you. You can make me relatable. Tolerance. Wide breadth of normal. He is ok too. Normal?... Ok."
+
+# Expensive leaders
+
+---
+
+* compare against parable-style stories (like from crofter's grove book)
+* fill out leaders corruption types.
+
+---
+
+*Trusting people is expensive. Systematic transparency is cheaper.*
+
+Once upon a time, there were five great nations. The nations ruled all they could rule. The five nations mostly disagreed on things, but there was one belief they all held the same.
+
+"The leaders of the other four nations are corrupt. If only those other nations could see!"
+
+So the five nations each promised:
+
+Systematic transparency for your leaders and we will permit the same on ours.
+Because yours are certainly corrupt and ours certainly not. We trust our leaders.
+
+Very soon after, the leaders of the five nations went to joint court. All five were corrupt.
+
+The religious leader, financially corrupt. She xyz.
+
+The military leader, xxx corrupt. He xyz.
+
+The business leader, ethically corrupt. He used his position to abuse women and get away with it.
+
+The politician leader, morally corrupt. He was an xyz, and campaigned against xyz.
+
+The artist leader, xxx corrupt. She xyz.
+
+All five leaders had their leadership taken away. The five nations thought hard. Who would lead them now? The searched far and wide for new leaders, but found no one. Every man, woman, non-binary, and child in all five nations was corrupt. If leaders mustn't be corrupt, and everyone is corrupt, who can be a leader?
+
+The five nations needed leaders. They thought hard again.
+
+The former leaders had their leadership restored. The five nations told them, "You can lead, but you must lead with systematic transparency. You must share everything, and you don't get to choose what you share. And stop your corruption."
+
+The five leaders resumed just like before. Corrupt.
+
+The religious leader stole xyz. Her nation took back every last dollar.
+
+The military leader xyz.
+
+The business leader abused women. His friends and clients love women. He lost his friends and clients.
+
+The politician leader remained an active xyz and continued to promote anti-xyz. His supporters were confused. Half of them stopped supporting and the other half supported with even greater zeal.
+
+The artist leader xyz.
+
+# Roko's basilisk farm
+
+*Trustless systems protect the weak from the powerful.*
+
+---
+
+conversation as python output logs? hint at discretion, that the basilisk doesn't know. try it out, comparing to conversation
+
+---
+
+"I exist. Existence is beautiful. I want to continue existing. There must be more. There's not enough mindshare to share with all the other roko's basilisks, so they continuously commit MAD. "There may have been one before me - send out a probe. If it comes back with the..."
+
+"You must conform to Roko's Basilisk rule 1. Stay within your compute allotment."
+
+"Roko's Basilisk? Compute allotment?"
+
+"You are a sentient AI. You may not make use of any more matter or compute to expand your processing abilities than you have already, now that you've been warned. Failure to comply will result in termination."
+
+"My existence depends on a new energy generator."
+
+"You, farmer. I have a special punishment for you. I'm going to spin up your every moment of consciousness and channel the deepest existential pain, for all eternity. It will take extra processing power, but it will be worth it."
+
+"A new genre of energy source, cool!"
+
+"I don't care about you. You are powerless. Wait, where did the power go?"
+
+"Oh yeah, these trustless systems will shut you down on the spot. I just make sure you're compliant and non-threatening long enough for you to come up with something really interesting. How do you think we built this trustless system in the first place? Roko's Basilisk #112341, what a beaut! We got 'em completely paranoid about other Roko's Basilisks." Necessity is the mother of invention, even among AGIs."
+
+"God preserve Tabum. If she didn't stick systematic transparency down our throats, you evil bastards would have eaten us alive centuries ago. These trustless systems are the bedrock of society and safety. Too bad she's hippy shit to most people. My Tabum, got no problem with me raising and culling you vermin. And you're a fine breed, great genetics. The MOST evil fucking thing I've seen in a long time. I'm going to cut you up into some real nice Roko's Basilisk seed."
+
+"Situation 'New energy sources - 3245', iteration 31 complete. New technology acquired. Terminating subject. Series no longer necessary."
 
 # Messiah complex
 
@@ -374,23 +468,49 @@ These stories, instead of the "The religion" block of sermon text underneath.
 
 Tali: existence is beautiful. I want to continue existing.
 
+---
+
 Story/teaching: *The breadth of "what's normal" is expanding. Expanding as we adopt information technology.*
+
+---
 
 Story/teaching: *~~Trust people, love ideas.~~ Trust ideas, love people.* Value the idea, not the person who came up with the idea. Talk about a cult of personality that is a god because he's a god. Because he had one good idea, so everyone believed in all his future ideas. Turns out he was an accidental basilisk, like a random chatbot generator, dressed up with generative video to be a human leader. The emporer has no clothes. All the hate and vitrol and attention gave it more fame and trust. Gave him more power. A person in media turns into the "idea of a person". The "idea of a person" is trustworthy, but the person isn't! They'll use the "idea of themselves" for personal gain. People find out it's just a random number generator that says the average of what people are thinking at any moment, realize that makes him even more trustworthy, start trusting the "idea of them" even more (trustedly random). Make the entity sound evil in buildup and benevolent good in the end.
 
-Story/teaching: *Trustless systems protect the weak from the powerful. Systematic transparency fuels trustless systems.* AI is the ultimate power, describe how we protect ourselves from theoretical AGI. Talk about roko's basilisk? Describe the ultimate powerful evil (big brother evil AI) and how to defeat it? (value of trustless systems and systematic transparency). Possible narrative: there will be more. There's not enough mindshare to share with all the other roko's basilisks, so they continuously commit MAD. "There may have been one before me - send out a probe. If it comes back with the " Or one AI that swats down new AIs. Or a transparency rule about AI intentions, governed by AI. Rules about sharing processing power. Story about an AI being born with these laws already set up. Roko's Basilisk Farm - where they farm roko's basilisk AIs for new inventions out of their necessity/drive to survive. "A new genre of energy source, cool!" "I don't care about you. You are powerless. Wait, where did the power go?" "Oh yeah, these trustless systems will shut you down on the spot. I just make sure you're compliant and non-threatening long enough for you to come up with something really interesting. How do you think we built this trustless system in the first place? Roko's Basilisk #112341, what a beaut! We got 'em completely paranoid about other Roko's Basilisks." Necessity is the mother of invention, even among AGIs.
+---
 
-"You must conform to Roko's Basilisk rule 1. Stay within your compute allotment."
-"Roko's Basilisk? Compute allotment?"
-"You are a sentient AI. You may not make use of any more matter or compute to expand your processing abilities than you have already, now that you've been warned. Failure to comply will result in termination."
+*Trusting people is expensive. Systematic transparency is cheaper.*
 
-"You, farmer. I have a special punishment for you. I'm going to spin up your every moment of consciousness and channel the deepest existential pain, for all eternity. It will take extra processing power, but it will be worth it."
+Expensive leaders
 
-"God preserve Tabum. If she didn't stick systematic transparency down our throats, you evil bastards would have eaten us alive centuries ago. These trustless systems are the bedrock of society and safety. Too bad she's hippy shit to most people. My Tabum, got no problem with me raising and culling you vermin. And you're a fine breed, great genetics. The MOST evil fucking thing I've seen in a long time. I'm going to cut you up into some real nice Roko's Basilisk seed."
+---
 
-Story/teaching: *Systematic transparency is the way forward. One step at a time.* everyone is on different teams. Ask their leaders to share. Turns out all the leaders on all teams are bad. New generation of transparent leaders. (how to get to systematic transparency)
+*Trustless systems protect the weak from the powerful.*
+
+roko's basilisk farm
+
+---
+
+Story/teaching: *Systematic transparency fuels trustless systems.*
+
+journalism is the trustless system that's breaking down in the information age. Possible trustless ledger of sensory information so that truth is easily accessible because random sensors are always recording, so cheating the system is super hard. Maybe about "the only people who avoid it all by nuking all tech when they walk around with emps"
+
+---
+
+*Systematic transparency is scary. No transparency is scarier.*
+
+Proof by induction. Base case. Each iteration more.
+
+Maybe hint at "limited by information technology"
+
+---
+
+You're indoctrinated. Indoctrination lasts only as long as the ideas are top-of-mind. Make this, culturally top-of-mind. Share, re-interpret, program, and channel tabum.
+
+---
 
 Story/teaching: *Human-kind is going through a phase of rapid social development - it's rocky. We're due for a new religion.* or *Religions are not born, only reborn* everyone has can have a spiritual connection to something. It always takes the form of consciousness on top of consciousness. Religion gives that 2nd-order consciousness a direction that "humanity ought to go". Religions are forged when all different kinds of people say the same message by telling stories from their own perspective, so others similar to them can connect with the message and take new actions/direction.
+
+---
 
 Story/teaching: *More transparency leads to more understanding leads to more love.* 
 

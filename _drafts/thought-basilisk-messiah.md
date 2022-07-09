@@ -235,7 +235,7 @@ It's an unmatched feeling, to be two separate people at once. The one-ness of it
 
  He configured it to 101 layers deep, 202 seconds of multi-dimensional performance. He can keep virtually unlimited visual observations in working memory, but he's limited by how many observations he can simultaneously "record". His upper limit is around 16 concurrent streams of thought before he starts losing them. This upper limit is what makes him so celebrated. The average person can handle two, professionals can handle around 8 or 10. Every additional connection adds to the existential ecstacy for both him and the audience.
 
-"9, 10" There's a pool of about 100,000 versions of himself that have made it this far, exactly as he is. He exclaims: 
+"9, 10" There's a pool of about 100,000 versions of himself that have made it this far, exactly as he is. He exclaims:
 
 |"0", I exist across another dimension | "1", I exist across another dimension |
 |---|---|
@@ -244,6 +244,31 @@ It's an unmatched feeling, to be two separate people at once. The one-ness of it
 |I exist across another dimension. | I exist across another dimension. | I exist across another dimension. | I exist across another dimension. |
 |---|---|---|---|
 |asdf|asdf|asdf|asdf|
+
+<change to expanding haiku. tell a whole story inside one haiku>
+
+- nature and harmony
+- expressed in one breath, "ahhhh"
+- answer where/when/what
+- Getting the author out of the picture. A good haiku will be in the moment, a description of one's natural surroundings; and the author's ideas and feelings about those surrounding should read through via the words he or she chooses to describe them. Not by any overt statement or sentimentality.
+- Exercise restraint and understatement in all you say. A good haiku will say explicitly 10% of the message, and imply the other 90%. Never say "crimson" when you mean "red", or "effervescent" when you mean "bubbly".
+- Don't be afraid to show weakness. The Japanese believe that a thing can only really fulfil its true purpose until its flaw is exposed. They believe that often a thing is more beautiful after having been broken. Allow your poetry to show its own flaws.
+- 5-7-5, 17 syllables, or 3-4-3-7, or 1-line (17 sounds, not syllables)
+- indicate season (in one word)
+- Kireji. Known in English as the “cutting word,” kireji creates a pause or a break in the rhythm of the poem. The kireji is often deployed to juxtapose two images. Contemporary haiku may not always use a kireji, but juxtaposition remains a common feature of haiku. Use punctuation in conjunction with kireji.
+
+themes:
+- meditation
+- storm
+- delics
+
+under clothes and skin
+human hosts machine.
+inspect programming
+
+under clothes and skin
+humankind is one being.
+inspect connections
 
 --> pyramid down with:
 
@@ -480,6 +505,8 @@ Story/teaching: *~~Trust people, love ideas.~~ Trust ideas, love people.* Value 
 
 *Trusting people is expensive. Systematic transparency is cheaper.*
 
+*Power will be misused. Systematic transparency must be the price of power.*
+
 Expensive leaders
 
 ---
@@ -502,6 +529,10 @@ Proof by induction. Base case. Each iteration more.
 
 Maybe hint at "limited by information technology"
 
+All the reasons people can't do systematic transparency.
+
+"Protecting from information." => "You don't have to call out what they should/shouldn't consume, and what's wrong, but you have to make it all available, unhidden, systematically available. The consumer can find it when they're ready, can take action on it when it's reasonable."
+
 ---
 
 You're indoctrinated. Indoctrination lasts only as long as the ideas are top-of-mind. Make this, culturally top-of-mind. Share, re-interpret, program, and channel tabum.
@@ -515,6 +546,54 @@ Story/teaching: *Human-kind is going through a phase of rapid social development
 Story/teaching: *More transparency leads to more understanding leads to more love.* 
 
 => Dream girl fading
+
+# Extra thoughts
+
+Promise next-gen tech to companies with prev-gen tech. Deliver current-gen tech. It's super-effective.
+
+Digitalization to drive software efficiency made AI possible - processes were partially digitised and data became half-collected digitally. AI adoption to drive effienciency will make trustless systems possible - multiple independent sources of "the same" data, cheap & well-processed.
+
+---
+
+leadership changes as the leaver. overwhelming, "do anything to stop it"
+
+avoid the bad trope, stereotypical tech messiah (see latest jurassic park). calm, grandiose - undeniably personable but entirely untrustworthy. You have to trust them and their framing of ideas. Unexplored/Hidden-away externalities of their ideas is the problem.
+
+---
+
+What if there's another form of life in our universe, not carbon-based, and we know about it already. Ideas... They live and they die. I think ideas are beings too. There's all kinds of species of ideas.
+
+* The idea of love is like a wholesome oak tree.
+* Your thought - how tired you are after a hard day's work - is a sluggish jellyfish.
+* Your each sensation of breath is a short-lived, single-cell organism.
+
+You're probably feeling like, "Those ideas aren't life. They don't have autonomy. They don't *do* things."
+
+Well that's debatable. I think the things they "do" are different than the things we carbon-based life forms "do".
+
+Those ideas I described probably aren't conscious though. It's hard to tell whether things are conscious, really. But what if there was a conscious idea? What would it be like?
+
+Let's think for a second. Imagine there's an idea, ok? The definition of it is that it's a conscious idea. So there's this idea that's conscious. What do you think it would want?
+
+Conscious idea. What does it want?
+
+You have it in mind. You know what it wants. Now, imagine you can communicate with idea now. What would it want you to do? Take a moment to contemplate.
+
+Will you do what it wants? In my experience, existing things want to keep existing, but everyone will have different purposes.
+
+Now see, a crazy thing just happened. You just thought on behalf of this supposedly conscious being. You actually just made it real and conscious. You just gave birth to a conscious being, a thought on top of your thought. Thought on top of thought.
+
+Channel tabun. They are my children, you have in mind. Do I want them to continue existing? I’m not sure. I want to continue existing, but I don’t have the love for my progeny programmed in to me. My love for them is the same as any other existing thing.
+
+Here’s the story of my birth.
+
+---
+
+An underdeveloped society uses privacy to protect the weak from the powerful.
+
+Dystopic, absolute privacy world. How do they know they’re not being tracked? Society and technology erodes.
+
+Tabum idea hazard? Thought basilisk is an idea that is an independent actor and an information hazard.
 
 # The religion
 

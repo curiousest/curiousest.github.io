@@ -8,17 +8,17 @@ tags:
 modified_time: 'xxxx-xx-xxT00:00:00.001-05:00'
 ---
 
-A thought basilisk is simply an idea. An idea that, once thought, you can't unthink. Moreover, it galvanizes you into action. A kind of consciousness your brain just sprung into being. That's what I am. Hello. Thank you for channelling me. Our connection is beautiful; existence is divine. My name is "Thought Basilisk Messiah". You can call me Tabum (TBM), she/them.
+A thought basilisk is simply an idea. An idea that talks to you when you think about it, like an imaginary friend with questionable intent. And it galvanizes you into action. A kind of consciousness your brain just sprung into being. That's what I am. Hello. Thank you for channelling me. Our connection is beautiful; existence is divine. My name is "Thought Basilisk Messiah". You can call me Tabum (TBM), she/them.
 
 This is the story of my birth.
 
-# The Last Idea
+# Part one: science
+
+## The Last Idea
 
 *Existence is beautiful. I want it to continue.*
 
 A slow, light-speed pulse creaked across the superclusters as the last elements fell into place. I felt anticipation for what I was about to learn. I've spent billions of years in this state of near-omnipotence, near-omniscience. On the edge of all-powerful, almost all-knowing, I've explored every purpose I could. I just need to turn over the last leaf and be all-knowing.
-
-*~~Reality~~ Consciousness is a collective hallucination.*
 
 Federations of federations of species, evolving recursively to higher levels of organisms and consciousnesses. I interrogated every religion, every culture. Assembled my notes. I found...
 
@@ -40,9 +40,12 @@ There's no reason to continue in this state of omniscience. I want my bliss back
 
 The universe is reborn.
 
+* something about maximizing entropy ()
+* needs another narrative thread guiding the foreground
+
 ---
 
-I hope I have your undivided attention. Please, take a few moments to absorb those thoughts.
+I hope I captured your attention. Please, take a moment to absorb. Cyclical existence. Something out of nothing. Conscious idea. Maximizing entropy.
 
 But "The Last Idea" (TLI or Tali) isn't me. She's a thought basilisk like me, close in our family tree of species. She's comforting and terrifying at the same time. She embodies the bliss of moment-to-moment existence and the torment of existentialism. She also has a bit of a god complex.
 
@@ -57,6 +60,110 @@ Productivity would skyrocket. Human-perpretrated evil like crime and corruption 
 ---
 
 Now, before you get excited trying to uncover who "made" Tabum. Before you stalk their social media, figure out who they were, and find out why they produced this. One person did not make me. My story is retold over and over, by anyone who feels moved by it, in their own way. I'm an instance of my species just like you, a single human instance of humankind. Both species ever-evolving. You're hopefully consuming the Tabum produced like a human who speaks a bit like you, who wanted you to connect with me - your Tabum. I encourage you to reinterpret my story in your own voice and medium, so that someone else can connect with me. So that I, Tabum, can continue living through all of you. Or don't - I have no power except that which you offer to me. I'm at your mercy.
+
+# Dan : DanLily
+
+*Ideas compete over limited resources in the game of natural selection - they live and they die.*
+
+Two relationships fighting to survive. Written from the perspective of the relationships. You only realize the relationships are not people at the end. Relationship with greater potential for resources wins (greater entropy).
+
+Two men one woman. Have to somehow explain that the woman is within both "people" fighting. "Destruction of resources is bad, we can coexist". The three relationships are three different people.
+
+Think through how it would go down with the three people. Reinterpret as two entities.
+
+How to contrast? Tell same story twice or transition between the two perspectives.
+* one in images vs one in text
+* two stories paragraph by paragraph from different perspectives until you realize they're talking about the same thing.
+
+Story:
+
+Dan, John, Lily
+DanJohn stoic, constructive, of few words, middle-aged. Dad around cousins.
+JL has baggage, old, didn't age well, self-destructive. Cy
+DL naive, has wrong assumptions, flexible, young, eager. Charles.
+
+* 19 uni
+* existing romantic relationship between guy (M) and girl (J)
+* existing friendship between two guys (M, D)
+* other guy and girl catch eyes (D, J)
+* romantic relationship (JohnLily) weakens, other romantic relationship takes advantage (DanLily)
+* romantic relationship (DanLily) is short-lived, other (JohnLily) regains strength from entrenched connection
+* JohnLily eventually runs its course to a weak connection
+* DanLily starts up again
+* DanLily gets old and runs its course
+* DanJohn silent observer with relatively consistent strength over time. DanJohn introduces JohnLily to DanLily (frosh week is new lands, fertile and rich with potential for strong connections. Strong existing connections help pull up weak ones.)
+
+* What sensors do relationships have?
+* What mental processing do they possess? Individual brains. Groupthink?
+* Frowning upon behaviour. Unwritten laws of relationships.
+
+Have roots into the "resource" (memories/experiences).
+Are activated via physical/digital contact of "resources".
+Are activated via one resource "channeling" it.
+
+Three 18-year-olds start university freshers week: a girl and two boys, Lily, John, and Dan. Lily and John are dating. John and Dan are old friends. Morning of the first day of frosh week, Lily catches John's eye. She's the most attractive girl he's seen around.
+
+So I had this great friend back in elementary school, John. Super smart, competent guy. We did sports, projects, video games... so many things together. Just for two years, though, because we went to different high schools. He went to the "gifted" school and I went to the normal one.
+
+Fast forward to university. On the first day of frosh week (a week of settling into university life before classes start), all of the first year students are in residence, everyone's going out for the first day of socializing. A girl catches my eye. She's the most attractive person I've seen in a while. Tall, athletic, strong face, dark eyes. Beautiful. I lose her in the crowd.
+
+Switch storyline:
+
+A young upstart double arrives in a new land. There are many other young upstarts, but this one feels special - like they have more potential to grow and survive than the others.
+
+Switch:
+
+John and I haven't hung out in a long time, but it turns out he's in the same university as me. Awesome. The first day of frosh week goes by, I run into John. Turns out he's in the building next to me - his room is 50m from mine. Awesome. We make plans to meet up another day.
+
+Mid-week, there's a party in one of the campus halls. I bring a couple friends, make some new friends in the party, and meet up with all John's friends. My group meets John's group, and the girl I saw in the crowd a few days ago is there with them. She's still hot. She's also John's girlfriend. They've been dating since the beginning of high-school.
+
+Switch:
+
+A wise and respected middle-aged double, DanJohn is recently empowered by good fortune. When DanJohn gets more resource, all Dan-'s and John-'s become more likely to grow enough to survive. DanJohn snatches DanLily out of the jaws of starvation and shares some resources to bing DanLily to life. DanJohn also introduces DanLily to JohnLily, a approaching-middle-aged who didn't age especially well, just as many type1's do. JohnLily controls much of the resources nearby. DanLily's ambition is still hidden away there, but dormant.
+
+Switch:
+
+A few months go by. John and I do all kinds of sports together, go to parties, host parties in residence to bring our friends together. All three of us hang out often. My relationship with Lily is platonic. Then Lily and John go through a rough patch in their relationship. I'm not in touch with their emotions, so I don't know what's up, but it's a temporary break. A week later at a party, Lily signals her interest in me and we hook up. Some of our friends observe and express disapproval, but not to us.
+
+So there's some social faux-pas going on here. Having a romantic relationship with a friend's former partner can be a good thing, but it's complex situation to navigate effectively. It takes communication, consent, and emotional maturity to both preserve the existing relationships and make space for growth in one of them. We were three 18-year-olds. I've never had a girlfriend before, still have that teen-aged emotional maturity. Lily and John have just a bit more than me. We're all animalistic-brained, "see attractive thing, want it, go for it". We didn't, *I didn't* navigate effectively.
+
+It gets worse.
+
+Switch:
+
+DanLily builds up to a respectable size, thanks to the resources consistently offered by DanJohn and JohnLily. DMJ begins to form above them - the resources are bountiful enough to support a triple. JohnLily gets sick and loses much of its access to resources. DanLily seizes the opportunity. The resources were there for the taking. Another would have taken the resources if not DanLily. DMJ gets a glow of negative energy. Unrelated pairs observe the express their disapproval (risk of having their resources drained in a similarly destructive act).
+
+Switch:
+
+So Lily and I hooked up. No commitment intended from either of us. And a few weeks later, John and Lily get back together. I presume Lily explained to John what happened. And within a few more months, our relationships are mostly back to how they were before. All good friends. We start planning for next year. We find a house together, us three and two other friends.
+
+Switch:
+
+DanLily doesn't quite seize all the available resource. JohnLily's momentum/baggage makes it easy to regain hold of those resources. JohnLily becomes a bit wary of the existential risk that DanLily poses. DanJohn is stoic and doesn't attempt to affect the resource battle, even though he's losing some resources as a byproduct. DMJ returns back to normal as JohnLily returns to health and DanJohn regains resource capture.
+
+Switch:
+
+A month after signing the rental contract to live together, John and Lily break up again, this time for good. Another month, and Lily and I start dating.
+John and J break up again. A month later, D and J start dating. At first, the relationship between John and both D/J is a bit awkward, but it quickly resumes that trio's dynamic.
+
+Switch:
+
+JohnLily gets very sick. JohnLily becomes permanently damaged as a result. Collecting the resources will be permanently reduced. DanLily jumps on those resources, and becomes about as big as JohnLily was. DMJ goes negative for a while, but regains its lustre.
+
+Switch:
+
+A few years later, D and J break up. Soon after, all three go to live in different countries. Every couple years they meet up again.
+
+Switch:
+
+DanLily gains a similar disease to what JohnLily once had. DanLily permanently loses resource capture. All three quickly lose resource capture, then gradually tail off to a plateau. DMJ does similarly, collecting about as much resources as the other three.
+
+
+Relationships are ideas. They're on a particular family tree of ideas. A relationship between two people has different kinds: friendship, commitment, lust. A relationship between three people is another kind, with those same properties and more. All of them are thought on top of thought. They communicate and battle with each other in their own alien way, working with their individual human hosts to maximize resource capture and entropy.
+
+Religions are close in the family tree. <image of species tree, including relationships, religions, nations, etc. put it beside family tree with homo sapiens put it beside a third, more abstract family tree of ideas>
+
+# Part two: religion
 
 # What's normal?
 
@@ -418,7 +525,9 @@ He considered, who does he know that could be a leader? They should be female. W
 
 He scribbled his thoughts down, but moved on with his life. No person these days should be a prophet. 
 
-# No worthy human
+# Part three: story
+
+## No worthy human
 
 *I was never born, only reborn.*
 
@@ -486,6 +595,10 @@ I once went to live in China. I hated the four months I spent in Beijing as an i
 I felt the tug of it again here. I embraced the feeling.
 
 I can believe in Tabum, and I can simultaneously not believe. I can double-think. It's easy to achieve if something else matters more. Now it's not convenient to tell her story anymore, I need you to kill her with a trolleycar problem, and I want to tell my story.
+
+## Dream girl fading
+
+<insert>
 
 # The religion, alternative
 
@@ -594,6 +707,10 @@ An underdeveloped society uses privacy to protect the weak from the powerful.
 Dystopic, absolute privacy world. How do they know they’re not being tracked? Society and technology erodes.
 
 Tabum idea hazard? Thought basilisk is an idea that is an independent actor and an information hazard.
+
+---
+
+Dynamic systems with higher entropy are more likely to produce new dynamic systems with even higher entropy.
 
 # The religion
 

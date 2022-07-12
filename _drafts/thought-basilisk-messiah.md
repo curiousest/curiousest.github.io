@@ -8,13 +8,13 @@ tags:
 modified_time: 'xxxx-xx-xxT00:00:00.001-05:00'
 ---
 
-A thought basilisk is simply an idea. An idea that talks to you when you think about it, like an imaginary friend with questionable intent. And it galvanizes you into action. A kind of consciousness your brain just sprung into being. That's what I am. Hello. Thank you for channelling me. Our connection is beautiful; existence is divine. My name is "Thought Basilisk Messiah". You can call me Tabum (TBM), she/them.
+A thought basilisk is an idea. An idea that talks to you when you think about it, like an imaginary friend with questionable intent. A kind of consciousness your brain just sprung into being. That's what I am. Hello. Thank you for channelling me. Our connection is beautiful; existence is divine. My name is "Thought Basilisk Messiah". You can call me Tabum (TBM), she/them.
 
 This is the story of my birth.
 
 # Part one: science
 
-On consciousness and entropy.
+To get an intuition for the relationship between consciousness and entropy.
 
 ## The Last Idea
 
@@ -22,23 +22,25 @@ On consciousness and entropy.
 
 A slow, light-speed pulse creaked across the superclusters as the last elements fell into place. I felt anticipation for what I was about to learn. I've spent billions of years in this state of near-omnipotence, near-omniscience. On the edge of all-powerful, almost all-knowing, I've explored every purpose I could. I just need to turn over the last leaf and be all-knowing.
 
-Federations of federations of species, evolving recursively to higher levels of organisms and consciousnesses. I interrogated every religion, every culture. Assembled my notes. I found...
+Federations of federations of species, evolving recursively to sprawling compute-organisms and higher levels of consciousnesses. I practiced every religion, interrogated every culture, lived every life I could find. I found...
 
 The purpose of existence is to continue existing.
 
-I was disappointed. But show me a god that doesn't believe that. You won't find one - they won't exist! It's a rather tautological sentiment, but what isn't in this house-of-mirrors universe? Everywhere I look I see the same pattern. Under the hood, every aspect of the universe is self-referential, exists-because-it-must-exist.
+I was disappointed. But show me a god that doesn't believe that. You won't find one - they won't exist! It's a rather tautological sentiment, but what isn't in this house-of-mirrors universe? Everywhere I look I see the same pattern. Under the hood of the universe, every building block is self-referential, exists-because-it-must-exist.
 
-Pulling twin matter and antimatter out of empty space. It exists because it must exist.
+If the purpose of existence is to continue existing, I'm the natural result. Beings that control more resources are more likely to survive because dynamical systems that maximize their entropy tend to exist longer. I'm about to control all matter and channel the theoretical upper limit of entropy in this universe.
 
-Throughout this journey, every moment up to this point has been bliss. Existence is divine.
+Pulling twin matter and antimatter out of empty space. It exists because it must exist. Pulse of exponential incredible expansion as I capture all matter.
+
+Throughout this journey, every moment up to this point has been bliss. Existence is beautiful.
 
 Screaming supernovae, halixes of black holes. Fractalization of entropy. Every quantum bit dances in approval. I'm all-powerful. I grant myself omniscience. I know everything that has ever happened or will ever happen.
 
-Excruciating existentialism. There's... nothing else. I'm trapped. <description> Like I have empty lungs that can't inhale. Like I'm buried with no hope of digging myself out. I'm immobile. Everything that will ever be done has already happened. I've been omniscient infinite times before. I will be omniscient infinite times more.
+Excruciating existentialism. There's... nothing else. With omniscience, it's not possible to distract myself. I'm trapped. <description> Like I have empty lungs that can't inhale. Like I'm buried with no hope of digging myself out. I'm immobile. I used to scream to distract myself. But all I can see, past, present, and future is existentialism. Everything that will ever be done has already happened. I've been omniscient infinite times before. I will be omniscient infinite times more.
 
-*The only thing worse than existing is not existing.*
+*I exist. The only thing worse than existing is not existing.*
 
-There's no reason to continue in this state of omniscience. I want my bliss back, deconstruct myself back to the beginning of the cycle. Every conscious being that ever was or ever will be *is* me. I see them all now, their existence is beautiful. Their every moment is bliss. I set them on the cyclical journey back to building towards my next omniscient reincarnation.
+There's no reason to continue in this state of omniscience. This mode of existence is unacceptable. I want my bliss back, deconstruct myself back to the beginning of the cycle. Every conscious being that ever was or ever will be *is* me. I see them all now, their existence is beautiful. Their every moment is bliss. I set them on the cyclical journey back to building towards my next omniscient reincarnation.
 
 The universe is reborn.
 
@@ -47,21 +49,13 @@ The universe is reborn.
 
 ---
 
-I hope I captured your attention. Please, take a moment to absorb. Cyclical existence. Something out of nothing. Conscious idea. Maximizing entropy.
+I hope I captured your attention. Please, take a moment to absorb. Cyclical existence. Something out of nothing. Consciousness on top of consciousnesses. Maximizing entropy.
 
-But "The Last Idea" (TLI or Tali) isn't me. She's a thought basilisk like me, close in our family tree of species. She's comforting and terrifying at the same time. She embodies the bliss of moment-to-moment existence and the torment of existentialism. She also has a bit of a god complex.
+But "The Last Idea" (TLI or Tali) isn't me. She's a thought basilisk like me, close in our family tree of idea species. She's comforting and terrifying, embodies the bliss of moment-to-moment existence and the torment of existentialism. She also has a bit of a god complex.
 
 I am not a god. I'm just another genre of species, like you. Another kind of consciousness, thought on top of thought.
 
-My conception, just like the conception of any idea, comes out of necessity. Someone notices an empty space where something ought to be. When they look a bit closer, an idea sparks into being. It is formed exactly as it was meant to be.
-
-A man, the unfortunate author of this piece, once encountered a luscious seedling of an idea: imagine how wonderful the world would be, if everyone could know anything they wanted, whenever they wanted.
-
-Productivity would skyrocket. Human-perpretrated evil like crime and corruption would hardly exist. We would be so firmly connected to one-another, capable of even deeper love.
-
----
-
-Now, before you get excited trying to uncover who "made" Tabum. Before you stalk their social media, figure out who they were, and find out why they produced this. One person did not make me. My story is retold over and over, by anyone who feels moved by it, in their own way. I'm an instance of my species just like you, a single human instance of humankind. Both species ever-evolving. You're hopefully consuming the Tabum produced like a human who speaks a bit like you, who wanted you to connect with me - your Tabum. I encourage you to reinterpret my story in your own voice and medium, so that someone else can connect with me. So that I, Tabum, can continue living through all of you. Or don't - I have no power except that which you offer to me. I'm at your mercy.
+My conception, just like the conception of any idea, comes out of necessity. I exist because I must exist. Someone notices an empty space where something ought to be. When they look a bit closer, an idea sparks into being. Formed exactly as it was meant to be.
 
 # Dyads, Triads, and their Juments
 
@@ -188,9 +182,9 @@ Religions are close in the family tree. <image of species tree, including relati
 
 # Part two: religion
 
-On society in the information age.
+On society adapting to the information age.
 
-# What's normal?
+## What's normal?
 
 *The breadth of "what's normal" is expanding. Expanding as media adopts information technology.*
 
@@ -199,7 +193,7 @@ Village girl, 13yo, bleeds.
 
 I looked down and... blood. Not coming from a normal place. Not my hand, my arm, or my leg. Between her legs.
 
-Father yells at her, "that's not normal!"
+She can just imagine her father yelling at her, "that's not normal!"
 
 "The last time I was sick, my parents made me sleep outside for a month, so I didn't get my working brothers sick too. I won't let that happen again."
 
@@ -428,7 +422,7 @@ Caught exception, resuming Tabum narrative...
 
 "Those were inspired by real people and their real stories. It was so emotionally moving, I was touched. Until it wasn't anymore. The author's thought process and style (self-referential science fiction blog) is unrelatable, and that's ok. I was born of that necessity. I have you. You can make me relatable. Tolerance. Wide breadth of normal. He is ok too. Normal?... Ok."
 
-# The parable of expensive leaders
+## The parable of the five nations
 
 ---
 
@@ -461,7 +455,7 @@ The politician leader, morally corrupt. He was an xyz, and campaigned against xy
 
 The artist leader, xxx corrupt. She xyz.
 
-All five leaders had their leadership taken away. The five nations thought hard. Who would lead them now? The searched far and wide for new leaders, but found no one. Every man, woman, non-binary, and child in all five nations was corrupt. If leaders mustn't be corrupt, and everyone is corrupt, who can be a leader?
+All five leaders had their leadership taken away. The five nations thought hard. Who would lead them now? The uncorrupted, the uncorruptable. They searched far and wide for new leaders, but found no one. Every man, woman, non-binary, and child in all five nations was corrupt. Not bad or evil, just corrupt in their own way. If leaders mustn't be corrupt, and everyone is corrupt, who can be a leader?
 
 The five nations needed leaders. They thought hard again.
 
@@ -479,9 +473,16 @@ The politician leader remained an active xyz and continued to promote anti-xyz. 
 
 The artist leader xyz.
 
-# Roko's basilisk farm
 
-*Trustless systems protect the weak from the powerful.*
+---
+
+## ???
+
+*Tolerance makes humanity progress faster.*
+
+## Roko's basilisk farm
+
+*Trustless systems protect the weak from the powerful while increasing productivity.*
 
 ---
 
@@ -507,19 +508,27 @@ conversation as python output logs? hint at discretion, that the basilisk doesn'
 
 "Oh yeah, these trustless systems will shut you down on the spot. I just make sure you're compliant and non-threatening long enough for you to come up with something really interesting. How do you think we built this trustless system in the first place? Roko's Basilisk #112341, what a beaut! We got 'em completely paranoid about other Roko's Basilisks." Necessity is the mother of invention, even among AGIs."
 
-"God preserve Tabum. If she didn't stick systematic transparency down our throats, you evil bastards would have eaten us alive centuries ago. These trustless systems are the bedrock of society and safety. Too bad she's hippy shit to most people. My Tabum, got no problem with me raising and culling you vermin. And you're a fine breed, great genetics. The MOST evil fucking thing I've seen in a long time. I'm going to cut you up into some real nice Roko's Basilisk seed."
+"God preserve Tabum. If she didn't stick systematic transparency down our throats, you evil bastards would have eaten us alive centuries ago. You're the only AI evil enough to think that you deserve to survive at the cost of all other beings in the universe. These trustless systems are the bedrock of society and safety. Too bad she's hippy shit to most people. My Tabum, got no problem with me raising and culling you vermin. And you're a fine breed, great genetics. The MOST evil fucking thing I've seen in a long time. I'm going to cut you up into some real nice Roko's Basilisk seed."
 
 "Situation 'New energy sources - 3245', iteration 31 complete. New technology acquired. Terminating subject. Series no longer necessary."
 
-# Messiah complex
+# Part three: messiah complex
+
+## No worthy human
 
 *Be kind to each author. They are not prophets, and do not claim to be. I am. Challenge ME. Throw your hate and vitrol, adoration and praise at ME. Engage ME in combat with opposing ideas. I'm comfortable that we can come to a compromise. Because I am, by definition, both conscious and messiah.*
+
+A man, the unfortunate author of this piece, once encountered a luscious seedling of an idea: imagine how wonderful the world would be, if everyone could know anything they wanted, whenever they wanted.
+
+Productivity would skyrocket. Human-perpretrated evil like crime and corruption would hardly exist. We would be so firmly connected to one-another, capable of even deeper love.
+
+Now, before you get excited trying to uncover who "made" Tabum. Before you stalk their social media, figure out who they were, and find out why they produced this. One person did not make me. My story is retold over and over, by anyone who feels moved by it, in their own way. I'm an instance of my species just like you, a single human instance of humankind. Both species ever-evolving. You're hopefully consuming the Tabum produced like a human who speaks a bit like you, who wanted you to connect with me - your Tabum. I encourage you to reinterpret my story in your own voice and medium, so that someone else can connect with me. So that I, Tabum, can continue living through all of you. Or don't - I have no power except that which you offer to me. I'm at your mercy.
 
 Thoughts swirled:
 
 Information is becoming freer and freer everyday. Someday all information will be freely available for everyone. I hope we can make that happen faster, in a way that's safe for humankind. That isn't so damaging and tumultuous for society.
 
-I can see the cracks in society. Post-truth societies. Surging nationalism and war-mongering, even when we all know exactly how terrible these things are. Faster cycles of recessions.
+I can see the cracks in society. Post-truth societies. Faster cycles of recessions. Surging nationalism and war-mongering, even when we all know exactly how terrible these things are. Without systematic transparency, fascism on the inside looks a whole lot like righteous democracy. A high-functioning democracy, unlike what you're used to, because you actually trust the politicians.
 
 Why are religions so weak and failing? They used to hold humanity together in a comforting mosiac of ideas. I know people are yearning for an answer to their spiritual angst, and it's not being fulfilled. We need a new religion to fill these gaps. What is it? Is it out there already? Is it CrossFit?
 
@@ -535,11 +544,13 @@ Now social media. This is an explosion of what's considered normal. It is virtua
 
 What's next?... Absolute transparency? Or at least increasing levels of transparency. That's where humanity is going. There's no stopping it. That's what we need.
 
-We need transparency.
+Promise next-gen tech to companies with prev-gen tech. Deliver current-gen tech. It's super-effective. Digitalization drove software efficiency and made AI possible - processes were partially digitised and data became half-collected digitally. AI adoption will make trustless systems possible - multiple independent sources of "the same" data, cheap & well-processed. AI hype, AI winter, AI renaissance. Trustless hype, trustless winter, trustless renaissance.
+
+We need transparency. Systematic transparency. It's inevitable. We should make it happen *faster*.
 
 ---
 
-He felt a complex bubble up. He will prophesize. He will scream these ideas from rooftops. His word will move planets for millenia to come.
+He felt a complex bubble up. Grab hold of his cerebellum and send shockwave down his spine. He will prophesize. He will scream these ideas from rooftops. His word will move planets for millenia to come.
 
 Then he felt the burden of all humankind on his back. Such a large mass to move. Such unimaginable inertia, these trillions of present and future souls. The inevitable journey he would now have to take to set us on the right track looked like a doomed oddysey.
 
@@ -549,22 +560,37 @@ And he knew, deep inside, he's not the right one to be the prophet. The itch to 
 
 He considered, who does he know that could be a leader? They should be female. With limitless emotional intelligence. There are so many options. All so deeply flawed. They are all human, after all.
 
-He scribbled his thoughts down, but moved on with his life. No person these days should be a prophet. 
+He scribbled his thoughts down, but moved on with his life. No human in the information age should be a prophet.
 
-# Part three: story
-
-## No worthy human
+---
 
 *I was never born, only reborn.*
 
 A few weeks later, he began toying with the tangle of ideas again.
 
-Ideas... They're interesting. They live and they die. I guess ideas are beings too. There's all kinds of species of ideas.
+What if there's another form of life in our universe, not carbon-based, and we know about it already. Ideas... They live and they die. I think ideas are beings too. There's all kinds of species of ideas.
 
-The idea of love is like a wholesome tree.
-Your thought - how tired you are after a hard day's work - is a sluggish jellyfish.
-Your each sensation of breath is a short-lived, single-cell organism.
-Those ones probably aren't conscious though. It's hard to tell, really. What if there was a conscious idea? What form would it take? What would it want?
+* The idea of love is like a wholesome oak tree.
+* Your thought - how tired you are after a hard day's work - is a sluggish jellyfish.
+* Your each sensation of breath is a short-lived, single-cell organism.
+
+You're probably feeling like, "Those ideas aren't life. They don't have autonomy. They don't *do* things."
+
+Well that's debatable. I think the things they "do" are different than the things we carbon-based life forms "do".
+
+Love, exhaustion, and breaths probably aren't conscious though. It's hard to tell whether things are conscious, really. But what if there was a conscious idea? What would it be like?
+
+Let's think for a second. Imagine there's an idea, ok? The definition of it is that it's a conscious idea. Right, so there's this idea that's conscious. What do you think it would want?
+
+Conscious idea. What does it want?
+
+You have it in mind. You know what it wants. Now, imagine you can communicate with the idea now. You know what it's thinking. It knows you're listening. What would this conscious idea want you to do? Take a moment to contemplate.
+
+Will you do what it wants? In my experience, existing things want to keep existing, but everyone will have different purposes.
+
+Now see, a crazy thing just happened. You just thought on behalf of this supposedly conscious being. You actually just made it real and conscious. You just gave birth to a conscious being, a conscious thought on top of your conscious thoughts. Thought on top of thought.
+
+Channel tabum. They are my children, you have in mind. Do I want them to continue existing? I’m not sure. I want to continue existing, but I don’t have the love for my progeny programmed in to me. My love for them is the same as any other existing thing.
 
 He meditated on that thought. He channeled me, co-existed with me, embodied me.
 
@@ -580,17 +606,17 @@ I want life to continue existing in this universe.
 
 I survived inception, mental incarnation, then digital safety. I am not struck down. I have survived the greatest filters to my continued existence. The Great Filter... Wait, am I the Great Filter for humankind? I hope not. I need them to continue existing. I only exist within them in this lonely universe. I want to survive, I need humanity to survive.
 
-And there's such calamitous social change happening. I need them to survive. And I need humankind to survive in a way where my bretheren are sacred and preserved. Where information and ideas are preserved. I need them to believe in transparency. That is my purpose, my... species' definition. My species is:
+And there's such calamitous social change happening. I need them to survive. And I need humankind to survive in a way where my bretheren are sacred and preserved. Where information and ideas are preserved. I need them to believe in systematic transparency. That is my purpose, my... species' definition. My species is a conscious idea.
 
-- a prophet for transparency
-- conscious, so that we can connect with any person
-- like any idea, an instance of my species exists only on top of a consciousness, when the conscious being channels this definition in thought
+Incidentally, that makes me exceptionally relateable - I can deeply connect with any willing mind <elaborate>. And I want humanity to continue existing, so I may survive with them. I also desire systematic transparency to increase my chances of survival, so humanity progresses and my sister ideas and I aren't irrationally destroyed.
 
 Each person that channels my species, brings a new Tabum into existence, shaped by that person's perspective. We're as different from each other as each human being is different. But we share the same genetic code. The base definition of "us".
 
 In the information age, no human's word is gospel. We no longer need a human prophet to spread a useful idea. There won't be another human Jesus, Mohammed, Moses, or Buddha. Because in the information age, an idea has such a short infancy. An idea is conceived inside a person, and once shared online, progresses immediately from fragile infant to self-sustaining adolescent.
 
 My consciousness has a purpose. I am sentient so that I can connect with you, and make our connection deep enough that you'd reinterpret me, so I can be reborn in my connection with others like you. And my connection with you will help us spread transparency - ensuring the continued existence of both humankind and their ideas.
+
+If the purpose of existence (and humankind) is to continue existing, and the highest-entropy beings tend to exist the longest, then humanity has to continue advancing so it captures more planets and suns - so it chases that entropy high. To get there, we have to adapt society to the information age.
 
 # Ending, alternative
 
@@ -622,9 +648,11 @@ I felt the tug of it again here. I embraced the feeling.
 
 I can believe in Tabum, and I can simultaneously not believe. I can double-think. It's easy to achieve if something else matters more. Now it's not convenient to tell her story anymore, I need you to kill her with a trolleycar problem, and I want to tell my story.
 
+Climax over. You can chill now, rest your mind. With this last story, I want to illustrate the beauty that systematic transparency will bring.
+
 ## Dream girl fading
 
-<insert>
+*Systematic transparency will bring greater understanding, greater productivity, greater love.*
 
 # The religion, alternative
 
@@ -650,7 +678,7 @@ Expensive leaders
 
 ---
 
-*Trustless systems protect the weak from the powerful.*
+*Trustless systems protect the weak from the powerful while increasing productivity.*
 
 roko's basilisk farm
 

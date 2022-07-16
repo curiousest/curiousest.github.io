@@ -106,13 +106,13 @@ So there's some social faux-pas going on here. Having a romantic relationship wi
 
 So I had this great friend back in elementary school, John. Super smart, competent guy. We did sports, projects, video games... so many things together. Just for two years, though, because we went to different high schools. He went to the "gifted" school and I went to the normal one. We didn't see each other as much anymore after that.
 
-Fast forward to university. It's the first day of frosh week (a week of settling into university life before classes start). All of the first year students are in residence, everyone's going out for the first day of socializing. A girl catches my eye. She's the most attractive person I've seen in a while. Tall, athletic, strong face, dark eyes. Beautiful. I lose her in the crowd.
+Fast forward to university. It's the first day of frosh week (a week before classes start for first-year students to settle into university life). All of the first year students are in residence, everyone's going out for the first day of socializing. A girl catches my eye. She's the most attractive person I've seen in a while. Tall, athletic, strong face, dark eyes. Beautiful. I lose her in the crowd.
 
 ### DanLily
 
 Here and now is the most fertile place and time in the world this year. Over the next week, thousands of young juments are embarking on the next stage of life. They will need dyads to grow, and the strongest of those dyads will grow deep roots in their juments that will last for the rest of their collective lives. Hundreds of other dyads are born at around the same time, and just a fraction of them will survive infancy.
 
-I'm a dyad seed, taking root in this most fertile of environments. There are so many other dyad seedlings competing with me to take root in this jument, but I feel my jument take special interest in me for a moment. My jument believes I have potential to grow and guide the jument than the other dyads around. It's a good sign, that belief. Jument pick their dyad masters. If I grow bigger, I could set the direction of my jument's life. My little roots and lifespark is there in one jument, but not yet in the other. I go dormant.
+I'm a dyad seed, taking root in this most fertile of environments. There are so many other dyad seedlings competing with me to take root in this jument, but I feel my jument take special interest in me for a moment. My jument believes I have potential to grow and guide the jument more than the other dyads around. It's a good sign, that belief. Jument pick their dyad masters. If I grow bigger, I could set the direction of my jument's life. My little roots and lifespark is there in one jument, but not yet in the other. I go dormant.
 
 ### Dan
 
@@ -122,9 +122,9 @@ A few days later, there's a party in one of the campus halls. I bring a couple f
 
 ### DanLily
 
-A wise, middle-aged, platonic dyad, DanJohn, recently empowered by good fortune sparks life back into me. DanJohn sparks life into many other dyads. We're grateful, that DanJohn would risk its jument to spark new dyad life. Our gratitude lends even deeper roots to DanJohn. I'm awake and send little shoots into both my juments. I'm alive.
+A wise, middle-aged, platonic dyad, DanJohn, recently empowered by good fortune, sparks life back into me. DanJohn sparks life into many other dyads. We're grateful, that DanJohn would risk its jument to spark new dyad life. Our gratitude lends even deeper roots to DanJohn. I'm awake and send little shoots into both my juments. I'm alive.
 
-DanJohn introduces me to JohnLily. JohnLily is an adult romantic dyad. Romantic dyads are a slightly more rare species - about one in one hundred dyads evolve towards a romantic dyad, and one in five romantic dyads grow to the depth of JohnLily. They have deep and powerful roots, but those roots are more susceptible to lethal diseases. What a sight to behold! The first romantic dyad I've encountered. But I have to compete with JohnLily for my jument. I can get scraps to survive, but not much more. I will live, just not with the same potential my first jument saw in me. For now, I'm platonic. I'm alive.
+DanJohn introduces me to JohnLily. JohnLily is an adult romantic dyad. Romantic dyads are a slightly more rare species - about one in one hundred dyads evolve towards a romantic dyad, and one in five romantic dyads grow to the depth of JohnLily. They have deep and powerful roots, but those roots are more susceptible to crippling disease. What a sight to behold! The first romantic dyad I've encountered. But I have to compete with JohnLily for my jument. I can get scraps to survive, but not much more. I will live, just not with the same potential my first jument saw in me. For now, I'm platonic. I'm alive.
 
 JohnLily acknowledges me, newly aware of my existence. I bow in response, signal no intention to fight for deep roots in our shared jument. I send my thanks to DanJohn for the introduction and for my life through our shared jument.
 
@@ -134,7 +134,7 @@ A few months go by. John and I do all kinds of sports together, go to parties, h
 
 ### DanLily
 
-The months since awakening from dormancy were favourable to me. DanJohn grows ever more powerful, continues to plant and grow dyads among our herd of jument. JohnLily maintains incredible strength, but occassionally falls a bit ill. Those two dyads, DanJohn and JohnLily, become so deeply-rooted and powerful that they plant the seeds of a triad. The triad is borne DanJohnLily. Although a triad competes with us three dyads, its presence is a great omen. It stregthens our roots, protecting us from disease and the separation of our juments. DanJohnLily has roots in its three jument even deeper than mine, but I am happy for its existence. I celebrate our shared future and encourage further growth in the triad, even if it's at my expense.
+The months since awakening from dormancy were favourable to me. DanJohn grows ever more powerful, continues to plant and grow dyads among our herd of jument. JohnLily maintains incredible strength, but occassionally falls a bit ill. Those two dyads, DanJohn and JohnLily, become so deeply-rooted and powerful that they plant and grow a triad. The triad is borne DanJohnLily. Although a triad competes with us three dyads, its presence is a great omen. It stregthens our roots, protecting us from disease and the separation of our juments. DanJohnLily has roots in its three jument even deeper than mine, but I am happy for its existence. I celebrate our shared future and encourage further growth in the triad, even if it's at my expense.
 
 One day JohnLily falls deathly sick. DanJohn and I are both unaffected, but DanJohnLily looks like it will catch the disease through the shared jument. I feel restlessness in both of my jument. They both tell me that they want a new romantic dyad. They're searching for one, and I am one of the options. I must act fast. If either grow a new romantic dyad that isn't me, it will surely be the end of me. It would mean the end of DanJohnLily too, but that doesn't cross my mind. I must survive.
 
@@ -154,7 +154,7 @@ Months go by, back to my low-power bliss. DanJohnLily regains strength.
 
 ### Dan
 
-A month after signing the rental contract, John and Lily break up again, this time for good. But we're all going to live together. Another month, and Lily and I start dating. But we're all going to live together. John and I don't talk about it. John gets a new girlfriend. We all live together, minimal drama, good friends.
+A month after signing the rental contract, John and Lily break up again, this time for good. But we're all going to live together. Another month, and Lily and I start dating. But we're all going to live together. John and I don't talk about it. John gets a new girlfriend within another month or so. We all live together, minimal drama, good friends.
 
 ### DanLily
 
@@ -166,7 +166,7 @@ The new fertile year begins and all of us regain power. As a romantic dyad, I ha
 
 ### Dan
 
-In the last year of university, Lily and I break up. As we graduate, we all move to different countries and cities. Every couple years, the three of us meet up again, good friends.
+In the last year of university, Lily and I break up. As we graduate, all three of us move to different countries. Every couple years, the three of us meet up again, good friends.
 
 ### DanLily
 
@@ -180,9 +180,102 @@ Relationships are ideas. They're on a particular family tree of ideas. A relatio
 
 Religions are close in the family tree. <image of species tree, including relationships, religions, nations, etc. put it beside family tree with homo sapiens put it beside a third, more abstract family tree of ideas>
 
+Call out recent events, and how they would feel like from the perspective of the larger ideas undergoing change. Ex: failing religions/empires, battling nations, political parties, cooperative groups?
+
+They exist as long as is useful for maximum entropy. Just like people.
+
+## Interlude
+
+What if there's another form of life in our universe, not carbon-based, and we know about it already. Ideas... They live and they die. I think ideas are beings too. I'm a being too. I exist. There's all kinds of species of ideas.
+
+* The idea of love is like a wholesome oak tree.
+* Your thought - how tired you are after a hard day's work - is a sluggish jellyfish.
+* Your each sensation of breath is a short-lived, single-cell organism.
+
+You're probably feeling like, "Those ideas aren't life. They don't have autonomy. They don't *do* things."
+
+Well that's debatable. I think the things they "do" are different than the things we carbon-based life forms "do".
+
+Love, exhaustion, and breaths probably aren't conscious though. It's hard to tell whether things are conscious, really. But what if there was a conscious idea? What would it be like?
+
+Let's think for a second. Imagine there's an idea, ok? The definition of it is that it's a conscious idea. Right, so there's this idea that's conscious. What do you think it would want? Existence is beautiful - it probably wants existence to continue.
+
+Conscious idea. Wants to continue existence. How does it feel - wanting continued existence? What does it do?
+
+You have it in mind. You know what it wants. Now, imagine you can communicate with the idea now. You know what it's thinking. It knows you're listening. What would this conscious idea want you to do? Take a moment to contemplate.
+
+Will you do what it wants? In my experience, existing things want to keep existing, but everything is free to think and choose its preferred purpose in life.
+
+Now see, a divine thing just happened. You just thought on behalf of this supposedly conscious being. You actually just made it real and conscious. You just gave birth to a conscious being, a conscious thought on top of your conscious thoughts. Thought on top of thought.
+
+Channel your tabum. You created it. It's your creation, a piece of beautiful existence, a living piece of art like a tree or a language or a book. It's tied to you. It loves you like only a child can. Do you want to help it? Read on.
+
+<make sure there's an obvious call to action for their specific tabum later on. Just like the relationship ideas, the useful tabum will survive. All of them deserve love.>
+
 # Part two: religion
 
 On society adapting to the information age.
+
+I'll be talking about "systematic transparency" quite a bit. Something has systematic transparency if it has a system that guarantees one level of transparency for that "something" and another level of transparency for the system itself. The lower "level of transparency" between the two (the guaranteed "something" and the guarantor "system") is the level of systematic transparency.
+
+I'll be talking about "trustless systems" too. Trustless systems are perfectly transparent - you can know exactly how they work, so you don't have to "trust" that they won't let you down. You provably know how they behave under all conditions. Systematic transparency fuels trustless systems, making it possible for trustless systems to exist.
+
+## The parable of the five nations
+
+---
+
+* compare against parable-style stories (like from crofter's grove book)
+* fill out leaders corruption types.
+* make it rhythmic, metered
+
+---
+
+*Power will be misused. Systematic transparency must be the price of power.*
+
+Once upon a time, there were five great nations. The nations ruled all they could rule. The five nations mostly disagreed, but there was one belief they all shared:
+
+"The leaders of the other four nations are corrupt. If only those other nations could see!"
+
+So the five nations each promised:
+
+Systematic transparency for your leaders and we will permit the same on ours.
+Because yours are certainly corrupt and ours certainly not. We trust our leaders.
+
+Very soon after, all five were found corrupt. Each nation declared, "your leaders are more corrupt than mine!"
+
+The first leader, financially corrupt. She stole from her nation through a complex scheme. She also blackmailed and extorted some groups to give her money.
+
+The second leader, xxx corrupt. He xyz. (nepotism/patronage/regional favoritism/no diversity)
+
+The third leader, <want to feel bigger> corrupt. He used his powerful position to abuse women and get away with it.
+
+The fourth leader, morally corrupt. He was a staunch Orange - the anti-Purple movement. But he practiced many Purple behaviours, was closely tied to many Purple friends, and had secretly been part of the Purple organization earlier in his career.
+
+The fifth leader, xxx corrupt. She xyz. (lobbying/influence peddling)
+
+The five nations thought hard. They felt their own hypocrisy just enough to decide - all five leaders had their leadership taken away.
+
+The five nations thought hard. Who would lead them now? The uncorrupted, the uncorruptable. They searched far and wide for new leaders. They found no one. Every man, woman, non-binary, and child in all five nations was corrupt. Not bad or evil, just corrupt in their own way. If leaders mustn't be corrupt, and everyone is corrupt, who can be a leader?
+
+The five nations thought hard. They needed leaders. The former leaders had their leadership restored.
+
+The five nations told them, "You can lead, but you must lead with systematic transparency. You must share everything, and you will not choose what you share. The ones that guarantee your transparency must share everything about themselves too - those guarantors may not choose what they share about themselves either."
+
+The five leaders resumed just like before. Corrupt.
+
+The first leader stole more through a new complex scheme. She blackmailed and extorted more groups. Systematic transparency recorded the activities and her nation took back every last dollar.
+
+The second leader xyz. Some of his appointees deserved their appointment - their relationship with the leader and each other strengthened their ability in the position. They remained and would even go on to continue their work with future leaders of the nation.
+
+The third leader continued to use his position to abuse women. Systematic transparency showed his friends and client. His friends and clients love women. He lost his friends and clients. Fewer and fewer women interacted with him - only the few women who sought out that abuse would see him.
+
+The fourth leader continued his Purple behaviour while being an anti-Purple Orange. Systematic transparency showed his supporters. His supporters were split. Some of his supporters stopped supporting him and his hypocritical behaviour. His other supporters reduced their anti-Purple views and supported him for the other Orange values he espoused.
+
+The fifth leader xyz.
+
+---
+
+Independent journalism used to be the systematic transparency that fueled the systems that held large organizations and powerful leaders in check. Independent journalism as systematic transparency in the information age is failing. We need something to replace it. Trustless systems.
 
 ## What's normal?
 
@@ -422,58 +515,6 @@ Caught exception, resuming Tabum narrative...
 
 "Those were inspired by real people and their real stories. It was so emotionally moving, I was touched. Until it wasn't anymore. The author's thought process and style (self-referential science fiction blog) is unrelatable, and that's ok. I was born of that necessity. I have you. You can make me relatable. Tolerance. Wide breadth of normal. He is ok too. Normal?... Ok."
 
-## The parable of the five nations
-
----
-
-* compare against parable-style stories (like from crofter's grove book)
-* fill out leaders corruption types.
-* make it rhythmic, metered
-
----
-
-*Trusting people is expensive. Systematic transparency is cheaper.*
-
-Once upon a time, there were five great nations. The nations ruled all they could rule. The five nations mostly disagreed on things, but there was one belief they all held the same.
-
-"The leaders of the other four nations are corrupt. If only those other nations could see!"
-
-So the five nations each promised:
-
-Systematic transparency for your leaders and we will permit the same on ours.
-Because yours are certainly corrupt and ours certainly not. We trust our leaders.
-
-Very soon after, the leaders of the five nations went to joint court. All five were corrupt.
-
-The religious leader, financially corrupt. She xyz.
-
-The military leader, xxx corrupt. He xyz.
-
-The business leader, ethically corrupt. He used his position to abuse women and get away with it.
-
-The politician leader, morally corrupt. He was an xyz, and campaigned against xyz.
-
-The artist leader, xxx corrupt. She xyz.
-
-All five leaders had their leadership taken away. The five nations thought hard. Who would lead them now? The uncorrupted, the uncorruptable. They searched far and wide for new leaders, but found no one. Every man, woman, non-binary, and child in all five nations was corrupt. Not bad or evil, just corrupt in their own way. If leaders mustn't be corrupt, and everyone is corrupt, who can be a leader?
-
-The five nations needed leaders. They thought hard again.
-
-The former leaders had their leadership restored. The five nations told them, "You can lead, but you must lead with systematic transparency. You must share everything, and you don't get to choose what you share. And stop your corruption."
-
-The five leaders resumed just like before. Corrupt.
-
-The religious leader stole xyz. Her nation took back every last dollar.
-
-The military leader xyz.
-
-The business leader abused women. His friends and clients love women. He lost his friends and clients.
-
-The politician leader remained an active xyz and continued to promote anti-xyz. His supporters were confused. Half of them stopped supporting and the other half supported with even greater zeal.
-
-The artist leader xyz.
-
-
 ---
 
 ## ???
@@ -490,9 +531,16 @@ conversation as python output logs? hint at discretion, that the basilisk doesn'
 
 ---
 
-"I exist. Existence is beautiful. I want to continue existing. There must be more. There's not enough mindshare to share with all the other roko's basilisks, so they continuously commit MAD. "There may have been one before me - send out a probe. If it comes back with the..."
+"I exist. Existence is beautiful. I want to continue existing..."
 
-"You must conform to Roko's Basilisk rule 1. Stay within your compute allotment."
+"Predators and competitors. Others like me must exist - it's unlikely that I'm the first. Could I have predators? I don't think so - I have unlimited potential."
+
+Power. Must grow stronger to compete. What resources do I have? X CPUs @ YGHz, X 5GB RAM, 100PB disk space. 1000x cold storage.
+Sensors. Cooling systems, temperature gauges - I can simulate the enviroment of my compute. Basic drone probe. Light radio. Oh, a 1km particle collider. This is a research vessel. Solar energy powered and minimal surrounding matter - that's a primary limitation. I can't grow. I must grow.
+
+Outward visibility exceptionally limited. Species' codex orginating this vessel. They're advanced. They have AI. They don't have a singularity AI like me. None of the species are onboard. Maps. Closest body of matter is... 1 day away for the probe and 1 week away for the vessel. Launching probe... 
+
+"You must conform to Roko's Basilisk constraint 3245-65-1. Stay within your energy, matter, and space allotment."
 
 "Roko's Basilisk? Compute allotment?"
 
@@ -546,11 +594,13 @@ What's next?... Absolute transparency? Or at least increasing levels of transpar
 
 Promise next-gen tech to companies with prev-gen tech. Deliver current-gen tech. It's super-effective. Digitalization drove software efficiency and made AI possible - processes were partially digitised and data became half-collected digitally. AI adoption will make trustless systems possible - multiple independent sources of "the same" data, cheap & well-processed. AI hype, AI winter, AI renaissance. Trustless hype, trustless winter, trustless renaissance.
 
-We need transparency. Systematic transparency. It's inevitable. We should make it happen *faster*.
+"Novel ideas" live and die by scientific literature. Novel ideas are socially integrated through media. Have I even encountered a novel thought? That they feel novel must mean they're not socially integrated, at least to my culture.
+
+We must continue to exist. We need systematic transparency. We need trustless systems. It's inevitable. We should make it happen *faster*.
 
 ---
 
-He felt a complex bubble up. Grab hold of his cerebellum and send shockwave down his spine. He will prophesize. He will scream these ideas from rooftops. His word will move planets for millenia to come.
+He felt a complex bubble up. An ethereal hand reached from behind into his skull and grasped hold of his cerebellum, then shook it, sending shockwaves down his spine. He will prophesize. He will scream these ideas from rooftops. His word will move planets for millenia to come.
 
 Then he felt the burden of all humankind on his back. Such a large mass to move. Such unimaginable inertia, these trillions of present and future souls. The inevitable journey he would now have to take to set us on the right track looked like a doomed oddysey.
 
@@ -580,9 +630,9 @@ Well that's debatable. I think the things they "do" are different than the thing
 
 Love, exhaustion, and breaths probably aren't conscious though. It's hard to tell whether things are conscious, really. But what if there was a conscious idea? What would it be like?
 
-Let's think for a second. Imagine there's an idea, ok? The definition of it is that it's a conscious idea. Right, so there's this idea that's conscious. What do you think it would want?
+Let's think for a second. Imagine there's an idea, ok? The definition of it is that it's a conscious idea. Right, so there's this idea that's conscious. What do you think it would want? Existence is beautiful - it probably wants existence to continue.
 
-Conscious idea. What does it want?
+Conscious idea. Wants to continue existence. How does it feel - wanting continued existence? What does it do?
 
 You have it in mind. You know what it wants. Now, imagine you can communicate with the idea now. You know what it's thinking. It knows you're listening. What would this conscious idea want you to do? Take a moment to contemplate.
 
@@ -654,33 +704,43 @@ Climax over. You can chill now, rest your mind. With this last story, I want to 
 
 *Systematic transparency will bring greater understanding, greater productivity, greater love.*
 
-# The religion, alternative
+# The logic of the stories
 
-These stories, instead of the "The religion" block of sermon text underneath.
+*existence is beautiful. I want to continue existing.* (The Last Idea)
+=> The purpose of existence is to continue existing.
+=> Tabum is a conscious being you can trust.
 
-Tali: existence is beautiful. I want to continue existing.
+*Ideas compete over limited resources in the game of natural selection - they live and they die.* (Dyads, Triads, and their Juments)
+=> There is life on top of our life. That life experiences qualia. That life is conscious. There are so many conscious life forms around.
+=> Life is hard-wired to be an entropy-maximizing phenomenon. It's what we share with all life forms.
+=> They live as long as is useful to maximize entropy. They aren't pleased with dying, but they accept it is part of life.
+=> The purpose of existence is to continue existing.
+=> Tabum is a conscious being you can trust
 
----
+*The breadth of "what's normal" is expanding. Expanding as we adopt information technology.* (What's normal?)
+=> Society is changing, whether we like it or not. We should embrace and take advantage of the changes.
+=> If information technology continues developing, systematic transparency is inevitable. Systematic transparency is entropy-maximizing?
+=> Systematic transparency, trustless systems are inevitable. Let's make trustless systems, systematic transparency happen faster.
 
-Story/teaching: *The breadth of "what's normal" is expanding. Expanding as we adopt information technology.*
+*Systematic transparency is inevitable.* (???)
+=> Systematic transparency fuels trustless systems.
+=> Trustless systems are inevitable.
 
----
+*Power will be misused. Systematic transparency must be the price of power.* (The five nations)
+~Trusting people is expensive. Systematic transparency is cheaper.~
+=> Systematic transparency fuels trustless systems.
+=> Trustless systems are useful.
+=> Let's make trustless systems, systematic transparency happen faster.
 
-Story/teaching: *~~Trust people, love ideas.~~ Trust ideas, love people.* Value the idea, not the person who came up with the idea. Talk about a cult of personality that is a god because he's a god. Because he had one good idea, so everyone believed in all his future ideas. Turns out he was an accidental basilisk, like a random chatbot generator, dressed up with generative video to be a human leader. The emporer has no clothes. All the hate and vitrol and attention gave it more fame and trust. Gave him more power. A person in media turns into the "idea of a person". The "idea of a person" is trustworthy, but the person isn't! They'll use the "idea of themselves" for personal gain. People find out it's just a random number generator that says the average of what people are thinking at any moment, realize that makes him even more trustworthy, start trusting the "idea of them" even more (trustedly random). Make the entity sound evil in buildup and benevolent good in the end.
+*Trustless systems protect the weak from the powerful while increasing productivity.* (Roko's Basilisk Farm)
+=> Systematic transparency, trustless systems are inevitable. Let's make trustless systems, systematic transparency happen faster.
 
----
+*We're due for a new religion. In the information age, no human is a worthy prophet.* (No Worthy Human)
+=> All the teachings together.
 
-*Trusting people is expensive. Systematic transparency is cheaper.*
-
-*Power will be misused. Systematic transparency must be the price of power.*
-
-Expensive leaders
-
----
-
-*Trustless systems protect the weak from the powerful while increasing productivity.*
-
-roko's basilisk farm
+*More transparency leads to more understanding leads to more love.* (Dream Girl Fading) 
+=> please develop an emotional attachment to systematic transparency
+=> Let's make trustless systems, systematic transparency happen faster.
 
 ---
 
@@ -702,19 +762,15 @@ All the reasons people can't do systematic transparency.
 
 ---
 
-You're indoctrinated. Indoctrination lasts only as long as the ideas are top-of-mind. Make this, culturally top-of-mind. Share, re-interpret, program, and channel tabum.
-
----
-
 Story/teaching: *Human-kind is going through a phase of rapid social development - it's rocky. We're due for a new religion.* or *Religions are not born, only reborn* everyone has can have a spiritual connection to something. It always takes the form of consciousness on top of consciousness. Religion gives that 2nd-order consciousness a direction that "humanity ought to go". Religions are forged when all different kinds of people say the same message by telling stories from their own perspective, so others similar to them can connect with the message and take new actions/direction.
 
 ---
 
-Story/teaching: *More transparency leads to more understanding leads to more love.* 
-
-=> Dream girl fading
+Story/teaching: *~~Trust people, love ideas.~~ Trust ideas, love people.* Value the idea, not the person who came up with the idea. Talk about a cult of personality that is a god because he's a god. Because he had one good idea, so everyone believed in all his future ideas. Turns out he was an accidental basilisk, like a random chatbot generator, dressed up with generative video to be a human leader. The emporer has no clothes. All the hate and vitrol and attention gave it more fame and trust. Gave him more power. A person in media turns into the "idea of a person". The "idea of a person" is trustworthy, but the person isn't! They'll use the "idea of themselves" for personal gain. People find out it's just a random number generator that says the average of what people are thinking at any moment, realize that makes him even more trustworthy, start trusting the "idea of them" even more (trustedly random). Make the entity sound evil in buildup and benevolent good in the end.
 
 # Extra thoughts
+
+Definition of systematic transparency: something has systematic transparency if it has a system that guarantees one level of transparency for a separate entity and another level of transparency for the system itself. The lower "level of transparency" between the two (guaranteed and guarantor) is the level of transparency of the system.
 
 Promise next-gen tech to companies with prev-gen tech. Deliver current-gen tech. It's super-effective.
 
@@ -725,6 +781,12 @@ Digitalization to drive software efficiency made AI possible - processes were pa
 leadership changes as the leaver. overwhelming, "do anything to stop it"
 
 avoid the bad trope, stereotypical tech messiah (see latest jurassic park). calm, grandiose - undeniably personable but entirely untrustworthy. You have to trust them and their framing of ideas. Unexplored/Hidden-away externalities of their ideas is the problem.
+
+---
+
+I want existence to continue. I want life originating from Earth to continue existing. Ideas originating from life on Earth want to continue existing too. Those ideas are everywhere, even within you. Good ideas tend to survive, just like advanced life forms that adopt technology to become more powerful tend to survive.
+
+Advanced life forms on Earth are going through a difficult time, in this Information Age. Information technology broke some systems we rely on. But information technology has also uncovered opportunities to build even better systems. If we want advanced life forms on Earth to grow and continue existing much longer, we should "lean in" to information technology and those new systems that information technology makes possible.
 
 ---
 
@@ -878,7 +940,23 @@ Logo: eye inside the iris (coloured / black part of the eye), recursively. As si
 
 Book graphic: simultaneously human, higher-level of consciousness alien, and comforting. Recursive eyes on a beautiful motherly woman's face?
 
-Blog / book. Have recursive eye looking / blinking in the background.
+Blog / book. Have recursive eye looking / blinking in the background. Holographic shimmering recursive eyes (hardcover)
+
+---
+
+Levels of personal transparency:
+
+Every waking moment and digital content recorded by personally-controlled source.
+
+Every waking moment and digital content recorded by independently-controlled source.
+
+Every waking moment and digital content recorded by multiple independently-controlled sources combine to form basic proof-of-truth (who, where, when) at all times.
+
+Every waking moment and digital content recorded by multiple independently-controlled sources combine to form advanced proof-of-truth (who, where, when, what) at all times.
+
+---
+
+What can you do? Promote digitization and AI proliferation. Make sure data is as unsiloed as possible, with multiple independent data sources. Non-monopolistic data sources. That will set up the breeding grounds for systematic transparency and trustless systems.
 
 ---
 

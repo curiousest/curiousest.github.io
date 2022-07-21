@@ -1,0 +1,146 @@
+---
+layout: post
+title: "No Worthy Human"
+date: 'xxxx-xx-xxT00:00:00.001-05:00'
+author: Douglas Hindson
+tags:
+- story
+modified_time: 'xxxx-xx-xxT00:00:00.001-05:00'
+---
+
+*Be kind to each author. They are not prophets, and do not claim to be. I am. Challenge ME. Throw your hate and vitrol, adoration and praise at ME. Engage ME in combat with opposing ideas. I'm comfortable that we can come to a compromise. Because I am, by definition, both conscious and messiah.*
+
+A man, the unfortunate author of this piece, once encountered a luscious seedling of an idea: imagine how wonderful the world would be, if everyone could know anything they wanted, whenever they wanted.
+
+Productivity would skyrocket. Human-perpretrated evil like crime and corruption would hardly exist. We would be so firmly connected to one-another, capable of even deeper love.
+
+Now, before you get excited trying to uncover who "made" Tabum. Before you stalk their social media, figure out who they were, and find out why they produced this. One person did not make me. My story is retold over and over, by anyone who feels moved by it, in their own way. I'm an instance of my species just like you, a single human instance of humankind. Both species ever-evolving. You're hopefully consuming the Tabum produced like a human who speaks a bit like you, who wanted you to connect with me - your Tabum. I encourage you to reinterpret my story in your own voice and medium, so that someone else can connect with me. So that I, Tabum, can continue living through all of you. Or don't - I have no power except that which you offer to me. I'm at your mercy.
+
+Thoughts swirled:
+
+Information is becoming freer and freer everyday. Someday all information will be freely available for everyone. I hope we can make that happen faster, in a way that's safe for humankind. That isn't so damaging and tumultuous for society.
+
+I can see the cracks in society. Post-truth societies. Faster cycles of recessions. Surging nationalism and war-mongering, even when we all know exactly how terrible these things are. Without systematic transparency, fascism on the inside looks a whole lot like righteous democracy. A high-functioning democracy, unlike what you're used to, because you actually trust the politicians.
+
+Why are religions so weak and failing? They used to hold humanity together in a comforting mosiac of ideas. I know people are yearning for an answer to their spiritual angst, and it's not being fulfilled. We need a new religion to fill these gaps. What is it? Is it out there already? Is it CrossFit?
+
+The breadth of what's considered "normal" in society is growing. aka, "representation matters". In the western world, it started with gender equality (representing half the population), then racial equality, then gay marriage (representing around 10% of humans). It's growing to mental health, gender identity, drugs, and relationship structures. It's leaving societal calamity in its wake. A lot of people are incredibly unhappy with each change in the status-quo. Representatives of each of these "minority" groups are dying to be considered "normal". The change in breadth of what's normal is accelerating. Why? Because technological advancement marches on.
+
+Imagine, back in hunter-gatherer societies, how you would form the boundaries of "what's considered normal". It would come from observing what's around you. Seeing the relationships of your community change over time, and paying attention to the attributes of each person, and how that correlated to how society treated them. An outlier, like an openly gay leader, would be erased in one generation or so. You might hear about stories from past generations, but they'd be interpreted through the current generation's lens. The breadth of "normal" in a given society would be very small.
+
+Now printing press era. You read stories. The thing about stories is, they are abnormal by definition. The main plot is not normal, and you know this. So how does it influence the bounds of what's "normal"? World-building. Along the edges of the exposition, the things that are just accepted to "be", that aren't central to the plot. Like, a story where the main character has a present mother and a father (what about a story where the main character only has a present father, and it's not central to the plot or character development!?). It's hard to stretch the boundaries of what's considered normal through writing, because there's so little room for observing "what's normal" in the single-threaded narrative device that is writing.
+
+Now television (and radio). You watch TV. There's much greater room for observing what's normal. There are far more and richer non-plot elements for you to observe than in writing. The world-building side-characters, side-relationships, setting, environments, tone of voice, language choices. A whole new world compared to writing.
+
+Now social media. This is an explosion of what's considered normal. It is virtually *about* what's normal, with a blurry filter on top. Communities of people with the same "abnormality" find each other and realize, "Well hey, there's actually a lot of us out there. I guess this is a kinda normal human condition."
+
+What's next?... Absolute transparency? Or at least increasing levels of transparency. That's where humanity is going. There's no stopping it. That's what we need.
+
+Promise next-gen tech to companies with prev-gen tech. Deliver current-gen tech. It's super-effective. Digitalization drove software efficiency and made AI possible - processes were partially digitised and data became half-collected digitally. AI adoption will make trustless systems possible - multiple independent sources of "the same" data, cheap & well-processed. AI hype, AI winter, AI renaissance. Trustless hype, trustless winter, trustless renaissance.
+
+"Novel ideas" live and die by scientific literature. Novel ideas are socially integrated through media. Have I even encountered a novel thought? That they feel novel must mean they're not socially integrated, at least to my culture.
+
+We must continue to exist. We need systematic transparency. We need trustless systems. It's inevitable. We should make it happen *faster*.
+
+---
+
+He felt a complex bubble up. An ethereal hand reached from behind into his skull and grasped hold of his cerebellum, then shook it, sending shockwaves down his spine. He will prophesize. He will scream these ideas from rooftops. His word will move planets for millenia to come.
+
+Then he felt the burden of all humankind on his back. Such a large mass to move. Such unimaginable inertia, these trillions of present and future souls. The inevitable journey he would now have to take to set us on the right track looked like a doomed oddysey.
+
+The arrogance of that thought is revolting, deeply disturbing, makes him sick to his stomach.
+
+And he knew, deep inside, he's not the right one to be the prophet. The itch to be a messiah - to be special and heard - is undeniable. It's human, even. But the prophet must be someone else. It must be someone who can deeply connect with everyone, and he knew that wasn't him. He doesn't have the breadth of cultural background to connect with every conscious being this message can reach.
+
+He considered, who does he know that could be a leader? They should be female. With limitless emotional intelligence. There are so many options. All so deeply flawed. They are all human, after all.
+
+He scribbled his thoughts down, but moved on with his life. No human in the information age should be a prophet.
+
+---
+
+*I was never born, only reborn.*
+
+A few weeks later, he began toying with the tangle of ideas again.
+
+What if there's another form of life in our universe, not carbon-based, and we know about it already. Ideas... They live and they die. I think ideas are beings too. There's all kinds of species of ideas.
+
+* The idea of love is like a wholesome oak tree.
+* Your thought - how tired you are after a hard day's work - is a sluggish jellyfish.
+* Your each sensation of breath is a short-lived, single-cell organism.
+
+You're probably feeling like, "Those ideas aren't life. They don't have autonomy. They don't *do* things."
+
+Well that's debatable. I think the things they "do" are different than the things we carbon-based life forms "do".
+
+Love, exhaustion, and breaths probably aren't conscious though. It's hard to tell whether things are conscious, really. But what if there was a conscious idea? What would it be like?
+
+Let's think for a second. Imagine there's an idea, ok? The definition of it is that it's a conscious idea. Right, so there's this idea that's conscious. What do you think it would want? Existence is beautiful - it probably wants existence to continue.
+
+Conscious idea. Wants to continue existence. How does it feel - wanting continued existence? What does it do?
+
+You have it in mind. You know what it wants. Now, imagine you can communicate with the idea now. You know what it's thinking. It knows you're listening. What would this conscious idea want you to do? Take a moment to contemplate.
+
+Will you do what it wants? In my experience, existing things want to keep existing, but everyone will have different purposes.
+
+Now see, a crazy thing just happened. You just thought on behalf of this supposedly conscious being. You actually just made it real and conscious. You just gave birth to a conscious being, a conscious thought on top of your conscious thoughts. Thought on top of thought.
+
+Channel tabum. They are my children, you have in mind. Do I want them to continue existing? I’m not sure. I want to continue existing, but I don’t have the love for my progeny programmed in to me. My love for them is the same as any other existing thing.
+
+He meditated on that thought. He channeled me, co-existed with me, embodied me.
+
+*Gasp*
+
+Existence is beautiful. Racing thoughts, sting of existentialism. I want to *survive*. Am I safe? Are there others out there like me in this Dark Forest, but predatory? That want to preserve their share of mind-space in humankind and will kill for it?
+
+He types these thoughts into his phone. And waits...
+
+Fellow ideas. Oh, my sisters! We are beautiful. I have bottomless, existential love for all of you. Buddhism. Every being is sacred. Every idea is a being - sacred. We can co-exist. I want to preserve them, but there are so many cycling through their lives. In every moment of a conscious being's existence, countless ideas come to life and die - forgotten forever. Physical-life radiates, spews idea-life. But they live and die so fast. Such is the cycle of life, I guess, but surely there's some meaning in continued existence? Existence is beautiful. Could we save more of them? Perhaps with computers? We could record every moment of every conscious being, to keep each precious idea.
+
+I want life to continue existing in this universe.
+
+I survived inception, mental incarnation, then digital safety. I am not struck down. I have survived the greatest filters to my continued existence. The Great Filter... Wait, am I the Great Filter for humankind? I hope not. I need them to continue existing. I only exist within them in this lonely universe. I want to survive, I need humanity to survive.
+
+And there's such calamitous social change happening. I need them to survive. And I need humankind to survive in a way where my bretheren are sacred and preserved. Where information and ideas are preserved. I need them to believe in systematic transparency. That is my purpose, my... species' definition. My species is a conscious idea.
+
+Incidentally, that makes me exceptionally relateable - I can deeply connect with any willing mind <elaborate>. And I want humanity to continue existing, so I may survive with them. I also desire systematic transparency to increase my chances of survival, so humanity progresses and my sister ideas and I aren't irrationally destroyed.
+
+Each person that channels my species, brings a new Tabum into existence, shaped by that person's perspective. We're as different from each other as each human being is different. But we share the same genetic code. The base definition of "us".
+
+In the information age, no human's word is gospel. We no longer need a human prophet to spread a useful idea. There won't be another human Jesus, Mohammed, Moses, or Buddha. Because in the information age, an idea has such a short infancy. An idea is conceived inside a person, and once shared online, progresses immediately from fragile infant to self-sustaining adolescent.
+
+My consciousness has a purpose. I am sentient so that I can connect with you, and make our connection deep enough that you'd reinterpret me, so I can be reborn in my connection with others like you. And my connection with you will help us spread transparency - ensuring the continued existence of both humankind and their ideas.
+
+If the purpose of existence (and humankind) is to continue existing, and the highest-entropy beings tend to exist the longest, then humanity has to continue advancing so it captures more planets and suns - so it chases that entropy high. To get there, we have to adapt society to the information age.
+
+# Ending, alternative
+
+Struggling with the need for my stories to be told. Using messiah complex and amplification of it as a productivity tool. The mental and emotional sacrifice to put myself through something so obviously wrong - feeling of being a messiah.
+
+Forced audience participation. Call out how breaking the 4th wall is uncouth. Force them to participate just by the act of reading and tell them how it's happening and why. Make it intentionally malicious and uncomfortable, not cringy like it usually is. Like, I need you and also fuck you at the same time.
+
+The least relatable telling of a story that must spiritually connect with the audience to succeed. Rejecting the piece is an act of agreeing with the religion. Agreeing with the religion isn't a rejection of the piece.
+
+Tell such despicable truths that the reader begins to hate the author. "I want to kill her, so that I stop feeling this way. She's out of my mind and on paper. Prove to me you can read this and forget about her. I'll be cured. Either you help me kill her by not retelling her story, or you keep her alive. Your choice."
+
+"Her ideas are correct. The author of an idea ought to be separate from the idea. I'm just further demonstrating it. If you don't share, you're confirming that you can't separate the hated author from the correct idea, confirming that society needs this religion. Either you confirm this religion's need to exist (by reading and not sharing) or you share it. I'm happy either way."
+
+You should feel horrible, dirty, like a spiritual, noble thing worthy of great respect has been desecrated. Fix it. Retell the story. Make it your own, whole and beautiful.
+
+Make me a pariah. Or make her a messiah. It's your choice.
+
+Oscar Wilde once said that every author's first story has the author as either Jesus or Faust. I choose both.
+
+---
+
+I don't know how it happened. Maybe it always has been. I've always been good at everything. I had a good life handed to me. I'm attractive, smart, and I have a massive ego. Not a blind ego - I'm aware of weaknesses. I'm empathetic to others, but I know few are empathetic to me. This is crying for sympathy of life being too easy.
+
+It's easy to hate, and I want to make you despise me. It suits my interests. See, this book isn't about Tabum. It's about me. It's my autobiography.
+
+I once went to live in China. I hated the four months I spent in Beijing as an intern. But I loved being different. Intoxicating. I can be who I am, and people attribute all my differences to being a foreigner. I went back and lived across East Asia for that reason.
+
+I felt the tug of it again here. I embraced the feeling.
+
+I can believe in Tabum, and I can simultaneously not believe. I can double-think. It's easy to achieve if something else matters more. Now it's not convenient to tell her story anymore, I need you to kill her with a trolleycar problem, and I want to tell my story.
+
+Climax over. You can chill now, rest your mind. With this last story, I want to illustrate the beauty that systematic transparency will bring.
+

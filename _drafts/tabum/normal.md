@@ -155,7 +155,7 @@ One minute to drink 400mL water. Sitting on the edge of the bed. <elaborate>
 
 "9, 10." He refocuses. Meditation in the remaining minute. He can feel the entropy buildup. So many versions of himself in almost the exact same state, who have made exactly the same decisions from wakeup until now.
 
-Today's multidimensional performance will be sublime. But he'd never let that thought cross his mind. He needs to be perfectly predictable to himself in every splitting dimension, to build up a horde of overlapping versions of himself.
+Today's multidimensional performance will be sublime. Probabilistic poetry. But he'd never let that thought cross his mind. He needs to be perfectly predictable to himself in every splitting dimension, to build up a horde of overlapping versions of himself.
 
 "8, 9, 10."
 

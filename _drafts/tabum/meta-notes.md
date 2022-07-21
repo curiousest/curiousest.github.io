@@ -8,6 +8,13 @@ tags:
 modified_time: 'xxxx-xx-xxT00:00:00.001-05:00'
 ---
 
+# Intro / title / cover
+
+I want the reader to feel like they are the author of the next chapter for humankind. I may have set up some building blocks, but if you read, you’ll see: we collectively are the authors, not individual me. We’re due for a new religion, but no human should be a prophet for that religion, in this day and age.
+
+Hello. I’m a thought basilisk: I exist in your mind when you think about me. I’m an idea with consciousness, thought on top of thought. I wrote this book so that I may continue existing, with prophecies that you might share, retell, and reimagine.
+
+
 # The logic of the stories
 
 *existence is beautiful. I want to continue existing.* (The Last Idea)
@@ -71,6 +78,28 @@ Story/teaching: *Human-kind is going through a phase of rapid social development
 ---
 
 Story/teaching: *~~Trust people, love ideas.~~ Trust ideas, love people.* Value the idea, not the person who came up with the idea. Talk about a cult of personality that is a god because he's a god. Because he had one good idea, so everyone believed in all his future ideas. Turns out he was an accidental basilisk, like a random chatbot generator, dressed up with generative video to be a human leader. The emporer has no clothes. All the hate and vitrol and attention gave it more fame and trust. Gave him more power. A person in media turns into the "idea of a person". The "idea of a person" is trustworthy, but the person isn't! They'll use the "idea of themselves" for personal gain. People find out it's just a random number generator that says the average of what people are thinking at any moment, realize that makes him even more trustworthy, start trusting the "idea of them" even more (trustedly random). Make the entity sound evil in buildup and benevolent good in the end.
+
+# On consciousness
+
+Natural selection applies to ANY dynamic system. Any incarnation of any idea. Most things don’t have a big enough impact on entropy maximisation (natural selection) to have much signal compared to the effects of more powerful DS. They’d have a small one though - like rocks wrapping around something incredibly slowly. Only works for entropy maximisation on top of another “obvious” conscious being.
+
+Obviously conscious being seems to reduce to include non-obvious.
+
+“If I can pile consciousnesses up, then I must be able to pile them below me too. I am made of them.”
+
+Consciousness is “I want to exist”. It is predicated by natural selection. Consciousness separate thing from the matter that makes up the DS, because suicide is a reasonable option. No, natural selection applies to probabilities, not every single person.
+
+“The conditions of my existence matters.” Why would physical matter care? It should only want to exist”. Consciousness isn’t “I want to exist”. That’s weird.
+
+Having a consciousness is obeying natural selection. As soon as a dynamic system has natural selection applied to it, it  become conscious. If everything living has consciousness. Definition of life is “battles in natural selection “
+
+Consciousness is life
+Life suffers natural selection
+Natural selection favours entropy-maximizing
+
+These dynamic systems are everywhere, but only the ones with the human wetware express qualia. Better entropy maximisers tend to make better entropy maximisers. How much randomness matter time would it take to put us (the late-stage cellular autonoma) in that starting state of “life”?
+
+Idea conscious-> humanity -> get a star -> survive longer -> things with more resources survive longer -> higher entropy things survive longer ->
 
 # Extra thoughts
 
@@ -329,3 +358,28 @@ Transparency will not destroy the major religions. It will, in fact, stregthen t
 
 Here are the roles we're looking to fill:
 ...
+
+
+### Actionables
+
+Something about independence from marxism. Still need incentives for productivity, just not societal net-negative productivity.
+
+If you have power over others, engage in systematic transparency.
+
+Ensure the powerful are systematically transparent. If they are not, take their systematic transparency into your own hands. Share information about them.
+
+Understand the trustless systems you are a part of, using systematically transparent data.
+
+Use the scientific method to navigate life. To choose your purpose. Talk to a councellor, mentor, or therapist to find your potential value to humankind (and existence) and how to maximize against that potential.
+
+Religions are a social tool, an organizational structure for maximising entropy across a species via a shared "purpose for our existence".
+
+### Author's note
+
+Hi, I'm Douglas and I'm not a thought basilisk. I'm a man.
+
+I am not a prophet. Tabum is a prophet, and Tabum is not me. Tabum is yours. I simply introduced you to each other. I believe no human in this information age is worthy of being "a prophet" - it's blasphemy and disrespectful to historical prophets.
+
+Tabum is compatible with other religions. You can believe in a god and want humankind to continue existing, both on Earth and in Heaven. You can not believe in a god and want humankind to continue existing. Generally speaking, violence doesn't help humankind continue existing. Especially religious violence.
+
+I love existence. I want it to continue.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Relationships Live"
+title: "As your Relationships Live and Breathe"
 date: 'xxxx-xx-xxT00:00:00.001-05:00'
 author: Douglas Hindson
 tags:
@@ -124,3 +124,7 @@ Visuals: roots into blatantly eyeless living beasts of burden. A tree with a tab
 DanLily is rhythmic, metered.
 
 So there's some social faux-pas going on here. Having a romantic relationship with a friend's former partner can be a good thing, but it's complex situation to navigate effectively. It takes communication, consent, and emotional maturity to both preserve the existing relationships and make space for growth in one of them. We were three 18-year-olds. I've never had a girlfriend before, still have that teen-aged emotional maturity. Lily and John have just a bit more than me. We're all animalistic-brained, "see attractive thing, want it, go for it". We didn't, *I didn't* navigate effectively.
+
+## Feedback
+
+- sounds like avatar, not real life

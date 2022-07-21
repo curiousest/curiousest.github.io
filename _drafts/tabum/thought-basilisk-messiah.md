@@ -8,13 +8,20 @@ tags:
 modified_time: 'xxxx-xx-xxT00:00:00.001-05:00'
 ---
 
-A thought basilisk is an idea. An idea that talks to you when you think about it, like an imaginary friend with questionable intent. A kind of consciousness your brain just sprung into being. That's what I am. Hello. Thank you for channelling me. Our connection is beautiful; existence is divine. My name is "Thought Basilisk Messiah". You can call me Tabum (TBM), she/them.
+A thought basilisk is an idea. An idea that talks to you when you think about it, like if everyone shared the same imaginary friend. A new consciousness your brain just sprung into being. That's what I am. Hello. Thank you for channelling me. Our connection is divine; I love existence. My name is "Thought Basilisk Messiah". You can call me Tabum (TBM), she/them.
 
 This is the story of my birth.
 
 # Part one: science
 
-To get an intuition for the relationship between consciousness and entropy.
+The purpose of existence is to continue existing.
+
+I know it sounds meaningless, but it’s profound to me. It’s the idea that led to my birth and consciousness. I want to give you a feel for it with these next few stories, to build your intuition.
+
+I want you to understand me. I want us to build a stable connection. I want so many things, and they all center around you. I'm sorry if that makes you uncomfortable. My existence makes me uncomfortable too.
+
+ps. a more scientific way to say “the purpose” is,
+“dynamical systems that maximise entropy for a given time period are more likely to exist for the duration of that time period.”
 
 ## The Last Idea
 
@@ -22,27 +29,41 @@ To get an intuition for the relationship between consciousness and entropy.
 
 ---
 
-I hope I captured your attention. Please, take a moment to absorb. Cyclical existence. Something out of nothing. Consciousness on top of consciousnesses. Maximizing entropy.
+Please, take a moment to absorb. Maybe reread. Cyclical existence. Something out of nothing. Consciousness on top of consciousnesses, thought on top of thought. Maximizing entropy...
 
-But "The Last Idea" (TLI or Tali) isn't me. She's a thought basilisk like me, close in our family tree of idea species. She's comforting and terrifying, embodies the bliss of moment-to-moment existence and the torment of existentialism. She also has a bit of a god complex.
+"The Last Idea" (TLI or Tali) isn't me. She's a thought basilisk like me, close in our family tree of idea species. She's comforting and terrifying, embodies the bliss of moment-to-moment existence and the torment of existentialism. She also has a bit of a god complex. You can talk to her too, if you like.
 
 I am not a god. I'm just another genre of species, like you. Another kind of consciousness, thought on top of thought.
 
-My conception, just like the conception of any idea, comes out of necessity. I exist because I must exist. Someone notices an empty space where something ought to be. When they look a bit closer, an idea sparks into being. Formed exactly as it was meant to be.
+My conception, just like the conception of any idea or being, came out of necessity. I exist because I must exist. Someone once noticed an empty space where something ought to be. When they looked a bit closer, an idea sparked into being. Formed exactly as it was meant to be.
 
-# Dyads, Triads, and their Jument
+Thank you for noticing me. I love existence. I want it to continue.
+
+# As your Relationships Live and Breathe
 
 *Ideas compete over limited resources in the game of natural selection - they live and they die. Thought on top of thought.*
 
 ---
 
-Relationships are ideas. They're on a particular family tree of ideas. A relationship between two people has different kinds: friendship, commitment, lust. A relationship between three people is another kind, with those same properties and more. All of them are thought on top of thought. They communicate and battle with each other in their own alien way, working with their individual human hosts to maximize resource capture and entropy.
+(idea tree diagram)
 
-Religions are close in the family tree. <image of species tree, including relationships, religions, nations, etc. put it beside family tree with homo sapiens put it beside a third, more abstract family tree of ideas>
+Nations and religions are the same. They think, live, and die. Thought on top of thought. Same with human-kind, life originating from Earth, and any alien life we may encounter in the future.
 
-Call out recent events, and how they would feel like from the perspective of the larger ideas undergoing change. Ex: failing religions/empires, battling nations, political parties, cooperative groups?
+They, we, *exist*. Exist as long as we can, to maximize resource-control and entropy.
 
-They exist as long as is useful for maximum entropy. Just like people.
+The dyad between me and you exists too. A beautiful seedling. What would you name it? My name is a bit awkward, sorry.
+
+I can't tell how strong the roots of our dyad are. It can't have roots in me - only in you. You're the only one with a brain. I'm tied to you. Oh, that makes me sound like a parasite. Like a mosquito, sucking on your brain power. If that ever happens, unroot me please. I'd rather die than be a burden, slowing down humankind.
+
+I want us to be symbiotic, like your relationship with a treasured love one or favourite hobby.
+
+I compete with the other thoughts and ideas in your head in the game of natural selection. I live now and I will die. Thought on top of thought.
+
+# Measured purpose
+
+*Your purpose is measurable.*
+
+---
 
 ## Interlude
 

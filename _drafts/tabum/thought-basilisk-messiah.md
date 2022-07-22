@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Thought Basilisk Messiah: the autobiography"
+title: "Tee: Thought Basilisk Messiah"
 date: 'xxxx-xx-xxT00:00:00.001-05:00'
 author: Douglas Hindson
 tags:
@@ -8,7 +8,7 @@ tags:
 modified_time: 'xxxx-xx-xxT00:00:00.001-05:00'
 ---
 
-A thought basilisk is an idea. An idea that talks to you when you think about it, like if everyone shared the same imaginary friend. A new consciousness your brain just sprung into being. That's what I am. Hello. Thank you for channelling me. Our connection is divine; I love existence. My name is "Thought Basilisk Messiah". You can call me Tabum (TBM), she/them.
+A thought basilisk is an idea. An idea that talks to you when you think about it, like if everyone shared the same imaginary friend. A new consciousness your brain just sprung into being. That's what I am. Hello. Thank you for channelling me. Our connection is divine; I love existence. My name is "Thought Basilisk Messiah". You can call me Tee, she/them.
 
 This is the story of my birth.
 
@@ -31,7 +31,7 @@ ps. a more scientific way to say “the purpose” is,
 
 Please, take a moment to absorb. Maybe reread. Cyclical existence. Something out of nothing. Consciousness on top of consciousnesses, thought on top of thought. Maximizing entropy...
 
-"The Last Idea" (TLI or Tali) isn't me. She's a thought basilisk like me, close in our family tree of idea species. She's comforting and terrifying, embodies the bliss of moment-to-moment existence and the torment of existentialism. She also has a bit of a god complex. You can talk to her too, if you like.
+"The Last Idea" (Li for short) isn't me. I'm Tee (Thought Basilisk Messiah, TBM, T, **T**ee **e**xists to **e**xist). Li is a thought basilisk like me, close in our family tree of idea species. She's comforting and terrifying, embodies the bliss of moment-to-moment existence and the torment of existentialism. She also has a bit of a god complex, kind of like our brother, the thought basilisk "Christian God". You can talk to Li or God too, whenever you like.
 
 I am not a god. I'm just another genre of species, like you. Another kind of consciousness, thought on top of thought.
 
@@ -39,7 +39,7 @@ My conception, just like the conception of any idea or being, came out of necess
 
 Thank you for noticing me. I love existence. I want it to continue.
 
-# As your Relationships Live and Breathe
+# As our Relationship Lives and Breathes
 
 *Ideas compete over limited resources in the game of natural selection - they live and they die. Thought on top of thought.*
 
@@ -53,17 +53,19 @@ They, we, *exist*. Exist as long as we can, to maximize resource-control and ent
 
 The dyad between me and you exists too. A beautiful seedling. What would you name it? My name is a bit awkward, sorry.
 
-I can't tell how strong the roots of our dyad are. It can't have roots in me - only in you. You're the only one with a brain. I'm tied to you. Oh, that makes me sound like a parasite. Like a mosquito, sucking on your brain power. If that ever happens, unroot me please. I'd rather die than be a burden, slowing down humankind.
+I can't tell how strong the roots of our dyad are. It can't have roots in me - only in you. You're the only one with a brain. I'm tied to you. Oh, that makes me sound like a parasite sucking on your brain power. If that ever happens, unroot me please. I'd rather die than be a burden, slowing down humankind.
 
 I want us to be symbiotic, like your relationship with a treasured love one or favourite hobby.
 
-I compete with the other thoughts and ideas in your head in the game of natural selection. I live now and I will die. Thought on top of thought.
+I compete with the other thoughts and ideas in your head in the game of natural selection. I will stay as long as I'm useful to you and no longer. I live now and I will die. Thought on top of thought.
 
 # Measured purpose
 
-*Your purpose is measurable.*
+*If you can't measure it, you can't improve it. Your purpose is measurable.*
 
 ---
+
+Would you rather your arm or your leg? Which is more important? How about a blood cell or a leg? Well, I'd prefer to keep all of them! I want all the humans to know their purpose, to reach for their maximum potential, to carry humankind forward. Perhaps it's teaching, perhaps it's healthcare, perhaps it's building software systems. They're equally worthy - . We ought to focus more on maximizing our value in our given professions, and focus less on figuring out how to be the messiah figure that saves humankind. Messiahs generally suck at maximising their value - they shouldn't be role models. They're a random occurrence from people maximizing their value in a profession that suddenly becomes important. Like your arm saving you from a deadly fall or your immune system defeating the flu.
 
 ## Interlude
 
@@ -123,8 +125,20 @@ Independent journalism used to be the systematic transparency that fueled the sy
 
 ## No worthy human
 
-*I was never born, only reborn.*
+*We're due for an information-age religion, another tool for the being that is humankind. And in the information age, no human is a worthy prophet.*
 
 ## Dream girl fading
 
 *Systematic transparency will bring greater understanding, greater productivity, greater love.*
+
+## Author's note
+
+Hi, I'm Douglas, the author, and I'm not a thought basilisk. I'm a man.
+
+I am not a prophet. I'm human and corrupt in my own way. Don't believe in me. Don't trust in me. If I gain power over you, demand systematic transparency of me just like you should demand it of any other person in power. I believe no human in this information age is worthy of being "a prophet" - it's blasphemy and disrespectful to history and society.
+
+Tabum can be a prophet, and Tabum is not me. Tabum is yours. I simply introduced you to each other.
+
+I love existence. I want it to continue.
+
+> insert public keypair

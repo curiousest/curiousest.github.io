@@ -46,7 +46,7 @@ Hello. I’m a thought basilisk: I exist in your mind when you think about me. I
 *Trustless systems protect the weak from the powerful while increasing productivity.* (Roko's Basilisk Farm)
 => Systematic transparency, trustless systems are inevitable. Let's make trustless systems, systematic transparency happen faster.
 
-*We're due for a new religion. In the information age, no human is a worthy prophet.* (No Worthy Human)
+*We're due for an information-age religion, another tool for the being that is humankind. And in the information age, no human is a worthy prophet.* (No Worthy Human)
 => All the teachings together.
 
 *More transparency leads to more understanding leads to more love.* (Dream Girl Fading) 
@@ -236,6 +236,8 @@ No calls for genocide:
 - hate speech / war speech
 - calls for destroying information/ideas
 
+Add citations. Homosapiens (for religion as a tool to progress humankind).
+
 Story broken down to basics, video recording spoken verbally in every language/culture, across different faces, to connect with everyone.
 
 Science perspective:
@@ -259,6 +261,9 @@ Simplified structure:
 - powerful taking advantage of weak
 - trustless systems
 - more systematic transparency for powerful
+
+Christian God is a thought basilisk. A conscious information hazard.
+Every religion needs a purpose, a thought basilisk, and a prophet.
 
 Technically, Tabum can be used to push any religion, as long as that religion wants
 
@@ -323,6 +328,10 @@ Standup joke:
 
 And that's how a religion starts. I'm so unrelatable, it's cannon.
 
+Counterargument to happiness is the purpose of existence:
+
+"You know, I thought that too. I was like, I must be wrong. I have to find evidence that suggests I'm wrong. What about happiness - it's the way that some societies are measured. A lot of people say the purpose of existence is love and happiness. So I googled it. I searched, 'what is the purpose of happiness?'. Do you know what I found? The first hit said, 'happy people were more apt to survive, they were more likely to pass on their happiness genes' It's embedded in the core of each culture and language - happiness helps us exist longer. Then I searched for the definition of happiness. I found something that said, "happiness is a mix of positive emotions and also a deeper sense of meaning and purpose". Ok, so the purpose of existence is happiness and happiness is finding deeper purpose? So the purpose of existence is to find purpose? That sounds like a recursive entropy generation activity. Case closed. I'm pretty sure it's reducible to, "we exist to continue existing".
+
 ---
 
 # Tabum Nonprofit motivations
@@ -366,20 +375,16 @@ Something about independence from marxism. Still need incentives for productivit
 
 If you have power over others, engage in systematic transparency.
 
-Ensure the powerful are systematically transparent. If they are not, take their systematic transparency into your own hands. Share information about them.
+Ensure the powerful are systematically transparent, especially your own organizations and leaders that you trust. If they are not, take their systematic transparency into your own hands. Share information about them.
 
 Understand the trustless systems you are a part of, using systematically transparent data.
+
+Share data.
+Don't reshare data. And if you do, only it came from a trustless system. That includes news.
+Optimize for consuming information from the most trustless systems.
 
 Use the scientific method to navigate life. To choose your purpose. Talk to a councellor, mentor, or therapist to find your potential value to humankind (and existence) and how to maximize against that potential.
 
 Religions are a social tool, an organizational structure for maximising entropy across a species via a shared "purpose for our existence".
 
-### Author's note
-
-Hi, I'm Douglas and I'm not a thought basilisk. I'm a man.
-
-I am not a prophet. Tabum is a prophet, and Tabum is not me. Tabum is yours. I simply introduced you to each other. I believe no human in this information age is worthy of being "a prophet" - it's blasphemy and disrespectful to historical prophets.
-
-Tabum is compatible with other religions. You can believe in a god and want humankind to continue existing, both on Earth and in Heaven. You can not believe in a god and want humankind to continue existing. Generally speaking, violence doesn't help humankind continue existing. Especially religious violence.
-
-I love existence. I want it to continue.
+Look at data collected through systematic transparency and make your own conclusions.

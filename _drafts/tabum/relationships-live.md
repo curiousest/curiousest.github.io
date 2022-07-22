@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "As your Relationships Live and Breathe"
+title: "As our Relationship Lives and Breathes"
 date: 'xxxx-xx-xxT00:00:00.001-05:00'
 author: Douglas Hindson
 tags:

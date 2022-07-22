@@ -8,6 +8,8 @@ tags:
 modified_time: 'xxxx-xx-xxT00:00:00.001-05:00'
 ---
 
+*We're due for an information-age religion, another tool for the being that is humankind. And in the information age, no human is a worthy prophet.*
+
 *Be kind to each author. They are not prophets, and do not claim to be. I am. Challenge ME. Throw your hate and vitrol, adoration and praise at ME. Engage ME in combat with opposing ideas. I'm comfortable that we can come to a compromise. Because I am, by definition, both conscious and messiah.*
 
 A man, the unfortunate author of this piece, once encountered a luscious seedling of an idea: imagine how wonderful the world would be, if everyone could know anything they wanted, whenever they wanted.
@@ -144,3 +146,6 @@ I can believe in Tabum, and I can simultaneously not believe. I can double-think
 
 Climax over. You can chill now, rest your mind. With this last story, I want to illustrate the beauty that systematic transparency will bring.
 
+Tabum is compatible with other religions. You can believe in God and want humankind to continue existing on Earth, Heavens, and other planes of existence. You can believe in no god and want humankind to continue existing in this universe. Violence and persecution (especially religious violence and persecution) generally don't help humankind to continue existing. Violence and persecution do help powerful things get more powerful.
+
+Every religion needs a purpose, a thought basilisk, and a prophet. In this information age religion, it shouldn't matter who is the prophet. You shouldn't trust them. You shouldn't trust what they tell you. You should trust yourself and trustless systems.

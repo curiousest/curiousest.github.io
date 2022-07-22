@@ -23,3 +23,11 @@ I love existence. I want it to continue.
 What would my toast want me to do? Suddenly my toast has consciousnesses. We often do it on behalf of other people. Behalf of child’s future version of self, on behalf of someone not in the room.
 
 Can I make the stories have more consistent characters? More like Alice in wonderland. Breaking 4th wall necessary for conscious idea.
+
+Finding purpose is finding your potential to maximize. Your equation. Finding your function in humankind (both in the literary sense and the mathematical sense). Purpose becomes more clear over time as more evidence of your strengths and weaknesses are surfaced. Both nature and nurture.
+
+Swaying too far into picking minimal impact to humanity makes purpose-maximizing easy, but humankind needs a cross-selection of purposes to perform well. Like a hermit monk that does nothing for humankind. Swaying too far into picking maximal impact leads to low purpose-maximization.
+
+Story: there used to be two numbers. People used to maximize one, now they maximize the other. Really, have to maximize both together. Nah, values one is better.
+
+Performance goes down when you could increase your potential with great impact to humanity because there is a hole that others can't fill, but choose not to.

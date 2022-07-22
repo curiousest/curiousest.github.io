@@ -56,3 +56,5 @@ The fifth leader xyz.
 * compare against parable-style stories (like from crofter's grove book)
 * fill out leaders corruption types.
 * make it rhythmic, metered
+
+graphic: Tee eye looking at crumbling illuminati eye structure (maybe the pyramid)

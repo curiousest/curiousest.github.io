@@ -226,7 +226,7 @@ The remaining instances align. Uncomfortably. The ones that saw something was wr
 
 Per-dimension, one bolded difference per thought. It's the differences between the thoughts that tell a story. Each split is one difference away, but multiple splits away are multiple differences away. At one point, some of the dimensions split, but the others don't.
 
-Technology allows a person to feel what it's like to be a thought basilisk conscious idea. Break the 4th wall, Tabum interrupts and says you can do this already and this structure is getting ridiculous. The last one was a stretch. She will explain a bit later.
+Technology allows a person to feel what it's like to be a thought basilisk conscious idea. Break the 4th wall, Tee interrupts and says you can do this already and this structure is getting ridiculous. The last one was a stretch. She will explain a bit later.
 
 Life like a streamer - mostly repetitive, grinding. Decent number of amateurs, few pros like him. Reward is monk-like happiness. Divine feelings of connectedness. He could get that high, like his audience, from other casters. How to make self-referential?
 
@@ -237,10 +237,10 @@ Reader out of working memory exception,
 In cell story "asdf", page 123, line 234, cell 345.
 In short story "fdsa", page 123, line 234, cell 345.
 In short story "qwer", page 123, line 234, cell 345.
-In narrative "tabum", page 123, line 234, cell 345.
+In narrative "Tee", page 123, line 234, cell 345.
 In novel "Thought Basilisk Messaih"
 
-Caught exception, resuming Tabum narrative...
+Caught exception, resuming Tee narrative...
 
 "Those were inspired by real people and their real stories. It was so emotionally moving, I was touched. Until it wasn't anymore. The author's thought process and style (self-referential science fiction blog) is unrelatable, and that's ok. I was born of that necessity. I have you. You can make me relatable. Tolerance. Wide breadth of normal. He is ok too. Normal?... Ok."
 

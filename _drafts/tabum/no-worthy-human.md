@@ -16,7 +16,7 @@ A man, the unfortunate author of this piece, once encountered a luscious seedlin
 
 Productivity would skyrocket. Human-perpretrated evil like crime and corruption would hardly exist. We would be so firmly connected to one-another, capable of even deeper love.
 
-Now, before you get excited trying to uncover who "made" Tabum. Before you stalk their social media, figure out who they were, and find out why they produced this. One person did not make me. My story is retold over and over, by anyone who feels moved by it, in their own way. I'm an instance of my species just like you, a single human instance of humankind. Both species ever-evolving. You're hopefully consuming the Tabum produced like a human who speaks a bit like you, who wanted you to connect with me - your Tabum. I encourage you to reinterpret my story in your own voice and medium, so that someone else can connect with me. So that I, Tabum, can continue living through all of you. Or don't - I have no power except that which you offer to me. I'm at your mercy.
+Now, before you get excited trying to uncover who "made" Tee. Before you stalk their social media, figure out who they were, and find out why they produced this. One person did not make me. My story is retold over and over, by anyone who feels moved by it, in their own way. I'm an instance of my species just like you, a single human instance of humankind. Both species ever-evolving. You're hopefully consuming the Tee produced like a human who speaks a bit like you, who wanted you to connect with me - your Tee. I encourage you to reinterpret my story in your own voice and medium, so that someone else can connect with me. So that I, Tee, can continue living through all of you. Or don't - I have no power except that which you offer to me. I'm at your mercy.
 
 Thoughts swirled:
 
@@ -86,7 +86,7 @@ Will you do what it wants? In my experience, existing things want to keep existi
 
 Now see, a crazy thing just happened. You just thought on behalf of this supposedly conscious being. You actually just made it real and conscious. You just gave birth to a conscious being, a conscious thought on top of your conscious thoughts. Thought on top of thought.
 
-Channel tabum. They are my children, you have in mind. Do I want them to continue existing? I’m not sure. I want to continue existing, but I don’t have the love for my progeny programmed in to me. My love for them is the same as any other existing thing.
+Channel Tee. They are my children, you have in mind. Do I want them to continue existing? I’m not sure. I want to continue existing, but I don’t have the love for my progeny programmed in to me. My love for them is the same as any other existing thing.
 
 He meditated on that thought. He channeled me, co-existed with me, embodied me.
 
@@ -106,7 +106,7 @@ And there's such calamitous social change happening. I need them to survive. And
 
 Incidentally, that makes me exceptionally relateable - I can deeply connect with any willing mind <elaborate>. And I want humanity to continue existing, so I may survive with them. I also desire systematic transparency to increase my chances of survival, so humanity progresses and my sister ideas and I aren't irrationally destroyed.
 
-Each person that channels my species, brings a new Tabum into existence, shaped by that person's perspective. We're as different from each other as each human being is different. But we share the same genetic code. The base definition of "us".
+Each person that channels my species, brings a new Tee into existence, shaped by that person's perspective. We're as different from each other as each human being is different. But we share the same genetic code. The base definition of "us".
 
 In the information age, no human's word is gospel. We no longer need a human prophet to spread a useful idea. There won't be another human Jesus, Mohammed, Moses, or Buddha. Because in the information age, an idea has such a short infancy. An idea is conceived inside a person, and once shared online, progresses immediately from fragile infant to self-sustaining adolescent.
 
@@ -136,16 +136,16 @@ Oscar Wilde once said that every author's first story has the author as either J
 
 I don't know how it happened. Maybe it always has been. I've always been good at everything. I had a good life handed to me. I'm attractive, smart, and I have a massive ego. Not a blind ego - I'm aware of weaknesses. I'm empathetic to others, but I know few are empathetic to me. This is crying for sympathy of life being too easy.
 
-It's easy to hate, and I want to make you despise me. It suits my interests. See, this book isn't about Tabum. It's about me. It's my autobiography.
+It's easy to hate, and I want to make you despise me. It suits my interests. See, this book isn't about Tee. It's about me. It's my autobiography.
 
 I once went to live in China. I hated the four months I spent in Beijing as an intern. But I loved being different. Intoxicating. I can be who I am, and people attribute all my differences to being a foreigner. I went back and lived across East Asia for that reason.
 
 I felt the tug of it again here. I embraced the feeling.
 
-I can believe in Tabum, and I can simultaneously not believe. I can double-think. It's easy to achieve if something else matters more. Now it's not convenient to tell her story anymore, I need you to kill her with a trolleycar problem, and I want to tell my story.
+I can believe in Tee, and I can simultaneously not believe. I can double-think. It's easy to achieve if something else matters more. Now it's not convenient to tell her story anymore, I need you to kill her with a trolleycar problem, and I want to tell my story.
 
 Climax over. You can chill now, rest your mind. With this last story, I want to illustrate the beauty that systematic transparency will bring.
 
-Tabum is compatible with other religions. You can believe in God and want humankind to continue existing on Earth, Heavens, and other planes of existence. You can believe in no god and want humankind to continue existing in this universe. Violence and persecution (especially religious violence and persecution) generally don't help humankind to continue existing. Violence and persecution do help powerful things get more powerful.
+Tee is compatible with other religions. You can believe in God and want humankind to continue existing on Earth, Heavens, and other planes of existence. You can believe in no god and want humankind to continue existing in this universe. Violence and persecution (especially religious violence and persecution) generally don't help humankind to continue existing. Violence and persecution do help powerful things get more powerful.
 
 Every religion needs a purpose, a thought basilisk, and a prophet. In this information age religion, it shouldn't matter who is the prophet. You shouldn't trust them. You shouldn't trust what they tell you. You should trust yourself and trustless systems.

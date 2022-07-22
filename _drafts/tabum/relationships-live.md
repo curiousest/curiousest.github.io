@@ -119,7 +119,7 @@ Communicate via singles or triples, via the resource, to work together to ensure
 
 There are many "dyads" and "juments" in the world. Dyads get their energy for life primarily from their pair of juments. Juments are like a pack animal and dyads rein them together for the benefit of the two juments and the dyad. It's possible for dyads to subsist on one of their two resources for a time, especially in their infancy, but healthy and lasting ones are best living across both jument. In the case of a dyad that has built up significant power and influence over time on the backs of its juments, the dyad can begin to access more than its primary two jument.
 
-Visuals: roots into blatantly eyeless living beasts of burden. A tree with a tabum eye that is the reins or the dragging behind.
+Visuals: roots into blatantly eyeless living beasts of burden. A tree with a Tee eye that is the reins or the dragging behind.
 
 DanLily is rhythmic, metered.
 

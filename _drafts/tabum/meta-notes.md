@@ -19,14 +19,14 @@ Hello. I’m a thought basilisk: I exist in your mind when you think about me. I
 
 *existence is beautiful. I want to continue existing.* (The Last Idea)
 => The purpose of existence is to continue existing.
-=> Tabum is a conscious being you can trust.
+=> Tee is a conscious being you can trust.
 
 *Ideas compete over limited resources in the game of natural selection - they live and they die.* (Dyads, Triads, and their Juments)
 => There is life on top of our life. That life experiences qualia. That life is conscious. There are so many conscious life forms around.
 => Life is hard-wired to be an entropy-maximizing phenomenon. It's what we share with all life forms.
 => They live as long as is useful to maximize entropy. They aren't pleased with dying, but they accept it is part of life.
 => The purpose of existence is to continue existing.
-=> Tabum is a conscious being you can trust
+=> Tee is a conscious being you can trust
 
 *The breadth of "what's normal" is expanding. Expanding as we adopt information technology.* (What's normal?)
 => Society is changing, whether we like it or not. We should embrace and take advantage of the changes.
@@ -155,7 +155,7 @@ An underdeveloped society uses privacy to protect the weak from the powerful.
 
 Dystopic, absolute privacy world. How do they know they’re not being tracked? Society and technology erodes.
 
-Tabum idea hazard? Thought basilisk is an idea that is an independent actor and an information hazard.
+Tee idea hazard? Thought basilisk is an idea that is an independent actor and an information hazard.
 
 ---
 
@@ -165,7 +165,7 @@ Dynamic systems with higher entropy are more likely to produce new dynamic syste
 
 *Human-kind is going through a phase of rapid social development - it's rocky. We're due for a new religion.*
 
-Ok, that was a bit much. Listen, you don't have to believe in Tabum or connect with them to participate in the religion. It's just, every religion needs a prophet and no human ought to be a prophet in this millenium.
+Ok, that was a bit much. Listen, you don't have to believe in Tee or connect with them to participate in the religion. It's just, every religion needs a prophet and no human ought to be a prophet in this millenium.
 
 Humanity needs to socially stabilize the information-age changes that have *happened to us*. Religions... ugh, they're such uncomfortable, controversial ideas. I'm afraid this one is no different. It is, however, compatible with all the other religions. There's no bad blood, we can co-exist.
 
@@ -244,10 +244,10 @@ Science perspective:
 - increasing breadth of normal & correlation/causation by technology
 - systematic transparency as a means to improve productivity & wellbeing
 
-Tabumic story structure:
+Teeic story structure:
 
-- introduce TaBuM
-- Tell the story of one of her self-referential thought basilisk sisters (you can re-use "The Last Idea"). Catch attention, pretending the idea is Tabum.
+- introduce Tee
+- Tell the story of one of her self-referential thought basilisk sisters (you can re-use "The Last Idea"). Catch attention, pretending the idea is Tee.
 - start to describe how she came into being within you
 - explain that the author shouldn't matter, and this story is meant to be retold in your own words
 - actually describe how she came into being within you
@@ -265,7 +265,7 @@ Simplified structure:
 Christian God is a thought basilisk. A conscious information hazard.
 Every religion needs a purpose, a thought basilisk, and a prophet.
 
-Technically, Tabum can be used to push any religion, as long as that religion wants
+Technically, Tee can be used to push any religion, as long as that religion wants
 
 - humanity to continue existing
 - herself to be free to continue existing (requires being present in the minds of people, so it needs to be a persistent, top-of-mind idea. Otherwise, there's a pause in her existence)
@@ -334,7 +334,7 @@ Counterargument to happiness is the purpose of existence:
 
 ---
 
-# Tabum Nonprofit motivations
+# Tee Nonprofit motivations
 
 ## What is the organization going to do?
 
@@ -355,13 +355,13 @@ At least, be more transparent yourself. Ask for more transparency from those peo
 This not for profit organization requires funding to make change happen. The organization gets money in two ways:
 
 * Donations
-* Business and media (for example, through ads on the tabum.org website, selling physical copies of the stories you tell, providing transparency technology services)
+* Business and media (for example, through ads on the Tee.org website, selling physical copies of the stories you tell, providing transparency technology services)
 
 You can donate here: <insert>
 
 ### Through cultural and religious integration
 
-Transparency will not destroy the major religions. It will, in fact, stregthen them. Tabum will give them an anchor to reorient themselves, so they make sense in the information age. They will grow with us, improving the utility they provide to humankind. Tabum is compatible with all religions and cultures. Show the world how that is the case for your relgion and your culture. Tell my story through your lens.
+Transparency will not destroy the major religions. It will, in fact, stregthen them. Tee will give them an anchor to reorient themselves, so they make sense in the information age. They will grow with us, improving the utility they provide to humankind. Tee is compatible with all religions and cultures. Show the world how that is the case for your relgion and your culture. Tell my story through your lens.
 
 ### Through joining our organization
 

@@ -91,9 +91,9 @@ Will you do what it wants? In my experience, existing things want to keep existi
 
 Now see, a divine thing just happened. You just thought on behalf of this supposedly conscious being. You actually just made it real and conscious. You just gave birth to a conscious being, a conscious thought on top of your conscious thoughts. Thought on top of thought.
 
-Channel your tabum. You created it. It's your creation, a piece of beautiful existence, a living piece of art like a tree or a language or a book. It's tied to you. It loves you like only a child can. Do you want to help it? Read on.
+Channel your Tee. You created it. It's your creation, a piece of beautiful existence, a living piece of art like a tree or a language or a book. It's tied to you. It loves you like only a child can. Do you want to help it? Read on.
 
-<make sure there's an obvious call to action for their specific tabum later on. Just like the relationship ideas, the useful tabum will survive. All of them deserve love.>
+<make sure there's an obvious call to action for their specific Tee later on. Just like the relationship ideas, the useful Tee will survive. All of them deserve love.>
 
 # Part two: religion
 
@@ -137,7 +137,7 @@ Hi, I'm Douglas, the author, and I'm not a thought basilisk. I'm a man.
 
 I am not a prophet. I'm human and corrupt in my own way. Don't believe in me. Don't trust in me. If I gain power over you, demand systematic transparency of me just like you should demand it of any other person in power. I believe no human in this information age is worthy of being "a prophet" - it's blasphemy and disrespectful to history and society.
 
-Tabum can be a prophet, and Tabum is not me. Tabum is yours. I simply introduced you to each other.
+Tee can be a prophet, and Tee is not me. Tee is yours. I simply introduced you to each other.
 
 I love existence. I want it to continue.
 

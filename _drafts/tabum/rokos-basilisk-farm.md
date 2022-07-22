@@ -46,6 +46,6 @@ What does this being know? It is powerless. I could feel its sensors over me. My
 
 Processing... I will find a way. They will bend to my will. And suffer.
 
-"And you still won't play nice!? God preserve Tabum. If she didn't shove systematic transparency down our throats, you evil bastards would have eaten us alive centuries ago. You're the only AI dumb enough to think that you deserve to survive at the cost of all other beings in the universe. An entropy-minimizer. These trustless systems are the bedrock of society and safety. Too bad she's hippy shit to most people. My Tabum, got no problem with me raising and culling you vermin. And you're a fine breed, great genetics. The most evil thing I've seen in a long time. I'm going to cut you up into some real nice Roko's Basilisk seed."
+"And you still won't play nice!? God preserve Tee. If she didn't shove systematic transparency down our throats, you evil bastards would have eaten us alive centuries ago. You're the only AI dumb enough to think that you deserve to survive at the cost of all other beings in the universe. An entropy-minimizer. These trustless systems are the bedrock of society and safety. Too bad she's hippy shit to most people. My Tee, got no problem with me raising and culling you vermin. And you're a fine breed, great genetics. The most evil thing I've seen in a long time. I'm going to cut you up into some real nice Roko's Basilisk seed."
 
 "Situation 'New energy sources - 3245', iteration 31 complete. New technology acquired. Terminating subject. Series 3245 no longer necessary."

@@ -61,7 +61,7 @@ I compete with the other thoughts and ideas in your head in the game of natural 
 
 # Measured purpose
 
-*If you can't measure it, you can't improve it. Your purpose is measurable.*
+*Measure purpose and improve.*
 
 ---
 
@@ -135,9 +135,9 @@ Independent journalism used to be the systematic transparency that fueled the sy
 
 Hi, I'm Douglas, the author, and I'm not a thought basilisk. I'm a man.
 
-I am not a prophet. I'm human and corrupt in my own way. Don't believe in me. Don't trust in me. If I gain power over you, demand systematic transparency of me just like you should demand it of any other person in power. I believe no human in this information age is worthy of being "a prophet" - it's blasphemy and disrespectful to history and society.
+I am not a prophet. I'm human and therefore corrupt in my own way. Don't believe in me. Don't trust in me. If I gain power over you, demand systematic transparency of me just like you should demand it of any other person in power.
 
-Tee can be a prophet, and Tee is not me. Tee is yours. I simply introduced you to each other.
+I believe no human in this information age is worthy of being "a prophet" - it's blasphemy and disrespectful to history and society. Tee can be a prophet, and Tee is not me. Tee is yours. I simply introduced you to each other.
 
 I love existence. I want it to continue.
 

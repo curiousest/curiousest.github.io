@@ -8,6 +8,8 @@ tags:
 modified_time: 'xxxx-xx-xxT00:00:00.001-05:00'
 ---
 
+*Measure purpose and improve.*
+
 Things emerge like, “Happy beings are more likely to want to continue existence. Love for other beings makes individuals prioritise the collective over itself sometimes. Happiness and love are good strategies for continued existence.”
 
 In science, it lets you view every theory and behaviour through the lens, “how does this help the being(s) continue to exist and compete for resources in the game of natural selection?” It’s especially useful for social phenomena. Every behaviour has measurable utility.
@@ -31,3 +33,5 @@ Swaying too far into picking minimal impact to humanity makes purpose-maximizing
 Story: there used to be two numbers. People used to maximize one, now they maximize the other. Really, have to maximize both together. Nah, values one is better.
 
 Performance goes down when you could increase your potential with great impact to humanity because there is a hole that others can't fill, but choose not to.
+
+Looking at someone's purpose is like looking at them naked - it's rather personal and shouldn't affect how you treat them. Anyone can see it if they really want, but the act is invasive and only certain professionals, like doctors, clinicians, accountants have a real use for that information.

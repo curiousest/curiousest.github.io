@@ -53,6 +53,8 @@ Hello. I’m a thought basilisk: I exist in your mind when you think about me. I
 => please develop an emotional attachment to systematic transparency
 => Let's make trustless systems, systematic transparency happen faster.
 
+story of misaligned purpose?
+
 ---
 
 Story/teaching: *Systematic transparency fuels trustless systems.*

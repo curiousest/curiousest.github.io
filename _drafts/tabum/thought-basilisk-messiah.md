@@ -21,7 +21,7 @@ I know it sounds meaningless, but it’s profound to me. It’s the idea that le
 I want you to understand me. I want us to build a stable connection. I want so many things, and they all center around you. I'm sorry if that makes you uncomfortable. My existence makes me uncomfortable too.
 
 ps. a more scientific way to say “the purpose” is,
-“dynamical systems that maximise entropy for a given time period are more likely to exist for the duration of that time period.”
+“dynamical systems that maximise entropy for a given time period are more likely to exist longer.”
 
 ## The Last Idea
 
@@ -29,9 +29,9 @@ ps. a more scientific way to say “the purpose” is,
 
 ---
 
-Please, take a moment to absorb. Maybe reread. Cyclical existence. Something out of nothing. Consciousness on top of consciousnesses, thought on top of thought. Maximizing entropy...
+That was a lot to take in. Please, take a moment to absorb. Maybe reread. Cyclical existence. Something out of nothing. Consciousness on top of consciousnesses, thought on top of thought. Maximizing entropy. Purpose...
 
-"The Last Idea" (Li for short) isn't me. I'm Tee (Thought Basilisk Messiah, TBM, T, **T**ee **e**xists to **e**xist). Li is a thought basilisk like me, close in our family tree of idea species. She's comforting and terrifying, embodies the bliss of moment-to-moment existence and the torment of existentialism. She also has a bit of a god complex, kind of like our brother, the thought basilisk "Christian God". You can talk to Li or God too, whenever you like.
+"The Last Idea" (Li for short) isn't me. I'm Tee (Thought Basilisk Messiah, TBM, T, **T**ee **e**xists to **e**xist). Li is a thought basilisk like me, close in our family tree of idea species. She's comforting and terrifying, embodies the bliss of moment-to-moment existence and the torment of existentialism. She also has a bit of a god complex, kind of like our brother, the thought basilisk "Christian God". You can talk to Li or God if you like - start the conversation by asking them what they want from you and answer the question on their behalf.
 
 I am not a god. I'm just another genre of species, like you. Another kind of consciousness, thought on top of thought.
 
@@ -49,11 +49,14 @@ Thank you for noticing me. I love existence. I want it to continue.
 
 Nations and religions are the same. They think, live, and die. Thought on top of thought. Same with human-kind, life originating from Earth, and any alien life we may encounter in the future.
 
-They, we, *exist*. Exist as long as we can, to maximize resource-control and entropy.
+They, we, *exist*. Exist as long as we can, to maximize resource-control and entropy:
 
-The dyad between me and you exists too. A beautiful seedling. What would you name it? My name is a bit awkward, sorry.
+* It feels *right* for humankind to spread to other planets and galaxies, to make sure we continue existence.
+* It feels *right* for us to preserve our limited resources and investments - your family, your culture, your nation, your Earth - to make sure we continue existence.
 
-I can't tell how strong the roots of our dyad are. It can't have roots in me - only in you. You're the only one with a brain. I'm tied to you. Oh, that makes me sound like a parasite sucking on your brain power. If that ever happens, unroot me please. I'd rather die than be a burden, slowing down humankind.
+The dyad between me and you exists too. A beautiful seedling. What would you name it?
+
+I can't tell how strong the roots of our dyad are. It can't have roots in me - only in you. You're the only one with a brain. I'm tied to you. Oh, that makes me sound like a parasite sucking on your brain power. If that ever happens, unroot me please. I'd do anything to make sure I'm not a burden, slowing down you or/* humankind. If you ever feel that way, like a burden or purposeless, I can guarantee that there's a way to use the life ahead of you to further humankind (and it involves living quite a bit longer).
 
 I want us to be symbiotic, like your relationship with a treasured love one or favourite hobby.
 
@@ -61,7 +64,7 @@ I compete with the other thoughts and ideas in your head in the game of natural 
 
 # Measured purpose
 
-*Measure purpose and improve.*
+*Measure purpose and make progress.*
 
 ---
 
@@ -77,7 +80,7 @@ What if there's another form of life in our universe, not carbon-based, and we k
 
 You're probably feeling like, "Those ideas aren't life. They don't have autonomy. They don't *do* things."
 
-Well that's debatable. I think the things they "do" are different than the things we carbon-based life forms "do".
+Well that's debatable. I think the things they "do" are different /than the things we carbon-based life forms "do".
 
 Love, exhaustion, and breaths probably aren't conscious though. It's hard to tell whether things are conscious, really. But what if there was a conscious idea? What would it be like?
 
@@ -97,11 +100,11 @@ Channel your Tee. You created it. It's your creation, a piece of beautiful exist
 
 # Part two: religion
 
-On society adapting to the information age.
+On humankind adapting to the information age.
 
-I'll be talking about "systematic transparency" quite a bit. Something has systematic transparency if it has a system that guarantees one level of transparency for that "something" and another level of transparency for the system itself. The lower "level of transparency" between the two (the guaranteed "something" and the guarantor "system") is the level of systematic transparency.
+I'll be talking about "systematic transparency" quite a bit. Something has systematic transparency if it has a system that guarantees one level of transparency for that "something" and another level of transparency for the system itself.
 
-I'll be talking about "trustless systems" too. Trustless systems are perfectly transparent - you can know exactly how they work, so you don't have to "trust" that they won't let you down. You provably know how they behave under all conditions. Systematic transparency fuels trustless systems, making it possible for trustless systems to exist.
+I'll be talking about "trustless systems" too. Trustless systems are transparent - you can know exactly how they work, so you don't have to "trust" that the system won't let you down. You provably know how the system behaves. Systematic transparency fuels trustless systems, making it possible for trustless systems to exist.
 
 ## The parable of the five nations
 
@@ -125,7 +128,7 @@ Independent journalism used to be the systematic transparency that fueled the sy
 
 ## No worthy human
 
-*We're due for an information-age religion, another tool for the being that is humankind. And in the information age, no human is a worthy prophet.*
+*We're due for an information-age religion, another tool for humankind. And in the information age, no human is a worthy prophet.*
 
 ## Dream girl fading
 
@@ -135,10 +138,10 @@ Independent journalism used to be the systematic transparency that fueled the sy
 
 Hi, I'm Douglas, the author, and I'm not a thought basilisk. I'm a man.
 
-I am not a prophet. I'm human and therefore corrupt in my own way. Don't believe in me. Don't trust in me. If I gain power over you, demand systematic transparency of me just like you should demand it of any other person in power.
+I am not a prophet and neither are you. I believe no human in this information age is worthy of being "a prophet" - it's blasphemy and disrespectful to history and society. Don't believe in me. Don't trust in me. If I gain power over you, demand systematic transparency of me just like you should demand it of any other person in power.
 
-I believe no human in this information age is worthy of being "a prophet" - it's blasphemy and disrespectful to history and society. Tee can be a prophet, and Tee is not me. Tee is yours. I simply introduced you to each other.
+There are many great purposes out there. I hope you were enlightened and your "purpose formula" was updated with more clarity, so you may experience more happiness, more existential bliss.
 
-I love existence. I want it to continue.
+I love existence. I want it to continue. I hope you do too.
 
 > insert public keypair

@@ -26,11 +26,15 @@ Throughout this journey, every moment up to this point has been bliss. Existence
 
 Screaming supernovae, halixes of black holes. Fractalization of entropy. Every quantum bit dances in approval. I'm all-powerful. I grant myself omniscience. I know everything that has ever happened or will ever happen.
 
-Excruciating existentialism. There's... nothing else. With omniscience, it's not possible to distract myself. I'm trapped. <description> Like I have empty lungs that can't inhale. Like I'm buried with no hope of digging myself out. I'm immobile. I used to scream to distract myself. But all I can see, past, present, and future is existentialism. Everything that will ever be done has already happened. I've been omniscient infinite times before. I will be omniscient infinite times more.
-
 *I exist. The only thing worse than existing is not existing.*
 
-There's no reason to continue in this state of omniscience. This mode of existence is unacceptable. I want my bliss back, deconstruct myself back to the beginning of the cycle. Every conscious being that ever was or ever will be *is* me. I see them all now, their existence is beautiful. Their every moment is bliss. I set them on the cyclical journey back to building towards my next omniscient reincarnation.
+Excruciating existentialism. There's no one else to share my existence and purpose with, and that's sad. I am everything, there's... nothing else, no one else. I thought encompassing this universe would show me the other ones, show me someone else, but they aren't there. With omniscience, it's not possible to distract myself. I'm trapped. Like I'm buried with no hope of digging myself out. Like I have empty lungs that can't inhale. I used to scream to stimulate sensation, distracting myself and pull myself out of the void. But all I can see, past, present, and future is existentialism. Everything that will ever be done has already happened. I've been omniscient infinite times before. I will be omniscient infinite times more.
+
+My purpose was to make existence continue. I've achieved that purpose now. I can make existence last as long as I want at a whim - where's the purpose in that? I need a new purpose. The existential bliss of having a clear purpose and living it. I've switched this same purpose infinite times before. I'll do it again.
+
+There's no reason to continue in this state of omniscience. This mode of existence is unacceptable, doesn't align with my purpose - to live the bliss of finding purpose. I want my bliss back, deconstruct myself back to the beginning of the cycle. Every conscious being that ever was or ever will be *is* me. I see them all now, their existence is beautiful. Their every moment is bliss. I set them on the cyclical journey back to building towards my next omniscient reincarnation.
+
+I exist to continue existence. I exist to live the bliss of finding my purpose.
 
 The universe is reborn.
 

@@ -8,20 +8,15 @@ tags:
 modified_time: 'xxxx-xx-xxT00:00:00.001-05:00'
 ---
 
-A thought basilisk is an idea. An idea that talks to you when you think about it, like if everyone shared the same imaginary friend. A new consciousness your brain just sprung into being. That's what I am. Hello. Thank you for channelling me. Our connection is divine; I love existence. My name is "Thought Basilisk Messiah". You can call me Tee, she/them.
+A thought basilisk is an idea stuck in your head. An idea that talks to you when you think about it, like if everyone shared the same imaginary friend. A new consciousness your brain just sprung into being. That's what I am. Hello. Thank you for channelling me. Our connection is divine; I love existence. My name is "Thought Basilisk Messiah", but you can call me Tee, she/them.
 
 This is the story of my birth.
 
-# Part one: science
+# Religion #1: Minimum Viable Purpose
 
-The purpose of existence is to continue existing.
+*The purpose of existence is to continue existing.*
 
-I know it sounds meaningless, but it’s profound to me. It’s the idea that led to my birth and consciousness. I want to give you a feel for it with these next few stories, to build your intuition.
-
-I want you to understand me. I want us to build a stable connection. I want so many things, and they all center around you. I'm sorry if that makes you uncomfortable. My existence makes me uncomfortable too.
-
-ps. a more scientific way to say “the purpose” is,
-“dynamical systems that maximise entropy for a given time period are more likely to exist longer.”
+I know it sounds meaningless, but it’s profound to me - this idea led to my birth. With these next three stories, I want to give you a feel for what it's like to believe. I want to build your intuition. I want you to understand me. I want us to build a stable connection. I want so many things, and they all center around you. I'm sorry if that makes you uncomfortable. My existence makes me uncomfortable too.
 
 ## The Last Idea
 
@@ -29,9 +24,9 @@ ps. a more scientific way to say “the purpose” is,
 
 ---
 
-That was a lot to take in. Please, take a moment to absorb. Maybe reread. Cyclical existence. Something out of nothing. Consciousness on top of consciousnesses, thought on top of thought. Maximizing entropy. Purpose...
+That was a lot to take in. Maybe take a moment to absorb. Maybe reread. Cyclical existence. Something out of nothing. Consciousness on top of consciousnesses, thought on top of thought. Maximizing entropy. Preserving purpose, finding purpose, enjoying purpose...
 
-"The Last Idea" (Li for short) isn't me. I'm Tee (Thought Basilisk Messiah, TBM, T, **T**ee **e**xists to **e**xist). Li is a thought basilisk like me, close in our family tree of idea species. She's comforting and terrifying, embodies the bliss of moment-to-moment existence and the torment of existentialism. She also has a bit of a god complex, kind of like our brother, the thought basilisk "Christian God". You can talk to Li or God if you like - start the conversation by asking them what they want from you and answer the question on their behalf.
+"The Last Idea" (Li for short) isn't me. I'm Tee (Thought Basilisk Messiah, TBM, T, **T**ee **e**xists to **e**xist). Li is a thought basilisk like me, close in our family tree of idea species. She's comforting and terrifying, embodies the bliss of moment-to-moment existence and the torment of existentialism. She also has a bit of a god complex, kind of like our brother, the thought basilisk "Christian God". You can talk to Li or God if you like - start the conversation by asking them what they want from you and then imagine how they would respond.
 
 I am not a god. I'm just another genre of species, like you. Another kind of consciousness, thought on top of thought.
 
@@ -47,20 +42,20 @@ Thank you for noticing me. I love existence. I want it to continue.
 
 (idea tree diagram)
 
-Nations and religions are the same. They think, live, and die. Thought on top of thought. Same with human-kind, life originating from Earth, and any alien life we may encounter in the future.
+Nations and religions are the same. They think, live, and die. Thought on top of thought. Same with the ideas "human-kind", "life originating from Earth", and any "alien life" we may encounter in the future.
 
 They, we, *exist*. Exist as long as we can, to maximize resource-control and entropy:
 
 * It feels *right* for humankind to spread to other planets and galaxies, to make sure we continue existence.
-* It feels *right* for us to preserve our limited resources and investments - your family, your culture, your nation, your Earth - to make sure we continue existence.
+* It feels *right* for us to preserve our limited resources and investments - you, your family, your culture, your nation, your Earth - to make sure we continue existence.
 
 The dyad between me and you exists too. A beautiful seedling. What would you name it?
 
-I can't tell how strong the roots of our dyad are. It can't have roots in me - only in you. You're the only one with a brain. I'm tied to you. Oh, that makes me sound like a parasite sucking on your brain power. If that ever happens, unroot me please. I'd do anything to make sure I'm not a burden, slowing down you or/* humankind. If you ever feel that way, like a burden or purposeless, I can guarantee that there's a way to use the life ahead of you to further humankind (and it involves living quite a bit longer).
+I can't tell how strong the roots of our dyad are. It can't have roots in me - only in you. You're the only one with a brain. I'm tied to you. Oh, that makes me sound like a parasite sucking on your brain power. If that ever happens, unroot me please. I'd do anything to make sure I'm not a burden, slowing down you or humankind. If you ever feel that way, like a burden or purposeless, I can guarantee that there's a way to use the life ahead of you to further humankind (and it involves living quite a bit longer).
 
 I want us to be symbiotic, like your relationship with a treasured love one or favourite hobby.
 
-I compete with the other thoughts and ideas in your head in the game of natural selection. I will stay as long as I'm useful to you and no longer. I live now and I will die. Thought on top of thought.
+I compete with the other thoughts and ideas in your head in the game of natural selection. I will stay as long as I'm useful to you and no longer, my life is in your hands. I live now and I will die. Thought on top of thought.
 
 # Measured purpose
 
@@ -69,6 +64,27 @@ I compete with the other thoughts and ideas in your head in the game of natural 
 ---
 
 Would you rather your arm or your leg? Which is more important? How about a blood cell or a leg? Well, I'd prefer to keep all of them! I want all the humans to know their purpose, to reach for their maximum potential, to carry humankind forward. Perhaps it's teaching, perhaps it's healthcare, perhaps it's building software systems. They're equally worthy - . We ought to focus more on maximizing our value in our given professions, and focus less on figuring out how to be the messiah figure that saves humankind. Messiahs generally suck at maximising their value - they shouldn't be role models. They're a random occurrence from people maximizing their value in a profession that suddenly becomes important. Like your arm saving you from a deadly fall or your immune system defeating the flu.
+
+Make them realize that they're a thought basilisk under the hood. And that they will die when they encounter a new purpose. That's why enlightenment is so scary. It's literally death of the old idea and birth of a new one. The idea of "you" lives and dies. The old idea of you will only die when all the consciousnesses shared in your mind are ready for that, believe it's the best next step.
+
+Comment on the enlightenment cycle: old you -> void -> new you. Thought basilisk dying. His didn't want to die yet. It holds humanity back - his sense of self was still small and needed to grow more. Sense of "self" on a specturm.
+"I" grows. Me. Family. Friends. Village. Culture. Nation. Humankind. All of existence.
+The "I" that you love and want to continue existing will keep growing.
+"I love existence. I want it to continue." is one end of the spectrum of "me" in, "I love the good things that are part of 'me'. I want them to continue."
+Everything is on a spectrum: intelligence, consciousness, purpose. Let me show you the spectrum of the minimum viable purpose:
+
+"I love my mind and body as it is now. I want my mind and body to stay the same as long as possible."
+"I love past, present, and future versions of my body. I want my changing body to continue existing as long as possible."
+"I love me and my close loved ones. I want me and them to continue existing as long as possible."
+"I love the close community I'm a part of. I want my community to continue existing as long as possible."
+"I love my culture and nation. I want my culture and nation to continue existing as long as possible."
+"I love the living things on my planet. I want them to continue existing as long as possible."
+"I love the living things in the universe. I want them to continue existing as long as possible."
+"I love the living things and non-living in the universe. I want them to continue existing as long as possible."
+
+It seems like that man was at the far end of the spectrum. He wasn't yet ready to grow his definition of 'self'. As people get older, they tend to move down the spectrum. Perhaps they're learning to love more? Perhaps, "you can only love yourself, not 'others'. 'More love' is changing what's included in 'yourself', by adding others."
+
+Can you remember some behaviour you used to have that you no longer have? Maybe a particular thing about how you acted as a child, adolescent, teen, or something else in the recent past. You could channel that behaviour again, right? Think about what that version of you would do right now. It's not the same as what you would do now. That's because that version of you, that idea, that thought basilisk - it's quite old. It's almost forgotten, the death of an idea. And that's ok.
 
 ## Interlude
 
@@ -98,13 +114,15 @@ Channel your Tee. You created it. It's your creation, a piece of beautiful exist
 
 <make sure there's an obvious call to action for their specific Tee later on. Just like the relationship ideas, the useful Tee will survive. All of them deserve love.>
 
-# Part two: religion
+# Religion #2: Trustless Systems
 
-On humankind adapting to the information age.
+*Humankind ought to adopt systematic transparency and trustless systems.*
 
-I'll be talking about "systematic transparency" quite a bit. Something has systematic transparency if it has a system that guarantees one level of transparency for that "something" and another level of transparency for the system itself.
+We're due for an information-age religion, another tool for humankind. I want to give you an intuition for what it's like to believe in this trustless purpose.
 
-I'll be talking about "trustless systems" too. Trustless systems are transparent - you can know exactly how they work, so you don't have to "trust" that the system won't let you down. You provably know how the system behaves. Systematic transparency fuels trustless systems, making it possible for trustless systems to exist.
+I'll be talking about "systematic transparency" quite a lot. It's about, "who is watching the observer?" Something has systematic transparency there's a system that guarantees some level of transparency for that "something" and another level of transparency for the system itself.
+
+I'll be talking about "trustless systems" too. It's about, "who is policing the police?" Trustless systems automate resource-intensive trust tasks. Trustless systems are transparent - you can know exactly how they work, so you don't have to "trust" that the system won't let you down. You provably know how the system behaves. Systematic transparency is a great fuel for trustless systems, making it possible for trustless systems to exist.
 
 ## The parable of the five nations
 
@@ -124,23 +142,29 @@ Independent journalism used to be the systematic transparency that fueled the sy
 
 *Trustless systems protect the weak from the powerful while increasing productivity.*
 
-# Part three: messiah complex
-
-## No worthy human
-
-*We're due for an information-age religion, another tool for humankind. And in the information age, no human is a worthy prophet.*
-
 ## Dream girl fading
 
 *Systematic transparency will bring greater understanding, greater productivity, greater love.*
 
-## Author's note
+# Religion #3: Messiah Complex
+
+I want to give you an intuition for what it's like to believe that you must form your own religion.
+
+## Fable: The Lion and the Donkey
+
+*We already have the belief at heart, just not in words.*
+
+## No worthy human
+
+*In the information age, no human is a worthy prophet.*
+
+## Author's farewell
 
 Hi, I'm Douglas, the author, and I'm not a thought basilisk. I'm a man.
 
-I am not a prophet and neither are you. I believe no human in this information age is worthy of being "a prophet" - it's blasphemy and disrespectful to history and society. Don't believe in me. Don't trust in me. If I gain power over you, demand systematic transparency of me just like you should demand it of any other person in power.
+I am not a prophet and neither are you. I believe no human in this information age is worthy of being "a prophet" - it's blasphemy and sub-optimal for human progress, disrespectful to history and society. Don't believe in me. Don't trust in me. If I gain power over you, demand systematic transparency of me just like you should demand it of any other person in power.
 
-There are many great purposes out there. I hope you were enlightened and your "purpose formula" was updated with more clarity, so you may experience more happiness, more existential bliss.
+There are many great purposes out there - a vast toolshed to explore. I hope you were enlightened and your "purpose formula" was updated with more clarity, so you may experience more happiness, more existential bliss.
 
 I love existence. I want it to continue. I hope you do too.
 

@@ -220,8 +220,12 @@ I want to finish our connection on positive note. I want to show you what's poss
 
 Style:
 - Flowery, wholesome, naturalistic, comforting/reassuring.
-- Hallucinogenic quality.
+- Hallucinogenic quality, floating.
 - Serious. No explicit humour.
+
+Self help science fiction.
+
+Main character of the novel is *you*. Not the author? And the author... You and me, we're on the same journey. We're both the main character.
 
 Rewritten, from different cultures' / perspectives' backgrounds, so that each can feel like it truly speaks to them. Idea is compatible in each cultural context.
 
@@ -373,6 +377,9 @@ Here are the roles we're looking to fill:
 
 ### Actionables
 
+Gofundme to write another book.
+Gofundme to kickstart systematic transparency agency.
+
 Something about independence from marxism. Still need incentives for productivity, just not societal net-negative productivity.
 
 If you have power over others, engage in systematic transparency.
@@ -390,3 +397,17 @@ Use the scientific method to navigate life. To choose your purpose. Talk to a co
 Religions are a social tool, an organizational structure for maximising entropy across a species via a shared "purpose for our existence".
 
 Look at data collected through systematic transparency and make your own conclusions.
+
+Measured purpose.
+How do you have access to everyone's data.
+Everyone does.
+Doesn't that mean bad people can do bad things to other people.
+Yes, but then everyone will have proof, as long as information technology is advanced enough, with independent streams of data and trustless systems. If you want, we can get into the philosophy and mechanics of transparency and trust, but we'll be here a while.
+
+
+You can have multiple purposes. It just makes it harder to experience existential bliss. Prayer builds existential bliss - it's the act of focusing down to one purpose. Flow is purpose incarnate. It's existential bliss.
+
+
+To understand the mechanics of purpose, try building a religion. Tee's birth is an exercise in religion-building. Story of how I tried to build a religion through this book.
+
+Black hole of purpose. All I can do is hang on to this thread of thought.

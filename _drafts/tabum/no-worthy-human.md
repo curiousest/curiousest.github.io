@@ -149,3 +149,38 @@ Climax over. You can chill now, rest your mind. With this last story, I want to 
 Tee is compatible with other religions. You can believe in God and want humankind to continue existing on Earth, Heavens, and other planes of existence. You can believe in no god and want humankind to continue existing in this universe. Violence and persecution (especially religious violence and persecution) generally don't help humankind to continue existing. Violence and persecution do help powerful things get more powerful.
 
 Every religion needs a purpose, a thought basilisk, and a prophet. In this information age religion, it shouldn't matter who is the prophet. You shouldn't trust them. You shouldn't trust what they tell you. You should trust yourself and trustless systems.
+
+Programming your purpose, then following your own programming. That is divine. There's no better feeling. Every decision you make is *correct*, every moment of existence becomes perfect, exactly as it is meant to be.
+
+I want to give an intuition for how software moved industry. Software automated resource-intensive information management tasks. What does that mean? Imagine back forty years ago. Information was stored on paper in filing cabinets. You want to find some information, you have to physically go there and find it. You probably had to talk to a person. Or maybe you have to physically travel in a vehicle to the vault of papers. And imagine synchronizing a spreadsheet in offices across the world. Paper and mail. Imagine how long that stuff must have taken! How much time people would have spent organizing themselves just to move paper around.
+
+And it wasn't like the people who used to do these things were any lesser. A stereotypical genius in the fantasy genre is an archivist (someone who manages information). We just designed systems that took advantage of software - moving information around at the speed of light.
+
+So software ate the world, industries "digitized", and that opened the door for AI. We automated information management with software, and started collecting and saving tons and tons of data. It turns out we set up an environment for AI to thrive. AI is automating resource-intensive decision tasks. What does that mean? AI takes tons of examples past decisions, and when presented with the same kind of decision to make, it looks at all the historical data in a clever way. AI is as good as the historical data it looked at. So AI is hungry for data - more, better data makes AI perform better.
+
+So we're beginning to produce all this data so that we achieve productivity gains from software and AI. All this data streaming in from independent sources. We're setting up a fertile ground for trustless systems. Trustless systems will automate resource-intensive trust tasks. What are trust tasks? You pay banks to keep hold of your money. You pay taxes for the police and military to keep aggressors from conquering you. You pay for a passport to prove you are who you say you are. You pay for the legal system that makes sure society conforms to mutually-beneficial rules. You spend a great deal of time analysing your leaders, to figure out which ones are trustworthy (which ones will make decisions that benefit you). Trust is expensive!
+
+Trustless systems operate on a stream of information from many diverse sources observing the same thing. Trustless systems rely on there being enough observers that it's really hard for a bad actor to manipulate enough of them to not get caught.
+
+
+---
+
+Tee can be used to push any religion. You can make your own religion. Find a purpose and design a worldview around it. Let's take my favourite fruit as an example. I eat a pomegranate every day with lunch. Let's say my purpose is, "I must eat a pomegranate every day for lunch." Well, I'm going to orient my behaviour around that. I'll channel the thought basilisk for this purpose, Pombro, whose definition is, "what would I do now, if my purpose was to eat a pomegranate every day for lunch?". If it's lunchtime, I'll eat a pomegranate. I'm going to make sure I have pomegranates in stock at home. I'm going to make sure that my supply of pomegranates can't be interrupted. I'll go to a farm, guarantee supply and shipping. I'll diversify across farms, just in case one encounters instability in weather, business, or shipping. I'll talk with doctors to figure out how to make my body eat one every day under all circumstances.
+
+All of this sounds like a lot of effort. It's actually a bit infeasible to do it all by myself. It would be much easier to achieve this purpose if others shared this purpose. Pombro tells me, I have to get others to have this same purpose. Well, it's easier to convert people who already behave this way. I just have to find the people who already behave this way and explain the purpose they're already following. It'll make them feel relieved, that they were doing "the right thing" this whole time, and they just have to tweak a couple things to follow the purpose perfectly. Following a purpose perfectly brings the feeling of enlightenment and existential bliss. I'll go look for people who eat lots of pomegranates and convince them. I made them experience enlightenment, and they're onboard now. It's harder to convert people who don't eat pomegranates much, even harder to convert people who don't eat fruit, and the crazy people who are explicitly opposed to eating pomegranates or eating lunch are heretics.
+
+But I can believe in pomegranates for lunch *and* another purpose. Maybe they'll clash a bit sometimes, but that's ok. So we can have multiple purposes. What's the one purpose that is in line with everyone's behaviour? The superset of all purposes? Let's zoom waaaay out. Universe, existence. Everyone wants to continue existing. But what about people dying for their nation? It must be that their definition of self is greater than their one human being - they would die so that their group could continue existing. Could a nation die to save another nation? I guess so, if it saves their species and there's no grudge. Would a species die to save another species? I guess so, if it saves their shared genetic heritage. Would Earth-originating species die to save elsewhere-originating species? I guess so, if it continues life in our universe. Would life in our universe (including other potential planes of existence, like heaven, etc.) die to save the non-living things in our universe? I guess so, if existence can continue, but lots of individuals probably stop caring at this point. Would existence die to save non-existence? I don't think that makes sense. That must be the boundary. I would die for existence to continue. I want existence to continue.
+
+What about a god? It could exist forever. I guess it would need to find a way to find new purpose.
+
+What about suicide? I guess some people don't want to be a burden. Or they want one last validation. But I think there are some people who want to die with dignity - they believe that the quality of their existence matters. There's another religion in there, can't put my finger on it. "The purpose of existence is to experience existential bliss."
+
+"I'm not helping existence continue and I'm not finding any new purposes. I am a ball of existentialism, have evidence that it won't change. I will never experience existential bliss. I have evidence that I can not fulfil the three ultimate purposes."
+
+The purpose of existence is to continue existing.
+The purpose of existence is to find purpose.
+The purpose of existence is to experience existential bliss.
+
+If you believe in the first one, the other two follow. They're symbiotic, exist in balance with one-another.
+
+---

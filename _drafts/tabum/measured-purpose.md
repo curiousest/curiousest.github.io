@@ -24,6 +24,8 @@ Dude, what's wrong with you? Look, my purpose numbers are dropping with every mi
 
 Purposes:
 
+> everyone has balance of three MVPs. Then they have the lower-level purposes. Dude is 96% bliss, 3% continue existing, 1% find purpose
+
 40% develop career
 9th percentile of expected impact relative to world.
 Month avg performance (current behaviour / potential impact):
@@ -43,6 +45,32 @@ Month avg performance (current behaviour / potential impact):
 30% misc. assorted
 39% current behaviour / potential impact
 74th percentile of expected impact relative to world.
+
+Look, even my house is suffering. Sofa:
+
+80% make a comfortable environment for human productivity
+46% current behaviour / potential impact
+
+10% Tee (We exist to continue existence)
+46% current behaviour / potential impact
+
+10% misc. assorted
+39% current behaviour / potential impact
+
+Look, even my house is suffering. Flat:
+
+50% make a comfortable environment for human productivity
+46% current behaviour / potential impact
+
+30% be a store of value
+46% current behaviour / potential impact
+
+10% Tee (We exist to continue existence)
+46% current behaviour / potential impact
+
+10% misc. assorted
+39% current behaviour / potential impact
+
 
 It doesn't work that way. You're an enlightenment douche.
 
@@ -108,6 +136,9 @@ Well, none of the purposes get attributed to me as being the first one to believ
 Yeah? Let me check it out... Oh, purpose popularity... It had three people.
 
 
+
+I thought you've done this hundreds of times before. There's a void underneath all the other voids. It's a bit too much for me right now. Please talk to me about anything else. I don't want to think about it anymore.
+
 Ends by seeing the pattern of how people escaped (meeting another person). Dude is like, "No one else is like me. They won't be able to relate to me." That purpose doesn't give me the same divine prophet enlightenment feeling. It's more like, friendly neighbour nodding at each other because we're all equals, just chilling, kinda feeling. Gross. My taste in purpose is much greater than that. Refuses the real enlightenment. It drops back down to 0. Goes to talk to a person like him. Jumps up high again. "I finally get it." But this void is deeper, going this direction will shake me to my core. There's a void there. Nah, I'm not pulling that scab off. Not happening. I'm not ready for that level of enlightenment.
 
 Well, you know what to do when you're ready. We're not in a rush. You don't have any existential pressures, so let life move at your own pace. Find and help someone like you.
@@ -119,6 +150,7 @@ Instead of "I am the messiah" enlightenment, you experienced, "we're in this tog
 Menu of purposes, to design your own formula. Enlightenment is changing your formula. It's just another normal part of human life, like,
 "hey, I got enlightened today. My formula changed."
 "Oh nice, was it a big change? Short-term or long-term purpose?"
+Analogy: enlightenment (your purpose radically changing) is a normal part of continuous mental development. A normal, but sometimes intense, part of life. Like the birth of your child or having a loved one die. The old you dies and there's a new you that you're not completely comfortable with yet. You're used to playing the old you - it's far more familiar, fresh new circuits that haven't been used much are under strain and old worn ones are dormant. The old thought basilisk that is you has died and a new one is here (new purpose / definition).  
 
 
 At worst, our purposes don't change and we get it switched again next month. At first they're like, <3. But then they're like, "oh shit, I got you to think about something else. I won't be able to see my purpose for another year! What's my purpose now!?" Existential dread.
@@ -170,3 +202,9 @@ It's because xyz, and he realizes this thing he actually does have to be a messi
 "You know that thing we're taught since we were five? If you want to change your purpose, The way to change your purpose is to think, *how would I behave if X was my purpose?* Do those things. Channel that thought basilisk. Eventually it will become your purpose.
 
 That's what I've been doing. For five years. My purpose is stuck. It's been the same for five years now, and I've spent every waking moment trying to change it.
+
+Most things are indexed of some purpose that most people share. Continue existing is generally accepted. Some populations also have some theistic/nationalistic/ethnocentric shared beliefs. Objects' purpose tend to use those shared index.
+
+Improvise dialog with a session with Max Z. Explain circumstances and society deeply. Reveal new information and ask how he would react and say at each step.
+
+There's no such thing as having no purpose. If you have a conscious thought and take an action, you chose a purpose whether you wanted to or not.

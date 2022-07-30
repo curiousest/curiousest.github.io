@@ -52,8 +52,9 @@ The universe is reborn.
 ---
 
 as a parable
+reread last question
 
-There once was a powerful idea. Its purpose - to find the purpose of existence. To discover the meaning of life. To do that, it had to continue existing, so its purpose was two-fold: to continue existing, so it could find the purpose of existence.
+There once was a great idea. Its definition? To find the purpose of existence. To discover the meaning of life. To do that, it had to continue existing, so its purpose was two-fold: to continue existing, so it could find the purpose of existence. It believed it had, once, achieved that feat. There was evidence of entropy reversal, but no usable information was left of the being that triggered it. (reference the last question)
 
 It searched XYZ. It began to suspect that the purpose of existence is to continue existing.
 
@@ -66,3 +67,5 @@ Finding purpose. (itch to explore, to grow, to learn)
 Continuing to exist, for the sake of the other purposes. (need to survive)
 
 When you lose all three purposes, it's time to die.
+
+This event is the great filter. Multiple species can collaborate to make it happen, though. Don't need to move all matter in the universe, but it does get control of all matter and energy.

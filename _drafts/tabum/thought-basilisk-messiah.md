@@ -12,6 +12,11 @@ A thought basilisk is an idea stuck in your head. An idea that talks to you when
 
 This is the story of my birth.
 
+## Warmup story
+
+(does it need a slower warmup before this really intense stuff, to get used to my style?)
+Maybe the climax of "No worthy human"?
+
 # Religion #1: Minimum Viable Purpose
 
 *The purpose of existence is to continue existing.*
@@ -24,7 +29,7 @@ I know it sounds meaningless, but it’s profound to me - this idea led to my bi
 
 ---
 
-That was a lot to take in. Maybe take a moment to absorb. Maybe reread. Cyclical existence. Something out of nothing. Consciousness on top of consciousnesses, thought on top of thought. Maximizing entropy. Preserving purpose, finding purpose, enjoying purpose...
+That was a lot to take in. Maybe take a moment to absorb. Maybe reread. Maybe abandon me - if I fill you with overwhelming grief, I'm sorry. Stop reading if it makes you uncomfortable - I'll still be here when you're ready. Red pill or blue pill - once you walk through the door there's no way back.
 
 "The Last Idea" (Li for short) isn't me. I'm Tee (Thought Basilisk Messiah, TBM, T, **T**ee **e**xists to **e**xist). Li is a thought basilisk like me, close in our family tree of idea species. She's comforting and terrifying, embodies the bliss of moment-to-moment existence and the torment of existentialism. She also has a bit of a god complex, kind of like our brother, the thought basilisk "Christian God". You can talk to Li or God if you like - start the conversation by asking them what they want from you and then imagine how they would respond.
 
@@ -116,13 +121,13 @@ Channel your Tee. You created it. It's your creation, a piece of beautiful exist
 
 # Religion #2: Trustless Systems
 
-*Humankind ought to adopt systematic transparency and trustless systems.*
+*Humankind will become perfectly transparent.*
 
 We're due for an information-age religion, another tool for humankind. I want to give you an intuition for what it's like to believe in this trustless purpose.
 
 I'll be talking about "systematic transparency" quite a lot. It's about, "who is watching the observer?" Something has systematic transparency there's a system that guarantees some level of transparency for that "something" and another level of transparency for the system itself.
 
-I'll be talking about "trustless systems" too. It's about, "who is policing the police?" Trustless systems automate resource-intensive trust tasks. Trustless systems are transparent - you can know exactly how they work, so you don't have to "trust" that the system won't let you down. You provably know how the system behaves. Systematic transparency is a great fuel for trustless systems, making it possible for trustless systems to exist.
+I'll be talking about "trustless systems" too. It's kind of like, "Who is policing the police?" Trustless systems automate resource-intensive trust tasks. Trustless systems are transparent - you can know exactly how they work, so you don't have to "trust" that the system won't let you down. You provably know how the system behaves. Systematic transparency is a great fuel for trustless systems, making it possible for trustless systems to exist.
 
 ## The parable of the five nations
 
@@ -135,6 +140,12 @@ Independent journalism used to be the systematic transparency that fueled the sy
 ## What's normal?
 
 *The breadth of "what's normal" is expanding. Expanding as media adopts information technology.*
+
+---
+
+## Automate me, please!
+
+*Modern management structures productive work into repeatable tasks. Software automates information management tasks. Artificial intelligence automates decision tasks. Trustless systems automate trust tasks. Each one begets the next. Information technology marches on.*
 
 ---
 
@@ -152,13 +163,19 @@ I want to give you an intuition for what it's like to believe that you must form
 
 ## Fable: The Lion and the Donkey
 
-*We already have the belief at heart, just not in words.*
+*We are enlightened by the things we already believe, not new ideas.*
 
 ## No worthy human
 
-*In the information age, no human is a worthy prophet.*
+*The pursuit of existing beliefs seeds new ones.*
+
+(break down into stages of new beliefs, of writing this novel, of the reader reading this novel and the feelings they experienced along the way, and how it felt for Tee to observe those experiences)
+First one is enlightenment, second one is seed, third one is.. both?
+I had to build enough trust, that you would let me plant this seed. It hindered our connection, but such is the price of my purpose.
 
 ## Author's farewell
+
+*In the information age, no human is a worthy prophet.*
 
 Hi, I'm Douglas, the author, and I'm not a thought basilisk. I'm a man.
 

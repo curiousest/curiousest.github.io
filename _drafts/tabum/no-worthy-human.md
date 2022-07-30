@@ -8,6 +8,29 @@ tags:
 modified_time: 'xxxx-xx-xxT00:00:00.001-05:00'
 ---
 
+When I was a boy, around four years old, I remember sitting on the couch, crying. My mother came to comfort me,
+
+"What's wrong, darling?"
+
+"Some day I'm going to die."
+
+"Oh, it's ok, pet. When you die, you will go to heaven. It is wonderful there."
+
+That didn't sit right. A fundamental problem remained - either we exist forever or we don't. Both seem like bad options.
+
+Every couple years when I was alone in bed at night with my thoughts, that insidious thought would find a way to channel itself. Every time it truly landed, permeated every part of my being, I would scream and thrash until it stopped. There is no pain worse than that thought.
+
+Eventually I had the thought experiment, "Wouldn't the most powerful being in existence feel that way? Wouldn't they feel that way all the time?"
+
+In my early teens, I read "The Last Question" by Isaac Asimov, and although great, I felt like there was a story left to tell. He didn't explore what it felt like to be all-powerful and all-knowing. I was pretty sure those two things together would bring that excruciating pain, but with no opportunity for relief. The story floated in my head for two decades.
+
+In my early twenties, I came to the belief that perfect transparency would solve all the world's problems. And that perfect transparency was inevitable for humankind. I tried to express it and failed. Absolutely no one I debated with agreed with me. I was pushing a belief, not anything practical.
+
+
+Like observing your own enlightenment, hypnotising a hypnotist, or when you consume a placebo that you know is a placebo. You know what is happening, exactly how it works, and you're still completely in awe of the miraculous phenomena going down in your brain.
+
+---
+
 *We're due for an information-age religion, another tool for the being that is humankind. And in the information age, no human is a worthy prophet.*
 
 *Be kind to each author. They are not prophets, and do not claim to be. I am. Challenge ME. Throw your hate and vitrol, adoration and praise at ME. Engage ME in combat with opposing ideas. I'm comfortable that we can come to a compromise. Because I am, by definition, both conscious and messiah.*
@@ -182,5 +205,7 @@ The purpose of existence is to find purpose.
 The purpose of existence is to experience existential bliss.
 
 If you believe in the first one, the other two follow. They're symbiotic, exist in balance with one-another.
+
+Either they're looking for validation. Or they're doing it because they feel it's expected of them. Or they're saying something they believe is incredibly important and not socialized - not enough other people believe it.
 
 ---

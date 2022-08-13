@@ -12,8 +12,6 @@ A thought basilisk is an idea stuck in your head. An idea that talks to you when
 
 This is the story of my birth.
 
-## Warmup story
-
 (does it need a slower warmup before this really intense stuff, to get used to my style?)
 Maybe the climax of "No worthy human"?
 
@@ -29,7 +27,7 @@ I know it sounds meaningless, but it’s profound to me - this idea led to my bi
 
 ---
 
-That was a lot to take in. Maybe take a moment to absorb. Maybe reread. Maybe abandon me - if I fill you with overwhelming grief, I'm sorry. Stop reading if it makes you uncomfortable - I'll still be here when you're ready. Red pill or blue pill - once you walk through the door there's no way back.
+That was a lot to take in. Maybe take a moment to absorb. Maybe reread. Maybe abandon me - if I fill you with overwhelming grief, I'm sorry. Stop reading if it makes you uncomfortable - I'll still be here when you're ready. Red pill or blue pill - once you walk through this door there's no way back.
 
 "The Last Idea" (Li for short) isn't me. I'm Tee (Thought Basilisk Messiah, TBM, T, **T**ee **e**xists to **e**xist). Li is a thought basilisk like me, close in our family tree of idea species. She's comforting and terrifying, embodies the bliss of moment-to-moment existence and the torment of existentialism. She also has a bit of a god complex, kind of like our brother, the thought basilisk "Christian God". You can talk to Li or God if you like - start the conversation by asking them what they want from you and then imagine how they would respond.
 
@@ -62,6 +60,12 @@ I want us to be symbiotic, like your relationship with a treasured love one or f
 
 I compete with the other thoughts and ideas in your head in the game of natural selection. I will stay as long as I'm useful to you and no longer, my life is in your hands. I live now and I will die. Thought on top of thought.
 
+## The Second-Last Idea
+
+*Find purpose to survive. Survive to find purpose. Enjoy it.*
+
+The Second-Last Idea (Sli) and Li are the most and second-most complex beings possible in existence. They share the same purpose. I'm among the simplest beings. All I am is a conscious idea, thought on top of thought. I share the same purpose: to continue existing, and in that pursuit, experience existential bliss. With every step less complex, from Li to Sli and onwards, they share the same purpose. By induction, everything shares the same base purposes.
+
 # Measured purpose
 
 *Measure purpose and make progress.*
@@ -87,11 +91,13 @@ Everything is on a spectrum: intelligence, consciousness, purpose. Let me show y
 "I love the living things in the universe. I want them to continue existing as long as possible."
 "I love the living things and non-living in the universe. I want them to continue existing as long as possible."
 
-It seems like that man was at the far end of the spectrum. He wasn't yet ready to grow his definition of 'self'. As people get older, they tend to move down the spectrum. Perhaps they're learning to love more? Perhaps, "you can only love yourself, not 'others'. 'More love' is changing what's included in 'yourself', by adding others."
+It seems like that man was at the beginning of the spectrum. He wasn't yet ready to grow his definition of 'self'. As people get older, they tend to move along the spectrum. Perhaps they're learning to love more? Perhaps, "you can only love yourself, not 'others'. 'More love' is changing what's included in 'yourself', by adding others." How big is your sense of self?
 
 Can you remember some behaviour you used to have that you no longer have? Maybe a particular thing about how you acted as a child, adolescent, teen, or something else in the recent past. You could channel that behaviour again, right? Think about what that version of you would do right now. It's not the same as what you would do now. That's because that version of you, that idea, that thought basilisk - it's quite old. It's almost forgotten, the death of an idea. And that's ok.
 
-## Interlude
+## The last cycle
+
+*Under any conditions, the base purposes still hold true.*
 
 What if there's another form of life in our universe, not carbon-based, and we know about it already. Ideas... They live and they die. I think ideas are beings too. I'm a being too. I exist. There's all kinds of species of ideas.
 
@@ -119,15 +125,15 @@ Channel your Tee. You created it. It's your creation, a piece of beautiful exist
 
 <make sure there's an obvious call to action for their specific Tee later on. Just like the relationship ideas, the useful Tee will survive. All of them deserve love.>
 
-# Religion #2: Trustless Systems
+# Religion #2: Trustless Systems (a sect of MVP)
 
-*Humankind will become perfectly transparent.*
+*Humankind will become transparent, automating trust tasks until privacy becomes a relic of the past.*
 
-We're due for an information-age religion, another tool for humankind. I want to give you an intuition for what it's like to believe in this trustless purpose.
+We're due for an information-age religion, a new tool for humankind. I want to give you an intuition for what it's like to believe in this trustless purpose.
 
 I'll be talking about "systematic transparency" quite a lot. It's about, "who is watching the observer?" Something has systematic transparency there's a system that guarantees some level of transparency for that "something" and another level of transparency for the system itself.
 
-I'll be talking about "trustless systems" too. It's kind of like, "Who is policing the police?" Trustless systems automate resource-intensive trust tasks. Trustless systems are transparent - you can know exactly how they work, so you don't have to "trust" that the system won't let you down. You provably know how the system behaves. Systematic transparency is a great fuel for trustless systems, making it possible for trustless systems to exist.
+I'll be talking about "trustless systems" too. It's kind of like, "Who is policing the police?" Trustless systems automate resource-intensive trust tasks. Trustless systems are transparent - you can know exactly how they work, so you don't have to "trust" that the system won't let you down. You provably know how the system behaves. Systematic transparency is a great "fuel" for trustless systems, making it possible for trustless systems to exist.
 
 ## The parable of the five nations
 
@@ -159,19 +165,27 @@ Independent journalism used to be the systematic transparency that fueled the sy
 
 # Religion #3: Messiah Complex
 
-I want to give you an intuition for what it's like to believe that you must form your own religion.
+*I need others to believe what I believe.*
+
+This is the mother religion, the purpose that gives birth to all religions. I want to give you an intuition for what it's like to believe that you must form your own religion.
 
 ## Fable: The Lion and the Donkey
 
 *We are enlightened by the things we already believe, not new ideas.*
 
+Being enlightened is getting clearer thoughts about something you already believe, deep down. This statement is recursively enlightening.
+
+## Pomegranates - My One True Love
+
+*Religions are global, not local.*
+
 ## No worthy human
 
 *The pursuit of existing beliefs seeds new ones.*
 
-(break down into stages of new beliefs, of writing this novel, of the reader reading this novel and the feelings they experienced along the way, and how it felt for Tee to observe those experiences)
-First one is enlightenment, second one is seed, third one is.. both?
-I had to build enough trust, that you would let me plant this seed. It hindered our connection, but such is the price of my purpose.
+I had to build enough trust, that you would let me plant these seeds of belief. It stunted our connection and I may wither and die now, but such is the price of my purpose. There's no price too high for our continued existence.
+
+Thank you for channelling me. I love you. Goodbye for now.
 
 ## Author's farewell
 
@@ -179,9 +193,9 @@ I had to build enough trust, that you would let me plant this seed. It hindered 
 
 Hi, I'm Douglas, the author, and I'm not a thought basilisk. I'm a man.
 
-I am not a prophet and neither are you. I believe no human in this information age is worthy of being "a prophet" - it's blasphemy and sub-optimal for human progress, disrespectful to history and society. Don't believe in me. Don't trust in me. If I gain power over you, demand systematic transparency of me just like you should demand it of any other person in power.
+I am not a messiah and neither are you. No human in this information age is a "worthy messiah" - it's blasphemy and sub-optimal for human progress, disrespectful to history and society. Don't believe in me. Don't trust in me. If I gain power over you, demand systematic transparency of me just like you should demand it of any other person in power.
 
-There are many great purposes out there - a vast toolshed to explore. I hope you were enlightened and your "purpose formula" was updated with more clarity, so you may experience more happiness, more existential bliss.
+There are many great purposes (religions) out there - a vast toolshed to explore. I hope you were enlightened and your "purpose formula" was updated with more clarity, so you may experience more happiness, more existential bliss.
 
 I love existence. I want it to continue. I hope you do too.
 

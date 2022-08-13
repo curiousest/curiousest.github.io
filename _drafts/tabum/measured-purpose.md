@@ -189,6 +189,7 @@ Addicted to enlightenment. Tries to change his formula but can't. It's stuck in,
 10% continue existence
 
 
+Christianity is 70% survive, 20% find purpose, 10% enjoy
 
 People can change formula whenever they want. Usually happens 1x/year or after a big life change, so that people don't become robotic. Output of formula is constant.
 

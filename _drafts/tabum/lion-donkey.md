@@ -33,6 +33,6 @@ Years later, the same Lion came back and preached to the Donkey,
 
 "Says who?" laughed the Donkey.
 
-"Says you. Because you are great too, and it's time for all to celebrate our greatness." chanted the Lion.
+"Says you. Because you are great too, and it's time for the kingdom to celebrate our greatness." chanted the Lion.
 
-"Yes, I am great. You are great. Tell me more." said the Donkey.
+"Yes, I *am* great. You are great. Tell me more." said the Donkey.

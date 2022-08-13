@@ -185,27 +185,12 @@ So we're beginning to produce all this data so that we achieve productivity gain
 
 Trustless systems operate on a stream of information from many diverse sources observing the same thing. Trustless systems rely on there being enough observers that it's really hard for a bad actor to manipulate enough of them to not get caught.
 
+(break down into stages of new beliefs, of writing this novel, of the reader reading this novel and the feelings they experienced along the way, and how it felt for Tee to observe those experiences)
+
 
 ---
 
-Tee can be used to push any religion. You can make your own religion. Find a purpose and design a worldview around it. Let's take my favourite fruit as an example. I eat a pomegranate every day with lunch. Let's say my purpose is, "I must eat a pomegranate every day for lunch." Well, I'm going to orient my behaviour around that. I'll channel the thought basilisk for this purpose, Pombro, whose definition is, "what would I do now, if my purpose was to eat a pomegranate every day for lunch?". If it's lunchtime, I'll eat a pomegranate. I'm going to make sure I have pomegranates in stock at home. I'm going to make sure that my supply of pomegranates can't be interrupted. I'll go to a farm, guarantee supply and shipping. I'll diversify across farms, just in case one encounters instability in weather, business, or shipping. I'll talk with doctors to figure out how to make my body eat one every day under all circumstances.
+Tee can be used to push any religion.
 
-All of this sounds like a lot of effort. It's actually a bit infeasible to do it all by myself. It would be much easier to achieve this purpose if others shared this purpose. Pombro tells me, I have to get others to have this same purpose. Well, it's easier to convert people who already behave this way. I just have to find the people who already behave this way and explain the purpose they're already following. It'll make them feel relieved, that they were doing "the right thing" this whole time, and they just have to tweak a couple things to follow the purpose perfectly. Following a purpose perfectly brings the feeling of enlightenment and existential bliss. I'll go look for people who eat lots of pomegranates and convince them. I made them experience enlightenment, and they're onboard now. It's harder to convert people who don't eat pomegranates much, even harder to convert people who don't eat fruit, and the crazy people who are explicitly opposed to eating pomegranates or eating lunch are heretics.
-
-But I can believe in pomegranates for lunch *and* another purpose. Maybe they'll clash a bit sometimes, but that's ok. So we can have multiple purposes. What's the one purpose that is in line with everyone's behaviour? The superset of all purposes? Let's zoom waaaay out. Universe, existence. Everyone wants to continue existing. But what about people dying for their nation? It must be that their definition of self is greater than their one human being - they would die so that their group could continue existing. Could a nation die to save another nation? I guess so, if it saves their species and there's no grudge. Would a species die to save another species? I guess so, if it saves their shared genetic heritage. Would Earth-originating species die to save elsewhere-originating species? I guess so, if it continues life in our universe. Would life in our universe (including other potential planes of existence, like heaven, etc.) die to save the non-living things in our universe? I guess so, if existence can continue, but lots of individuals probably stop caring at this point. Would existence die to save non-existence? I don't think that makes sense. That must be the boundary. I would die for existence to continue. I want existence to continue.
-
-What about a god? It could exist forever. I guess it would need to find a way to find new purpose.
-
-What about suicide? I guess some people don't want to be a burden. Or they want one last validation. But I think there are some people who want to die with dignity - they believe that the quality of their existence matters. There's another religion in there, can't put my finger on it. "The purpose of existence is to experience existential bliss."
-
-"I'm not helping existence continue and I'm not finding any new purposes. I am a ball of existentialism, have evidence that it won't change. I will never experience existential bliss. I have evidence that I can not fulfil the three ultimate purposes."
-
-The purpose of existence is to continue existing.
-The purpose of existence is to find purpose.
-The purpose of existence is to experience existential bliss.
-
-If you believe in the first one, the other two follow. They're symbiotic, exist in balance with one-another.
-
-Either they're looking for validation. Or they're doing it because they feel it's expected of them. Or they're saying something they believe is incredibly important and not socialized - not enough other people believe it.
 
 ---

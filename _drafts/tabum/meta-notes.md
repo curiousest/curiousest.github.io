@@ -153,6 +153,28 @@ Here’s the story of my birth.
 
 ---
 
+What's the one purpose that is in line with everyone's behaviour? The superset of all purposes? Let's zoom waaaay out. Universe, existence. Everyone wants to continue existing. But what about people dying for their nation? It must be that their definition of self is greater than their one human being - they would die so that their group could continue existing. Could a nation die to save another nation? I guess so, if it saves their species and there's no grudge. Would a species die to save another species? I guess so, if it saves their shared genetic heritage. Would Earth-originating species die to save elsewhere-originating species? I guess so, if it continues life in our universe. Would life in our universe (including other potential planes of existence, like heaven, etc.) die to save the non-living things in our universe? I guess so, if existence can continue, but lots of individuals probably stop caring at this point. Would existence die to save non-existence? I don't think that makes sense. That must be the boundary. I would die for existence to continue. I want existence to continue.
+
+What about a god? It could exist forever. I guess it would need to find a way to find new purpose.
+
+What about suicide? I guess some people don't want to be a burden. Or they want one last validation. But I think there are some people who want to die with dignity - they believe that the quality of their existence matters. There's another religion in there, can't put my finger on it. "The purpose of existence is to experience existential bliss."
+
+"I'm not helping existence continue and I'm not finding any new purposes. I am a ball of existentialism, have evidence that it won't change. I will never experience existential bliss. I have evidence that I can not fulfil the three ultimate purposes."
+
+The purpose of existence is to continue existing.
+The purpose of existence is to find purpose.
+The purpose of existence is to experience existential bliss.
+
+If you believe in the first one, the other two follow. They're symbiotic, exist in balance with one-another.
+
+Either they're looking for validation. Or they're doing it because they feel it's expected of them. Or they're saying something they believe is incredibly important and not socialized - not enough other people believe it.
+
+Hypnotically induce enlightenment. Suggestible people are capable of believing better.
+
+
+
+---
+
 An underdeveloped society uses privacy to protect the weak from the powerful.
 
 Dystopic, absolute privacy world. How do they know they’re not being tracked? Society and technology erodes.
@@ -282,7 +304,9 @@ Why do we keep trusting people and falling in love with the idea of them? It fai
 
 Logo: eye inside the iris (coloured / black part of the eye), recursively. As simple as possible so anyone can draw it. Human harbouring other consciousnesses.
 
-Book graphic: simultaneously human, higher-level of consciousness alien, and comforting. Recursive eyes on a beautiful motherly woman's face?
+Book graphic: simultaneously human, higher-level of consciousness alien, and comforting. Recursive eyes on a beautiful motherly woman's face. Uncanny valley. Edit a photo of a real person. Slightly psychadelic, but subtle enough that it doesn't trigger you to think, "that's a psychadelic theme".
+
+Woman holding Li text (cycle of "survive"<>"find purpose" around "enjoy existence")
 
 Blog / book. Have recursive eye looking / blinking in the background. Holographic shimmering recursive eyes (hardcover)
 
@@ -301,6 +325,9 @@ Every waking moment and digital content recorded by multiple independently-contr
 ---
 
 What can you do? Promote digitization and AI proliferation. Make sure data is as unsiloed as possible, with multiple independent data sources. Non-monopolistic data sources. That will set up the breeding grounds for systematic transparency and trustless systems.
+
+It’s your duty to religiously share information (closer to factual sensor data the better) about things that are more powerful than you. That is the ritual.
+
 
 ---
 
@@ -334,9 +361,15 @@ Standup joke:
 
 And that's how a religion starts. I'm so unrelatable, it's cannon.
 
+---
+
 Counterargument to happiness is the purpose of existence:
 
 "You know, I thought that too. I was like, I must be wrong. I have to find evidence that suggests I'm wrong. What about happiness - it's the way that some societies are measured. A lot of people say the purpose of existence is love and happiness. So I googled it. I searched, 'what is the purpose of happiness?'. Do you know what I found? The first hit said, 'happy people were more apt to survive, they were more likely to pass on their happiness genes' It's embedded in the core of each culture and language - happiness helps us exist longer. Then I searched for the definition of happiness. I found something that said, "happiness is a mix of positive emotions and also a deeper sense of meaning and purpose". Ok, so the purpose of existence is happiness and happiness is finding deeper purpose? So the purpose of existence is to find purpose? That sounds like a recursive entropy generation activity. Case closed. I'm pretty sure it's reducible to, "we exist to continue existing".
+
+Imagine people in a society chased enlightenment instead of wealth, sex, or power.
+
+Unbearable lightness of being. Imagine not circular existence.
 
 ---
 
@@ -407,7 +440,46 @@ Yes, but then everyone will have proof, as long as information technology is adv
 
 You can have multiple purposes. It just makes it harder to experience existential bliss. Prayer builds existential bliss - it's the act of focusing down to one purpose. Flow is purpose incarnate. It's existential bliss.
 
+It’s not that I do or don’t believe in god. It’s just neither is part of my purpose. I could see how beautiful it could be to believe in those things. They aren’t me, though.  
+
 
 To understand the mechanics of purpose, try building a religion. Tee's birth is an exercise in religion-building. Story of how I tried to build a religion through this book.
 
 Black hole of purpose. All I can do is hang on to this thread of thought.
+
+If someone can channel a separate conscious thought and have it think, “the purpose of existence is to continue existing “, then they must believe in the religion. Prime the idea, make them think they came up with it.
+Your conscious thought should think, what should I do to make the human race last as long as possible, so that my existence can possibly continue along with the human race. Right, humanity as long as possible. Now, your idea wants this. Do you want it for yourself too? Don’t you think that same way - wanting humanity to exist for as long as possible, shouldn’t that be your life purpose?
+
+Feels like every decision you made is the correct one. Every moment of existence is exactly how it should be. You could even be dying and think, “wow, this is perfect. The machine is running smoothly.”
+
+---
+
+Christianity. Jesus probably started from a purpose:
+
+"Humankind would be better off if they treated one another better. Do unto others as you would have them do unto you." So he starts from there and tells stories that *make sense*. Of course you should help someone in need - you might find yourself in need someday too! Of course... etc.
+
+And then he probably had some resistance. He thought, well, everyone would act way better if they knew someone was watching, and that someone would make an important decision based on how you act towards others. It's bad that you did bad things, but you can always find ways to right your wrongs. Of course it works that way - the aim is for you to be a productive part of society by helping others out. It was a useful tool, that made societies who followed it more productive.
+
+But what was he really trying to do?
+
+"Humankind would be better off if they treated one-another better."
+
+Better for what purpose? It sounds like there's something more fundamental being pursued underneath it all. I think it's greater productivity, giving us a better chance to survive. The base purpose, underneath it all, is survival.
+
+The old religion is about telling you how to behave, so that you treat other people properly. This new religion is inherently like that too. Its objective is to change your behaviour. The new behaviour change, though, is how to deal with having access to far more information than humans were built to handle. Having far more information about the people around us.
+
+I want to bring you more happiness and productivity. Most people don't need saving. Some do, and many religions can help them. You already believe in this religion, you just haven't put it into words yet. Putting it into words will give you more happiness and productivity. It will give you flow and enlightenment in everyday life.
+
+Continue surviving. There is a way to improve our chances for survival, and we have to seek it out. You can choose any purpose, but all of them boil down to surviving longer. The more closely you align to any purpose you have, the happier you will be.
+
+This religion has no new rituals - you already live and breathe them because you live and breathe. I'm describing the purpose that everyone already follows, the religion that everyone has always adhered to. Could we be doing a better job of adhering to it? Maybe, but this is the religion of observation, not behavioural change. As soon as you request a behavioural change, you propose a sect - an interpretation of the base religion. But we are following the religion, no matter our behaviour, always.
+
+How is it useful? As a lens to inspect and evaluate the value of other religions.
+
+What am I the messiah of? Well, I bring to you multiple religions. I am the messiah of many disjoint religions. You follow MVP, whether you like it or not. It asks no behaviour change of you, and no behaviour change can excommunicate you from it. This next religion, however, has an agenda. This next religion calls for you to change.
+
+"Why do you want to stop existence?" thought experiment.
+List off the reasons why he might want to pursue it. It's as simple as, "want to end and nothingg more".
+make a better one?
+celebrate self?
+The pursuit of of the end of existence is a pursuit. As soon as it is achieved, he'll look for a new one.

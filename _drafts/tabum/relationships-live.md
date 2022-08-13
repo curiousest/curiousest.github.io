@@ -97,17 +97,6 @@ DanJohn stoic, constructive, of few words, middle-aged. Dad around cousins.
 JL has baggage, old, didn't age well, self-destructive. Cy
 DL naive, has wrong assumptions, flexible, young, eager. Charles.
 
-* 19 uni
-* existing romantic relationship between guy (M) and girl (J)
-* existing friendship between two guys (M, D)
-* other guy and girl catch eyes (D, J)
-* romantic relationship (JohnLily) weakens, other romantic relationship takes advantage (DanLily)
-* romantic relationship (DanLily) is short-lived, other (JohnLily) regains strength from entrenched connection
-* JohnLily eventually runs its course to a weak connection
-* DanLily starts up again
-* DanLily gets old and runs its course
-* DanJohn silent observer with relatively consistent strength over time. DanJohn introduces JohnLily to DanLily (frosh week is new lands, fertile and rich with potential for strong connections. Strong existing connections help pull up weak ones.)
-
 * What sensors do relationships have?
 * What mental processing do they possess? Individual brains. Groupthink?
 * Frowning upon behaviour. Unwritten laws of relationships.
@@ -124,6 +113,9 @@ Visuals: roots into blatantly eyeless living beasts of burden. A tree with a Tee
 DanLily is rhythmic, metered.
 
 So there's some social faux-pas going on here. Having a romantic relationship with a friend's former partner can be a good thing, but it's complex situation to navigate effectively. It takes communication, consent, and emotional maturity to both preserve the existing relationships and make space for growth in one of them. We were three 18-year-olds. I've never had a girlfriend before, still have that teen-aged emotional maturity. Lily and John have just a bit more than me. We're all animalistic-brained, "see attractive thing, want it, go for it". We didn't, *I didn't* navigate effectively.
+
+What if we trained ourselves to embody multiple consciousnesses concurrently? Like “being” Dan and DanLily at the same time, and training yourself how to do it intentionally. “You are the physical embodiment of this nation, as well as queen xyz.” (No one except Dalia lama is raised like that)
+
 
 ## Feedback
 

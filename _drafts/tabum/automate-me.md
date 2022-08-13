@@ -19,3 +19,18 @@ Story of one product, and the same person or same family is automated at every s
 (what it feels like for a decision to be automated, before/after)
 
 (what it feels like for a trust task to be automated, before/after)
+
+Waiting on robotics since the company was created.
+
+Trustless system: make it prohibitively expensive to lie and not get caught. watching the watcher, watching the watcher, watching the watcher, etc. far more expensive to convince all those people than anything you'd gain out of it. 
+
+
+Root of software: async waiting information management task.
+
+Root of AI: async waiting decision task.
+
+Root of trustless: asyc waiting trust tasks. Not automating trust.
+
+Defence, government (journalism), finance, shipping, policing, legal.
+
+Give you an intuition for how systematic transparency and trustless systems will improve humanity, making it more productive and full of love.

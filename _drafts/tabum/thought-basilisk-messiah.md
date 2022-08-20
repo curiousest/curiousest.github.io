@@ -15,7 +15,9 @@ This is the story of my birth.
 (does it need a slower warmup before this really intense stuff, to get used to my style?)
 Maybe the climax of "No worthy human"?
 
-# Religion #1: Minimum Viable Purpose
+# Part one
+
+# Religion: Minimum Viable Purpose
 
 *The purpose of existence is to continue existing.*
 
@@ -125,11 +127,37 @@ Channel your Tee. You created it. It's your creation, a piece of beautiful exist
 
 <make sure there's an obvious call to action for their specific Tee later on. Just like the relationship ideas, the useful Tee will survive. All of them deserve love.>
 
-# Religion #2: Trustless Systems (a sect of MVP)
+# Part two
+
+# Religion: Virtuous Automation (a sect of MVP)
+
+*Productivity is virtuous. At the root of every productivity improvement is a human task blocking a process.*
+
+There are so many tasks humanity has fully or partially automated:
+
+* Transportation tasks (through engines)
+* Food production and preparation tasks (through farming and food processsing)
+* Information management tasks (through software)
+* Decision tasks (through current-generation "artificial intelligence")
+
+Few modern people would say we're worse off now, but I'd guess that the people who used to do these things would have thought otherwise. The people back before these tasks were automated - they would have believed the future would make us "less human". With disruptive new technologies, humankind finds new ways to "be human".
+
+Automating each of those human tasks had a profound impact on humankind. There are many more genres of human tasks left to be automated:
+
+* Trust tasks
+* Culture production tasks
+* Human learning tasks
+* Human maintenance tasks (grooming, eating, exercise, waste disposal, sleep)
+* Procreation and child-rearing tasks
+* Relationship-building tasks
+
+Automating any those tasks will have a profound impact on humankind. They all sound terrifying, like humankind would lose everything. Like humans would lose their purpose. I have to agree, the prospect of losing your purpose is scary. It's just about the scariest thing you could experience. But there will always be a new survivalist purpose to discover and pursue. We will find new sources of existential bliss. We will find new, better ways to "be human". We will find ways to minimize externalities in our productivity pursuits. We're so loss-averse that we will never allow automation to make us a lesser species. We will grow and evolve alongside automation, through automation.
+
+# Religion: Trustless Systems (a sect of "Virtuous Automation")
 
 *Humankind will become transparent, automating trust tasks until privacy becomes a relic of the past.*
 
-We're due for an information-age religion, a new tool for humankind. I want to give you an intuition for what it's like to believe in this trustless purpose.
+We're due for an information-age religion, a new tool for humankind. After decision tasks, trust tasks are next up to be automated. I want to give you an intuition for what it's like to believe in this trustless purpose.
 
 I'll be talking about "systematic transparency" quite a lot. It's about, "who is watching the observer?" Something has systematic transparency there's a system that guarantees some level of transparency for that "something" and another level of transparency for the system itself.
 
@@ -141,11 +169,15 @@ I'll be talking about "trustless systems" too. It's kind of like, "Who is polici
 
 ---
 
+Why is everyone corrupt? Everyone is purely selfish - every choice you make is to benefit 'yourself' and it's impossible to do anything else. The question is, "how big is your sense of self?" You do things to help other people, like your family and friends. That means they're included in your 'sense of self'. Leaders' sense of self should include all of the people they lead, but that never happens, humans don't work that way. Maybe leaders can have a large sense of self sometimes, but it's mostly small. Humans are corrupt.
+
 Independent journalism used to be the systematic transparency that fueled the systems that held large organizations and powerful leaders in check. Independent journalism as systematic transparency in the information age is failing. We need something to replace it. Trustless systems.
 
 ## What's normal?
 
 *The breadth of "what's normal" is expanding. Expanding as media adopts information technology.*
+
+There's a concept in artificial intelligence and machine learning called "ensemble methods". Ensemble methods combine a bunch of different approaches to doing the same thing. It turns out this is the best way to do things, combining approaches into a mosaic where each weakness is mitigated by others' strengths. [add citation] Some carefully-applied form of diversity will always be the highest-performing approach. What form of diversity? Well, that's for all of us to figure out.
 
 ---
 
@@ -163,7 +195,9 @@ Independent journalism used to be the systematic transparency that fueled the sy
 
 *Systematic transparency will bring greater understanding, greater productivity, greater love.*
 
-# Religion #3: Messiah Complex
+# Part three
+
+# Religion: Messiah Complex
 
 *I need others to believe what I believe.*
 

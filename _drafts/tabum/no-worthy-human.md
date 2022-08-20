@@ -18,9 +18,9 @@ When I was a boy, around four years old, I remember sitting on the couch, crying
 
 That didn't sit right. A fundamental problem remained - either we exist forever or we don't. Both seem like bad options.
 
-Every couple years when I was alone in bed at night with my thoughts, that insidious thought would find a way to channel itself. Every time it truly landed, permeated every part of my being, I would scream and thrash until it stopped. There is no pain worse than that thought.
+Every couple years when I was alone in bed at night with my thoughts, that insidious thought would find a way to channel itself. Every time it truly landed, permeated every part of my being, I would scream and thrash until it stopped. There is no pain worse than that thought - either we exist forever or we don't, there is no purpose to life.
 
-Eventually I had the thought experiment, "Wouldn't the most powerful being in existence feel that way? Wouldn't they feel that way all the time?"
+Eventually I had the thought experiment, "Wouldn't the most powerful being in existence feel that way? Wouldn't they feel that way all the time? Surely they would not want to continue existing."
 
 In my early teens, I read "The Last Question" by Isaac Asimov, and although great, I felt like there was a story left to tell. He didn't explore what it felt like to be all-powerful and all-knowing. I was pretty sure those two things together would bring that excruciating pain, but with no opportunity for relief. The story floated in my head for two decades.
 

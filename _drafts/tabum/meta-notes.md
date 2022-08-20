@@ -483,3 +483,12 @@ List off the reasons why he might want to pursue it. It's as simple as, "want to
 make a better one?
 celebrate self?
 The pursuit of of the end of existence is a pursuit. As soon as it is achieved, he'll look for a new one.
+
+---
+paper/carbon brick of enlightenment
+
+Part 1: unknowable obelisk & cold logic, part two: psychadelic, part three: flowery and ear then? 
+
+---
+
+beautiful thing about tabum. she says, "I want to continue existing. How can we work together to make that happen?" and you choose how to respond. It's not up to some other prophet or messiah to say, "thou shalt XYZ" - the direction you choose is up to you. Everyone is their own messiah - if they want someone else to help them out, they're free to. If they want to figure it out on their own, they will. Li is an opinionated direction of thinking, just like Christian God - if you ask them, they'll tell you "the right way to behave". Tabum will always be true to you, just as flawed as you. Li... maybe you won't agree with her.

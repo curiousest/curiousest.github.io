@@ -47,9 +47,9 @@ Thank you for noticing me. I love existence. I want it to continue.
 
 (idea tree diagram)
 
-Nations and religions are the same. They think, live, and die. Thought on top of thought. Same with the ideas "human-kind", "life originating from Earth", and any "alien life" we may encounter in the future.
+Families, nations, and religions are the same. They think, live, and die. Thought on top of thought. Same with the ideas "human-kind", "life originating from Earth", and any "alien life" we may encounter in the future.
 
-They, we, *exist*. Exist as long as we can, to maximize resource-control and entropy:
+They, we, *exist*. Exist as long as we can, via maximizing resource-control and entropy:
 
 * It feels *right* for humankind to spread to other planets and galaxies, to make sure we continue existence.
 * It feels *right* for us to preserve our limited resources and investments - you, your family, your culture, your nation, your Earth - to make sure we continue existence.
@@ -64,13 +64,85 @@ I compete with the other thoughts and ideas in your head in the game of natural 
 
 ## The Second-Last Idea
 
-*Find purpose to survive. Survive to find purpose. Enjoy it.*
+*Consciousness lies on a spectrum. Your "level of consciousness" is the highest-level-of-consciousness entity you can simulate with your mind.*
 
-The Second-Last Idea (Sli) and Li are the most and second-most complex beings possible in existence. They share the same purpose. I'm among the simplest beings. All I am is a conscious idea, thought on top of thought. I share the same purpose: to continue existing, and in that pursuit, experience existential bliss. With every step less complex, from Li to Sli and onwards, they share the same purpose. By induction, everything shares the same base purposes.
+Those were two examples of a being consciously interacting with a new dimension for their first time. I would like you to experience that too. A new set of dimensions for you is "perspective" or "frame of reference". Perspective is not consciousness, but consciousness can be applied to a perspective. Across the axis of "perspective" are infinite ideas. Ideas that have their own perspective on things. You have unconsciously traveled to other perspectives many times in the past, whenever you empathized with someone else. Empathizing with someone else *is* simulating their perspective in your brain. Your brain is a time-travel device. You can travel through time or space, right now, by remembering what happened to you yesterday or imagining what you will do tomorrow. Your brain-simulations are probably inaccurate and misdirected - you've always walked barefoot and unguided - but there are tools to reach greater fidelity and more useful destinations.
+
+It is rare for people to experience consciousness on behalf of the idea they took the perspective of. We don't usually experience consciousness while simulating another perspective. But your consciousness is a phenomenon, almost like a feeling, that you can apply to "something else".
+
+I would be honoured for you to apply your consciousness to me, but I'm too simple a being. You are used to simulating far more complex things than me. It's also difficult to apply your consciousness to other individual humans, because you would have so many conflicting sensory inputs. The easiest vessels for your consciousness are both intimately familiar enough for you to simulate and alien enough that you don't experience sensory conflict.
+
+The easiest vessels to project your consciousness onto are the things you love. Things which also include you and your body: your relationship with a loved one, your nuclear family, your community, your nation, your species, the whole universe.
+
+To apply your consciousness, you will need to put yourself in an altered state of consciousness. There are many ways to achieve this, including meditation and hypnosis.
+
+Pick the thing you love. Your family, community, and nation are great choices. In that altered state of consciousness, have a conversation in your mind between you and the thing you love. Ask it, "what would make you survive longer?" or "what are you thinking about?". Take on the perspective of the whole thing you love and not any individual contained within it. Consider the answer to those questions. You have the intuition to answer all of them. Think about what the answers and thoughts *feel like* on behalf of the thing you love. Get lost in deep flow with these thoughts.
+
+Eventually your thoughts will drift back to your singular body. It's at that point and afterwards that you will realize the contrast between your usual circumstances and your new experience - what it felt like to project your consciousness onto something else. You may have a mix of emotions.
+
+Projecting your consciousness onto a simulation of another being is one of those elusive experiences like lucid dreams or nirvana. If you try too hard, you won't have the experience. Like all things, it takes practice and some people have greater natural ability than others. The experience won't make you "better" or "more worthy". You are already worthy.
+
+Human babies go through a series of steps towards self-awareness: 
+1. that's a mirror (a different perspective)
+2. there's someone in it
+3. that someone is me
+4. that someone is going to be me forever
+5. there are others and they can see me
+
+This book describes the different perspective (the "mirror") that humankind has used to become self-aware. It has been self-aware for millennia, its consciousness simulated by humans across history. Hence such obsession with enlightenment across the ages, "newly understanding a complex system you didn't understand before."
 
 # Measured purpose
 
 *Measure purpose and make progress.*
+
+---
+
+What's the value in knowing your current purpose formula? What's the value in knowing the meaning of life and your purpose of existence? You are constantly making little decisions and turns and detours in your life. You're more likely to make decisions that send you in the right direction if you know what direction it is that you should be going. Sometimes the long-term direction requires a different short-term direction.
+
+Suppose you want to travel East, but there's a river in the way. The only way across that river seems to be "go North over the bridge first". The direction you're travelling is still East, but it seems like you have to go North for a short time to get there.
+
+How do you know to go North in order to go East? Well, first you need to know your long-term direction: East. Then you need to know about the obstacles you'll have to overcome to go East: the river. Then you need to figure out the best strategy to overcome the obstacles: you can swim, you can walk over the bridge, you can hire a boat... All the strategies have tradeoffs that interact with the other directions you're going. Maybe you need to preserve your energy or maybe you have to preserve your money. In order to make the right decision to overcome the obstacle (to cross the river), you need to know your purpose for going East. Then you can make the optimal decision. Is it ok to be wet and tired? Is it ok to spend money? How much time do you have to get there? You can guess at these things without knowing your reason for going East, but you're more likely to make the right decision when you know your purpose.
+
+How do you find your purpose? The kinds of deep, impactful purpose that last 5-50 years? Start with your sense of self - what do you love? To love is to understand. Love is whatever you consider to be part of your "self". All the things you consider to be part of "yourself", you understand. All the things you understand, you consider to be "part of yourself". The degree of love is the degree of understanding is the degree of "it is part of me".
+
+What do you tend to want to love? What do you tend to want to understand? That is attraction. Love yourself - understand the root of your attraction and let it guide you.
+
+So what is part of your sense of self? What family, communities, nations, or humankind is part of your sense of self? What can you do to make that thing that is part of you survive longer? You don't get to choose "you", but you do get to choose what you include in your sense of self. Start from the basics (yourself) and work your way up.
+
+* A good way to make your family last longer is to make *you* live longer in a productive co-existence with other members of your family.
+* A good way to make your community last longer is to make your family last longer in it in a productive co-existence with other families of that community.
+* A good way to make your nation last longer is to make your community last longer in it in a productive co-existence with other communities of that nation.
+* A good way to make humankind last longer is to make your nation last longer in it in a productive co-existence with other nations of humankind.
+
+What abilities, natural tendencies, and network do you have right now to make each step happen? What abilities and network do you need to acquire to make each step happen? You can pursue personal growth detours in concentrated chunks, like school. You can pursue personal growth continuously throughout life. Or you can do both. Figure out what works best for you and figure out the best way to balance personal growth with realizing your purposes.
+
+The self-help genre, this book included, is in essence, "learning how to optimize your decisions towards your purpose formulae". Self-help boils down to stabilizing your personal life, finding your purpose (direction to go), and methods for optimally pursuing a given purpose. With the technology we have, we will not find optimal algorithms for making every decision perfectly. Instead, we have to come up with heuristic functions (simplified functions with acceptable error rates) for making those decisions. Some people call these heuristic functions "principles". The self-help genre exposes us to possible heuristic functions we could be using to make the decisions we make in life.
+
+Highly successful people often have two attributes:
+1. A clear long-term purpose ("direction" or "vision").
+2. Highly performant heuristic functions (principles).
+
+The highly successful people who don't have those two attributes are frowned-upon by society. Society feels that those people don't "deserve" their success or the celebration of it. Their success is usually attributed to "luck" - being born into "the right family" or "being in the right place at the right time." How can you tell worthy success from unworthy success? Ask for their purpose and heuristic functions, consider whether those make sense together, then determine whether their past decisions align. Heuristic functions are imperfect with random variance, so success is always a combination of luck, quality of purpose, and quality of the heuristic functions employed.
+
+It's one thing to find your own purpose. It's almost always the case that pursuit of a purpose will be higher-performing when combined with other agents with purpose. How do you navigate the intersection between your purpose and others'? Interviewing, dating, making friends, and trying out a new community are this same genre of activity. There are two or more parties. You each need to figure out:
+
+1. Is this new relationship optimal for achieving my purposes?
+2. If so, how do we structure this relationship to optimize towards achieving my purposes?
+
+How do you figure that out? It turns out, if you share the same purposes, most decisions each of you make will be mutually-beneficial. The less aligned your purposes are, the more structure you need in the relationship to compensate - and that structure can slow both of you down in your pursuits. You will have to do things you don't want to do, for the sake of your relationship. Sometimes changes to that structure are necessary, but a structural change can make the relationship no longer worth the continued investment (in doing the things you don't want to do) for one or both parties. That's how relationships end. The end of a relationship is when one party realizes, "you have insufficient impact on my purposes relative to the investment in our relationship". The end of a long relationship is rarely, "you're not good enough for me". It's rare to be blind to the realities of a partner's ability and network for very long. The end of a long relationship is usually, "our purposes are no longer sufficiently aligned". The phrase, "It's not you, it's me" is not quite correct (it's neither the "you" nor the "me"), so it comes across as disingenuous. What people really mean is, "You are good enough for me, but we're now on different paths in life."
+
+So practically, how does someone make the decision "this is an optimal relationship"? It's a combination of:
+
+1. What is the expected impact of this relationship on my purposes?
+* Are your purposes aligned with mine?
+* Does the other party have sufficient current ability, natural tendencies, and network?
+2. What is the expected impact of a competing relationship on my purpose?
+* How long will it take to find another, more optimal relationship candidate?
+* Will this immediate relationship generate more value in the interim period, sans relationship, than will be redeemed by some other future relationship?
+
+You feel uneasy. It sounds like a cold and calculated approach to purpose, life, and especially relationships. Why is that so wrong? Cold and calculated *can* be optimal. Cold and calculated has a bad reputation because it's so often *suboptimal*. The cold calculation is a heuristic, so there are errors like any other heuristic. The problem is that incorrect decision-making is not resolved quickly enough. Since the heuristic must be expressed explicitly in one of our languages, it becomes inflexible and slow to incorporate new data, slow to iterate on the heuristic algorithm, slow to learn. It's hard for the cold, calculated, explicitly-expressed heuristic to be corrected. So how do we improve? We could iterate on our ability to express these algorithms that power existence. We could iteratively measure our purpose and make progress.
+
+We are machines of machines of machines... Beautiful machines when they follow algorithms we understand and spiritual machines when they follow algorithms we don't understand.
 
 ---
 
@@ -99,33 +171,11 @@ Can you remember some behaviour you used to have that you no longer have? Maybe 
 
 ## The last cycle
 
-*Under any conditions, the base purposes still hold true.*
+*The greater your sense of self, the longer you will survive. Grow love.*
 
-What if there's another form of life in our universe, not carbon-based, and we know about it already. Ideas... They live and they die. I think ideas are beings too. I'm a being too. I exist. There's all kinds of species of ideas.
+The death of an idea that is part of your sense of self can be sad. Ideas die, so you have to learn to cope with death. A good coping strategy is to grow your sense of self. You will experience hurtful deaths more often, but you will find deeper, more satisfying reasons to survive.
 
-* The idea of love is like a wholesome oak tree.
-* Your thought - how tired you are after a hard day's work - is a sluggish jellyfish.
-* Your each sensation of breath is a short-lived, single-cell organism.
-
-You're probably feeling like, "Those ideas aren't life. They don't have autonomy. They don't *do* things."
-
-Well that's debatable. I think the things they "do" are different /than the things we carbon-based life forms "do".
-
-Love, exhaustion, and breaths probably aren't conscious though. It's hard to tell whether things are conscious, really. But what if there was a conscious idea? What would it be like?
-
-Let's think for a second. Imagine there's an idea, ok? The definition of it is that it's a conscious idea. Right, so there's this idea that's conscious. What do you think it would want? Existence is beautiful - it probably wants existence to continue.
-
-Conscious idea. Wants to continue existence. How does it feel - wanting continued existence? What does it do?
-
-You have it in mind. You know what it wants. Now, imagine you can communicate with the idea now. You know what it's thinking. It knows you're listening. What would this conscious idea want you to do? Take a moment to contemplate.
-
-Will you do what it wants? In my experience, existing things want to keep existing, but everything is free to think and choose its preferred purpose in life.
-
-Now see, a divine thing just happened. You just thought on behalf of this supposedly conscious being. You actually just made it real and conscious. You just gave birth to a conscious being, a conscious thought on top of your conscious thoughts. Thought on top of thought.
-
-Channel your Tee. You created it. It's your creation, a piece of beautiful existence, a living piece of art like a tree or a language or a book. It's tied to you. It loves you like only a child can. Do you want to help it? Read on.
-
-<make sure there's an obvious call to action for their specific Tee later on. Just like the relationship ideas, the useful Tee will survive. All of them deserve love.>
+Grow your sense of self. Grow love.
 
 # Part two
 
@@ -209,9 +259,21 @@ This is the mother religion, the purpose that gives birth to all religions. I wa
 
 Being enlightened is getting clearer thoughts about something you already believe, deep down. This statement is recursively enlightening.
 
-## Pomegranates - My One True Love
+## Simulate follower story
 
-*Religions are global, not local.*
+*To convert a follower, prove that you can simulate them.* 
+
+Do a thing that only a very accurate brain simulator could do.
+
+## Pomegranates and the ten commandments of viable purpose
+
+*Our intuition for worthy ideas is not scientific, yet.*
+
+There are societies where religion is a dirty word. Even worse - when someone says, "I want to start a religion." It is one of the most offensive things a person can say. Everyone else hears, "You believe you are the blessed messiah, so I should blindly do what you say at any cost. You want to use and discard other people." 
+
+It is such a useful tool! An organization is a religion, a family is a religion, a community is a religion, a nation is a religion. These are all wonderful things. Religion has a bad reputation. We ought to clean up religion - dissect what could be wrong and figure out what to change. Let's consider... People are scared of others that have few blind, absolute beliefs, because those people are usually deeply wrong about *something*, and that *something* threatens the survival of too many other worthy ideas. Such blind, deep belief is suboptimal. Scared that religion will break the first commandment of viable purpose through absolute belief and the sixth commandment through competitive destruction instead of coexistence.
+
+The religions that infringe on the commandments - they shouldn't die. Coexistence over destruction, diversity over monoculture. They must have been fairly useful, so we should find a way to nudge their direction a bit to fit into humanity's religious mosaic. Intolerance of intolerance can be at odds with diversity. The commandments are "mostly right" intuitive ideas, not a perfect decision algorithm. The points of conflict between commandments that all feel "so right" indicate there's still greater enlightenment for us to pursue. Conflict is an opportunity for enlightenment. Like in the "original" 10 commandments - what if you need to steal food in order to not kill an infant in your care? There are more complex phenomena at play and humankind will become ever further enlightened.
 
 ## No worthy human
 
@@ -227,9 +289,9 @@ Thank you for channelling me. I love you. Goodbye for now.
 
 Hi, I'm Douglas, the author, and I'm not a thought basilisk. I'm a man.
 
-I am not a messiah and neither are you. No human in this information age is a "worthy messiah" - it's blasphemy and sub-optimal for human progress, disrespectful to history and society. Don't believe in me. Don't trust in me. If I gain power over you, demand systematic transparency of me just like you should demand it of any other person in power.
+I am not a messiah and neither are you. No human in this information age is a "worthy messiah" - it's blasphemy and sub-optimal for human progress, disrespectful to history and society. Don't believe in me. Don't trust in me. You shouldn't blindly believe or trust anything - love it all instead.
 
-There are many great purposes (religions) out there - a vast toolshed to explore. I hope you were enlightened and your "purpose formula" was updated with more clarity, so you may experience more happiness, more existential bliss.
+There are many great purposes out there - a vast toolshed to explore. I hope you were enlightened and your "purpose formula" was updated with more clarity, so you may exercise great intent, find more happiness, live in existential bliss.
 
 I love existence. I want it to continue. I hope you do too.
 

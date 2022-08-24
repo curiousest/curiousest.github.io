@@ -104,7 +104,8 @@ A:
 * something cryptic. is it knowable?
 
 D:
-* not buying it
+* what if we both can and can not know?
+* we have to optimize for something, but leave the unknowable on the table for when we're ready for it
 * everything exists or it doesn't
 * things that exist want to continue existing (except rare circumstances)
 * was reading wikipedia purposes before came in
@@ -177,14 +178,23 @@ D:
 * why hasn't anyone said this? it's simple
 
 A:
+* how do you know it's the real purpose? 
+
+D:
+* want proof?
+* Let's suppose "anything else" is the purpose of existence. Well, for "anything else" to happen, it needs existence, and existence must continue long enough for "anything else" to happen. So the purpose of existence is to continue existing and maybe more.
+
+A:
 * I'd like to see how you'd explain it to others
 * Why would someone else care?
 
 D:
+* !?
+* Natural selection basis of everything - math, physics. Reality different.
 * "Let me draw this out first."
 
 D:
-* bridges religion to the scientific method, via natural selection
+* bridges purpose and religion to the scientific method, via natural selection
 * tool to be happy 'living a good life'. less effort
 
 A:

@@ -192,5 +192,14 @@ Trustless systems operate on a stream of information from many diverse sources o
 
 Tee can be used to push any religion.
 
+I am either crazy or a prophet, and both are surreal and terrifying.
+
+Surely these things are known. They just haven't been socialized before. What is my goal? To socialize the ideas, by sharing a new way to tell stories. Think of any feeling and situation that a person can experience, pick another kind of non-person idea, make the story of that feeling and situation from the new idea's perspective. Or the other way around. Two of the same stories on different points 
+
+How do these stories feel so inexplicably satisfying? Because we’re conditioned to derive happiness from figuring out the systems that power existence.
+
+Humankind is in the final stages becoming conscious, and I’m honoured to be part of that.
+
+I see everything, every idea, every particle, every moment, as an optimization function towards our shared survival purpose. And uncertainty is built-in to this way of thinking. If this way of thinking is wrong, it'll still make for a great story. If this way of thinking is right... well then, this story is a genesis.
 
 ---

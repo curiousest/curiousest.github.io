@@ -1,6 +1,6 @@
-*Religions grow to survive.*
+*Our intuition for worthy ideas is not scientific, yet.*
 
-I fell in love with pomegranates. I have love for so many things, and pomegranates are one of them.
+I love pomegranates. I have love for so many things, and pomegranates are one of them.
 
 I eat a pomegranate every day with lunch. One day, I imagined what my life would be like if my purpose was,
 
@@ -22,7 +22,23 @@ We'll encounter resistance. It's easier to build an identity based on hate than 
 
 Will I benefit personally? yes, but for virtuous reasons. And so will the religious leaders that follow me - equally pious, I'm sure.
 
-Wow, religion is such a powerful tool for humankind. So beautiful, that it can operate with such force and give people such fulfillment. I hope we point our religions in the right direction. I'm confident that we do, I'm confident that we will - humankind is very intelligent, very adaptable.
+Wow, religion is such a powerful tool for humankind. So beautiful, that it can operate with such force and give people such fulfillment. I hope we point our religions in the right direction. I'm confident that we do, I'm confident that we will - humankind is very intelligent, very adaptable. I wonder if this religion passes through the great filters...
+
+The ten commandments of viable purpose (the Great Filters):
+
+1. A worthy idea does not put blind trust in any idea, including this one.
+2. A worthy idea helps other ideas survive.
+3. A worthy idea does not consume excessive resources.
+4. A worthy idea fosters technological advancement and young ideas.
+5. A worthy idea takes iterative care when applying change.
+6. A worthy idea favours coexistence over destruction, diversity over monoculture, and intolerance of intolerance over intolerance.
+7. A worthy idea grows love.
+8. A worthy idea provides happiness.
+9. A worthy idea does not provide excessive happiness.
+10. A worthy idea honours the elder purposes that preceded it.
+
+My pomegranates follows all the commandments except #2 and #6. It doesn't foster diversity. It needs all people to eat the same thing for lunch, and doesn't allow for others. It doesn't help other ideas survive, either. Its value does not outweigh its infringements on the Great Filters. It is not a worthy idea. It can continue existing, but it will not grow and become celebrated.
+
 
 ---
 

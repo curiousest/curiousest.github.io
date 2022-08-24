@@ -137,11 +137,29 @@ not enough 'feel good sensations now' in the recent past? inspect health (physic
 not enough 'life worth living' in the recent past? inspect goals, purposes, behaviour - are purposes/goals aligned with behaviour? Change behaviour or change goals/purpose. Consider whether size of "self" could be bigger.
 
 
-eastern spiritual enlightenment AND western practicality (scientific method)
+It's philosophy: east meets west. The western machine, enlightened by eastern spiritualism. spiritual enlightenment AND western practicality (scientific method)
 scientific spiritual enlightenment
 can we have spiritual enlightenment that's measured, proven, and optimized?
 or scientific tools held by those pursuing spiritually enlightened directions
 both western one god and eastern many gods
-utilitarianism with a different optimization objective - survival, where happiness is a side-effect and signal you're on the right track, but not the end-goal.
+utilitarianism with a different optimization objective - survival, where happiness is a side-effect and signal you're on the right track, but not the end-goal. I don’t know why anyone thought happiness is the right thing to pursue. Everyone knows that when you pursue happiness, you never seem to get what you wanted. It's an emergent signal, not the end-pursuit.
+
+How do you know that's the purpose of existence?
+
+You want a proof? Ok. Let's suppose "anything else" is the purpose of existence. Well, for "anything else" to happen, it needs existence, and existence must continue long enough for "anything else" to happen. So the purpose of existence is to continue existing and maybe more.
+
+For all we know, natural selection could be the basis of all ideas - of mathematics, physics... Their heuristic axioms might now be slightly off. This could shift our whole understanding of reality as we know it.
+
+Experiencing anything predicates continuing to exist until it has the experience. Either we haven’t yet experienced the thing or there is no thing to experience. Either way, continue to exist for now.
+
+Provides certainty and uncertainty. Leaves room for other purposes. Compatible with whatever else you believe. Whatever other purpose you have.
+
+It exists. It has to continue to exist until it fulfils that purpose. So it’s purpose is “exist for long enough to achieve X”. After that, it either gets a new purpose or it doesn’t. If it doesn’t, it can either continue existing or stop existing. If it chooses to stop, its purpose becomes, exist long enough to stop existing.
+
+The purpose of existence is to continue existing, and maybe other things too.
+
+So what!? I just solved religion. I just solved morality. This is *the purpose of existence*. The *meaning of life*.
+
+It sounds a bit meaningless to me.
 
 It doesn't say how you should change your behaviour. Sometimes other people or religions ask you to change your behaviour, and this is a framework for deciding if that behaviour change makes sense. Every religion is a way towards the MVP (to survive). You get to decide which religions are the journey you want to take. There are many ways to evaluate religions against the MVP, and the scientific method is one of them - one with a long history of predictive power.

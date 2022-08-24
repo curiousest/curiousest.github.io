@@ -71,3 +71,6 @@ The end.
 * make it rhythmic, metered
 
 graphic: Tee eye looking at crumbling illuminati eye structure (maybe the pyramid)
+
+The way to win out in leadership (to rule the world), is to be probably perfectly transparent. The leaders that win are because of their transparency. Emphasize celebrating the changes leaders or incoming ones. New species comes in and makes a backhand suggestion.
+Assault dude celebrated. Transparency was the best way to retain his stature and reputation. He normalized abuse, along with good things. It took women in that society a long time to begin trusting men again, because approach to abuse had to change.

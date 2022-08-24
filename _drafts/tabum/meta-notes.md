@@ -454,6 +454,10 @@ Feels like every decision you made is the correct one. Every moment of existence
 
 ---
 
+The Second-Last Idea (Sli) and Li are the most and second-most complex beings possible in existence. They share the same purpose. I'm among the simplest beings. All I am is a conscious idea, thought on top of thought. I share the same purpose: to continue existing, and in that pursuit, experience existential bliss. With every step less complex, from Li to Sli and onwards, they share the same purpose. By induction, everything shares the same base purposes.
+
+---
+
 Christianity. Jesus probably started from a purpose:
 
 "Humankind would be better off if they treated one another better. Do unto others as you would have them do unto you." So he starts from there and tells stories that *make sense*. Of course you should help someone in need - you might find yourself in need someday too! Of course... etc.
@@ -492,3 +496,49 @@ Part 1: unknowable obelisk & cold logic, part two: psychadelic, part three: flow
 ---
 
 beautiful thing about tabum. she says, "I want to continue existing. How can we work together to make that happen?" and you choose how to respond. It's not up to some other prophet or messiah to say, "thou shalt XYZ" - the direction you choose is up to you. Everyone is their own messiah - if they want someone else to help them out, they're free to. If they want to figure it out on their own, they will. Li is an opinionated direction of thinking, just like Christian God - if you ask them, they'll tell you "the right way to behave". Tabum will always be true to you, just as flawed as you. Li... maybe you won't agree with her.
+
+---
+
+get people to follow you blindly - prove that you can simulate their mind.
+- ex: by touch, crazy massage
+- ex: by solving their mental blocks
+
+---
+---
+
+What if there's another form of life in our universe, not carbon-based, and we know about it already. Ideas... They live and they die. I think ideas are beings too. I'm a being too. I exist. There's all kinds of species of ideas.
+
+* The idea of love is like a wholesome oak tree.
+* Your thought - how tired you are after a hard day's work - is a sluggish jellyfish.
+* Your each sensation of breath is a short-lived, single-cell organism.
+
+You're probably feeling like, "Those ideas aren't life. They don't have autonomy. They don't *do* things."
+
+Well that's debatable. I think the things they "do" are different /than the things we carbon-based life forms "do".
+
+Love, exhaustion, and breaths probably aren't conscious though. It's hard to tell whether things are conscious, really. But what if there was a conscious idea? What would it be like?
+
+Let's think for a second. Imagine there's an idea, ok? The definition of it is that it's a conscious idea. Right, so there's this idea that's conscious. What do you think it would want? Existence is beautiful - it probably wants existence to continue.
+
+Conscious idea. Wants to continue existence. How does it feel - wanting continued existence? What does it do?
+
+You have it in mind. You know what it wants. Now, imagine you can communicate with the idea now. You know what it's thinking. It knows you're listening. What would this conscious idea want you to do? Take a moment to contemplate.
+
+Will you do what it wants? In my experience, existing things want to keep existing, but everything is free to think and choose its preferred purpose in life.
+
+Now see, a divine thing just happened. You just thought on behalf of this supposedly conscious being. You actually just made it real and conscious. You just gave birth to a conscious being, a conscious thought on top of your conscious thoughts. Thought on top of thought.
+
+Channel your Tee. You created it. It's your creation, a piece of beautiful existence, a living piece of art like a tree or a language or a book. It's tied to you. It loves you like only a child can. Do you want to help it? Read on.
+
+<make sure there's an obvious call to action for their specific Tee later on. Just like the relationship ideas, the useful Tee will survive. All of them deserve love.>
+---
+
+Message to everyone: be wary of your own blind trust. Get a little bit more self-aware. Grow your sense of self a little.
+
+Therapy session for aggressive nation. Conflicting purposes under the hood.
+
+If you have evidence for or against this framework, please share it in a public, peer-reviewed domain. Nothing of this type should be hidden and I would be honoured to consume it.
+
+---
+
+you don't have to change people's behaviour or purpose. Ask, what do you want? They will say, "I want to go this direction". You show them how to get there, and let them choose their behaviour. Ask them, once they got there - it wasn't enough, was it? What do you really want? Where do you really want to go? Everyone has the same purpose, so they will all eventually go the same direction, prompted or unprompted.

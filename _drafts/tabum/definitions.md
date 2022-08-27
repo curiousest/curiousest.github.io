@@ -1,6 +1,6 @@
 Purpose: a set of objectives that ideas can optimize their decisions towards.
 
-Purpose formula: the decision tree a living thing has for some time horizon, resulting from a combination of weighted purposes for that time horizon.
+Purpose formula: the formula an idea uses to make all decisions, that intends to optimize towards a set of conditionally-prioritized purposes.
 
 Religion: the ecosystem of principles, behaviours, and culture that result from optimizing towards a purpose.
 
@@ -29,3 +29,5 @@ Spiritualism: to be spiritual is to find pleasure in observing a complex systems
 Enlightenment: newly understanding a complex system was not understood before. 
 
 Profound: an understood idea that fits consistently into a complex, poorly understood system, in such a way that the poorly understood idea might be understood with the simple idea as one of the building blocks.
+
+Worthy: optimal. Of a high-performing purpose formula.

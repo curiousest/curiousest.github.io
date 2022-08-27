@@ -137,7 +137,7 @@ not enough 'feel good sensations now' in the recent past? inspect health (physic
 not enough 'life worth living' in the recent past? inspect goals, purposes, behaviour - are purposes/goals aligned with behaviour? Change behaviour or change goals/purpose. Consider whether size of "self" could be bigger.
 
 
-It's philosophy: east meets west. The western machine, enlightened by eastern spiritualism. spiritual enlightenment AND western practicality (scientific method)
+It's philosophy: east meets west. The western machine, enlightened by eastern spiritualism. It's homo deus. spiritual enlightenment AND western practicality (scientific method)
 scientific spiritual enlightenment
 can we have spiritual enlightenment that's measured, proven, and optimized?
 or scientific tools held by those pursuing spiritually enlightened directions
@@ -163,3 +163,8 @@ So what!? I just solved religion. I just solved morality. This is *the purpose o
 It sounds a bit meaningless to me.
 
 It doesn't say how you should change your behaviour. Sometimes other people or religions ask you to change your behaviour, and this is a framework for deciding if that behaviour change makes sense. Every religion is a way towards the MVP (to survive). You get to decide which religions are the journey you want to take. There are many ways to evaluate religions against the MVP, and the scientific method is one of them - one with a long history of predictive power.
+
+
+So you came all this way to ask why no one wants to be me? Why didn't you ask... anyone else?
+
+Well, yes. You're the expert on why someone might not want to be you.

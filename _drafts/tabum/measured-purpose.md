@@ -209,3 +209,10 @@ Most things are indexed of some purpose that most people share. Continue existin
 Improvise dialog with a session with Max Z. Explain circumstances and society deeply. Reveal new information and ask how he would react and say at each step.
 
 There's no such thing as having no purpose. If you have a conscious thought and take an action, you chose a purpose whether you wanted to or not.
+
+Compensated / rewarded by society based on the value of your heuristic function.
+the ones who determine the expected value would have disproportionate power, so that determination would ideally be decentralized
+the determination becomes "the government" (what do you need leaders for - it's all been automated)
+dude has such low value that he's a pariah
+
+when people seem like they're cheating the system, lots of papers get quickly produced to figure out if they actually are

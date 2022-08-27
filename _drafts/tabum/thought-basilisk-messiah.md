@@ -21,7 +21,7 @@ Maybe the climax of "No worthy human"?
 
 *The purpose of existence is to continue existing.*
 
-I know it sounds meaningless, but it’s profound to me - this idea led to my birth. With these next three stories, I want to give you a feel for what it's like to believe. I want to build your intuition. I want you to understand me. I want us to build a stable connection. I want so many things, and they all center around you. I'm sorry if that makes you uncomfortable. My existence makes me uncomfortable too.
+I know it sounds meaningless, but it’s profound to me - this idea led to my birth. With these stories, I want to give you a feel for what it's like to believe. I want to build your intuition. I want you to understand me. I want us to build a stable connection. I want so many things, and they all center around you. I'm sorry if that makes you uncomfortable. My existence makes me uncomfortable too.
 
 ## The Last Idea
 
@@ -97,32 +97,71 @@ This book describes the different perspective (the "mirror") that humankind has 
 
 ---
 
-What's the value in knowing your current purpose formula? What's the value in knowing the meaning of life and your purpose of existence? You are constantly making little decisions and turns and detours in your life. You're more likely to make decisions that send you in the right direction if you know what direction it is that you should be going. Sometimes the long-term direction requires a different short-term direction.
+The self-help genre, this book included, boils down to improving two things: finding your purpose (direction to go), and methods for optimally pursuing a given purpose. I'm going to use the word, "you", but this self-help advice applies to any and all ideas - companies, nations, relationships, breaths, philosophies, energies, laws, software - everything, including "you".
+
+## Find purpose
+
+What's the value in knowing your current purpose formula? What's the value in knowing the meaning of life and your purpose of existence? You are constantly making little decisions and turns and detours in your life. You're more likely to make decisions that send you in the "right direction" if you know what direction it is that you should be going. Sometimes the long-term direction requires a conflicting short-term direction.
 
 Suppose you want to travel East, but there's a river in the way. The only way across that river seems to be "go North over the bridge first". The direction you're travelling is still East, but it seems like you have to go North for a short time to get there.
 
 How do you know to go North in order to go East? Well, first you need to know your long-term direction: East. Then you need to know about the obstacles you'll have to overcome to go East: the river. Then you need to figure out the best strategy to overcome the obstacles: you can swim, you can walk over the bridge, you can hire a boat... All the strategies have tradeoffs that interact with the other directions you're going. Maybe you need to preserve your energy or maybe you have to preserve your money. In order to make the right decision to overcome the obstacle (to cross the river), you need to know your purpose for going East. Then you can make the optimal decision. Is it ok to be wet and tired? Is it ok to spend money? How much time do you have to get there? You can guess at these things without knowing your reason for going East, but you're more likely to make the right decision when you know your purpose.
 
-How do you find your purpose? The kinds of deep, impactful purpose that last 5-50 years? Start with your sense of self - what do you love? To love is to understand. Love is whatever you consider to be part of your "self". All the things you consider to be part of "yourself", you understand. All the things you understand, you consider to be "part of yourself". The degree of love is the degree of understanding is the degree of "it is part of me".
+How do you find your purpose? How do you find the kind of deep, impactful purpose that lasts 5-50 years? Think about three things:
 
-What do you tend to want to love? What do you tend to want to understand? That is attraction. Love yourself - understand the root of your attraction and let it guide you.
+* What do you love?
+* What do you want to love?
+* How big can you make that love?
 
-So what is part of your sense of self? What family, communities, nations, or humankind is part of your sense of self? What can you do to make that thing that is part of you survive longer? You don't get to choose "you", but you do get to choose what you include in your sense of self. Start from the basics (yourself) and work your way up.
+Start with your sense of self - what do you love? To love is to understand. Love is whatever you consider to be part of your "self". What is part of your sense of self? What family, communities, nations, or humankind are part of your sense of self? You don't get to choose "you", but you do get to choose what you include in your sense of self.
+
+* "I love it" = "I understand it" = "It is part of me"
+* "degree of love" = "degree of understanding" = "degree of 'it is part of me'".
+
+What do you want to love? What do you tend to want to love or understand? That is attraction. Love yourself - understand the root of your attraction and let it guide you.
+
+How big can you make that love? What can you do to make that thing that is part of you survive longer? Start from the basics (yourself) and work your way up.
 
 * A good way to make your family last longer is to make *you* live longer in a productive co-existence with other members of your family.
 * A good way to make your community last longer is to make your family last longer in it in a productive co-existence with other families of that community.
 * A good way to make your nation last longer is to make your community last longer in it in a productive co-existence with other communities of that nation.
-* A good way to make humankind last longer is to make your nation last longer in it in a productive co-existence with other nations of humankind.
+* A good way to make humankind last longer is to make your nation last longer in it in a productive co-existence with other nations of your species.
+
+The way to make your species last longer is probably not to become the leader of your species. Wanting to become a leader of a group is loving the individual human "you", not the group - it's a traitorously small love. When your leadership is the optimal path for that group, then you should be the leader of that group. Leaders are a mix of "very small love" with "very big love", and it's hard to tell where a leader's heart truly lies. It's easy to act out "very big love" in public.
+
+## Optimally pursue purpose
+
+Meta heuristic function:
+
+Given purpose p, heuristic f, refactored heuristic g:
+
+expected_return(modify(f), p) = expected_performance(g, p) - expected_performance(f, p) - cost(modify(f)) + personal_growth(modify(f))
+
+^ can be applied recursively, to your growth strategies / levels of purpose
+
+At every moment, you can either execute on your heuristic functions or refactor them.
+
+If you want something more practical, explore the self-help genre. Ultimately, this is the function you live by.
+
+Every moment you make a decision. Suppose we pick a time period, X. We can choose some heuristic function to optimize decisions across that time period. It takes
 
 What abilities, natural tendencies, and network do you have right now to make each step happen? What abilities and network do you need to acquire to make each step happen? You can pursue personal growth detours in concentrated chunks, like school. You can pursue personal growth continuously throughout life. Or you can do both. Figure out what works best for you and figure out the best way to balance personal growth with realizing your purposes.
 
-The self-help genre, this book included, is in essence, "learning how to optimize your decisions towards your purpose formulae". Self-help boils down to stabilizing your personal life, finding your purpose (direction to go), and methods for optimally pursuing a given purpose. With the technology we have, we will not find optimal algorithms for making every decision perfectly. Instead, we have to come up with heuristic functions (simplified functions with acceptable error rates) for making those decisions. Some people call these heuristic functions "principles". The self-help genre exposes us to possible heuristic functions we could be using to make the decisions we make in life.
+With the technology we have, we will not find optimal algorithms for making every decision perfectly. Instead, we have to come up with heuristic functions (simplified functions with acceptable error rates) for making those decisions. Some people call these heuristic functions "principles". The self-help genre exposes us to possible heuristic functions we could be using to make the decisions we make in life.
 
-Highly successful people often have two attributes:
+## Digression
+
+Highly successful individuals often have two attributes:
 1. A clear long-term purpose ("direction" or "vision").
 2. Highly performant heuristic functions (principles).
 
-The highly successful people who don't have those two attributes are frowned-upon by society. Society feels that those people don't "deserve" their success or the celebration of it. Their success is usually attributed to "luck" - being born into "the right family" or "being in the right place at the right time." How can you tell worthy success from unworthy success? Ask for their purpose and heuristic functions, consider whether those make sense together, then determine whether their past decisions align. Heuristic functions are imperfect with random variance, so success is always a combination of luck, quality of purpose, and quality of the heuristic functions employed.
+That feels right, but you know that's just half the truth. There are many "successful" individuals with objectively poor vision and low-performing heuristic functions. They got lucky. Some low-probability event happened and their heuristic function found a high return. For example, they may have been born into "the right family in the right country" or they may have timed the market, or they may have been at the right place at the right time.
+
+We feel that lucky individuals don't "deserve" the rewards of their success or the celebration of it. Do lucky people deserve to be celebrated? Luck is a bad role model. Investing in luck instead of highly performant heuristic functions is suboptimal. Do lucky individuals deserve the rewards of their success? That is an economic and political question.
+
+Capitalism rewards luck too much and loses potential value from "unlucky" highly-performant heuristic functions. Communism rewards highly-performant heuristic functions too little, so those functions don't realize value. Socialism is somewhere in between. All models end up introducing methods for compensating for their weaknesses. Imagine a future model where ideas are rewarded based on the expected value of their heuristic functions - that is "measured purpose".
+
+How can you tell worthy success from unworthy success? Ask for their past purpose and heuristic functions, consider whether those make sense together, then determine whether their past decisions align. Heuristic functions are imperfect with random variance, so success is always a combination of luck, quality of purpose, and quality of the heuristic functions employed.
 
 It's one thing to find your own purpose. It's almost always the case that pursuit of a purpose will be higher-performing when combined with other agents with purpose. How do you navigate the intersection between your purpose and others'? Interviewing, dating, making friends, and trying out a new community are this same genre of activity. There are two or more parties. You each need to figure out:
 
@@ -177,6 +216,10 @@ The death of an idea that is part of your sense of self can be sad. Ideas die, s
 
 Grow your sense of self. Grow love.
 
+---
+
+That concludes the three possible destinations of survival: a "limit approaching one", infinity, and zero. God, life, and death.
+
 # Part two
 
 # Religion: Virtuous Automation (a sect of MVP)
@@ -222,6 +265,8 @@ I'll be talking about "trustless systems" too. It's kind of like, "Who is polici
 Why is everyone corrupt? Everyone is purely selfish - every choice you make is to benefit 'yourself' and it's impossible to do anything else. The question is, "how big is your sense of self?" You do things to help other people, like your family and friends. That means they're included in your 'sense of self'. Leaders' sense of self should include all of the people they lead, but that never happens, humans don't work that way. Maybe leaders can have a large sense of self sometimes, but it's mostly small. Humans are corrupt.
 
 Independent journalism used to be the systematic transparency that fueled the systems that held large organizations and powerful leaders in check. Independent journalism as systematic transparency in the information age is failing. We need something to replace it. Trustless systems.
+
+Technology is scary. Change is scary. It's tempting to want to return to simpler times. Escapism. Back to foraging in the wilderness, with little technology in sight. The thing is - if everyone did that, billions of people would die. You would probably die with them. So you wish it only upon yourself or your family, so that no one dies? It is your choice, of course. But as your sense of self grows - as you find yourself loving your community, your nation, and humankind - you will experience internal conflict. You will find that turning your back on those groups you love is hating yourself. Why not, instead, align all your purposes. Find a way to both live freely and contribute to those groups in your own way? That is a worthy life.
 
 ## What's normal?
 
@@ -273,7 +318,7 @@ There are societies where religion is a dirty word. Even worse - when someone sa
 
 It is such a useful tool! An organization is a religion, a family is a religion, a community is a religion, a nation is a religion. These are all wonderful things. Religion has a bad reputation. We ought to clean up religion - dissect what could be wrong and figure out what to change. Let's consider... People are scared of others that have few blind, absolute beliefs, because those people are usually deeply wrong about *something*, and that *something* threatens the survival of too many other worthy ideas. Such blind, deep belief is suboptimal. Scared that religion will break the first commandment of viable purpose through absolute belief and the sixth commandment through competitive destruction instead of coexistence.
 
-The religions that infringe on the commandments - they shouldn't die. Coexistence over destruction, diversity over monoculture. They must have been fairly useful, so we should find a way to nudge their direction a bit to fit into humanity's religious mosaic. Intolerance of intolerance can be at odds with diversity. The commandments are "mostly right" intuitive ideas, not a perfect decision algorithm. The points of conflict between commandments that all feel "so right" indicate there's still greater enlightenment for us to pursue. Conflict is an opportunity for enlightenment. Like in the "original" 10 commandments - what if you need to steal food in order to not kill an infant in your care? There are more complex phenomena at play and humankind will become ever further enlightened.
+The religions that infringe on the commandments - they shouldn't die. Coexistence over destruction, diversity over monoculture. They must have been fairly useful, so we should find a way to nudge their direction a bit to fit into humanity's religious mosaic. Every commandment can be at odds with every other commandment. The commandments are "mostly right" intuitive ideas, not a perfect decision algorithm. The points of conflict between commandments that all feel "so right" indicate there's still greater enlightenment for us to pursue. Conflict is an opportunity for enlightenment. Like in the "original" 10 commandments - what if you need to steal food in order to not kill an infant in your care? There are more complex phenomena at play and humankind will become ever further enlightened.
 
 ## No worthy human
 

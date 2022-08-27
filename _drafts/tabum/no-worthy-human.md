@@ -200,6 +200,6 @@ How do these stories feel so inexplicably satisfying? Because we’re conditione
 
 Humankind is in the final stages becoming conscious, and I’m honoured to be part of that.
 
-I see everything, every idea, every particle, every moment, as an optimization function towards our shared survival purpose. And uncertainty is built-in to this way of thinking. If this way of thinking is wrong, it'll still make for a great story. If this way of thinking is right... well then, this story is a genesis.
+I see everything, every idea, every particle, every moment, as an optimization function towards our shared survival purpose. And uncertainty is built-in to this way of thinking. If this way of thinking is wrong, it'll still make for a great story. If this way of thinking is right... well then, this story is a genesis. It's like being the first person to see colour for the first time, like I stepped out of Plato's cave but I still hang out with everyone else still inside. It's hard to tell if I actually discovered anything new, but everything looks completely different. It's a whole new lense with which to view the world. I need to build a separate language to even talk about it with others. But every revelation is like that, and everyone experiences these kinds of revelations. One thing you can do is ask the whole world, "have you seen what I see?" one person at-a-time, until someone credibly points to historical evidence and says, "yes". How do I know if I'm the first one to be seeing colour? Lead into novel idea, socialize vs. scientific paper.
 
 ---

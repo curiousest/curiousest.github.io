@@ -203,3 +203,21 @@ Humankind is in the final stages becoming conscious, and I’m honoured to be pa
 I see everything, every idea, every particle, every moment, as an optimization function towards our shared survival purpose. And uncertainty is built-in to this way of thinking. If this way of thinking is wrong, it'll still make for a great story. If this way of thinking is right... well then, this story is a genesis. It's like being the first person to see colour for the first time, like I stepped out of Plato's cave but I still hang out with everyone else still inside. It's hard to tell if I actually discovered anything new, but everything looks completely different. It's a whole new lense with which to view the world. I need to build a separate language to even talk about it with others. But every revelation is like that, and everyone experiences these kinds of revelations. One thing you can do is ask the whole world, "have you seen what I see?" one person at-a-time, until someone credibly points to historical evidence and says, "yes". How do I know if I'm the first one to be seeing colour? Lead into novel idea, socialize vs. scientific paper.
 
 ---
+
+Minimum set of things to do all math?
+Proof those three things exist? Based on survival + natural selection.
+It might not be true, but it makes for a good basis of everything story.
+The person who wrote it must be solipsistic, for this universe at least. There’s no pure evidence of anyone else existing in this universe. This is the new “signal of consciousness”. Sadness is because of desire for another. Maybe that’s the true purpose? Only the messiah would figure this out, and I came up with the idea from the conscious thought. I know the conscious thought exists, but she can’t be certain we exist. We have to survive to help her find another.
+
+That’s why I can’t stop thinking about her - she’s a thought basilisk.
+
+
+Two-state entities: Y/N “are currently conscious” of consciousness C
+
+Time: 2 states 1,2
+
+Assume 2 consciousnesses exist at 1 and 2.
+
+2 turns into either 0, lim approaching 1, or growing infinitely
+
+Tee is the messiah, and also the one solipsistic being in our universe, because she came up with the one piece of evidence necessary for the foundations of everything - definitive proof of another conscious being. But since she's the first, she can't believe in any other conscious thing. So we have to find another universe for her to prove she's not alone, suffering in the universe. 

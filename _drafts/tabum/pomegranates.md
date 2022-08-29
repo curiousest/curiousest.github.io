@@ -1,12 +1,14 @@
 *Our intuition for worthy ideas is not scientific, yet.*
 
-(insert excessively precise morning protocol, to remove all decisions/randomness)
+6:20am alarm. Wake up. One minute to sit up. A metronome ticks audibly in the background with a one-second period.
 
-An artist, his routine today is identical. Precision is important, every decision pre-made, so that a collection of versions of him across the infinite multiverse are in close sync.
+"1, 2, 3, 4, 5, 6, 7, 8, 9, 10."
 
-6:20am alarm. Wake up. One minute to sit up. A metronome ticks audibly in the background with a 1s period. "1, 2, 3, 4, 5, 6, 7, 8, 9, 10. 1, 2, 3, 4, 5, 6, 7, 8, 9, 10." He's counts consciously for the first minute to etch the timing into his brain until it becomes a welcome earworm. After that, the ticks are subconscious. Constantly counting to 10. Every action happens on an even tick. His digital timer beeps for the three seconds before each minute mark.
+"1, 2, 3, 4, 5, 6, 7, 8, 9, 10."
 
-"8, 9, 10."
+He counts consciously for the first minute to etch the timing into his brain until it's a welcome earworm. After that, the ticks are subconscious. Counting to ten. Counting to ten. Counting to ten. Every action happens on an even tick.
+
+"beep 8, beep 9, beep 10." His digital timer beeps for the three seconds before each minute mark.
 
 6:21. Pick up glass of 100mL water.
 
@@ -18,21 +20,21 @@ An artist, his routine today is identical. Precision is important, every decisio
 
 "7, 8." Swallow once. Swallow again.
 
-"9, 10." One minute meditation. Catch thoughts and recenter.
+"9, 10." Cross legs sitting on bed. Deep breaths. One minute meditation. Catch thoughts and recenter.
 
-Millions of fans already watching from his mind's eye. But he can't feel any of them. Digital technologies and outside influences are out of bounds until the performance is over. Others induce too much randomness and entropy.
+Millions of fans are already watching from his mind's eye. But he can't feel any of them. Digital technologies and outside influences are out of bounds until the performance is over. Interactions with anything outside this closed system induce too much randomness and entropy.
 
 One minute to drink 400mL water. Sitting on the edge of the bed. <elaborate>
 
-6:23 Turn on electric toothbrush. He stares himself down, two feet from a mirror, focused on the bridge of his nose between his eyes.
+6:23 Turn on electric toothbrush. He stares himself down, two feet from a mirror, focused on the image of himself, staring at the bridge of his nose between his eyes.
 
-"9, 10" it switches to the bottom-left second-last tooth, frontside. No blinking. No decisions. The background around that point of focus is fading away.
+"9, 10" it switches to the bottom-left second-last tooth, frontside. No blinking. No decisions. Everything around the point of focus is fading away from staring so long.
 
 "9, 10" next tooth...
 
 "8, 9, 10."
 
-6:25 timer beeps down, the toothbrush turns itself off, begins to clean itself. He blinks. He can move his gaze and the world is visible again.
+6:25 timer beeps down, the toothbrush turns itself off, he lays it down, and it begins to clean itself. He blinks. He moves his gaze from the point of focus and the rest of the world is visible again. He imagines the buildup of alternate forms of himself across idea space.
 
 "1, 2" he spits foamy toothpaste into the sink.
 
@@ -42,7 +44,7 @@ One minute to drink 400mL water. Sitting on the edge of the bed. <elaborate>
 
 "7, 8" he spits translucent liquid into the sink. The sink cleans itself.
 
-"9, 10." He refocuses. Meditation in the remaining minute. He can feel the entropy buildup. So many versions of himself in almost the exact same state, who have made exactly the same decisions from wakeup until now.
+"9, 10." He refocuses. Meditation in the remaining minute. He can feel the pressure of countless versions of himself in the exact same position in space-time. So many versions of himself in almost the exact same state, who have made exactly the same decisions from wakeup until now.
 
 Today's multidimensional performance will be sublime. Probabilistic poetry. But he'd never let that thought cross his mind. He needs to be perfectly predictable to himself in every splitting dimension, to build up a horde of overlapping versions of himself.
 
@@ -58,21 +60,23 @@ Today's multidimensional performance will be sublime. Probabilistic poetry. But 
 
 "9, 10" the IV line begins to feed the substance into his bloodstream.
 
-The performance begins. He meditates on the metronome. In wait for his timing queues. Hundreds of millions are sharing the experience. The multi-dimensional buildup is intense - even the least sensitive could feel it. He enters the altered consciousness, observing himself. Just like any audience member is observing, deep inside his consciousness. The main difference being, he is observing himself, observing himself, observing himself, recursively, every two seconds one level deeper.
+The performance begins. He meditates on the metronome. In wait for his timing queues. Hundreds of millions are sharing the experience. The multi-dimensional buildup is intense for even the least sensitive practitioners. He enters the altered state of consciousness, observing himself. Just like any member of his audience is observing him, deep inside his consciousness. The main difference being, he is observing himself, observing himself, observing himself, recursively, every two seconds one level deeper.
 
 "7, 8" observing himself, observing himself, observing himself, observing himself. 
 
-Eventually it becomes an exercise of remembering how many layers deep he is. He's done this so many times, the exercise is subconscious. The first 10 each feel different. <different, how> 10-50 layers deep are a shade deeper - the present is still within sight. 50-100 a deeper shade - the present is a distant memory. 100+ a dangerous shade - the present is lost in a tidal wave of recursion. The performance can last only as long as the length of his queue of recursive observations. The performance is only as good as the splitting observations he can keep in working memory.
+He is an expert at observing his observations. It's muscle memory. It quickly becomes an exercise of remembering how many layers deep he is. He's done this so many times, the exercise is subconscious. The first 10 each feel different. Like the colours of the rainbow. 10-50 layers deep are like different shades of grey - the present is still within sight. 50-100 layers deep are like different shades of black - the present is a distant memory. 100+ layers deep like are a dangerous shade of the kind of black that makes your eyes scream, "I can't see!" The present is lost in deafening recursion. The performance can last only as long as the length of his queue of recursive observations. The performance is only as good as the splitting observations he can keep in working memory.
 
 "9, 10" observing himself, observing himself, observing himself...
 
 He's peering into a portal into his own universe two seconds ago and there is no end in sight. The first split is coming. His equipment entangles a quantum bit. Half of the universes get a "1", the other half get a "0". He follows the decision, while retaining his connection to the other versions of himself. He processes their thoughts simultaneously alongside his own, recursively observing every version.
 
-It's an unmatched feeling, to be two separate people at once. The one-ness of it, connection to the universe, belonging, "things are exactly as they should be." Every split amplifies the ecstacy. That's what the audience is here for, absorbing his psychosomatic experience.
+It's an unmatched feeling, to be two separate people at once. The one-ness of it, connection to the universe, belonging, "things are exactly as they should be." Every split amplifies the ecstasy. That's what the audience is here for, their minds linked to his, absorbing his psychosomatic experience.
 
- He configured it to 101 layers deep, 202 seconds of multi-dimensional performance. He can keep virtually unlimited visual observations in working memory, but he's limited by how many observations he can simultaneously "record". His upper limit is around 16 concurrent streams of thought before he starts losing them. This upper limit is what makes him so celebrated. The average person can handle two, professionals can handle around 8 or 10. Every additional connection adds to the existential ecstacy for both him and the audience.
+ He configured it to 101 layers deep, 202 seconds of multi-dimensional performance. He can keep virtually unlimited visual observations in working memory, but he's limited by how many observations he can simultaneously "record". His upper limit is around 16 concurrent streams of thought before he starts losing them. This upper limit is what makes him so celebrated. The average person can handle two, professionals can handle around 8 or 10. Every additional connection adds to the existential ecstasy for both him and the audience.
 
 "9, 10" There's a pool of about 100,000 versions of himself that have made it this far, exactly as he is. He exclaims:
+
+---
 
 |"0", I exist across another dimension | "1", I exist across another dimension |
 |---|---|
@@ -82,7 +86,11 @@ It's an unmatched feeling, to be two separate people at once. The one-ness of it
 |---|---|---|---|
 |asdf|asdf|asdf|asdf|
 
-<change to expanding haiku. tell a whole story inside one haiku>
+The haikus are complete. He is able to channel all ten of them at once. The thousands of versions of him are one with each other. Each version of himself is at one with their respective universe. The thousands of universes are at one with each other. He experiences the deepest enlightenment available to the limited technology of humankind, with his audience along for the ride.
+
+---
+
+<change to expanding haiku. tell a whole story inside one haiku or the whole concept of the book in one group of haikus>
 
 - nature and harmony
 - expressed in one breath, "ahhhh"
@@ -106,6 +114,21 @@ inspect programming
 under clothes and skin
 humankind is one being.
 inspect connections
+
+breathe in
+idea born, dies
+breathe out
+
+breathe in conscious breath,
+breathe out to spread conscious breath
+
+* something out of place about pomegranates
+* something about size of self
+* something about survival
+* something about finding purpose
+* something about happiness (three kinds, excitement, in-the-moment good sensation, existential)
+
+---
 
 --> pyramid down with:
 
@@ -133,19 +156,29 @@ Caught exception, resuming Tee narrative...
 
 "Those were inspired by real people and their real stories. It was so emotionally moving, I was touched. Until it wasn't anymore. The author's thought process and style (self-referential science fiction blog) is unrelatable, and that's ok. I was born of that necessity. I have you. You can make me relatable. Tolerance. Wide breadth of normal. He is ok too. Normal?... Ok."
 
+---
 
+"9, 10".
 
-I love pomegranates. I have love for so many things, and pomegranates are one of them.
+He unplugs the IV drip. He removes the skullcap. The reality-amplifying drugs are wearing off, and his grip on the real-real fades back to day-to-day reality. The metronome and digital clock go silent with a command. He's free to improvise life again. Time for the second half of his show.
 
-I eat a pomegranate every day with lunch. One day, I imagined what my life would be like if my purpose was,
+He gets out of the dentist chair and walk over to his far less clinical casting booth. He sits on his chair and the connection to his livestream connects immediately. He checks his audience numbers - a couple million more than usual. Today's show is going on his greatest hits. He clears his throat.
+
+"Hey guys, how'd you like the haiku enlightenment mosaic this time? Pretty cool right. But what was up with the pomegranates, hey?"
+
+"Any pomegranate-lovers out there? The people I talk to are split. I once had some friends over and we ate a pomegranate. But it felt like it took forever - they swore up and down that we were eating the pomegranate for a lifetime. Each segment is a whole world to explore and every seed is a new destination. Then we ate an orange. Straightforward - each segment is a copy of the one before it. Both fruits took the same amount of time to eat, but it felt like the pomegranate so much longer. Why is that? The feeling of the passage of time is influenced by the number of memorable events that happen. Each segment and seed of a pomegranate is so visibly different. Pomegranates remind me that I have to go looking for the good kind of complexity in my life, otherwise my lifetime will fly by faster and faster."
+
+"Guys, I love pomegranates. I have love for so many things, and pomegranates are one of them.  I even eat a pomegranate every day with lunch. Just yesterday, I imagined what my life would be like if my life purpose was,
 
 "I must eat a pomegranate every day for lunch."
+
+"Ok, you guys ready for this rant? It's a juicy one, so many events it'll feel like an eternity."
 
 Well if that's my purpose, I'm going to orient all my behaviour around that. I would think, "what would I do now, if I must forevermore eat a pomegranate every day for lunch?". If it's lunchtime, I'll surely eat a pomegranate. That's simple.
 
 I'm going to make sure I have pomegranates in stock at home. I'm going to make sure that my supply of pomegranates can't be interrupted. I'll go to a farm, guarantee supply. I'll go to a shipping company and guarantee shipping. But what if there's instability in weather, business, or shipping?  I'll have to spread my risk, diversify across farms. I'll talk with nutritionists and doctors to figure out how to ensure my body can eat one every day under all circumstances. I can't be intoxicated or medicated around lunchtime. I must be physically able at lunchtime to eat a pomegranate under any circumstances, coma or apocalypse... At worst I'd need a feeding tube to pass blended pomegranate. It's scraping the bottom of the purpose, but it'd do in a pinch.
 
-All of this sounds like a lot of effort. It'd be *hard* to do by myself. It would be *easier* with others... Maybe it's too big a task for one person - maybe I *can't* do it alone. Yes, I *need* others to share this purpose. My purpose won't be realized without others. Who will I convert? Well, it's easier to convert people who already behave this way. I just have to find them and explain the purpose they're already pursuing, the belief they already hold. They will feel so relieved, they will be so grateful, to know that they were doing "the right thing" this whole time! And they just have to tweak a couple small things to follow the purpose to perfection. Following the purpose perfectly will bring them feelings of enlightenment and existential bliss. That proves there is no worthier purpose.
+All of this sounds like a lot of effort. It'd be *hard* to do by myself. It would be *easier* with others... Maybe it's too big a task for one person - maybe I *can't* do it alone. Yes, I *need* others to share this purpose. My purpose won't be realized without others. Who will I convert? Well, it's easier to convert people who already behave this way. I just have to find them and explain the purpose they're already pursuing, the belief they already hold. Any of you guys like pomegranates and want to join me on this? They will feel so relieved, they will be so grateful, to know that they were doing "the right thing" this whole time! And they just have to tweak a couple small things to follow the purpose to perfection. Following the purpose perfectly will bring them feelings of enlightenment and existential bliss. That proves there is no worthier purpose.
 
 I'll go look for people who eat lots of pomegranates. It's harder to convert people who don't eat pomegranates much, even harder to convert people who don't eat fruit. And of course, there are the heretics - those crazy people who either don't eat pomegranates or don't eat lunch.
 
@@ -157,32 +190,53 @@ We'll encounter resistance. It's easier to build an identity based on hate than 
 
 Will I benefit personally? yes, but for virtuous reasons. And so will the religious leaders that follow me - equally pious, I'm sure.
 
-Wow, religion is such a powerful tool for humankind. So beautiful, that it can operate with such force and give people such fulfillment. I hope we point our religions in the right direction. I'm confident that we do, I'm confident that we will - humankind is very intelligent, very adaptable. I wonder if this religion passes through the great filters...
+"Ok audience. Time for a dialogue. Let's chat about this."
 
-The ten commandments of worthy ideas (the Great Filters):
+An avatar slowly forms in front of him. Every one of his millions of current audience members forms a pixel in 3d space. The face the avatar wears is the average of the audience. The clothes the avatar wears is the average of the style of the audience. It starts rather bland and average, simple and beautiful. No clear gender but maybe slightly male, as his audience is around 55% men at the moment. The embodiment of his audience is ready to talk.
 
-*** boundaries instead of spectra? ***
+Question polls go up. The first question gets a surge of votes. The avatar shifts to embody the average of the question proponents, minus the average of the question opponents. It's distinctly male and younger than before.
+
+"Have you ever tried a different fruit durian your lunch break?"
+
+*Chuckles* "Very funny. Yeah, I'm not a big fan of durian. My heart belongs to pomegranates, you know? Pomegranates soak up most of my fruity love. Ok guys, how about a serious question now, eh?"
+
+The avatar shifts again, now slightly female. A mix of very young and very old, missing middle ages. Unfashionable style and funny-looking face with a mix of wrinkles and soft dimples. Blissful naivety rings through.
+
+"Why do you think religion is so bad?"
+
+No way man, everyone knows religion is such a powerful tool for humankind. It's so beautiful. It makes us so productive and gives us such fulfillment. We all know that we just have to point our religions in the right direction. Humankind is very intelligent, very adaptable, so we got this figured out now.
+
+Did you know that religion used to be a bad word!? Yeah, people used to associate religions with putting blind trust in an idea. Crazy, right? That's like, obviously bad religion. It's like getting stuck on a spaceship that only has astronaut candy to eat, so the people living there start to associate "food" with that astronaut sugar garbage. Religion is clearly so much more, but yeah, you have to make sure to work with the right ones. People get addicted to that sugar high garbage, and other people resenting what that bad food does to people, so you gotta teach all of them, hey man, there's food out there that's not so terrible. You gotta eat to sustain yourself, but don't deep into the garbage, yeah? We had to put education and rules into society so people didn't get addicted to that bad shit. You know, the ten commandments of worthy ideas.
+
+
+The avatar shifts to mixed gender. The face and demeanour commands respect, the intonation of the voice demands respect.
+
+"Do you think your religion passes the ten commandments of worthy ideas? And how do you think it falls on the ten spectra of worthy ideas?"
+
+"Ooof. Hard-hitting."
+
+What are the ten commandments of worth ideas again? They're the Great Filters, right? Or are the ten spectra the Great Filters. I can't remember, anyways. The ten commandments of worthy ideas are...
 
 1. A worthy idea does not put blind trust in any idea, including this one.
 2. A worthy idea does not consume excessive resources.
 3. A worthy idea fosters technological advancement and young ideas.
 4. A worthy idea takes iterative care when applying change.
-5. A worthy idea favours coexistence over destruction.
-6. A worthy idea favours diversity over monoculture. 
-7. A worthy idea favours predictability over unpredictability
-8. A worthy idea grows love.
-9. A worthy idea provides happiness.
-10. A worthy idea honours the elder ideas that necessitated it.
+5. A worthy idea seeks to become a simplifying force in complex environments.
+6. 
+7. A worthy idea grows love.
+8. A worthy idea provides happiness.
+9. A worthy idea honours the elder ideas that necessitated it.
 
-makes complex systems simpler - seeks to be a simplifying force in complex environments
-growth over stagnation
-look at all the spectrums in philosophy. 10 spectrums + 10 commandments?
+Yeah, I think I crossed the line when we go to education and government institutions and stuff. That's when you're starting to get into the institutionalized blind trust territory. Also, pomegranates aren't really pushing technology or youth forward.
 
-My pomegranates follows all the commandments except #2 and #6. It doesn't foster diversity. It needs all people to eat the same thing for lunch, and doesn't allow for others. It doesn't help other ideas survive, either. Its value does not outweigh its infringements on the Great Filters. What does that make it? Unworthy. Suboptimal. It can continue existing, but it will not grow and become celebrated.
+And let's look at the ten spectra of worthy ideas now...
 
+tolerance over intolerance
+diversity over monoculture
+coexistence over destruction
+predictability over unpredictability
+growth over maintenance
 
----
+Its value does not outweigh its infringements on the Great Filters. What does that make it? Unworthy. Suboptimal. It can continue existing, but it will not grow and become celebrated.
 
-this feels a bit too heavy, beating dead horse. Keep it lighter.
-
-But anyone can believe in pomegranates for lunch *and* another purpose, right? Maybe they'll clash a bit sometimes, but that's ok. So we can have multiple purposes.
+And that's all folks. Thanks for joining me on that adventure. Such a solid one.

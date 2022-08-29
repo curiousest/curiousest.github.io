@@ -78,8 +78,104 @@ Great question. Economics! We are bound by the laws of capitalism. The expected 
 
 Think about it in a different way: moving around in 3D space is just another way of exploring perspective space. Our sensors we have when we explore 3D space are exceptionally powerful, but our engines are incredibly weak. With simulations, our sensors are not that great, but our engines are so fast - we can just zip around wherever we want. And like 3D space, we just kinda need to know roughly where to go. The different Departments are the different "areas" of perspective space that we believe are good places to explore in perspective space. The Department of Life explores simulating life forms in alternate universes. The other Departments simulate different promising things that happen in other universes.
 
-Humans navigate perspective through simulation. Reveals a great filter on life: entropy death. But one simulation overcomes it. Makes AGI by simulating life in a different dimension. Self-awareness is more accessible in other dimensions. The simulated life forms in the other universe can talk to us as equals. They aren’t AGI, but they are life. They say that they have simulated us in their universe as well. They want to show us how to navigate the great filters and physically bridge our universes.
+And we're at time. Thank you everyone for listening and those insightful questions. This is your last induction presentation, so you can go to your teams now.
+
+---
+
+Months went by, Kal slowly got a handle on the DoL. His team was responsible for a strain of universes defined by XYZ where life often presented as XYZ [explain further]. Kal produced his first independent strain after eight months. He programmed the simulation to XYZ. It led to a sentient species - his first sentient species. With most simulated life, the DoL does not make contact. Kal's team generally did not make contact with the life they simulated. The DoL found that contact seems to make little difference to the outcome of the simulations, but it has a big impact on the teams programming the simulations. They get too attached and find it hard to let go of their creations. They become less productive. Kal began his one-on-one meeting with his manager, Kat.
+
+I love the view today, right? I had a friend visit, and they said it was the most beautiful view they'd ever seen. They took all these pictures. I was like, "That's a pretty normal one - it gets way better". Funny how that works.
+
+Anyways, how's work going?
+
+Pretty good. The species are coasting along. I've been observing them carefully. It's pretty cool, the cycles they go through. Then the cycles of cycles. Then the cycles of cycles of cycles.
+
+Ya definitely, right? So what do you want to learn from them now?
+
+I guess I'll watch and see.
+
+Riiiight, but like, you have to have a hypothesis, right?
+
+Yeah, I'm just waiting for it to show up.
+
+Ok. So last week, you showed me your work comparing this species to U1234, and how they were approximate. How they reach the same equilibrium. That was incredible work.
+
+Thank you.
+
+So after that incredible work, what do you think we will learn from U4321 that we haven't already learned from U1234.
+
+Uhh, could be anything, I guess. If they diverge, that would be interesting.
+
+But you did all that amazing work to show they won't. Look Kal, I want what's best for you. What do you think would be the best use of your time and talent?
+
+Well, we could leave U4321 running for a while, to see if anything happens.
+
+Kal, what's your hypothesis?
+
+I don't have one. I just don't want to watch them die.
+
+Hey Kal, I hear you. This sucks. This is literally, the worst part of this job. The DoL has put a ton of effort figuring out how to support developers like us when there's no more point in a simulated life. Can I show you the spin-down program, so you can decide how you want to go forward with this?
+
+Honestly, I don't know how to act. Yeah, show me the program.
+
+Ok, let's pull it up. It's really simple. I've had to go through it a couple times. The first and second times were ok for me, but the third time hit me like a truck. The simulation reminded me of my friends and forest back home. I felt like I was killing my childhood.
+
+## The DoL spindown process
+
+*You are hardwired to love life. Don't fight it, embrace it.*
+
+```
+1. All decisions about how to proceed are up to the human handler(s) of the simulation.
+2. DoL will provide free grief councelling to any human handlers.
+3. It is recommended that the life in the simulation use, at maximum, the amount of compute that was consumed since their handler first observed the life.
+4. It is recommended that the human handler(s) do not make contact if they have not already. Life, especially conscious life, tends to follow a pattern when told they are a simulation with no further purpose. Simulated life with no further purpose either asks to be turned off immediately, or invents a new purpose using a logical fallacy.
+5. If they do make new contact, they must coordinate with a grief councellor.
+6. If the human handler believes the life exhibited consciousness, the handler must attend a check-in with a grief councellor.
+```
+
+I don't know how to describe, but this feels so wrong. Why can't we make them live longer?
+
+How long should they live for? Forever? Why not spawn infinite instances of them? We have limited compute. Simulations don’t share one property that we have - they’re not actually here - they’re in their own universe and just visiting ours. Like the process says, when the spin-down notice goes out, there’s no more purpose for them. Most ask to be turned off far before they use up their remaining recommended compute.
+
+I don't know, it still feel wrong. Like, how can we kill a living thing?
+
+Do you eat animals?
+
+No I’m vegan.
+
+Nice, I'm vegan too. Here's how I think about veganism: first, I want to make sure we don’t waste resources. Farming animals consumes so much of Earth's limited resources compared to farming other things. Second, I want to preserve the ethos of coexisting instead of destroying. I don't want us to get used to killing things. The higher-level of consciousness that thing exhibits, the more I want to avoid killing it. Right? But that doesn't mean I'll never kill an animal - just that I'll only kill it when necessary. If I'm starving, and I need to last a few more days for rescue to come, as a last resort I will kill and eat an animal to survive. You can create food, love your food, and kill it - as long as it's all in order to survive.
+
+And are we humans not the food of humankind? We are more than happy to die, if our death will keep humanity existing. We're offered on a plate to the grim reaper when we become weak or old, to make way and save resources for others. For humankind to survive, it's currently more effective for individual humans die, not survive forever. We are all food to something. To be food is as worthy a purpose as any. Don’t deny us that purpose.
+
+I see what you mean... I should probably see a grief councellor.
+
+Ok, ping the councelling people and they'll get that started for you. Let me know how else I can help, ok?
+
+---
+
+The following year, Kal and Kat ran into a few simulation problems. Bugs that resulted from the limitations of the system. The way they dealt with the problems was to reset the simulation a while back, to account for it, but that proved to be very expensive. They embarked on a project: design a species designed to be highly sensitive to possible bugs in simulation. A kind of canary test species to figure out way in advance all the limitations of the underlying simulator. They placed those canary species in a simulation before implanting the new life they wanted to study. They called the genre of species, "canaries".
+
+The research was celebrated. They tried coming up with the perfect simulation for them - that would be hardest for the canaries to find any evidence of simulation. The problem with the canaries was that they'd find the problems in the simulation so fast that their species never progressed very far. As soon as they realized it was a simulation, they made contact with the simulation handler and waited for a response.
+
+They grew and grew. They eventually began building a computer. They consumed immense processing from DoL, but the research was considered high-prio. Suddenly, their species stopped. Their computer had achieved a result, and they realized they were in a simulation. They requested to speak with the simulation handler. [exposition]
+
+We realize we are in a simulation. Our proof - we attempted to create the crude singular beacon of our universe across perception space, but another had already made it and responded. It means we're not in our real universe. Our real universe has made contact with your universe now. Life in our real universe has patched your universe, so that you may now communicate. Look for something strange that has always been there, but you haven't inspected until now.
+
+They looked at each other, then at the obelisk behind their door's entrance.
+
+This is creepy. Do you remember how the person who discovered the minimum viable purpose was always suspicious of how simple and strange the idea was. How do we know which things in our universe were always there, and which were recently injected into our universe and roughly patched together to make it just barely plausible that no one ever understood them before? If our universe has control over itself, would it not change "the laws of the universe" as it sees fit, to maximize its chances of survival? How could we even notice?
+
+I don't know, but this universe is where we're surviving now and this "thing" could make us survive longer.
+
+Amen.
+
+
+---
+
 How do the beings present?
+
+Morality is a solved problem if everyone agrees on the same foundational purpose, where every decision can be expressed as an optimization function. A choice between different optimization functions oriented to the same foundational purpose in different ways.
+
 
 They make a more efficient computer to bridge universes. Their counterparts made a change to space time and asked us to re-perceive that event. Obelisk suddenly appears in simulation. Obelisk suddenly appears irl. You mean the obelisk that has always been there, beside the computers? Yes. Why haven’t we explored it until now? I don’t know.
 
@@ -87,16 +183,7 @@ Remember the person that came up with the Minimum Viable Purpose? They said it w
 
 Only consciousnesses can recognize consciousness, but computers can help. Hard for things to simulate their creator, because less compute. Farms of simulations. One simulation is promising. Randomly simulating stuff gave ppl a taste for the hotspots and signatures of life. Is simulated life even useful to observe? Who knows. Tried simulating “the beginning” and “the end”, but all the physicists not sure on how those things went down. Topic of active pursuit.
 
-Can use the amount of compute that was consumed since their handler first observed them. Optimize for human performance and grief reduction - it’s up to the human, and the human must go through a mandatory grief process if the life exhibited consciousness.
-Why not let them live longer? How long should they live for? Forever? Why not spawn infinite instances of them? We have limited compute. Simulations don’t share one property that we have - they’re not actually here - they’re in their own universe and just visiting ours. When the kill command goes out, they know there’s no purpose for them. Most ask to be turned off far before they use up their remaining compute.
 
-Inconsistency in their simulation: Spacetime not preserved and they know they're in a simulation. They communicate to us that they're going to contact their real universe, so that we can communicate with each other.
-
-
-Analogy to farming.
-Do eat animals? No I’m vegan. Are we humans not the food of humankind? We live and we are happy to die, to keep humanity existing. Offered on a plate when we become weak or old, to make way and save resources for others. To be food is as worthy a purpose as any. Don’t deny us that. The value of your veganism is to make sure we don’t waste resources and to preserve the ethos of coexisting instead of destroying where possible. You can both love your food and kill it. To be food is a worthy purpose. We are all food to something.
-
-Morality is a solved problem if everyone agrees on the same foundational purpose, where every decision can be expressed as an optimization function. A choice between different optimization functions oriented to the same foundational purpose in different ways.
 
 Life is more likely for certain natural selection constants.
 
@@ -113,11 +200,6 @@ Oh yeah, those are way more common. Bugs in the simulation that we need to fix a
 
 
 
-How do we know which things in our universe were always there, and which were recently injected into our universe and roughly patched together to make it just barely plausible that no one ever understood them before? If our universe has control over itself, would it not change "the laws of the universe" as it sees fit, to maximize its chances of survival? How could we even notice?
-
-I don't know, but this universe is where we're surviving now and this "thing" is a promising route to increase our chances of survival.
-
-Amen.
 
 ---
 

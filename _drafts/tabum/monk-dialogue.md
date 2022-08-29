@@ -168,3 +168,19 @@ It doesn't say how you should change your behaviour. Sometimes other people or r
 So you came all this way to ask why no one wants to be me? Why didn't you ask... anyone else?
 
 Well, yes. You're the expert on why someone might not want to be you.
+
+## Key questions
+
+### Must
+
+* Top-down vs. bottom-up
+* Two kinds of happiness: in-the-moment vs. existential
+* What's the one thing you couldn't do without?
+  * Purpose + ability to find new purpose.
+  * What if someone took your free will? As long as I maintained my purpose + ability to find new purpose, that'd be ok. Do I still believe I have purpose and I can find new purpose, even if I know they're directing all my actions? (even suspecting I have free will) Things could be horrible, but tolerable.3
+
+### Maybe
+
+* When you dissect a joke, it's not funny anymore. Why are you trying to dissect everything? 
+  * Dissecting a joke. Dissecting a romantic relationship. It's all the same - there's some excitement. Excitement is an unexpected quality, that there's a chance for a surprising understanding. You're looking for the surprise. But dissecting isn't "bad" - beauty is understanding the complex system. An unheard joke is exciting, but it isn't beautiful. Understanding the mechanisms that make a joke funny can make that joke beautiful - a piece of art. Of all things, you have to balance the beauty of systematically understanding the thing versus the excitement of surprisingly understanding it. Reward for surprises make us seek out the unexpected until we make sense of it.
+* 

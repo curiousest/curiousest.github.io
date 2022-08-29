@@ -218,7 +218,7 @@ Grow your sense of self. Grow love.
 
 ---
 
-That concludes the three possible destinations of survival: a "limit approaching one", infinity, and zero. God, life, and death.
+That concludes the three possible destinations of survival: a limit approaching "one", a step function, and multiplication by zero. God, life, and death.
 
 # Part two
 
@@ -304,13 +304,11 @@ This is the mother religion, the purpose that gives birth to all religions. I wa
 
 Being enlightened is getting clearer thoughts about something you already believe, deep down. This statement is recursively enlightening.
 
-## Simulate follower story
+## Simulate me, I will follow
 
-*To convert a follower, prove that you can simulate them.* 
+*To convert a follower, prove that you can simulate them.*
 
-Do a thing that only a very accurate brain simulator could do.
-
-## Pomegranates and the ten commandments of viable purpose
+## Pomegranates and the ten commandments of worthy ideas
 
 *Our intuition for worthy ideas is not scientific, yet.*
 

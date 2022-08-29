@@ -542,3 +542,7 @@ If you have evidence for or against this framework, please share it in a public,
 ---
 
 you don't have to change people's behaviour or purpose. Ask, what do you want? They will say, "I want to go this direction". You show them how to get there, and let them choose their behaviour. Ask them, once they got there - it wasn't enough, was it? What do you really want? Where do you really want to go? Everyone has the same purpose, so they will all eventually go the same direction, prompted or unprompted.
+
+accomodate people who want significant structure in their lives, without telling them what to do too much
+
+dade

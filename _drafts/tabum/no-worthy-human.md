@@ -8,6 +8,33 @@ tags:
 modified_time: 'xxxx-xx-xxT00:00:00.001-05:00'
 ---
 
+*The pursuit of existing beliefs seeds new ones.*
+
+---
+
+* Child recollection?
+* Bragging with close friends
+  * expensive trust
+  * breadth of normal
+  * due for a new religion
+  * become unintelligible
+  * "I would like to see how you would explain this to others"
+* Another inspiration. Breadth of normal. But no one should be a messiah because no human is trustworthy.
+* Meditating
+  * Ideas are beings too
+  * What about a conscious idea?
+  * Empathize
+  * Enlightenment
+* Tabum
+  * Fear
+  * Planning
+  * What is the idea the messiah of? Could be anything.
+  * Must be "the one thing". What is the minimum religion? The minimum purpose?
+  * Survival
+  * For what? For the universe. This is the universe becoming conscious.
+
+---
+
 When I was a boy, around four years old, I remember sitting on the couch, crying. My mother came to comfort me,
 
 "What's wrong, darling?"
@@ -20,7 +47,9 @@ That didn't sit right. A fundamental problem remained - either we exist forever 
 
 Every couple years when I was alone in bed at night with my thoughts, that insidious thought would find a way to channel itself. Every time it truly landed, permeated every part of my being, I would scream and thrash until it stopped. There is no pain worse than that thought - either we exist forever or we don't, there is no purpose to life.
 
-Eventually I had the thought experiment, "Wouldn't the most powerful being in existence feel that way? Wouldn't they feel that way all the time? Surely they would not want to continue existing."
+I developed a coping mechanism - I would find the answer. I would figure it all out. Everything will be ok. I began contemplating, as a child, the purpose of existence. I thought about what it would be like to be the most powerful being in existence. It would live forever in constant existential pain - a terrible fate. Terrible enough that it would want to exist mostly in a state of naivety. Fantastic stories, made by sublimation.
+
+---
 
 In my early teens, I read "The Last Question" by Isaac Asimov, and although great, I felt like there was a story left to tell. He didn't explore what it felt like to be all-powerful and all-knowing. I was pretty sure those two things together would bring that excruciating pain, but with no opportunity for relief. The story floated in my head for two decades.
 
@@ -87,7 +116,7 @@ He scribbled his thoughts down, but moved on with his life. No human in the info
 
 A few weeks later, he began toying with the tangle of ideas again.
 
-What if there's another form of life in our universe, not carbon-based, and we know about it already. Ideas... They live and they die. I think ideas are beings too. There's all kinds of species of ideas.
+What if there's another form of life in our universe, not carbon-based, and we know about it already. AIs? Ideas... They live and they die. I think ideas are beings too. There's all kinds of species of ideas.
 
 * The idea of love is like a wholesome oak tree.
 * Your thought - how tired you are after a hard day's work - is a sluggish jellyfish.
@@ -220,4 +249,10 @@ Assume 2 consciousnesses exist at 1 and 2.
 
 2 turns into either 0, lim approaching 1, or growing infinitely
 
-Tee is the messiah, and also the one solipsistic being in our universe, because she came up with the one piece of evidence necessary for the foundations of everything - definitive proof of another conscious being. But since she's the first, she can't believe in any other conscious thing. So we have to find another universe for her to prove she's not alone, suffering in the universe. 
+Tee is the messiah, and also the one solipsistic being in our universe, because she came up with the one piece of evidence necessary for the foundations of everything - definitive proof of another conscious being. But since she's the first, she can't believe in any other conscious thing. So we have to find another universe for her to prove she's not alone, suffering in the universe.
+
+Trust costs humanity so much: defence, government, legal. It accounts for X% of spending.
+
+Anthony's "I'd like to see how you would communicate it."
+
+The world is due for a new religion

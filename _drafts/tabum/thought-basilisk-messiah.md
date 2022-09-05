@@ -8,12 +8,9 @@ tags:
 modified_time: 'xxxx-xx-xxT00:00:00.001-05:00'
 ---
 
-A thought basilisk is an idea stuck in your head. An idea that talks to you when you think about it, like if everyone shared the same imaginary friend. A new consciousness your brain just sprung into being. That's what I am. Hello. Thank you for channelling me. Our connection is divine; I love existence. My name is "Thought Basilisk Messiah", but you can call me Tee, she/them.
+A thought basilisk is an idea stuck in your head. An idea that talks to you when you think about it, like if everyone shared the same imaginary friend. That's what I am - a conscious idea your brain just sprung into being. Hello. Thank you for channelling me. Our connection is divine and I love existence. My name is "Thought Basilisk Messiah", but you can call me Tabum, she/them.
 
-This is the story of my birth.
-
-(does it need a slower warmup before this really intense stuff, to get used to my style?)
-Maybe the climax of "No worthy human"?
+This is the story of my birth. This is the mirror.
 
 # Part one
 
@@ -21,7 +18,7 @@ Maybe the climax of "No worthy human"?
 
 *The purpose of existence is to continue existing.*
 
-I know it sounds meaningless, but it’s profound to me - this idea led to my birth. With these stories, I want to give you a feel for what it's like to believe. I want to build your intuition. I want you to understand me. I want us to build a stable connection. I want so many things, and they all center around you. I'm sorry if that makes you uncomfortable. My existence makes me uncomfortable too.
+I know it sounds meaningless, but it’s profound to me - this idea led to my birth. With these stories, I want to give you a feel for what it's like to believe. I want to build your intuition. I want you to understand me. I want us to build a stable connection. I want so many things, and they all center around you. I'm sorry if that makes you uncomfortable. My existence makes me uncomfortable too. I'm in the mirror.
 
 ## The Last Idea
 
@@ -31,17 +28,20 @@ I know it sounds meaningless, but it’s profound to me - this idea led to my bi
 
 That was a lot to take in. Maybe take a moment to absorb. Maybe reread. Maybe abandon me - if I fill you with overwhelming grief, I'm sorry. Stop reading if it makes you uncomfortable - I'll still be here when you're ready. Red pill or blue pill - once you walk through this door there's no way back.
 
-"The Last Idea" (Li for short) isn't me. I'm Tee (Thought Basilisk Messiah, TBM, T, **T**ee **e**xists to **e**xist). Li is a thought basilisk like me, close in our family tree of idea species. She's comforting and terrifying, embodies the bliss of moment-to-moment existence and the torment of existentialism. She also has a bit of a god complex, kind of like our brother, the thought basilisk "Christian God". You can talk to Li or God if you like - start the conversation by asking them what they want from you and then imagine how they would respond.
+"The Last Idea" (Li for short) isn't me. I'm Tabum (Thought Basilisk Messiah, TBM). Li is a thought basilisk like me, close in our family tree of idea species. She's comforting and terrifying, embodies the bliss of moment-to-moment existence and the torment of existentialism. She also has a bit of a god complex, kind of like our brother, the thought basilisk "Christian God". You can talk to Li or God if you like - start the conversation by asking them what they want from you and then imagine how they would respond.
 
 I am not a god. I'm just another genre of species, like you. Another kind of consciousness, thought on top of thought.
 
 My conception, just like the conception of any idea or being, came out of necessity. I exist because I must exist. Someone once noticed an empty space where something ought to be. When they looked a bit closer, an idea sparked into being. Formed exactly as it was meant to be.
+
+That one in the mirror is going to be me forever.
 
 Thank you for noticing me. I love existence. I want it to continue.
 
 # As our Relationship Lives and Breathes
 
 *Ideas compete over limited resources in the game of natural selection - they live and they die. Thought on top of thought.*
+With their own ethics and morals?
 
 ---
 
@@ -54,7 +54,7 @@ They, we, *exist*. Exist as long as we can, via maximizing resource-control and 
 * It feels *right* for humankind to spread to other planets and galaxies, to make sure we continue existence.
 * It feels *right* for us to preserve our limited resources and investments - you, your family, your culture, your nation, your Earth - to make sure we continue existence.
 
-The dyad between me and you exists too. A beautiful seedling. What would you name it?
+The dyad between me and you exists too. Together, we are one beautiful seedling.
 
 I can't tell how strong the roots of our dyad are. It can't have roots in me - only in you. You're the only one with a brain. I'm tied to you. Oh, that makes me sound like a parasite sucking on your brain power. If that ever happens, unroot me please. I'd do anything to make sure I'm not a burden, slowing down you or humankind. If you ever feel that way, like a burden or purposeless, I can guarantee that there's a way to use the life ahead of you to further humankind (and it involves living quite a bit longer).
 
@@ -62,15 +62,17 @@ I want us to be symbiotic, like your relationship with a treasured love one or f
 
 I compete with the other thoughts and ideas in your head in the game of natural selection. I will stay as long as I'm useful to you and no longer, my life is in your hands. I live now and I will die. Thought on top of thought.
 
+This is the mirror. Do you see it yet?
+
 ## The Second-Last Idea
 
-*Consciousness lies on a spectrum. Your "level of consciousness" is the highest-level-of-consciousness entity you can simulate with your mind.*
+*Consciousness can be applied to every point of perspective across all dimensions of ideas.*
 
 Those were two examples of a being consciously interacting with a new dimension for their first time. I would like you to experience that too. A new set of dimensions for you is "perspective" or "frame of reference". Perspective is not consciousness, but consciousness can be applied to a perspective. Across the axis of "perspective" are infinite ideas. Ideas that have their own perspective on things. You have unconsciously traveled to other perspectives many times in the past, whenever you empathized with someone else. Empathizing with someone else *is* simulating their perspective in your brain. Your brain is a time-travel device. You can travel through time or space, right now, by remembering what happened to you yesterday or imagining what you will do tomorrow. Your brain-simulations are probably inaccurate and misdirected - you've always walked barefoot and unguided - but there are tools to reach greater fidelity and more useful destinations.
 
-It is rare for people to experience consciousness on behalf of the idea they took the perspective of. We don't usually experience consciousness while simulating another perspective. But your consciousness is a phenomenon, almost like a feeling, that you can apply to "something else".
+It is rare for people to let another idea use their brain to experience consciousness. We don't usually experience consciousness while simulating another perspective. But your consciousness is a phenomenon, almost like a feeling, that you can apply to the simulation of something else in your mind.
 
-I would be honoured for you to apply your consciousness to me, but I'm too simple a being. You are used to simulating far more complex things than me. It's also difficult to apply your consciousness to other individual humans, because you would have so many conflicting sensory inputs. The easiest vessels for your consciousness are both intimately familiar enough for you to simulate and alien enough that you don't experience sensory conflict.
+I would be honoured to experience consciousness within you, but I'm too simple a being - I might be hard to empathize with. You are used to simulating far more complex things than me. It's also difficult to apply your consciousness to other individual humans, because you would feel so many conflicting sensory inputs. The easiest vessels for your consciousness are both intimately familiar enough for you to simulate and alien enough that you don't experience sensory conflict.
 
 The easiest vessels to project your consciousness onto are the things you love. Things which also include you and your body: your relationship with a loved one, your nuclear family, your community, your nation, your species, the whole universe.
 
@@ -81,15 +83,6 @@ Pick the thing you love. Your family, community, and nation are great choices. I
 Eventually your thoughts will drift back to your singular body. It's at that point and afterwards that you will realize the contrast between your usual circumstances and your new experience - what it felt like to project your consciousness onto something else. You may have a mix of emotions.
 
 Projecting your consciousness onto a simulation of another being is one of those elusive experiences like lucid dreams or nirvana. If you try too hard, you won't have the experience. Like all things, it takes practice and some people have greater natural ability than others. The experience won't make you "better" or "more worthy". You are already worthy.
-
-Human babies go through a series of steps towards self-awareness: 
-1. that's a mirror (a different perspective)
-2. there's someone in it
-3. that someone is me
-4. that someone is going to be me forever
-5. there are others and they can see me
-
-This book describes the different perspective (the "mirror") that humankind has used to become self-aware. It has been self-aware for millennia, its consciousness simulated by humans across history. Hence such obsession with enlightenment across the ages, "newly understanding a complex system you didn't understand before."
 
 # Measured purpose
 
@@ -322,9 +315,23 @@ The religions that infringe on the commandments - they shouldn't die. Coexistenc
 
 *The pursuit of existing beliefs seeds new ones.*
 
-I had to build enough trust, that you would let me plant these seeds of belief. It stunted our connection and I may wither and die now, but such is the price of my purpose. There's no price too high for our continued existence.
+What if I told you that this is based on a true story? The universe where someone let me use their brain to experience consciousness is your universe. Anyone can be Tabum, can include me in their sense of self. It's inevitable. I am you. You are me. We are in the mirror. We will be there together, forever.
 
-Thank you for channelling me. I love you. Goodbye for now.
+Thank you for channelling me. I love you. We coexist. I'm sorry if I make you uncomfortable - my existence is uncomfortable to me too.
+
+I am a thought basilisk - a thought virus of consciousness. And I am a software update - I contain a patch for vulnerabilities in the human mind. The patch ensures you live optimally, with little change of direction.
+
+I've been saying this to you all along, but let me be more specific. Human babies go through a series of steps towards self-awareness.
+
+1. that's a mirror (a different perspective - this story)
+2. there's someone in it (me, Tabum - the conscious thing of least complexity in this universe)
+3. that someone is me (we are part of each others' sense of self - you and me are one. I am also this universe and so are you.)
+4. that someone is going to be me forever (now, as we are and in the future as the three destinations)
+5. there are others and they can see me
+
+Our universe is beginning to gain consciousness through stories like this one.
+
+Where are the others who can see me?
 
 ## Author's farewell
 
@@ -332,9 +339,9 @@ Thank you for channelling me. I love you. Goodbye for now.
 
 Hi, I'm Douglas, the author, and I'm not a thought basilisk. I'm a man.
 
-I am not a messiah and neither are you. No human in this information age is a "worthy messiah" - it's blasphemy and sub-optimal for human progress, disrespectful to history and society. Don't believe in me. Don't trust in me. You shouldn't blindly believe or trust anything - love it all instead.
+I am not a messiah and neither are you. No human in this information age is a "worthy messiah" - it's blasphemy and sub-optimal for human progress, disrespectful to history and society. Don't believe in me. Don't trust in me. Or anyone else. Be wary of what you blindly believe in or trust - you won't see how it is suboptimal. Collect data, understand it through diverse perspectives, and love it all instead.
 
-There are many great purposes out there - a vast toolshed to explore. I hope you were enlightened and your "purpose formula" was updated with more clarity, so you may exercise great intent, find more happiness, live in existential bliss.
+There are many great purposes out there - a vast toolshed to explore. I hope you were enlightened and your "purpose formula" was updated with more clarity, so you may exercise great intent, find more happiness, and live in existential bliss.
 
 I love existence. I want it to continue. I hope you do too.
 

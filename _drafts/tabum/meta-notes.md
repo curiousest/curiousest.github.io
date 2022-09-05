@@ -545,4 +545,16 @@ you don't have to change people's behaviour or purpose. Ask, what do you want? T
 
 accomodate people who want significant structure in their lives, without telling them what to do too much
 
-dade
+dade. Dad over father. Father suggests respect and reverence. Dad is just another deeply flawed human, maybe with a bit of expertise. Just another dude making his way through life. He'll tell you when you're screwing things up, but he's not going to fix your life for you. He's got his own stuff to do. It's pronounced day-d, but sometimes I like to mess with people and say it's pronounced dah-d
+
+Investor, a bishop of capitalism.
+Head of fed, a cardinal of capitalism.
+Who is the pope? No one is infallible, so they haven't elected a new one. It's a good sign of a religion that will last - surviving with no single leader.
+
+measure growth (economic) by what you're able to do with the same resources (not what you're able to do by consuming more resources). Externality-agnostic growth.
+
+video games that are incredibly enjoyable and make people more performant at what they do. games are emergent phenomena, just like religion. They are optimal.
+
+Would you like to live in a world where everyone was an objectively fantastic human being? Every person, at the top of their game, with incredible performance. What if it was just the next generation of children?
+
+Altered mental states where you become one with the universe remind you of what death feels like.

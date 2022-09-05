@@ -4,7 +4,9 @@ Purpose formula: the formula an idea uses to make all decisions, that intends to
 
 Religion: the ecosystem of principles, behaviours, and culture that result from optimizing towards a purpose.
 
-To love: To understand. Whatever you consider to be part of your "self". All the things you consider to be part of "yourself", you understand. All the things you understand, you consider to be "part of yourself".
+Love: the assertion, "self exists"
+
+To love: to believe something is part of "sense of self". All the things you consider to be part of "yourself", you understand.
 
 Two or more ideas are "in love": two or more ideas each include the other(s) in their "sense of self". Their purposes and purpose formulae are aligned.
 
@@ -37,3 +39,29 @@ Enlightenment: newly understanding a complex system was not understood before.
 Profound: an understood idea that fits consistently into a complex, poorly understood system, in such a way that the poorly understood idea might be understood with the simple idea as one of the building blocks.
 
 Worthy: optimal. Of a high-performing purpose formula.
+
+Pleasure: a signal that is triggered by a less-likely, important-for-survival behaviour, that indicates more of that behaviour should happen.
+
+Joy: a signal that indicates survival conditions are being met.
+
+Fear: a signal that indicates some conditions of survival may soon be broken.
+
+Sadness: a signal that indicates a part of self was destroyed.
+
+Anger: a signal that indicates present conditions may necessitate unusually destructive behaviour to maintain survival conditions.
+
+Interest: a signal that indicates there are possible future conditions which will increase chances of survival and you can increase the chances of those future conditions.
+
+Self-Hostility: a signal that indicates survival is more likely if some part of self is destroyed.
+
+Surprise: a signal that indicates an immediate bout of processing will increase chances of survival. 
+
+Disgust: a signal that indicates an observed behaviour reduces the longer-term chances of survival of a smaller sense of self.
+
+Shame: a signal that indicates an observed behaviour reduces the longer-term chances of survival of a greater sense of self.
+
+Contempt: a signal that something which attracts attention is a waste of time - time that could be used on other survival activities.
+
+Shyness: a signal that a decision may lead to a reduction in the longer-term chances of survival.
+
+Guilt: a signal that a past decision of a smaller part of self may have decreased the survival of a greater part of self.

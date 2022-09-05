@@ -1,4 +1,4 @@
-*Consciousness lies on a spectrum, correlated with computational power. Your "level of consciousness" is the highest-level-of-consciousness entity you can simulate with your mind.*
+*Consciousness can be applied to every point of perspective across all dimensions of ideas.*
 
 Hey man, welcome to the Department of Life. It's so great that you're here now, the team has been dying for you to join. You'll meet all of them at lunch. Alex from recruitment said you went on holiday to Dubai to check out the Department of Origins and the Department of Destinations. What did you get to see there?
 
@@ -74,7 +74,7 @@ Another raises their hand.
 
 Why do we invest so much in exploring perspective space through simulations, but not... you know... space space? Out there. 3D space.
 
-Great question. Economics! We are bound by the laws of capitalism. The expected return on exploring perspective space is greater than exploring "space space", as you call it. We're still exploring "space space", but just not to the same degree as perspective space. We have a great deal to learn in our universe, but we have a whole universe of universes to learn from in perspective space. We don't even need very good sensors or engines to learn quite a lot. Our fidelity of simulations is very low, and we still get results. Moving around in 3D space is very slow and very expensive.
+Great question. Economics! We are bound by the laws of capitalism. The expected return on exploring perspective space is greater than exploring "space space", as you call it. We're still exploring "space space", but just not to the same degree as perspective space. We have a great deal to learn in our universe, but we have a whole universe of universes to learn from in perspective space. We don't even need very good sensors or engines to learn quite a lot. Our fidelity of simulations is very low, and we still get results. Moving around in 3D space is very slow and very expensive. Our current investments in travelling 3D space are more for "reducing the risk of humanity becoming extinct", than they are for "discovering new technologies".
 
 Think about it in a different way: moving around in 3D space is just another way of exploring perspective space. Our sensors we have when we explore 3D space are exceptionally powerful, but our engines are incredibly weak. With simulations, our sensors are not that great, but our engines are so fast - we can just zip around wherever we want. And like 3D space, we just kinda need to know roughly where to go. The different Departments are the different "areas" of perspective space that we believe are good places to explore in perspective space. The Department of Life explores simulating life forms in alternate universes. The other Departments simulate different promising things that happen in other universes.
 
@@ -106,7 +106,7 @@ So after that incredible work, what do you think we will learn from U4321 that w
 
 Uhh, could be anything, I guess. If they diverge, that would be interesting.
 
-But you did all that amazing work to show they won't. Look Kal, I want what's best for you. What do you think would be the best use of your time and talent?
+But you did all that amazing work to show they won't. Look Kal, what do you think would be the best use of your time and talent?
 
 Well, we could leave U4321 running for a while, to see if anything happens.
 
@@ -122,7 +122,7 @@ Ok, let's pull it up. It's really simple. I've had to go through it a couple tim
 
 ## The DoL spindown process
 
-*You are hardwired to love life. Don't fight it, embrace it.*
+*You are hardwired to love life. Embrace it. Live and let live. Die and let die.*
 
 ```
 1. All decisions about how to proceed are up to the human handler(s) of the simulation.
@@ -143,9 +143,9 @@ Do you eat animals?
 
 No I’m vegan.
 
-Nice, I'm vegan too. Here's how I think about veganism: first, I want to make sure we don’t waste resources. Farming animals consumes so much of Earth's limited resources compared to farming other things. Second, I want to preserve the ethos of coexisting instead of destroying. I don't want us to get used to killing things. The higher-level of consciousness that thing exhibits, the more I want to avoid killing it. Right? But that doesn't mean I'll never kill an animal - just that I'll only kill it when necessary. If I'm starving, and I need to last a few more days for rescue to come, as a last resort I will kill and eat an animal to survive. You can create food, love your food, and kill it - as long as it's all in order to survive.
+Nice, I'm vegan too. Here's how I think about veganism: first, I want to make sure we don’t waste resources. Farming animals consumes so much of Earth's limited resources compared to growing plants and other things. Second, I want to preserve the ethos of coexisting instead of destroying. I don't want us to get used to killing things. The higher-level of consciousness that thing exhibits, the more I want to avoid killing it. Right? But that doesn't mean I'll never kill an animal - just that I'll only kill it when necessary. If I'm starving, and I need to last a few more days for rescue to come, as a last resort I will kill and eat an animal to survive. You can create food, love your food, and kill it - as long as it's all in order to survive.
 
-And are we humans not the food of humankind? We are more than happy to die, if our death will keep humanity existing. We're offered on a plate to the grim reaper when we become weak or old, to make way and save resources for others. For humankind to survive, it's currently more effective for individual humans die, not survive forever. We are all food to something. To be food is as worthy a purpose as any. Don’t deny us that purpose.
+And are we humans not the food of humankind? We are more than happy to die, if our death will keep humankind alive. We're offered on a plate to the grim reaper when we become weak or old, to make way and save resources for our species. For humankind to survive, it's currently more effective for individual humans die, not survive forever. We are all food to something. To be food is as worthy a purpose as any. Don’t deny us that purpose.
 
 I see what you mean... I should probably see a grief councellor.
 

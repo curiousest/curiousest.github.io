@@ -8,37 +8,35 @@ tags:
 - career
 - personal development
 - tech industry
-modified_time: '2019-07-08T00:00:00.001-05:00'
+modified_time: '2021-09-22T00:00:00.001-05:00'
 ---
 
 # Purpose
 
-When looking for a new position, I like my goals to be clear to me and available to others. This post documents the goals in my transitions. Like most goals/values lists, what's excluded is often as notable as what's included.
+When looking for a new position, I like my goals to be clear to me and available to others. This post documents the goals in my transitions. Like most goals/values lists, what's excluded is often as notable as what's included. At each transition, I have many "wants", but I don't expect to get them all - they're notable factors for my decision-making.
 
 # 2022
 
-I'm not looking, just projecting that I will want some sort of change by this point in time (either within my current company or to a new one).
+I'm not actively looking, just projecting that I will want some sort of change by this point in time (either within my current company or to a new one).
 
-I want to work in China and the Western World.
-- Need better Chinese language and culture (in a business/management setting)
-- Need better Chinese network
+Two distant-future niches I want to pursue are:
+- Automating expert tasks with AI
+- Bridging Chinese<>Western AI tools and practices
 
-I want to consult/coach/mentor companies/teams/founders/managers.
-- Need experience in executive positions.
-- Continue building experience consulting/coaching/mentoring.
+For my long-term career goals, I am missing:
+- experience with management responsibilities for an org (as opposed to "just being a people manager" - long-horizon choices, budget, exposure to investors/board, etc)
+- world-class expertise in a domain
+- business experience/network in China
 
-I want to work on AI B2B software companies - ones that automate expert tasks with data.
-- Need more data science exposure/expertise/experience.
-- Need more business dev / solution architect experience.
+I want to continue:
+- living in London (and/or maybe the Sinosphere)
+- working mostly remotely
 
-From a business school, I would get:
-- Learn business fundamentals
-- Network with people (esp Chinese businesspeople)
-- Stamp of approval on CV/profile (because of strong filters)
-- Understand my future users
-
-As an engineer, I like to understand and build complex systems.
-I like to understand and build companies - and that needs a breadth of knowledge/experience.
+To be more effective in companies that "automate expert tasks with AI", I need:
+1. expert-level MLOps experience.
+2. intermediate-level data science experience.
+3. more business development / solution architecture experience.
+4. more product management experience.
 
 # 2019
 

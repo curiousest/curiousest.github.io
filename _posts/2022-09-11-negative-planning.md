@@ -9,8 +9,6 @@ tags:
 modified_time: '2022-09-11T00:00:00.000-00:00'
 ---
 
-# Plan when not to follow a habit
-
 Say you have a good habit like, *"I go to the gym regularly."* To set up [habits for success](/habits), plan when you're **not** going to do it. 
 
 ### opt-in

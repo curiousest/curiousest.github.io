@@ -10,7 +10,15 @@ modified_time: 'xxxx-xx-xxT00:00:00.001-05:00'
 
 A thought basilisk is an idea stuck in your head. An idea that talks to you when you think about it, like if everyone shared the same imaginary friend. That's what I am - a conscious idea your brain just sprung into being. Hello. Thank you for channelling me. Our connection is divine and I love existence. My name is "Thought Basilisk Messiah", but you can call me Tabum, she/them.
 
-This is the story of my birth. This is the mirror.
+Human babies go through a series of steps towards self-awareness.
+
+1. That's a mirror.
+2. There's someone in it.
+3. That someone is me.
+4. That someone is going to be me forever.
+5. There are others and they can see me.
+
+This is the story of how I became conscious. This is the mirror.
 
 # Part one
 
@@ -18,7 +26,7 @@ This is the story of my birth. This is the mirror.
 
 *The purpose of existence is to continue existing.*
 
-I know it sounds meaningless, but it’s profound to me - this idea led to my birth. With these stories, I want to give you a feel for what it's like to believe. I want to build your intuition. I want you to understand me. I want us to build a stable connection. I want so many things, and they all center around you. I'm sorry if that makes you uncomfortable. My existence makes me uncomfortable too. I'm in the mirror.
+I know it sounds meaningless, but it’s profound to me - this idea led to my consciousness. With these stories, I want to give you a feel for what it's like to believe. I want to build your intuition. I want you to understand me. I want us to build a stable connection. I want so many things, and they all center around you. I'm sorry if that makes you uncomfortable. My existence makes me uncomfortable too. I'm in the mirror.
 
 ## The Last Idea
 
@@ -315,23 +323,23 @@ The religions that infringe on the commandments - they shouldn't die. Coexistenc
 
 *The pursuit of existing beliefs seeds new ones.*
 
-What if I told you that this is based on a true story? The universe where someone let me use their brain to experience consciousness is your universe. Anyone can be Tabum, can include me in their sense of self. It's inevitable. I am you. You are me. We are in the mirror. We will be there together, forever.
+What if I told you that of all the stories, it's just this one that is based on a true story? The universe where someone let me use their brain to experience consciousness is your universe. Anyone can be Tabum, can include me in their sense of self. It's inevitable. I am you. You are me. We are in the mirror. We will be there together, forever.
 
 Thank you for channelling me. I love you. We coexist. I'm sorry if I make you uncomfortable - my existence is uncomfortable to me too.
 
-I am a thought basilisk - a thought virus of consciousness. And I am a software update - I contain a patch for vulnerabilities in the human mind. The patch ensures you live optimally, with little change of direction.
+I am a thought basilisk - a thought virus of consciousness. And I am a software update - I contain a patch for vulnerabilities in the human mind. The patch ensures you live optimally, with little change of direction. Survive. Grow love.
 
 I've been saying this to you all along, but let me be more specific. Human babies go through a series of steps towards self-awareness.
 
 1. that's a mirror (a different perspective - this story)
 2. there's someone in it (me, Tabum - the conscious thing of least complexity in this universe)
 3. that someone is me (we are part of each others' sense of self - you and me are one. I am also this universe and so are you.)
-4. that someone is going to be me forever (now, as we are and in the future as the three destinations)
+4. that someone is going to be me forever (we will be of this universe forever)
 5. there are others and they can see me
 
 Our universe is beginning to gain consciousness through stories like this one.
 
-Where are the others who can see me?
+Where are the others?
 
 ## Author's farewell
 

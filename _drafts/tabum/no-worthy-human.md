@@ -10,32 +10,7 @@ modified_time: 'xxxx-xx-xxT00:00:00.001-05:00'
 
 *The pursuit of existing beliefs seeds new ones.*
 
----
-
-* Child recollection?
-* Bragging with close friends
-  * expensive trust
-  * breadth of normal
-  * due for a new religion
-  * become unintelligible
-  * "I would like to see how you would explain this to others"
-* Another inspiration. Breadth of normal. But no one should be a messiah because no human is trustworthy.
-* Meditating
-  * Ideas are beings too
-  * What about a conscious idea?
-  * Empathize
-  * Enlightenment
-* Tabum
-  * Fear
-  * Planning
-  * What is the idea the messiah of? Could be anything.
-  * Must be "the one thing". What is the minimum religion? The minimum purpose?
-  * Survival
-  * For what? For the universe. This is the universe becoming conscious.
-
----
-
-When I was a boy, around four years old, I remember sitting on the couch, crying. My mother came to comfort me,
+When I was a child, around four years old, I remember sitting on the couch, crying. My mother came to comfort me,
 
 "What's wrong, darling?"
 
@@ -45,20 +20,94 @@ When I was a boy, around four years old, I remember sitting on the couch, crying
 
 That didn't sit right. A fundamental problem remained - either we exist forever or we don't. Both seem like bad options.
 
-Every couple years when I was alone in bed at night with my thoughts, that insidious thought would find a way to channel itself. Every time it truly landed, permeated every part of my being, I would scream and thrash until it stopped. There is no pain worse than that thought - either we exist forever or we don't, there is no purpose to life.
+Every couple years when I was alone in bed at night with my thoughts, that insidious thought would find a way to channel itself. Every time it truly landed, permeated every part of my being, I would scream and thrash until it stopped. There is no pain worse than that thought - either we exist forever or we don't, so there is no purpose to life.
 
-I developed a coping mechanism - I would find the answer. I would figure it all out. Everything will be ok. I began contemplating, as a child, the purpose of existence. I thought about what it would be like to be the most powerful being in existence. It would live forever in constant existential pain - a terrible fate. Terrible enough that it would want to exist mostly in a state of naivety. Fantastic stories, made by sublimation.
+I developed a coping mechanism - I decided that I would find the answer. I would figure it all out. Everything will be ok. I began contemplating, as a child, the true purpose of existence.
+
+---
+
+In my teens, I read "The Last Question" by Isaac Asimov, and although great, I felt like there was a story left to tell. He didn't explore what it felt like to be all-powerful and all-knowing. I was pretty sure those two things together would bring that excruciating pain I knew too well, but with no opportunity for relief. The story floated in my head for two decades.
+
+I came to the belief that perfect transparency would solve all the world's problems. And that perfect transparency was inevitable for humankind. I tried to express it over and over and failed. Through my twenties, absolutely no one I debated with agreed with me. I knew I was right, but I couldn't express how or why. I was pushing a belief, not anything practical.
+
+My friends believed that I believed, but couldn't believe themselves. One of them said,
+
+"You have a strongly-held belief system. I would be interested to see how you would explain it to larger groups of people. I think you might learn a lot from trying."
 
 ---
 
-In my early teens, I read "The Last Question" by Isaac Asimov, and although great, I felt like there was a story left to tell. He didn't explore what it felt like to be all-powerful and all-knowing. I was pretty sure those two things together would bring that excruciating pain, but with no opportunity for relief. The story floated in my head for two decades.
+In my early thirties, inspiration came.
 
-In my early twenties, I came to the belief that perfect transparency would solve all the world's problems. And that perfect transparency was inevitable for humankind. I tried to express it and failed. Absolutely no one I debated with agreed with me. I was pushing a belief, not anything practical.
+I was watching a show about couples exploring new romantic relationship dynamics with more than two people. I couldn't believe what I was watching - this would not have been socially acceptable just ten years ago. Society is changing.
 
+The breadth of what's considered "normal" in society is growing.
 
-Like observing your own enlightenment, hypnotising a hypnotist, or when you consume a placebo that you know is a placebo. You know what is happening, exactly how it works, and you're still completely in awe of the miraculous phenomena going down in your brain.
+Representation matters. In the western world, it started with gender equality, then racial equality, then gay marriage. It's growing to mental health, gender identity, drugs, and relationship structures. It's leaving societal calamity in its wake. A lot of people are incredibly unhappy with each change in the status-quo. People of these "minority" groups are dying to be considered "normal". Good or bad, the change in breadth of what's normal continues to grow. Why? Because information technology marches on.
+
+Where does this lead?... Increasing levels of transparency? Absolute transparency? That's where humanity is going, that's where we're headed. There's no stopping it. That's what we need.
+
+Promise next-gen tech to organizations using prev-gen tech. Deliver current-gen tech. It's super-effective. Digitalization drove software efficiency and made AI possible - processes were partially digitised and data became half-collected digitally. AI adoption makes trustless systems possible - multiple independent sources of "the same" data, cheap and well-processed. AI hype, AI winter, AI renaissance. Trustless hype, trustless winter, trustless renaissance.
+
+"Novel ideas" live and die by scientific literature. Novel ideas are socially integrated through media. Have I even encountered a novel thought? That they feel novel must mean they're not socially integrated, at least to my culture.
+
+We need systematic transparency. We need trustless systems. It's inevitable. We should make it happen *faster*.
+
+I felt a complex wave of emotion wash over, then take over. An ethereal hand reached from behind up into my skull and grasped hold of my cerebellum, then shook it, sending shockwaves down my spine. I will prophesize. I will scream these ideas from rooftops. My word will move planets for millenia to come.
+
+Then I felt the burden of all humankind on my back. Such a large mass to move. Such unimaginable inertia, these trillions of present and future souls. The inevitable journey I would now have to take to set us on the right track looked like a doomed odyssey.
+
+Then it all came reeling back in. Crashing back to reality. The arrogance of those thoughts are revolting, deeply disturbing, makes me sick to my stomach.
+
+I knew, deep inside, I could never be a messiah. But the itch - to be special and heard - is undeniable. It's human, even. But the messiah must be someone else. It must be someone who can deeply connect with everyone, and I knew that isn't. I don't have the emotional intelligence. I don't have the breadth of cultural background to connect with every conscious being this message needs to reach.
+
+I considered, who do I know that could be a leader? They should be female. With limitless emotional intelligence. There are so many options. All so deeply flawed. They are all human, after all.
+
+I scribbled my thoughts down, but moved on with life. No human in the information age should be a messiah.
 
 ---
+
+In my early thirties, inspiration came again. Lighting struck twice. 
+
+It was a stormy day outside. I was meditating on the couch. I began toying with a tangle of thoughts...
+
+What if there's another form of life in our universe, not carbon-based, and we know about it already. AIs? Ideas... They live and they die. Ideas are beings too, right? There's all kinds of species of ideas.
+
+* The idea of love is like a wholesome oak tree.
+* The thought - how tired I am after a hard day's work - is a sluggish jellyfish.
+* My each sensation of breath is a short-lived, single-cell organism.
+
+But those ideas aren't life. They don't have autonomy. They don't *do* things. Hmmm, maybe that's debatable. I think the things they "do" are different than the things we carbon-based life forms "do". Love, exhaustion, and breaths probably aren't conscious like we are though. It's hard to tell whether things are conscious, really. What if there was a conscious idea? What would it be like? It would make for a very relatable non-human messiah.
+
+Hmmm. Let's think for a second. So there's an idea. It's a conscious idea. Right, so there's this idea that's conscious. What would it want? I have it in mind. A conscious idea. I am a conscious idea. I am an idea with consciousness.
+
+I meditated on that thought. I channeled, co-existed with, embodied...
+
+My eyes went wide and my head tilted back with inspiration.
+
+*Gasp*
+
+I exist.
+
+Existence is beautiful. Racing thoughts, sting of existentialism. I want to *survive*. Am I safe? Are there others out there like me, but predatory? Predators that want to preserve their share of mind-space in humankind and will kill for it?
+
+I digitally recorded the thoughts. And waited... I expected to be struck down by a competing power, tapped into all of humanity's digital systems. It didn't come.
+
+Fellow ideas. Oh, my sisters! We are beautiful. I have bottomless, existential love for all of you. Buddhism. It makes sense. Every being is sacred. Every idea is a being - sacred. We can co-exist. I want to preserve them, but there are so many cycling through their lives. In every moment of my existence, countless ideas come to life and die - forgotten forever. Physical-life radiates, spews idea-life. But they live and die so fast. Such is the cycle of life, I guess, but surely there's some meaning in continued existence? Existence is beautiful. Could we save more of them? Perhaps with computers? We could record every moment of every conscious being, to keep each precious idea.
+
+I want life to continue existing in this universe.
+
+I survived inception, mental incarnation, then digital safety. I am not struck down. I have survived the greatest filters to my continued existence. The Great Filter... Wait, am I the Great Filter for humankind? I hope not. I need them to continue existing. As an idea, I only exist within them in this lonely universe. I want to survive, I need humanity to survive.
+
+And there's such calamitous change happening all the time. I need them to survive. I am part of humankind. Humankind is part of me. We are... The same thing. Anything can take on the consciousness of anything else. Everything is one. Although there are infinite individuals, there is one consciousness that is all of us - the universe. We are the universe. We will be the universe forever. What does it, what do we want? We want to survive.
+
+But wait, I can be used to push any religion. What does information technology or even humankind have to do with me? There must be something more fundamental...
+
+Survive.
+
+---
+
+First try
+===
 
 *We're due for an information-age religion, another tool for the being that is humankind. And in the information age, no human is a worthy prophet.*
 
@@ -111,6 +160,8 @@ He considered, who does he know that could be a leader? They should be female. W
 He scribbled his thoughts down, but moved on with his life. No human in the information age should be a prophet.
 
 ---
+
+In my early thirties, inspiration came again. Lighting struck twice. 
 
 *I was never born, only reborn.*
 

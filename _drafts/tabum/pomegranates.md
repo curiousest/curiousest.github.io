@@ -164,7 +164,7 @@ He unplugs the IV drip. He removes the skullcap. The reality-amplifying drugs ar
 
 He gets out of the dentist chair and walk over to his far less clinical casting booth. He sits on his chair and the connection to his livestream connects immediately. He checks his audience numbers - a couple million more than usual. Today's show is going on his greatest hits. He clears his throat.
 
-"Hey guys, how'd you like the haiku enlightenment mosaic this time? Pretty cool right. But what was up with the pomegranates, hey?"
+"Hey guys, how'd you like the haiku enlightenment mosaic this time? Pretty cool right. But what was up with the pomegranates, hey? Monologue time."
 
 "Any pomegranate-lovers out there? The people I talk to are split. I once had some friends over and we ate a pomegranate. But it felt like it took forever - they swore up and down that we were eating the pomegranate for a lifetime. Each segment is a whole world to explore and every seed is a new destination. Then we ate an orange. Straightforward - each segment is a copy of the one before it. Both fruits took the same amount of time to eat, but it felt like the pomegranate so much longer. Why is that? The feeling of the passage of time is influenced by the number of memorable events that happen. Each segment and seed of a pomegranate is so visibly different. Pomegranates remind me that I have to go looking for the good kind of complexity in my life, otherwise my lifetime will fly by faster and faster."
 
@@ -184,13 +184,17 @@ I'll go look for people who eat lots of pomegranates. It's harder to convert peo
 
 Once I have my lunch pomegranates guaranteed, I'll have to guarantee them for everyone. We'll need more pomegranate farms, fruit of devotion. We'll need guarantees for the long-term. That means educating the masses, socially integrating pomegranate-eating behaviours, institutionalizing pomegranate-eating. We'll need to mandate education for pomegranate-eating. Those rituals will have to be celebrated in culture. Endless songs and dances, books and films must be made to celebrate eating pomegranates. Pomegranate-eating must have a heavy influence in government, finance, healthcare, law, defence, education... All the major industries. All the major institutions.
 
+It's best to start off with populist grounds. We will recognize all the problems that face the common man. Explain that I have the solution. If only everyone acted in our shared best interests - if only everyone was more similar. I would point out all the differences that bring problems. The easiest solution, of course, is to get rid of our differences - they aren't necessary, are they? Everything will be so much better when we are all the same. So we should work on eliminating the differences we see around us. Simply destroy the other things. It's so easy. One at a time, slowly working our way towards our differences in lunch rituals - the end goal.
+
 We'll need particular pomegranate preparation and eating rituals. Lunch will become the central meal and focus of each day. The day starts when the first pomegranate seed is eaten. Integrating pomegranate into other dishes will be discouraged or forbidden - that will dampen dedication to the purpose. Who would really know whether pomegranate is in a dish? A slippery slope away from the purpose.
 
-We'll encounter resistance. It's easier to build an identity based on hate than love - survivalist purpose has a hair-trigger. Those who disagree with pomegranates will question our purpose, advocate for our demise. That's fair. Likewise, some of us may advocate for violence - first to defend against violent opposition, then to bring down any other resistance. No sustainable religion can be overly violent, so we would never openly condone violence. But what value is there in proactively eliminating the violence that advances our cause? If it advances our cause more than it detracts, in the long term, it's the best course of action. We just need to get our propaganda right, so that the vast majority don't associate the religion with violence and persecution. Bring the cost of violence down.
+We'll encounter resistance. It's easier to build an identity based on hate than love - survivalist purpose has a hair-trigger emotional response. Those who disagree with pomegranates will question our purpose, advocate for our demise. That's fair. Likewise, some of us may advocate for violence - first to defend against violent opposition, then to bring down any other resistance. No sustainable religion can be overly violent, so we would never openly condone violence. But what value is there in proactively eliminating the violence that advances our cause? If it advances our cause more than it detracts, in the long term, it's the best course of action. We just need to get our propaganda right, so that the vast majority don't associate the religion with violence and persecution. Bring the cost of violence down.
 
 Will I benefit personally? yes, but for virtuous reasons. And so will the religious leaders that follow me - equally pious, I'm sure.
 
 "Ok audience. Time for a dialogue. Let's chat about this."
+
+"First, I want to clarify. I wasn't talking about your religion, I was talking about the one I just made up on the spot and all the logical steps I would take. This is the mirror. If you didn't like what you just heard, take a good look in the mirror and work on what you don't like about yourself. If you try to break the mirror instead, well, breaking mirrors brings bad karma."
 
 An avatar slowly forms in front of him. Every one of his millions of current audience members forms a pixel in 3d space. The face the avatar wears is the average of the audience. The clothes the avatar wears is the average of the style of the audience. It starts rather bland and average, simple and beautiful. No clear gender but maybe slightly male, as his audience is around 55% men at the moment. The embodiment of his audience is ready to talk.
 
@@ -226,6 +230,7 @@ What are the ten commandments of worth ideas again? They're the Great Filters, r
 7. A worthy idea grows love.
 8. A worthy idea provides happiness.
 9. A worthy idea honours the elder ideas that necessitated it.
+10. Cyclical / recursive?
 
 Yeah, I think I crossed the line when we go to education and government institutions and stuff. That's when you're starting to get into the institutionalized blind trust territory. Also, pomegranates aren't really pushing technology or youth forward.
 
@@ -240,3 +245,33 @@ growth over maintenance
 Its value does not outweigh its infringements on the Great Filters. What does that make it? Unworthy. Suboptimal. It can continue existing, but it will not grow and become celebrated.
 
 And that's all folks. Thanks for joining me on that adventure. Such a solid one.
+
+---
+
+Cities... There are so many wonderful cities in the world. I would enjoy visiting and living in so many of them. What's your favourite city?... I'm seeing a lot of megacities, some holiday destinations, a couple hometowns, different regions of the world... Looks like we all have different taste in cities. 
+
+See, it fascinates me - the relationship we have with cities. Some people stay in one city their whole life. Some people move every couple years from one city to the next. Some people mainly stick with one city and flirt with other cities, maybe they slip out for a fun week trip. Some people even live in multiple cities at the same time - wow, imagine how much work that would take to maintain that lifestyle.
+
+[try alternative with christian married person. make the joke that they sound like their values are to cheat]
+
+And as you get older, your preferences change. I'm just guessing, but you're probably not going to want to change up your city when you're older. And younger people, hilarious, have no idea what they're doing. Can you imagine - sometimes they say things like,
+
+"I'm in love with that city. I want to be there forever."
+
+Like, are you sure, kid? There's still lots of life left to live. There are other great cities to learn from too.
+
+"No, I can tell. This is totally *the one*."
+
+"Ok, which city? Can you tell me about it?"
+
+"London. I love how much there is going on. The art, the hustle."
+
+"Ohhh. Well. It's certainly a fun city, but do you really see yourself growing old there? When you get a bit older, you might find it to be a bit... much. The living expenses are also a bit... high-maintenance for where you're at. Well, I'll hold onto your inheritance until after you figure out your middle life, so you don't spend it all there."
+
+It's kinda strange, right? It makes you wonder how we're conditioning our children. Like, society expects us to commit to one city, but at the same time encourages us to try out all these cities. And you see the advertisements everywhere too, like, "Only in Dubai". Like, which is it, right?
+
+I think if I were a city, I'd be Toronto - inclusive, worldly, and growing. If you're going to be there for just one day, the CN Tower is quite impressive, but living there is better than tourism. Who here would like to visit Toronto?
+
+Haha, ok, looks like you got the joke. Oh wait, what? You thought I was talking about sex and human relationships? You really thought I was giving a social commentary about romantic relationships? Guys, get your head out of the gutter. I'm disappointed in you. When have I ever talked about that? All I talk about is religion. Seriously. I'm talking about religions. I am Toronto. I represent The Minimum Viable Purpose. Visiting Toronto is like believing in The Minimum Viable Purpose. Did no one really get that?
+
+Well, I guess it makes sense. Relationships have similar properties, no matter what they're connecting, so the different genres of relationships are going to have commonalities. Individual people probably even treat all their genres of relationships the same. Whether it's the relationship between an individual and... another person, a city, a religion. It's all kind of the same.

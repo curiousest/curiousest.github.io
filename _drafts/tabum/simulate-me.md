@@ -62,6 +62,8 @@ Annie choked on laughter. "Oh, that's strange. Do some people really call you th
 
 They went to the entrance [exposition].
 
+"You can't read my mind right? No? You just think I'm paranoid, eh? Ok good, it's just me that can read yours."
+
 They waited. Eli knew that the AIs understood what she wanted from them. She didn't know what they wanted from her. She had to wait for them to tell her.
 
 The AIs began a performance. A cacaphony. Their sensors didn't really correspond to pleasant human frequencies - they were just barely correlated. Their most tolerable pieces fell in the realm of "factory orchestra", "citystreet jazz", "mechanical birdcalls".

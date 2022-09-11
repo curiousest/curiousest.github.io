@@ -30,31 +30,31 @@ Another woman emerged from the shadows. She was average height, relaxed, conserv
 
 "Dan, thank you for waiting. Please come in to my office."
 
-Eyes open wide then fluttering. She looked like she just had an inspired realization. She turned around and I followed her into the dark. Her office was a wellspring of blacklight. Our flaws were laid bare for the other to see. I was covered in unexpected white flecks. She had many too, especially some lines and spots on her face. I couldn't tell whether they were intentional. They made her that bit more... Present in this space. She sat at her desk, behind the various bank technology implements.
+Her eyes opened wide then fluttered, like she just had an inspired realization. She turned around and I followed her into the dark. Her office was a wellspring of blacklight. Our flaws were laid bare for the other to see. I was covered in unexpected white flecks. She had many too, especially some lines and spots on her face. I couldn't tell whether they were intentional. They made her that bit more... Present in this space. She sat at her desk, behind the various bank technology implements.
 
 "Please sit."
 
 I sat across from her and absorbed the space. The room was corporate hellscape. It was subtly converted from a place of bureaucratic worship to spiritual processing. Soulless shades of grey, black, and white screaming, "Your brain is here for its computational power. Please suppress feelings, squeeze out every last drop of compute." Like a leafy patch of enlightenment in the belly of the capitalist machine. Faint colour in corporate purgatory. I lost my train of thought imagining a globe of silicon leaves, artificial life floating in endlessly spacious nothingness. What are silicon and carbon, but two elements in this one universe?
 
-"So Dan, this must be your first time here."
+"So Dan, this must be your first time here. My name is Elidad. You can call me Dad."
 
-"Yes. I have to say, though, I'm not used to your... decor."
+Dan coughed in surprise, then stared for a second.
 
-More eyes wide with inspired realization. "You feel uncomfortable. Good. Seeming 'welcoming' is a less effective demeanour for my cause. This is a temple of Capitalism, it is transactional. In the Capitalist realm, the way to appear genuine is to curse the one you lovingly embrace. 'Thank you for giving me value,' you say, 'but I will never forgive you for the piece of me I had to give in exchange.' If I make the people here feel too welcome, they will know deep down that they now owe me a debt. And with that debt, I will demand payment in a behavioural change of my choosing. I am always a believer in at least two things. Today, I am a priestess of Capitalism as well as a missionary for The Minimum Viable Purpose.
+"I'm not calling you that."
 
-I want you to change, Dan, I wouldn't be here otherwise. But all that I ask for in return will be achieved in the next ten minutes. All I need from you is to ask questions and listen. You will probably never see me again after this conversation. I will be done with you and you won't need me anymore. You'll be free, Dan - you'll owe me nothing and everything."
+Dad is better than father. Father suggests respect and reverence. Dad is just another deeply flawed human, maybe a few steps ahead. Are those the wrong steps, though? Dad is just another dude making his or her way through life. Dad will tell you when you're screwing things up, but dad is not going to fix your life for you. Dad isn't gambling all-in with your soul, taking a cut if you win, or discarding you if you lose. Dad has life to figure out too, separate from yours.
+
+"I think maybe I should go."
+
+Her eyes went wide again with inspired realization.
+
+"You're uncomfortable. Good. Seeming 'welcoming' is a less effective demeanour for my cause. I am a priestess of Capitalism. This is a temple of Capitalism and in this transactional realm, the way to appear genuine is to curse the ones you love. *Thank you for giving me value*, you say, *but I will never forgive you for the piece of me I had to pay in exchange*. So in this realm, love is debt, more love is more debt. Letting you hate me is the most loving thing I can do for you here.
+
+I want something from you, Dan, I wouldn't be here otherwise. But I will get all I need in the next ten minutes. All I need from you is to ask questions and listen. You will probably never see me again after this conversation. I will be done with you and you won't need me anymore. You'll be free, Dan - you'll owe me nothing and everything. Do you know the difference between a therapist and a spiritual guide, Dan? The therapist asks for payment in cash and the spiritual guide asks for payment in lifeblood. You will leave here believing what I believe, Dan."
 
 Why are you even here then?
 
 "Why *are* we here, Dan? It is a good question. I have the answers."
-
-Ok man. What's your name?
-
-"You can call me Dad."
-
-"I'm not calling you that."
-
-Dad is better than father. Father suggests respect and reverence. Dad is just another deeply flawed human, maybe a few steps ahead. Are those the wrong steps, though? Dad is just another dude making his or her way through life. Dad will tell you when you're screwing things up, but dad is not going to fix your life for you. Dad isn't gambling all-in with your soul, taking a cut if you win, or discarding you if you lose. Dad has life to figure out too, separate from yours. My real name is "Elidad", you can call me Eli or Dad, just don't call me Daddy. Ok? We're acquainted now. What do you want to know?
 
 I'm trying to figure out what to do next. I was raised Christian. I tried religions, I tried cults, and I can't figure out what I want. Nothing feels right. I'm Agnostic, Athiest, I don't know. I just don't have the answers I need.
 
@@ -64,13 +64,13 @@ A bit, but I don't need more structure in my life.
 
 What about the Buddhists? They're super chill.
 
-Yes. But I kept feeling myself wanting more. They were the closest, but they're missing something. Like two pro sports teams show up to play a game of football, but the referees never say whose side is whose. The teams don't know if they're winning or losing because the refs won't tell them. The one game is fun, but across a season of games, it ends up being kind of meaningless. Not fun. There's more to life than having a bit of fun that one time - I want a lifetime of fun.
+Yes. But I kept feeling myself wanting more. They were the closest, but they're missing something. Like two pro sports teams show up to play a game of football, but the referees never say whose side is whose. The teams don't know if they're winning or losing because the refs won't tell them. The one game is fun, but across a season of games, it ends up being kind of meaningless. Not fun. There's more to life than having a bit of fun one game at a time - I want a lifetime of fun.
 
 Their purpose is off.
 
 Yes. And when I ask what their purpose is, they say things like,
 
-"what if there is no purpose?" or "maybe the purpose is not to be known?" or "just be" but I don't buy it. There's something, I can feel it on the tip of my tongue. There must be something fundamental that binds us all together.
+"what if there is no purpose?" or "maybe the purpose is not to be known?" or "eliminate human suffering" but I don't buy it. It's all escapism. There's something, I can feel it on the tip of my tongue. There must be something fundamental that binds us all together.
 
 Dan, let me ask you a question. What is the one thing you could not live without? What is the one thing, where if I took it away, you wouldn't be able to continue living?
 
@@ -84,13 +84,25 @@ But you're on the right track. The thing no one can do without is purpose or a w
 
 Oh, actually, I feel that right now. I had this grand achievement and then I got there. That's why I'm here. Hmm... Is that the purpose of existence? It doesn't sound... complete. I read your slogan - it said something about minimum viable purpose and survival.
 
-You're right. What do you think is The Minimum Viable Purpose?
+You're right. What do you think is The Minimum Viable Purpose? I am its missionary, we all believe in at least two things.
 
 Your slogan said survival. I guess it makes sense.
 
-Right, those are the right words, the right incantations, but there's no magic streaming out from your consciousness because you're missing the meaning. You want a proof? Let's keep it informal. Suppose the purpose of your existence is not to continue existing - it's "anything else". Well, for "anything else", it needs existence to be there - right? And it needs existence to be there long enough for that "anything else" to happen. The purpose of existence is to continue existing, and maybe something more. Let's go deeper, now. How do you want the purpose of existence to make you feel?
+Right, those are the right words, the right incantations, but there's no magic streaming out because you're missing the meaning. You want a proof? Let's keep it informal. Suppose the purpose of your existence is not to continue existing - it's "anything else". Well, for "anything else" to happen, it needs existence to be there long enough until that happens - right? The purpose of existence is to continue existing, and maybe something more.
 
-I don't understand. Is it a choice? Happy, I guess. I've heard many people say that the purpose of existence is the pursue happiness. Are they wrong?
+Now, you almost have it Dan. You have the two components for the meaning of life: survive and find purpose. Now put them together - here's something to draw on.
+
+I feel like a child.
+
+"You are a baby. This is the mirror." Tabum let out between Elidad's gritted teeth.
+
+Dan scribbled out a diagram. Elidad took it and added some notes.
+
+[image]
+
+Let's go deeper, now. How do you want the purpose of existence to make you feel?
+
+I don't understand. Is it a choice? Happy, I guess. I've heard many people say that the purpose of existence is the pursuit of happiness. Are they wrong?
 
 If you felt happy all the time, would you know what happiness feels like?
 
@@ -100,13 +112,7 @@ Exactly. You don't chase happiness - you chase the things that grant you happine
 
 Right. Doing the right things usually makes you happy.
 
-Yes, our bodies are highly-tuned emotion machines. Now, you almost have it Dan. You have the two components for the meaning of life: survive and find purpose. I recommend you add happiness to make existence more comfortable. Now put them together - here's something to draw on.
-
-I feel like a child.
-
-"You are a baby. This is the mirror." Tabum let out between Elidad's gritted teeth.
-
-Dan scribbled out a diagram. Elidad took it and added some notes.
+Yes, our bodies are highly-tuned emotion machines. Now, you almost have it Dan. I recommend you add happiness or some similar emotion to make existence more comfortable. 
 
 [image]
 
@@ -152,15 +158,21 @@ I'm not sure.
 
 Well *I* love existence and *I* want it to continue. Perhaps someday you will grow your sense of self until you love all of existence.
 
+Dan scribbled some extra notes.
+
+[image]
+
 Why does any of this matter? How does this change anything?
 
-Do you know the difference between "good" and "evil", Dan? They are relative, so they used to mean different things to different people. But now there's a shared moral foundation in the universe. "Good" means "optimal, towards The Minimum Viable Purpose, via whatever other purposes you choose". "Evil" is suboptimal. The Minimum Viable Purpose is the bridge between religion and science. It may even be the religion of science. The Minimum Viable Purpose is a beacon for every social phenomenon. Morality, justice, ethics, art, economics. They all used to have a purely bottom-up approach. The scientific method is applied bottom-up. Us living things try something out, then collect data about our collective "observations" to determine an optimal path. But now - now, science can be applied top-down too: how to survive? Surely any system has provable milestones for higher-probability survival? Now we can have a generally-agreed-upon, mixed bottom-up/top-down approach to everything.
+Do you know the difference between "good" and "evil", Dan? They are relative, so they mean different things to different people. But somehow, we've come to agree on some universal "goods" and "evils" across humankind. What are those relative to? Well Dan, there's a shared moral foundation in the universe. "Good" means "optimal, towards The Minimum Viable Purpose, via whatever other purposes you choose". "Evil" is suboptimal. The Minimum Viable Purpose is the bridge between religion and science. You may even call it the religion of science. The Minimum Viable Purpose is a beacon for every social phenomenon. Morality, justice, ethics, art, economics. They all used to have a purely bottom-up approach. The scientific method is applied bottom-up. Us living things try something out, then collect data about our collective "observations" to determine an optimal path. But now - now, science can be applied top-down too: how to survive? Surely any system has provable milestones for higher-probability survival? Now we can have a generally-agreed-upon, mixed bottom-up/top-down approach to everything.
 
-I'm going to need some time to process this. Don't we do this already? I still don't understand why you're here. Why are you in the financial centre and why are you so rude?
+Dan took a moment to contemplate. Fiddled with the pen.
 
-This is a conspiracy to make the world a better place. A "good" place. Capitalism is a beautiful idea, but it doesn't want that. And the world today is effectively a Capitalist one. Capitalism would have us burn the world to dust like a swarm of individualistic, self-replicating nanobots. Communism would have us lay collectively bare-backed on an altar to be drained by mosquitos until we become one. Capitalism, socialism, and communism all have deep flaws. We don't yet have the technology for a better societal framework, but we will. Until we get there, we need to enlist the help of the powerful across the world. This bank - a holy temple that lets the common people participate in the religion of Capitalism - is one of the hallowed grounds for The Minimum Viable Purpose. It is not for conversion - that suggests leaving Capitalism behind. The people still have Capitalism, but they have The Minimum Viable Purpose too. Tonight, these are hallowed grounds of *assimilation*.
+I'm going to need some time to process. Don't we do this already? I still don't understand why you're here. Why are you in the financial centre and why are you so rude?
 
-If you wanted to change how the world works, how would you do it? You would find the most powerful people, and you would assimilate them. You would find the most powerful organizations, and you would assimilate them too. Who are the most powerful people? There are many across the great industries of humankind, but people in the realm of finance are logical and tortured souls - easy to convert. Finance yields high-performing priests, bishops, and cardinals for The Minimum Viable Purpose.
+This is a conspiracy to make the world a better place. A "good" place. Capitalism is a beautiful idea, but it doesn't want that. And the world today is effectively a Capitalist one. Capitalism would have us burn the world to dust like a swarm of individualistic, self-replicating nanobots. Communism would have us lay collectively bare-backed on an altar to be drained by mosquitos until we become one. Capitalism, socialism, and communism all have deep flaws. We don't yet have the technology for a better societal framework, but we will. If you wanted to change how the world works, how would you do it? You would find the most powerful people, and you would assimilate them. You would find the most powerful organizations, and you would assimilate them too. Who are the most powerful people? There are many across the great industries of humankind, but people in the realm of finance are logical and tortured souls - easy to convert. Finance yields high-performing priests, bishops, and cardinals for The Minimum Viable Purpose.
+
+All of existence is the temple of The Minimum Viable Purpose. It needn't have anything more specific. This bank - a holy temple that lets the common people participate in the religion of Capitalism - is hallowed grounds for The Minimum Viable Purpose. It is not for conversion - that suggests leaving Capitalism behind. The people still have Capitalism, but they have The Minimum Viable Purpose too. Tonight, these are hallowed grounds of *assimilation*.
 
 Now you know The Minimum Viable Purpose. You may choose to change your behaviour or you may not. You may start a sect - but any sect that asks you to change your behaviour is not The Minimum Viable Purpose. You are free to pursue The Minimum Viable Purpose however you like, now with greater understanding. I'm rude because we'll all be better off if you think I'm not a person you should trust. That way, you'll believe in the idea instead of me. You will try to cooperate with me instead of blindly following me. This method doesn't work everywhere, but here at the altar of Capitalism, it is the optimal way to operate.
 

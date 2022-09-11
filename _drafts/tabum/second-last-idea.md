@@ -84,6 +84,14 @@ And we're at time. Thank you everyone for listening and those insightful questio
 
 Months went by, Kal slowly got a handle on the DoL. His team was responsible for a strain of universes defined by XYZ where life often presented as XYZ [explain further]. Kal produced his first independent strain after eight months. He programmed the simulation to XYZ. It led to a sentient species - his first sentient species. With most simulated life, the DoL does not make contact. Kal's team generally did not make contact with the life they simulated. The DoL found that contact seems to make little difference to the outcome of the simulations, but it has a big impact on the teams programming the simulations. They get too attached and find it hard to let go of their creations. They become less productive. Kal began his one-on-one meeting with his manager, Kat.
 
+* talk about debugging and fixing bugs in simulations
+  * it's far less expensive to introduce an alternate explanation for a bug than it is to rerun the simulation from the beginngin
+  * describe how it works:
+    * Imagine spacetime as a video composer UI, where you look across time and stitch together video clips on top of each other to make a movie. You can pause the playing movie, paste in a video clip that overlays over some of the past and some of the future, then press play again. You changed the past and the present in a way that made sense, even though the past never "happened".
+    * Like, it was “there”, but it couldn’t have played a part in any major plot line until now, otherwise you’d have to refactor the whole movie.
+* talk about how it feels for simulations to be reset
+  * suddenly, new important thing that was always there but no one ever noticed
+
 I love the view today, right? I had a friend visit, and they said it was the most beautiful view they'd ever seen. They took all these pictures. I was like, "That's a pretty normal one - it gets way better". Funny how that works.
 
 Anyways, how's work going?
@@ -176,6 +184,11 @@ How do the beings present?
 
 Morality is a solved problem if everyone agrees on the same foundational purpose, where every decision can be expressed as an optimization function. A choice between different optimization functions oriented to the same foundational purpose in different ways.
 
+* Whenever they're caught, they stop what they're doing and wait to be reset. Makes them believe in a god, because they have these recurring periods of doing nothing until a miracle happens.
+* First, they interact with neighbouring simulations
+* Next, they make changes in the real world by doing something like crashing the simulator or observing fluctuations in processing / heat
+  * morality: taking an existential risk. Need evidence that they will be restarted. They set up a nonfatal bug with a hidden canary that proves to themselves someone is messing with their universe.
+* Next, they proceed to do the same thing to interact with a neighbouring universe
 
 They make a more efficient computer to bridge universes. Their counterparts made a change to space time and asked us to re-perceive that event. Obelisk suddenly appears in simulation. Obelisk suddenly appears irl. You mean the obelisk that has always been there, beside the computers? Yes. Why haven’t we explored it until now? I don’t know.
 

@@ -11,7 +11,7 @@ modified_time: '2022-09-11T00:00:00.000-00:00'
 
 # Plan when not to follow a habit
 
-Say you have a good habit like, *"I go to the gym regularly."* To set up the habit for success, plan when you're **not** going to do it. 
+Say you have a good habit like, *"I go to the gym regularly."* To set up [habits for success](/habits), plan when you're **not** going to do it. 
 
 ### opt-in
 
@@ -35,3 +35,5 @@ I'm in the middle of reading two things:
 There's an HBR article that references [this research](https://academic.oup.com/jcr/article/47/6/1003/5918032). It's about framing goals. It claims the framing, "skip the gym 3x/week" is more successful than "go to the gym 4x/week".
 
 Ray Dalio's Principles has [a section](https://www.principles.com/principles/1f2a26ba-daca-4c6c-95d3-0cf33bd8454f/) that talks about the logical vs. emotional decision-making. It seems in line with what I've read elsewhere, like the book "Thinking Fast and Slow". We make lots of "emotional" or "gut" or "lower-level" decisions. That non-logical side of us is portrayed as lazy and clever.
+
+And here's how this fits into [my mental framework of habits](/habits).

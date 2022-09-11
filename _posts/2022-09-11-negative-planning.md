@@ -13,13 +13,13 @@ Say you have a good habit like, *"I go to the gym regularly."* To set up [habits
 
 ### opt-in
 
-When I have the mindset, "go to the gym 4x/week", and I'm making that same decisions, this is how I will think:
+When I have the mindset, "go to the gym 4x/week", and I'm deciding whether I should go to the gym today, this is how I will think:
 
 "Going to the gym is something I should do. It will make me a better person. Should I put the effort in and go today?"
 
 ### opt-out
 
-When I have the mindset, "skip the gym 3x/week", and I'm deciding whether, today, I should go to the gym, this is how I will think:
+When I have the mindset, "skip the gym 3x/week", and I'm making that same decision, this is how I will think:
 
 "I normally go to the gym. Has it been 4x yet this week? No. Is there any significant reason why I shouldn't? No."
 

@@ -218,3 +218,5 @@ dude has such low value that he's a pariah
 when people seem like they're cheating the system, lots of papers get quickly produced to figure out if they actually are
 
 need pockets of societies where people don't know their programatic purpose, to maintain diversity. Also have regular movements between the people. Dude is considering moving to the other society. Purposelands and the Liberated Federation
+
+talk about "near-term" human milestones: colonize solar system, sustainable earth, etc.

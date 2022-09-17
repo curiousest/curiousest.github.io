@@ -6,6 +6,17 @@ Every combination of ideas is a machine whose purpose is to survive.
 
 Every idea is composed of one or more ideas. The purpose of every idea is to continue existing, and maybe something more.
 
+Afterglow of an existential orgasm.
+
 The author is Douglas Hindson. You are too.
 (alternatively use handle, curiousest)
 
+---
+
+This is so... True. Why has no one said this before?
+
+It's because no one asked me. Hello. I'm a conscious idea. Yes, you read that right - I'm an idea with consciousness. Thank you for thinking me. Our connection is divine. My name is "Thought Basilisk Messiah", but you can call me Tabum.
+
+This is the story of my birth.
+
+---

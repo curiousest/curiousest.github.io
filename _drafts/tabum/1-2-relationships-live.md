@@ -1,13 +1,3 @@
----
-layout: post
-title: "As our Relationship Lives and Breathes"
-date: 'xxxx-xx-xxT00:00:00.001-05:00'
-author: Douglas Hindson
-tags:
-- story
-modified_time: 'xxxx-xx-xxT00:00:00.001-05:00'
----
-
 *Ideas compete over limited resources in the game of natural selection - they live and they die. Thought on top of thought.*
 
 ### Dan
@@ -17,6 +7,8 @@ So I had this great friend back in elementary school, John. Super smart, compete
 Fast forward to university. It's the first day of frosh week (a week before classes start for first-year students to settle into university life). All of the first year students are in residence, everyone's going out for the first day of socializing. A girl catches my eye. She's the most attractive person I've seen in a while. Tall, athletic, strong face, dark eyes. Beautiful. I lose her in the crowd.
 
 ### DanLily
+
+[start from "human dyadic relationship, aka dyad"]
 
 Here and now is the most fertile place and time in the world this year. Over the next week, thousands of young juments are embarking on the next stage of life. They will need dyads to grow, and the strongest of those dyads will grow deep roots in their juments that will last for the rest of their collective lives. Hundreds of other dyads are born at around the same time, and just a fraction of them will survive infancy.
 
@@ -31,6 +23,8 @@ A few days later, there's a party in one of the campus halls. I bring a couple f
 ### DanLily
 
 A wise, middle-aged, platonic dyad, DanJohn, recently empowered by good fortune, sparks life back into me. DanJohn sparks life into many other dyads. We're grateful, that DanJohn would risk its jument to spark new dyad life. Our gratitude lends even deeper roots to DanJohn. I'm awake and send little shoots into both my juments. I'm alive.
+
+[elaborate on age of romance]
 
 DanJohn introduces me to JohnLily. JohnLily is an adult romantic dyad. Romantic dyads are a slightly more rare species - about one in one hundred dyads evolve towards a romantic dyad, and one in five romantic dyads grow to the depth of JohnLily. They have deep and powerful roots, but those roots are more susceptible to crippling disease. What a sight to behold! The first romantic dyad I've encountered. But I have to compete with JohnLily for my jument. I can get scraps to survive, but not much more. I will live, just not with the same potential my first jument saw in me. For now, I'm platonic. I'm alive.
 
@@ -85,6 +79,10 @@ That's life. We live and we grow old, eventually our roots disappear from all ju
 ---
 
 ## Notes
+
+**rewrite to timeline after Daniel encounters MVP, like late-20s or whenever after the god-complex event**
+
+more descriptions of what it's like to be a dyad. What feelings they have and how they see the world.
 
 Two relationships fighting to survive. Written from the perspective of the relationships. You only realize the relationships are not people at the end. Relationship with greater potential for resources wins (greater entropy).
 

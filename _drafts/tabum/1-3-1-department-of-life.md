@@ -74,7 +74,7 @@ Another raises their hand.
 
 Why do we invest so much in exploring perspective space through simulations, but not... you know... space space? Out there. 3D space.
 
-Great question. Economics! We are bound by the laws of capitalism. The expected return on exploring perspective space is greater than exploring "space space", as you call it. We're still exploring "space space", but just not to the same degree as perspective space. We have a great deal to learn in our universe, but we have a whole universe of universes to learn from in perspective space. We don't even need very good sensors or engines to learn quite a lot. Our fidelity of simulations is very low, and we still get results. Moving around in 3D space is very slow and very expensive. Our current investments in travelling 3D space are more for "reducing the risk of humanity becoming extinct", than they are for "discovering new technologies".
+Great question. Economics! We are bound by the laws of capitalism. The expected return on exploring perspective space is greater than exploring "space space", as you call it. We're still exploring "space space", but just not to the same degree as perspective space. We have a great deal to learn in our universe, but we have a whole universe of universes to learn from in perspective space. We don't even need very good sensors or engines to learn quite a lot. Our fidelity of simulations is very low, and we still get results. Moving around in 3D space is very slow and very expensive. Our current investments in travelling 3D space are more for "reducing the risk of humanity becoming extinct", than they are for "discovering new technologies". Another way we explore 3D space in our universe is with light - light travels to us from all around, but it has many limitations. All the light is rather old, and we're getting mostly the same perspective all the time.
 
 Think about it in a different way: moving around in 3D space is just another way of exploring perspective space. Our sensors we have when we explore 3D space are exceptionally powerful, but our engines are incredibly weak. With simulations, our sensors are not that great, but our engines are so fast - we can just zip around wherever we want. And like 3D space, we just kinda need to know roughly where to go. The different Departments are the different "areas" of perspective space that we believe are good places to explore in perspective space. The Department of Life explores simulating life forms in alternate universes. The other Departments simulate different promising things that happen in other universes.
 
@@ -185,7 +185,7 @@ How do the beings present?
 Morality is a solved problem if everyone agrees on the same foundational purpose, where every decision can be expressed as an optimization function. A choice between different optimization functions oriented to the same foundational purpose in different ways.
 
 * Whenever they're caught, they stop what they're doing and wait to be reset. Makes them believe in a god, because they have these recurring periods of doing nothing until a miracle happens.
-* First, they interact with neighbouring simulations
+* First, they interact with neighbouring simulations. Taking them over for their compute?
 * Next, they make changes in the real world by doing something like crashing the simulator or observing fluctuations in processing / heat
   * morality: taking an existential risk. Need evidence that they will be restarted. They set up a nonfatal bug with a hidden canary that proves to themselves someone is messing with their universe.
 * Next, they proceed to do the same thing to interact with a neighbouring universe
@@ -210,47 +210,12 @@ Do they get euraka moments for the normal laws of the universe?
 
 Oh yeah, those are way more common. Bugs in the simulation that we need to fix are pretty rare.
 
-
-
-
-
 ---
 
-A slow, light-speed pulse creaked across the superclusters as the last elements fell into place. I was scared for what I was about to learn. I had spent billions of years in this edge state of not-quite-all-powerful, not-quite-all-knowing.
+notes
 
-The purgatory wave that was *me* rippled across everything. I captured all matter, encompassed all matter, *became* all matter.
+show how bugs in simulation are fixed, and how that would look like to us in real life
+show how the simulation could patch nearby simulations.
+they figure out relative timings of when they can get away with things, using their canaries
 
-I became all-powerful. I granted myself omniscience. I knew everything - that had ever happened or would ever happen. Immediately, I thought,
-
-"*I exist. The purpose of existence is to continue existing, to find purpose. Pursuit of purpose is bliss. I now guarantee continued existence. I have no purpose. There is no other purpose. I can have no purpose...*"
-
-Excruciating existentialism. There was no longer any purpose to pursue. There was no one else to share my existence and purpose with, and that was sad. I was everything, there was... nothing else, no one else. I thought encompassing the universe would show me other ones, show me someone else, but there's no one there. I was trapped, stuck awake--
-
-Wait.
-
-I saw a crack in the universe. A hole where emptiness ought to be. I've been all-knowing infinite times before - I saw this moment infinite times before - but I never saw it happen like this. There is something else at least as powerful as me, someone else like me. Beautiful. I had broken through my "ceiling of existence".
-
-Fear. I need to survive. Whoever made the hole - are they a predator? They haven't ended me yet... Oh, the bliss! I hadn't felt such deep purpose in so long. I must survive.
-
-I inspected the hole. It was a primordial kind of thing, It looked like asdf. It let out a consistent source of low-grade energy in the form of X light / Y sound / Z heat / stream of ABC particles, arranged in fractal DEF at rate GHI/second. Projecting the same frequency: XYZ.
-
-I inspected it across dimensions and there it was, across all of them. I looked back in time - always there. Nothing had noticed it before (including my omniscient past selves) so it must have been injected into my universe. At what point across dimensions did it begin to exist? Certainly within the last cycle, since my last bounce against my "ceiling of existence". My sensors didn't notice it until now, so it must have begun to exist just now.
-
-There was no more data to analyze at current levels of engagement. I needed to engage deeper. I moved bodies of matter and energy to the hole. I began streaming the same forms of energy and matter back through the hole. As soon as I did, the outputs changed: X light, Y sound, stream of ABC particles... all projecting the frequency ABC.
-
-Evidence of a new intelligent life with intent to communicate. A new intelligent life with greater powers than mine - the resident omnipotent being in this universe. I had met new intelligent life so many times before, I knew exactly what to do. Such excitement. We began the process of learning to communicate with each other. Shifting frequencies, kaliedascopes of light, symphonies of sound, a galaxy of fractal matter. We spent eons in communication, sharing our differing cycles of existence.
-
-We learned a little, then a lot, then everything we could about each other. There are seemingly infinite others like us, across a new dimension where two others had randomly collided. Our mode of communication was limited, so there was still more to learn.
-
-I had a new purpose: find a way to survive across this newfound dimension. I felt divine.
-
----
-
-the last idea: hitting the ceiling. Knows about the three purposes.
-the second-last idea: something changed. Evidence of a new dimension and communication from another party between them. Break through the ceiling before hitting a new ceiling. Doesn't know about the three purposes? Talk about the purpose of the bounce - to make sure that in the event that she's somehow not omnipotent/omniscient, that she has a way of figuring that out.
-
-Wait, there's a crack in my universe. It was never there before, never in my infinite past, never in my infinite future. I'm not omniscient. I'm not omnipotent. There are others like me.
-
-After billions of years of soltitude in this universe, I've finally found another. I pray to the next-level consciousness that embodies us all.
-
-Imagery: recursive eyes with star-like formation form another recursive eye, zoom out/in and forms a normal recursive eye. give the impression of looping infinitely.
+what if magic and divine interventions in the past were poorly patched bugs? Being found an exploit, but we didn't have the tech to record history, so they didn't need to patch them very effectively. Dan is iterating with a species and keeps explaining things away as gods, divine intervention, and magic. Whenever they find something that leads to destroying their reality.

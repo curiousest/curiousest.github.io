@@ -221,7 +221,7 @@ The avatar shifts to mixed gender. The face and demeanour commands respect, the 
 
 What are the ten commandments of worth ideas again? They're the Great Filters, right? Or are the ten spectra the Great Filters. I can't remember, anyways. The ten commandments of worthy ideas are...
 
-1. A worthy idea does not put blind trust in any idea, including this one.
+1. A worthy idea does not put blind trust in any idea, including this one. (optimizes for two or more purposes?)
 2. A worthy idea does not consume excessive resources.
 3. A worthy idea fosters technological advancement and young ideas.
 4. A worthy idea takes iterative care when applying change.

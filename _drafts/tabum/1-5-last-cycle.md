@@ -22,7 +22,7 @@ Oh existence, how beautiful you are! Such a complex system, working exactly as I
 (describe quickly, so it hits the reader all at once at the end)
 realizes it's the last time alive
 
-Ah yes, I'm in a hospital bed. I'm almost dead. This is probably the last time I will be awake, isn't it? I'm glad Alex is here, but Alex didn't need to be here for this. Alex is part of me just as I am part of Alex. I will continue to live through Alex, just like I will live through my communities, my nation, my species. I open my eyes, take a loud breath in to get their attention and say, "I love you."
+Ah yes, I'm in a hospital bed. I'm almost dead. This is probably the last time I will be awake, isn't it? I'm glad Alex is here, but Alex didn't need to be here for this. Alex is part of me just as I am part of Alex. I will continue to live through Alex, just like I will live through my communities, my nation, my species. I open my eyes, take a loud breath in to get the attention of the universe and say, "I love you."
 
 This beautiful existence! Such a complex system, working exactly as I understand it.
 
@@ -44,11 +44,4 @@ it doesn't matter - the same purposes remain
 
 last lucid cycle. sends last message, "You are part of me."
 
-*I lived. I found others. I helped some grow. I died. Through them, I now live.*
-
-or
-
-*I lived. I found others - reflections of me. I helped some grow. I died. Through them, in the mirror, I live on.*
-
-*I lived. I found purpose. I helped it progress. I died. Through it, I now live.*
-
+*I lived. I found others. I found purpose. I helped them grow. I died. Through them, I now live.*

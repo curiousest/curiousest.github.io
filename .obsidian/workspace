@@ -4,12 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "fa768782b775b7b3",
+        "id": "429dac2bc369ee9b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2022-09-11-negative-planning.md",
+            "file": "_drafts/tabum/2-2-simulate-me.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "a7c46199b86d4b4c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_drafts/tabum/1-3-1-department-of-life.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2022-09-11-negative-planning.md",
+                "file": "_drafts/tabum/2-2-simulate-me.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2022-09-11-negative-planning.md",
+                "file": "_drafts/tabum/2-2-simulate-me.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,8 +129,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2022-09-11-negative-planning.md"
+                "file": "_drafts/tabum/2-2-simulate-me.md"
               }
+            }
+          },
+          {
+            "id": "fbe4f3addbdcafe5",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ]
@@ -128,14 +148,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fa768782b775b7b3",
+  "active": "429dac2bc369ee9b",
   "lastOpenFiles": [
-    "_templates/post.md",
-    "_posts/2022-09-11-negative-planning.md",
-    "_posts/2020-02-15-habits.md",
-    "goals.md",
-    "_posts/2020-11-29-goals.md",
-    "_posts/2013-08-23-itinerary.md",
-    "_posts/2022-09-04-duke-of-intent.md"
+    "_drafts/tabum/0-thought-basilisk-messiah.md",
+    "_drafts/tabum/2-2-simulate-me.md",
+    "_drafts/tabum/1-3-1-department-of-life.md",
+    "_drafts/tabum/0-high-level.md",
+    "_drafts/tabum/1-3-2-sli.md",
+    "_drafts/tabum/1-1-2-li.md",
+    "_drafts/tabum/1-2-relationships-live.md",
+    "Tabum TODO.md",
+    "_drafts/tabum/external_talks_marketing.md",
+    "_drafts/tabum/1-1-1-assimilation.md"
   ]
 }

@@ -2,6 +2,8 @@ Trumpets and streamers. Marching. Joy. Celebration. Victory.
 
 The next day was a "me" day. I slept, I woke, I ate, I exercised, I read. I spoke to no one - I didn't need to. My purpose had been achieved. That day was the worst day of my life. That day turned into the worst week of my life, which turned into the worst month of my life.
 
+Was my life even good. Was that the peak? It's all meaningless from here?
+
 I lost my grip on reality. I talked to a therapist and they said I was going through an existential crisis. My new purpose became to stop having an existential crisis.
 
 I tried the major religions. I found them impractical - they asked for belief. In what? In the unknowable.
@@ -18,9 +20,11 @@ Today is Friday. I knew what I was going to do tonight.
 
 I came to the bank at night. A cool wet night, clouds clear after raining. The granite temple. It made no attempt to feel human or welcoming. It didn't need deceptive faux-comfort - it was optimized for its purpose. It was the right place to be.
 
-I walked up to the entrance. As I came closer, I could hear a sound growing stronger. The low blare of a foghorn. It felt ominous, the inevitable. Like, "you've put this off for a long while and it's now time to understand. Come or go - this place isn't going anywhere. You, however, at some point you will know the truth of things. This is inevitable." The sound grew louder, shaking the air around me, until at the entrance it was a piercing pain. I covered my ears but it did not help. If I screamed, no one would hear me. Am I dying? As soon as I walked through the entrance, a "pop" - immediate silence. Was it the lack of foghorn or was it really silent? It didn't matter - the effect was the same. I had made my first enlightened step into the dark.
+I walked up to the entrance. As I came closer, I could hear a sound growing stronger. The low blare of a foghorn. It felt ominous, threatening not my life but my comfortable naivety. The inevitable. Like, "you've put this off for a long while and it's now time. Come or go - this place isn't going anywhere. You, however, at some point you will experience this. This is inevitable." The sound grew louder, shaking the air around me, until at the entrance it was a piercing pain. I covered my ears but it did not help. If I screamed, no one would hear me. Am I dying? As soon as I walked through the entrance, I felt a "pop". Something like silence, something like relief. But not quite - the sound was still there, but I had tuned it out. Like it was no longer as important anymore and I could place my focus elsewhere. Like I had transcended it. Was the sound really so loud before or had my ears deceived me? It didn't matter - the effect was the same. I made my first enlightened step into the dark.
 
-Darkness with dim lighting to indicate where to be. A blacklist to fill in the gaps. The surfaces, walls, and countertops were spotless. The blacklight highlighted unseen flaws of the distant few people inside. A different perspective that set me a little off-balance. I wasn't used to seeing these flaws. I didn't know how I was supposed to react to seeing these new flaws in other people. I could see vague human figures in the darkness, but no one obvious to talk to. A strip of lights indicated where to go. A queue. I walked past a screen that read, "Dan, please wait in line. Elidad will see you in a few minutes."
+Darkness with ~dim lighting~ to indicate where to be. A blacklist to fill in the gaps. The surfaces, walls, and countertops were spotless. The blacklight highlighted unseen flaws of the few people inside. [elaborate on specifics] A different perspective that set me a little off-balance. I wasn't used to seeing these flaws. I didn't know how I was supposed to react to seeing these new flaws in other people. Were these people genuinely ugly from this new perspective, or have I just not learned what beauty looks like in blacklight? Will anything ever be beautiful again?
+
+I could see vague human figures in the darkness, but no one obvious to talk to. A strip of lights indicated where to go. A queue. I walked past a screen that read, "Dan, please wait in line. Elidad will see you in a few minutes."
 
 There was one person at the till, speaking in hushed tones to the clerk opposite him. The clerk was dressed in a suit - the religious garb of this priest. I could see it in their body language. Confession. Transactional confession. "Forgive me Investor, for I have spent." Funds naked, exposed to both sets of eyes, inspecting the soul of a Capitalist. In exchange for relieving me of the burden of these memories of suboptimal past events, I will make more optimal decisions in the future. More money in my future means more money in yours.
 
@@ -58,13 +62,13 @@ Why are you even here then?
 
 I'm trying to figure out what to do next. I was raised Christian. I tried religions, I tried cults, and I can't figure out what I want. Nothing feels right. I'm Agnostic, Athiest, I don't know. I just don't have the answers I need.
 
-Islam is great for structure. Did you try that?
+Islam can be great for structure. Did you try that?
 
-A bit, but I don't need more structure in my life.
+I thought about it, but I don't need more structure in my life.
 
 What about the Buddhists? They're super chill.
 
-Yes. But I kept feeling myself wanting more. They were the closest, but they're missing something. Like two pro sports teams show up to play a game of football, but the referees never say whose side is whose. The teams don't know if they're winning or losing because the refs won't tell them. The one game is fun, but across a season of games, it ends up being kind of meaningless. Not fun. There's more to life than having a bit of fun one game at a time - I want a lifetime of fun.
+Yes. But I kept feeling myself wanting more. They were the closest, but they're missing something. Like two pro sports teams show up to play a game of football, but the referees never say whose side is whose. The teams don't know if they're winning or losing because the refs won't tell them. The one game is fun, but across a season of games, it ends up being kind of meaningless. It's like a divine coping mechanism where I need divine purpose.
 
 Their purpose is off.
 
@@ -101,6 +105,8 @@ Dan scribbled out a diagram. Elidad took it and added some notes.
 [image]
 
 Let's go deeper, now. How do you want the purpose of existence to make you feel?
+
+[remove emotion talk - it's for simulate me?]
 
 I don't understand. Is it a choice? Happy, I guess. I've heard many people say that the purpose of existence is the pursuit of happiness. Are they wrong?
 
@@ -169,6 +175,8 @@ Do you know the difference between "good" and "evil", Dan? They are relative, so
 Dan took a moment to contemplate. Fiddled with the pen.
 
 I'm going to need some time to process. Don't we do this already? I still don't understand why you're here. Why are you in the financial centre and why are you so rude?
+
+"You can't read my mind right? Right? No? You just think I'm paranoid, eh? Ok good, it's just me that can read yours." Elidad snickered. "Sorry that was a bit much. You got the message, I'll be nicer now."
 
 This is a conspiracy to make the world a better place. A "good" place. Capitalism is a beautiful idea, but it doesn't want that. And the world today is effectively a Capitalist one. Capitalism would have us burn the world to dust like a swarm of individualistic, self-replicating nanobots. Communism would have us lay collectively bare-backed on an altar to be drained by mosquitos until we become one. Capitalism, socialism, and communism all have deep flaws. We don't yet have the technology for a better societal framework, but we will. If you wanted to change how the world works, how would you do it? You would find the most powerful people, and you would assimilate them. You would find the most powerful organizations, and you would assimilate them too. Who are the most powerful people? There are many across the great industries of humankind, but people in the realm of finance are logical and tortured souls - easy to convert. Finance yields high-performing priests, bishops, and cardinals for The Minimum Viable Purpose.
 

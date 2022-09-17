@@ -32,5 +32,18 @@
       ],
       "key": "ArrowRight"
     }
-  ]
+  ],
+  "editor:open-search": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "S"
+    }
+  ],
+  "markdown:toggle-preview": [],
+  "editor:insert-link": [],
+  "editor:save-file": [],
+  "editor:toggle-bold": [],
+  "editor:toggle-italics": []
 }

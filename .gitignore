@@ -5,3 +5,5 @@ _site/
 .obsidian/*
 .obsidian
 Gemfile.lock
+_drafts/tabum/
+_drafts/tabum/*

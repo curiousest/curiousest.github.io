@@ -1,13 +1,3 @@
----
-layout: post
-title: "No Worthy Human"
-date: 'xxxx-xx-xxT00:00:00.001-05:00'
-author: Douglas Hindson
-tags:
-- story
-modified_time: 'xxxx-xx-xxT00:00:00.001-05:00'
----
-
 *The pursuit of existing beliefs seeds new ones.*
 
 When I was a child, around four years old, I remember sitting on the couch, crying. My mother came to comfort me,

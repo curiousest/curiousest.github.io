@@ -1,22 +1,12 @@
----
-layout: post
-title: "Measured Purpose"
-date: 'xxxx-xx-xxT00:00:00.001-05:00'
-author: Douglas Hindson
-tags:
-- story
-modified_time: 'xxxx-xx-xxT00:00:00.001-05:00'
----
-
 *Measure purpose and make progress.*
 
 So you're an enlightenment douche?
 
 No. I mean maybe, but that's not what's wrong.
 
-But what you're saying is firstly, you regularly experience significant changes in your purpose - enlightenment. And you tell everyone you can about that new purpose that they should share with you.
+But what you're saying is firstly, you regularly experience significant changes in your purpose - enlightenment. And you tell everyone you can about that new purpose. And you try to convince them to share it with you.
 
-Second, your purpose formula, the equation that is unique to every person on the planet. The calculation that's always spinning away before our eyes. It's wrong for you and no one else, and it has been like that for five years?
+Second, your purpose formula, the equation that is unique to every person on the planet. The calculation that's always spinning away before our eyes. The real-world manifestation of our divine beliefs. It's wrong for you and no one else, and it's been like that for five years?
 
 Yes.
 
@@ -74,7 +64,7 @@ Look, even my house is suffering. Flat:
 
 It doesn't work that way. You're an enlightenment douche.
 
-Dude, just look at my purpose formula.
+Dude, I'm not coming to convert you. This isn't a trick to get you to listen to me. I need help. Just look at my purpose formula.
 
 Purposes:
 
@@ -99,7 +89,7 @@ Not following. You get to choose your purpose. I'm guessing you already tried th
 "If you want to change your purpose to be a good boy, think, *how would I behave if being a good boy was my purpose?* Do those things. Channel that thought basilisk. Eventually it will become part of your purpose formula."
 (turn into rhyme)
 
-Yeah that was my "year one" with this purpose. Years two to four was therapy. Year five was... You know, "regularly scheduled enlightenment with my fellow psychonauts". None of it worked. This is me, coming to you to try to change it. I experienced enlightenment each time, and truly believed my new purpose, is that not enough for the formula to change? Each new purpose isn't enough. Do I have to enlighten myself harder? I don't get it.
+Yeah that was my "year one" with this purpose. Years two to four was therapy. Year five was... You know, "regularly scheduled enlightenment with my fellow psychonauts". None of it worked. This is me, coming to you to try to change it. I've experienced enlightenment hundreds of times, and truly believed each new purpose. Why is that not enough for the formula to change? Each new purpose isn't enough. Do I have to enlighten myself harder? I don't get it.
 
 Do you want to know the list of enlightenments I've had? I write them down. I've had over one hundred cases, over one hundred purposes, but none of them showed up in my formula.
 
@@ -131,10 +121,33 @@ I have some... followers...
 
 Oh dude, this is too much. You're a professional cult leader. How many have you started? What's the top purpose you made?
 
-Well, none of the purposes get attributed to me as being the first one to believe, because I'm stuck with this one. I started XYZ though, it went pretty big.
+Well, none of the purposes get attributed to me as being the first one to believe, because I'm stuck with this one. I started XYZ [related to immortality] though, it went pretty big.
 
-Yeah? Let me check it out... Oh, purpose popularity... It had three people.
+Yeah? Let me check it out... Oh, purpose popularity... It had three people. Do you want to live forever?
 
+Yeah, of course. Don't you?
+
+I'm already immortal, or at least as close to it as I can get.
+
+How? Do you have some mind-uploading tech I haven't heard about yet?
+
+No. I'm going to live on through the people and organizations I've made an impact on throughout my life.
+
+That's not really "living", though. Aren't you scared of like, your body and brain dying?
+
+Of course. Just like I'm scared of a hangover. But I'm not going to spend all my effort figuring out how to stop it.
+
+Why don't you just die right now and get it over with then?
+
+Oh, I'm not trying to die. It's just that I'll die when it's the optimal path forward. It's far more optimal for me to be alive for now. But it's just about guaranteed that at some point in the future, it will be suboptimal for my mind and body to continue "being alive".
+
+Doesn't that terrify you? Doesn't that make you want to find a way to live forever?
+
+The "me" that would live forever will be an entirely different thing than the "me" right here and now. Completely unrecognizable. So I can choose to try to become that thing which isn't me, to continue surviving. Or I can spread "me" into everything else. I can help you and humanity and all of existence to continue surviving. Which do I pick? Either way, I'm going to continue living on through the impact I have on everything. The "other me" will probably be a waste of resources at some point - reducing the chances of everything else surviving. So I may as well focus on helping everyone else survive to the best of my ability. If that involves living for quite a bit longer, so be it. But I won't be living for "just me" - I will be living for everyone else.
+
+I see. So it's only the worthy ones, the people who help everyone else. They will live forever?
+
+If that's what you believe, a day will come that will make you sorely disappointed. Fear of death will find a way to kill you where love would let you live. But it's a good place to start.
 
 
 I thought you've done this hundreds of times before. There's a void underneath all the other voids. It's a bit too much for me right now. Please talk to me about anything else. I don't want to think about it anymore.
@@ -220,3 +233,6 @@ when people seem like they're cheating the system, lots of papers get quickly pr
 need pockets of societies where people don't know their programatic purpose, to maintain diversity. Also have regular movements between the people. Dude is considering moving to the other society. Purposelands and the Liberated Federation
 
 talk about "near-term" human milestones: colonize solar system, sustainable earth, etc.
+
+---
+

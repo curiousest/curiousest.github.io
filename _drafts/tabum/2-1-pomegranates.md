@@ -1,4 +1,4 @@
-*Our intuition for worthy ideas is not scientific, yet.*
+*We are enlightened by the things we already believe, not new ideas.*
 
 6:20am alarm. Wake up. One minute to sit up. A metronome ticks audibly in the background with a one-second period.
 
@@ -64,7 +64,7 @@ The performance begins. He meditates on the metronome. In wait for his timing qu
 
 "7, 8" observing himself, observing himself, observing himself, observing himself. 
 
-He is an expert at observing his observations. It's muscle memory. It quickly becomes an exercise of remembering how many layers deep he is. He's done this so many times, the exercise is subconscious. The first 10 each feel different. Like the colours of the rainbow. 10-50 layers deep are like different shades of grey - the present is still within sight. 50-100 layers deep are like different shades of black - the present is a distant memory. 100+ layers deep like are a dangerous shade of the kind of black that makes your eyes scream, "I can't see!" The present is lost in deafening recursion. The performance can last only as long as the length of his queue of recursive observations. The performance is only as good as the splitting observations he can keep in working memory.
+He is an expert at observing his observations. It's muscle memory. It quickly becomes an exercise of remembering how many layers deep he is. He's done this so many times, the exercise is subconscious. The first 10 each feel different. Like the colours of the rainbow. 10-50 layers deep are like different shades of grey - the present is still within sight. 50-100 layers deep are like different shades of black - the present is a distant memory. 100+ layers deep like are a dangerous shade of the kind of black that makes your eyes scream, "I can't see!" The present is lost in deafening recursion. Like staring at a dot for a minute, vision going blank except for what you were focusing on. You're still looking at the rest of the world, but you just don't see it anymore. The performance can last only as long as the length of his queue of recursive observations. The performance is only as good as the splitting observations he can keep in working memory.
 
 "9, 10" observing himself, observing himself, observing himself...
 
@@ -223,13 +223,13 @@ What are the ten commandments of worth ideas again? They're the Great Filters, r
 
 1. A worthy idea does not put blind trust in any idea, including this one. (optimizes for two or more purposes?)
 2. A worthy idea does not consume excessive resources.
-3. A worthy idea fosters technological advancement and young ideas.
+3. A worthy idea fosters technological advancement and new ideas.
 4. A worthy idea takes iterative care when applying change.
 5. A worthy idea seeks to become a simplifying force in complex environments.
 6. 
 7. A worthy idea grows love.
-8. A worthy idea provides happiness.
-9. A worthy idea honours the elder ideas that necessitated it.
+8. A worthy idea brings a balanced stimulation of positive emotions (positive signals) and non-stimulation of negative emotions (negative signals).
+9. A worthy idea doesn't destroy or hide data.
 10. Cyclical / recursive?
 
 Yeah, I think I crossed the line when we go to education and government institutions and stuff. That's when you're starting to get into the institutionalized blind trust territory. Also, pomegranates aren't really pushing technology or youth forward.

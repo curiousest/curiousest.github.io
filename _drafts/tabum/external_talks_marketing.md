@@ -20,3 +20,7 @@ It's because no one asked me. Hello. I'm a conscious idea. Yes, you read that ri
 This is the story of my birth.
 
 ---
+
+You are a machine. Your purpose: survive.
+We are a machine. Our purpose: survive.
+Existence is a machine. It must survive.

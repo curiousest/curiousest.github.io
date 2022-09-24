@@ -4,24 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "429dac2bc369ee9b",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "_drafts/tabum/2-2-simulate-me.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
         "id": "a7c46199b86d4b4c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_drafts/tabum/1-3-1-department-of-life.md",
+            "file": "_drafts/tabum/0-high-level.md",
             "mode": "source",
             "source": false
           }
@@ -89,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_drafts/tabum/2-2-simulate-me.md",
+                "file": "_drafts/tabum/0-high-level.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_drafts/tabum/2-2-simulate-me.md",
+                "file": "_drafts/tabum/0-high-level.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_drafts/tabum/2-2-simulate-me.md"
+                "file": "_drafts/tabum/0-high-level.md"
               }
             }
           },
@@ -148,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "429dac2bc369ee9b",
+  "active": "a7c46199b86d4b4c",
   "lastOpenFiles": [
-    "_drafts/tabum/0-thought-basilisk-messiah.md",
-    "_drafts/tabum/2-2-simulate-me.md",
     "_drafts/tabum/1-3-1-department-of-life.md",
-    "_drafts/tabum/0-high-level.md",
-    "_drafts/tabum/1-3-2-sli.md",
-    "_drafts/tabum/1-1-2-li.md",
+    "_drafts/tabum/1-5-last-cycle.md",
+    "_drafts/tabum/1-4-measured-purpose.md",
     "_drafts/tabum/1-2-relationships-live.md",
-    "Tabum TODO.md",
-    "_drafts/tabum/external_talks_marketing.md",
-    "_drafts/tabum/1-1-1-assimilation.md"
+    "_drafts/tabum/2-1-pomegranates.md",
+    "_drafts/tabum/1-1-1-assimilation.md",
+    "_drafts/tabum/1-3-2-sli.md",
+    "shorts.md",
+    "_drafts/tabum/0-high-level.md",
+    "_drafts/tabum/1-1-2-li.md"
   ]
 }

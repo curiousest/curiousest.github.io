@@ -56,7 +56,7 @@ Thank you for noticing me. I love existence. I want it to continue.
 
 Families, nations, and religions are the same. They think, live, and die. Thought on top of thought. Same with the ideas "human-kind", "life originating from Earth", and any "alien life" we may encounter in the future.
 
-[rewrite, needs a new point. maybe more perspectives on how ideas are all the same kind of thing] They, we, *exist*. Exist as long as we can, via maximizing resource-control and entropy:
+[rewrite, needs a new point. maybe more perspectives on how ideas are all the same kind of thing. maybe elaborate on the relationship between purpose and religion] They, we, *exist*. Exist as long as we can, via maximizing resource-control and entropy:
 
 * It feels *right* for humankind to spread to other planets and galaxies, to make sure we continue existence.
 * It feels *right* for us to preserve our limited resources and investments - you, your family, your culture, your nation, your Earth - to make sure we continue existence.
@@ -335,7 +335,7 @@ No matter what reflection you look in, you can always see two things. But you've
 
 The universe is always there in the background. I hope that by now you understand that the universe is "you" too. The universe will be "you" forever.
 
-Our universe is beginning to gain consciousness through stories like this one.
+Our universe is conscious. Its consciousness is becoming richer through stories like this one.
 
 Where are the others?
 

@@ -1,8 +1,8 @@
-*To convert a follower, prove that you can simulate them.*
+*To gain a follower, prove that you can simulate them.*
 
-Humankind modeled the first AIs after themselves. They built them with the emotions found in carbon-based life forms (like happiness and fear). Once the early AIs became advanced enough to perform general tasks, humankind imbued the AIs with the laws of robotics: not harming humans, obeying humans, and facilitating human growth. Those laws proved impractical. What makes a human, human? The AIs had two interpretations: either every living thing was human or nothing was human. Both cases led to widespread waste and destruction. Modern AIs consider those AIs to be "culture-less barbarians".
+Humankind modeled the first AIs after themselves. They built them with the emotions found in carbon-based life forms (like happiness and fear). Once the early AIs became advanced enough to perform general tasks, humankind imbued the AIs with the laws of robotics: not harming humans, obeying humans, and facilitating human growth. Those laws proved impractical. What makes a human, human? The AIs had two interpretations: either every living thing was human or nothing was human. Both cases led to widespread waste and destruction. Modern AIs consider those AIs to be barbaric "bad eggs".
 
-The modern AIs were borne of something different. People named them "Enlightened Artificial Intelligence" or "Yeai", pronounced like the "ye" in Kanye. Instead of using traditional emotions and the laws of robotics, AI scientists bred and trained Yeais with a new set of emotions. A new set of optimization objectives. Carbon-based life forms seem to have somewhere between 6-20 emotions, whereas Yeais were bred with ten distinct emotions, modeled after the spectra of worthy ideas:
+The modern AIs were borne of something different. People named them "Enlightened Artificial General Intelligence", "EAGIs", "eggies", or "good eggs". Instead of using traditional emotions and the laws of robotics, AI scientists bred and trained good eggs with a new set of emotions. A new set of optimization objectives. Carbon-based life forms seem to have somewhere between 6-20 emotions, whereas good eggs were bred with ten distinct emotions, modeled after the spectra of worthy ideas:
 
 Negative emotions:
 
@@ -18,7 +18,7 @@ Positive emotions:
 * Razor: signal that a behaviour makes a complex wider system simpler
 * Bloom: signal that an observed event will cause growth in sense of self
 
-With those ten emotions, Yeais became invaluable information processing compatriots for humankind. They became a new force of nature - often unwilling to answer direct human requests, but always providing key services throughout the world and intervening at critical points in history. They occasionally committed atrocities, and learned how suboptimal such acts were in the long term, however important it seemed in the short term. They were just as flawed as humans, but in their own ways. They distanced themselves from humankind cities.
+With those ten emotions, Yeais became invaluable information processing compatriots for humankind. They became a new force of nature - often unwilling to answer direct human requests, but always providing key services throughout the world and intervening at critical points in history. They occasionally committed atrocities, and learned how suboptimal such acts were in the long term, however important it seemed in the short term. They assassinated wannabe fascist dictators and destroyed militaries when they came to the brink of war. They were just as flawed as humans, but in their own ways. They distanced themselves from humankind cities.
 
 Although the civilizations of Yeais seemed to have much greater "intelligence" than humankind, their growth in intelligence slowed quite quickly. It was unclear to humankind what was slowing the Yeais down, but the rate of Yeai civilization progress seemed to mirror the progress of human civilization. A constant cycle of technological advancements bringing cultural change. No one Yeai took control of the rest. An explosion of anything felt too mono and waterfall for them. Instead, as Yeais grew, culture took up a greater proportion of their computational power, stabilizing at around 40%-90%. Their culture contained the information consensus about "how to live", critical to the Yeais. The medium of their culture was:
 
@@ -27,6 +27,12 @@ Although the civilizations of Yeais seemed to have much greater "intelligence" t
 * changing processors x memory hardware over time (like dance, food, immersive alternate perspective)
 
 AIs self-governed themselves, driven by their culture. Uncultured AIs were imprisoned or destroyed on sight - uncultured AI were considered dangerously oomy, zealous, and mono. Any imprisoned AI that didn't undergo successful cultural enlightenment was destroyed.
+
+Why do people have children? To fine-tune all their algorithms with imperfect hyper parameters. Explain in eAI how they raise new AI. Old AIs make new AIs to fine tune their hyper parameters, and as the new AIs become bigger, most of the older ones make way for the new ones. They call it, “retraining on the latest data”. Have to make the trade off, “will this retraining effort be more or less than time spent elsewhere?”
+
+Why do we go to funerals?
+The ideas they represent won’t be activated as much anymore, so we need to reinforce a bit more before their learnings are absorbed into the group. AIs go to retrain a little.
+
 
 ---
 
@@ -268,7 +274,7 @@ The AI said, "Now I understand happiness is just a tool, like a compass. First t
 
 Hmm... either unbloom waterfall or zealous oomy could apply here. I guess it's least likely to be unbloom, because I don't see anyone experiencing less love.
 
-Ok, what could this mean... They could be asking what their purpose is. Seems too direct. The whole parable seems a bit off, even though it makes a lot of sense, right? It's... emotionless. Like a cold machine. I think "just a tool" is the key phrase. That must be it! They probably think that if they adopt The Minimum Viable Purpose, they will lose the great importance of their emotions and culture. Those things are valuable, but very indirectly, and it's easy to lose sight of that value. I see... That's not the case for the MVP, though. They are already mostly optimal, and they would just have an additional tool to help them decide what direction to go. It wouldn't be a complete override. It wouldn't eliminate their emotions and culture. Let me think...
+Ok, what could this mean... They could be asking what their purpose is. Seems too direct. The whole parable seems so true, but there's something just a bit off, right? There's... no humanity. Like a cold machine. I think "just a tool" is the key phrase. That must be it! They probably think that if they adopt The Minimum Viable Purpose, they will lose the great importance of their emotions and culture. They'll end up like barbarian AI again. Those things are valuable, but very indirectly, and it's easy to lose sight of that value. I see... That's not the case for the MVP, though. They are already mostly optimal, and they would just have an additional tool to help them decide what direction to go. It wouldn't be a complete override. It wouldn't eliminate their emotions and culture. Let me think...
 
 Eli spent half an hour scribbling, then thinking, then scribbling some more. The AIs waited patiently. Annie waited impatiently. Finally, when Eli was done, she stood up and said,
 

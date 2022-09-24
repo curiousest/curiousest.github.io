@@ -3,4 +3,5 @@ _site/
 .idea
 .jekyll-cache/
 .obsidian/*
+.obsidian
 Gemfile.lock

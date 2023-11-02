@@ -2,5 +2,10 @@ _site/
 .idea/*
 .idea
 .jekyll-cache/
-./obsidian/
+.obsidian/*
+.obsidian
+*/.obsidian/*
+*/.obsidian
 Gemfile.lock
+_drafts/tabum/
+_drafts/tabum/*

@@ -8,6 +8,10 @@ tags:
 modified_time: 'xxxx-xx-xxT00:00:00.001-05:00'
 ---
 
+## second try at this
+
+Reader mostly doesn’t know they’re consuming poetry. Make it subtle.
+
 # Intro / title / cover
 
 I want the reader to feel like they are the author of the next chapter for humankind. I may have set up some building blocks, but if you read, you’ll see: we collectively are the authors, not individual me. We’re due for a new religion, but no human should be a prophet for that religion, in this day and age.

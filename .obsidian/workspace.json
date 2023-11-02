@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "e229978d8a447d4d",
+    "type": "split",
+    "children": [
+      {
+        "id": "c476deec07ce9739",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f19f75de7f08b3a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_drafts/tabum/1-3-1-department-of-life.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ad3b60589fcba71d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-09-10-plato.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1dd4a40136aa8319",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_drafts/tabum/1-1-1-assimilation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "488c09d106306da6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_drafts/tabum/1-4-measured-purpose.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f8c5b4157dfe741c",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1bac8cb15f5ea06",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "adad2d3933ef9860",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e29b340e5e7444c3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d04bcfab74271c78",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "0b029b70670c1292",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a653a0035a6f02a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ce2bad5ee1bf325",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c94b77f3984505cc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_drafts/tabum/1-3-1-department-of-life.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "73248d14bab888eb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_drafts/tabum/1-3-1-department-of-life.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dc777d9caa6a18fb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "721895d192ac2b86",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_drafts/tabum/1-3-1-department-of-life.md"
+              }
+            }
+          },
+          {
+            "id": "062b3a3918810dd1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f19f75de7f08b3a5",
+  "lastOpenFiles": [
+    "_drafts/tabum/1-5-1-meditation-is-for.md",
+    "_drafts/tabum/1-4-measured-purpose.md",
+    "_drafts/tabum/0-minimum-viable-purpose.md",
+    "_drafts/tabum/1-2-relationships-live.md",
+    "_drafts/tabum/1-1-1-assimilation.md",
+    "2023-09-10-plato.md",
+    "_drafts/tabum/1-3-1-department-of-life.md",
+    "_drafts/tabum/2-2-pomegranates.md",
+    "_drafts/tabum/2-1-simulate-me.md",
+    "_drafts/tabum/1-1-2-li.md",
+    "_drafts/tabum/1-3-2-sli.md",
+    "_drafts/tabum/1-5-2-lc.md",
+    "_drafts/2023-10-05-comic-of-the-three-philosophers.md",
+    "_drafts/2023-10-05-the-sky-is-blue.md",
+    "_drafts/2024-01-07-autobiography.md",
+    "_posts/2023-01-07-after-together.md",
+    "_drafts/2024-01-01-autobiography.md",
+    "_drafts/tabum/outputs/output-2023-09-13.md",
+    "2023-09-11.md",
+    "Untitled.canvas",
+    "_posts/2023-08-24-philosophy-study.md",
+    "_posts/2020-05-25-how-i-speak-product.md",
+    "_drafts/tabum/0-high-level.md",
+    "_drafts/tabum/automate_me/rokos-basilisk-farm.md",
+    "_drafts/tabum/outputs/output-2023-07-12.md",
+    "_drafts/tabum/outputs/output-2023-06-22.md",
+    "_drafts/tabum/external_talks_marketing.md",
+    "_drafts/tabum/combine_all.py",
+    "_drafts/tabum/outputs"
+  ]
+}

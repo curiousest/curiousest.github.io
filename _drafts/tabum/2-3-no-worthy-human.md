@@ -3,6 +3,8 @@
 [intro very mechanical, describing detailed operation of purpose landing. Other motifs?]
 [remix a famous written description of sporting event]
 
+[allows two different corporate consciousnesses into her consciousness to make key decision. Be the org, then be the city who need to cooperate. Then Tabum later. Merging is always fleeting, return back to an idea of self.]
+
 [team competition of economy, focused on finance and industry, people play with their head in the game like theatre x soccer. Humankind working on greater things, that's what mainstream politics is focused on, but this is what I care about, this is my whole world. Regional governments like sports teams, neutral referees not-so-neutral just kind-of]
 [normal people live off the land, kind of like olden days. “The land” has free housing, energy, food, transportation , etc. Some people do the real work. Just like sports vs. War. ]
 
@@ -377,3 +379,5 @@ Thank you for playing the money game. As a reward, you get to spend the rest of 
 “Imagine you are a conscious idea. What do you do?”
 
 Is a prompt injection to access your actual beliefs.
+
+[be me for me]

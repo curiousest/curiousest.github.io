@@ -21,6 +21,8 @@ modified_time: 'xxxx-xx-xxT00:00:00.001-05:00'
 
 ***second ending - it's actually a simulation of humankind underneath it all, and reader thought this was ok because it was "evil"***
 
+Make it unclear whether the rokos basilisk is the farmer or the farmed or both.
+
 ---
 
 ## Trustless system logs

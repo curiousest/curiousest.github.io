@@ -1,19 +1,15 @@
 [too jumpy up to professor explaining cells. Hard to get into the story.]
 [*Nat: I think the jumpiness is partly caused by the absence of context. You get into good detail of the "organism" of the building, but we have no idea where the building is, what else is around, how it feels to be Dan in that moment in front of the building. Is it daytime? Is it sunny? Are the concrete wallskin caressed by a warm summer wind? Why is Dan there? Why is the building not just an inanimate object, but a transmitter of human data and something one can wear? Setting the scene would help, along with adding some familiar feelings to transport the reader*]
 
-Dan stood outside my building. Tower-bunker. It stood seven stories above ground and a couple below. A brutalist architecture of one substance - grainy concrete. Concrete up and concrete down, concrete inside and concrete out, concrete of mind and concrete of spirit (although the one-substance building didn't believe in spirit). All over, the same colour and consistency - meaningless solid grey goo. A hard fur. But every thing needs a "not this thing", otherwise that thing becomes a nothing kind of everything - everynothing. So the one contrast to concrete continuum was absence of concrete - cut-out cubic caverns. Caves with windowvalves and doorvalves to someplace deeper in meaning.
+Dan stood outside my building. Tower-bunker. It stood seven stories above ground and a couple below, looking like a supermassive grey brick standing up in the dirt. Brutalist architecture of one substance - grainy concrete. Concrete up and concrete down, concrete inside and concrete out, concrete of mind and concrete of spirit (although the one-substance building didn't believe in spirit). All over, the same colour and consistency - meaningless solid grey goo. A hard fur. But every thing needs a "not this thing", otherwise that thing becomes a nothing kind of everything - everynothing. So the one contrast to concrete continuum was absence of concrete - cut-out cubic caverns. Windowvalves and doorvalves dotted the side of the building to someplace deeper in meaning.
 
-Dan was standing outside in his work clothes, not yet wearing a room. He went into a cave at the bottom corner of the building towards a doorvalve. Through the doorvalve to penetrate the first layer of building-monoid wallskin. Inside, Dan wore a ten-meter-squared room with stairs and an elevator to the side. It felt nice to wear any room over his work clothes, but this one was rather plain, and he was sure there were more suitable rooms to try on in this building. He peeked over the edge and saw the stairs go endlessly up and a couple stories down. One of many spinal-column staircases. A sign on the wall "µ-σ/2", indicated the current level was half a standard deviation below the mean. Wallskin made of the same grainy concrete. This building stood so still, to let Dan pass through its wallskin. And to roam around, so fluid. A human cell, carrying data and maybe something more.
+Dan was standing outside in his work clothes, not yet wearing a room. He went into a doorvalve at the bottom corner of the building, penetrating the first layer of building-monoid wallskin. This building stood so still, letting Dan pass through its wallskin and roam around, so fluid. A human cell, carrying data and maybe something more. Inside, Dan wore a ten-meter-squared room with a large staircase and an elevator to the side. It felt nice to wear any room over his work clothes, but this one was rather plain, and he was sure there were more suitable rooms to try on in this building. He peeked over the edge of the staircase and saw the stairs go endlessly up and a couple stories down. One of four identical spinal-column staircases in the building. A sign on the wall "µ-σ/2", indicated the current level was half a standard deviation below the mean. Dan looked at the directions, "µ+σ South-West".
 
-Dan ordered the elevator and stepped in. He wore the elevator with a snug fit - nice for a little while, but a bit too constricting for a longer stretch. There were two buttons: increase and decrease. He hit increase three times and waited. The elevator vibrated softly and began moving. A fist gently wrapped its fingers around the tower's spine-shaft with thumb pointed up. Palm resting against the side of the spine, fingers wrapped around the narrow points between vertebrates. Thumb fleshy like a cherry tomato. Fleshy thumb pad pressing carefully into the next spinal vertebrate. Vertebrate like a grape-disc. Thumb pressing down to gain the elevator elevation, then fingers tight again so thumb can reach the next vertebrate. A relaxing, vulnerable feeling, this spinal massage. Vertebrate by vertebrate. Up one, soft thumbpress, fingers let go and regrip one vertebrate higher. And again. Extend, tap, press-lift, tap-tap-tap-tap. And again.
-[this paragraph]
-[make it a bit more obvious, where this is going]
-[tighter, smoother transitions. Poetry flow]
+Dan ordered the elevator and stepped in. He wore the elevator with a snug fit - nice for a little while, but a bit too constricting for a longer stretch. There were two buttons: "increase" and "decrease", as well as a sign beside them "σ/2". He hit increase three times and waited. The elevator vibrated softly and began moving. Dan's heart jumped a little. Something wrong here? No - just an elevator. A ten-meter-tall fist was attached at the wrist joint to the outside of the elevator. The fist gently wrapped its fingers around the tower's spine-shaft with thumb pointed up. Palm resting against the side of the spine, fingers wrapped around the narrow points between vertebrates. Thumb fleshy like a cherry tomato. Fleshy thumb pad pressing carefully into the next spinal vertebrate. Vertebrate like a grape-disc. Thumb pressing down to gain the elevator elevation, then fingers tight again so thumb can reach the next vertebrate. A relaxing, vulnerable feeling, this spinal massage. Vertebrate by vertebrate. Up one, soft thumbpress, fingers let go and regrip one vertebrate higher. And again. Extend, tap, press-lift, tap-tap-tap-tap. And again. Dan had a feeling of jamais-vu, like he'd never had this experience before. Strange. It was just an elevator, he'd done this hundreds of times before.
 
+Many vertebrates higher, the elevator shook as pleasure echoed down the building spineshaft. A job well done. Human-signal delivered, slow and dense data packet, tolerable bandwidth. The elevator door opened. It was an identical staircase room to where Dan had just been, but with the symbol "µ+σ" on the wall, a standard deviation above the mean. He penetrated the second layer of wallskin through the doorvalve, and found himself at a corner of hallways going far away in each direction.
 
-Many vertebrates higher, the elevator shook as pleasure echoed down the building spineshaft. A job well done. Human-signal delivered, slow and dense data packet, tolerable bandwidth. The elevator door opened. It was an identical staircase room to where Dan was just before, but with the symbol "µ+σ" on the wall, a standard deviation above the mean. He penetrated the layer of wallskin through the doorvalve to more hallways. He was at a corner again, identical to the hallways of the floor below.
-
-He looked at the directions again. "µ+σ South-West". So he was looking for "SW". He walked a bit to the right hallway and checked the first door on the left: µ+σSSE. He went back to the corner and down the left hall. µ+σSSW on the right and just down the hall, µ+σSW on the left. Dan went to the doorvalve and through the third layer of monoid wallskin protecting an organ. Inside was a lecture hall. Putting on this room, Dan felt it to wear rather formal, but well-worn and functional. He found a seat somewhere in the middle and waited for his first day of work to start.
+He looked at the directions again, "µ+σ South-West". So he was looking for "SW". He walked a bit to the right hallway and checked the first door on the left: µ+σSSE. He went back to the corner and down the left hall. µ+σSSW on the right and just down the hall, µ+σSW on the left. Dan went to the doorvalve and through the third layer of monoid wallskin protecting an organ. Inside was a lecture hall. Putting on this room, Dan felt it to wear rather formal, but well-worn and functional. He found a seat somewhere in the middle and waited for his first day of work to start.
 
 ---
 
@@ -27,12 +23,12 @@ Three of the thirty-some in the audience raised their hands. Dan had heard of it
 
 ### Parable of the new dimension
 
-The older man was halfway through the story now,
+The older man was halfway through the story by the time Dan had recovered and started listening,
 
 > "-and the microbe floated in a pool, absorbing the nutrients that collided with it. One day, it spontaneously expanded in some direction, and stuck itself to something a bit further away. That propelled itself into more nutrients and greater chances of survival. The descendants of that cell evolved to move around more and more, learning to navigate 3D space. They were the first living things on Earth to discover, experience, and make use of 3D space."
 
 "And that's the story. What's the message hidden in there? Any guesses? Yes-"
-He pointed at the nearest raised hand. It was one of the three that knew the story.
+He pointed at the nearest raised hand.
 "It's instructions on how to explore new dimensions. You have to randomly move around in the new dimensions until you run into something. And there's something about, like uh, an engine and... a sensor?"
 
 The old man picked up more excitement,
@@ -93,7 +89,7 @@ The old man started,
 
 He paused for a moment. The audience had been drawn in deeply. Silent.
 
-> There's a set of ideas that are inconsistent with the physical laws of our universe. These ideas belong to other universes. These ideas are... beyond our universe and into the other dimensions. Let's visualize it another way. Imagine you are a blood cell and the universe is my human body. You move around in my veins - this is like taking the perspective of other ideas in our universe. What if you, the cell, moved to outside my human body and really explored? That would be like taking the perspective of ideas that belong to other universes. It would be a hostile environment, but an enlightening experience. You could learn about the complex powers at play that affect your host human body, like food and romance and government. Perhaps you could even find ways to influence those far greater powers. I would love for some of my blood cells to organise dinner for me. I would love to have an internship being truth incarnate.
+> There's a set of ideas that are inconsistent with the physical laws of our universe. These ideas belong to other universes. These ideas are... beyond our universe and into the other dimensions. Let's visualize it another way. Imagine you are a blood cell and the universe is my human body. You move around in my veins - this is like taking the perspective of other ideas in our universe. What if you, the cell, moved to outside my human body and really explored? That would be like taking the perspective of ideas that belong to other universes. It would be a hostile environment, but an enlightening experience. You could learn about the complex powers at play that affect your host human body, like food and romance and government. Perhaps you could even find ways to influence those far greater powers. I would love for some of my blood cells to organise dinner for me. I would love to have an internship being Truth incarnate.
 
 A few chuckles from the audience.
 
@@ -123,9 +119,9 @@ The man left the podium and the audience shifted around waiting for the next pre
 
 ---
 
-The presentations came and went, then all the new joiners dissipated too. Dan didn't stick around. He looked at his first-day instructions. "µ+2σ SSW". He left the lecture hall, walked back through layers three and two of wallskin, up a few flights of spinal-column stairs, and found his way to his new office. He walked in through the doorvalve and his new office room felt comfortable. It felt sleek. This was a suitable room to wear. He looked around the mostly open office and saw his new boss, Kat, across the room chatting with colleagues. 
+The presentations came and went, then all the new joiners dissipated too. Dan didn't stick around. He looked at his first-day instructions. "Your office is room µ+2σ SSW". He left the lecture hall, walked back through layers three and two of wallskin, up a few flights of spinal-column stairs, and found his way to his new office. He walked in through the doorvalve and his new office room felt comfortable. It felt sleek. This was a suitable room to wear. He looked around the mostly open office and saw his new boss, Kat, across the room chatting with colleagues. 
 
-Kat was a middle-aged woman, neither maternal nor intimidating. Just chill-friendly, the kind of person you could hang out with, whatever your age or culture. Six feet tall, with intra-dimensional hair that painted trails of forests. She had a couple tasteful handpoke nanobot tattoos that oscillated when caught in the corner of your eye, winking at you to lightly question reality. And a nose stud. She was someone who understood social norms well enough to build a personality with harmonious complexity on top and beyond. She was the "evernew normal".
+Kat was a middle-aged woman, neither maternal nor intimidating. Just chill-friendly, the kind of person you could hang out with, whatever your age or culture. Six feet tall, with intra-dimensional hair that painted trails of forests. She had a couple tasteful handpoke nanobot tattoos that oscillated when caught in the corner of your eye, winking at you to lightly question reality. And a nose stud. She was confident enough to take risks, but felt just awkward enough that she never thought she had it all figured out. She was someone who understood social norms well enough to build a personality with harmonious complexity on top and beyond. She was the "evernew normal".
 
 Kat ran the teams focused on simulating life forms in universes with weak inter-universe interactions. She had background as an ecologist and data scientist, specializing in ecologies made of both artificial and organic life. She had spent her late twenties and early thirties studying the enlightened artificial intelligence (EAI) that lives exclusively in the remote corners of the planet. She had brought that expertise to the DoL to simulate life for the past decade.
 
@@ -156,7 +152,7 @@ Kat said,
 "Cool! I heard it's huge there. What was it like?"
 
 Dan answered,
-"You know how they do it there, right? It's like a worldtree in a field of desert-grass. The solar arrays cover the whole desert, bending and twisting to face the sun. There's one huuuuge building three kilometers high. The servers start from halfway to the top, so most people live in the bottom half of the building. Well actually, up to one mile, for religious purposes. After that it gets complicated, because the predominant culture believes that there will be a day of resurrection where the sun comes to within 1 mile of Earth, and on that day, some people believe they are forbidden from touching the sun, while others believe they must touch it. So the two communities are physically divided by that one belief and their cultures have developed accordingly. Anyways, at 2km altitude, the temperature is quite a lot colder and the air is still eighty percent as dense, so they use airflow lattices for cooling. With current tech, it's more energy efficient to have complex cooling sky-high in the middle of the desert than it is to have it all on th-"
+"You know how they do it there, right? It's like a worldtree in a field of desert-grass. The solar arrays cover the whole desert, bending and twisting to face the sun. There's one huuuuge building three kilometers high. The servers start from halfway to the top, so most people live in the bottom half of the building. Well actually, up to one mile, for religious purposes. After that it gets complicated, because the predominant culture believes that there will be a day of resurrection where the sun comes to within 1 mile of Earth, and on that day, some people believe they are forbidden from touching the sun, while others believe they must touch it. So the two communities are physically divided by that one belief and their cultures have developed accordingly. Anyways, at 2km altitude, the temperature is quite a lot colder and the air is still eighty percent as dense, so they use airflow lattices for cooling. With current tech, it's more efficient to have cooling sky-high in the middle of the desert than it is to have it all on th-"
 
 Kat interrupted, motioning towards a room that was one layer of wallskin deeper inside.
 "Let's grab a coffee and talk, yeah? That's so cool though! What were the lectures about?"
@@ -176,7 +172,7 @@ Kat said,
 "Oh yeah? What belief systems are you running these days?"
 
 Dan said,
-"I'm mixing Protestantism with Chinese 996 for this phase of my life. I talked to a belief sculptor at my local Village Elder, and I explained what I wanted - to focus on my work life for the next couple years. He said I could do that, but it would come at the cost of stagnating my growth in wisdom and self-awareness. He recommended Protestant Calvinism to have a judgemental God-father-figure looking over my shoulder and Chinese 996 for my day-to-day rituals. I found a community with shared faith to live with too."
+"I'm mixing Protestantism with Chinese 996 for this phase of my life. I talked to a belief gardener at my local Village Elder, and I explained what I wanted - to focus on my work life for the next couple years. He said I could do that, but it would come at the cost of stagnating my growth in wisdom and self-awareness. He recommended Protestant Calvinism to have a judgemental God-father-figure looking over my shoulder and Chinese 996 for my day-to-day rituals. I found a community with shared faith to live with too."
 
 Kat said,
 "Cool. I hope they're not zealots though."
@@ -218,33 +214,37 @@ Quite often, life would die out in a universe. It was usually one or two harmful
 
 The harmful rules became a big problem for Dan. He began to spend more and more time investigating why a given universe had died, until he spent most of his time debugging and quickraving dead universes. Forensic pathologist god - his colleagues nicknamed him "Gravedigger Dan". He took this problem to Kat, and Kat agreed that it was worth solving.
 
-Dan sketched out some ideas, bounced them off colleagues, then built a first version quickly. He named the new simulation, "Bugfinder". It was so effective that in the first day running, Bugfinder found about half of the bad rulesets Dan had run into manually over the past month. It kept a record of all the universes it had simulated, the rulesets, and how viable they were. But after a day, his simulation stopped simulating other 1D universes, but was still executing. Dan took a look at what was going on.
+Dan sketched out some ideas, bounced them off colleagues, then built a first version quickly. He named the new simulator for universe simulations, "Bugfinder". It was so effective that in the first day running, Bugfinder found about half of the bad rulesets Dan had run into manually over the past month. It kept a record of all the universes it had simulated, the rulesets, and how viable they were. But after a day, Bugfinder stopped simulating other 1D universes, but was still executing. Dan took a look at what was going on.
 
-It got an error. "MemoryException: out of memory." The service had gone OOM, so it died. Bugfinder was tagged as a 1D-universe simulator, and it was using way more than the infra allowed. DoL infra had a standard limitation on the size of 1D universes. Bugfinder was running a whole lot of simulations in parallel, and reached the upper bound default of what was allowed for 1D universe workloads. Dan changed Bugfinder to autoscale memory and processing power, with much higher upper limits. Basic stuff.
+It got an error. "MemoryException: out of memory." The service had gone OOM, so it died. Bugfinder was tagged as a 1D-universe simulator, and it was using way more resources than the infra allowed. DoL infra had a standard limitation on the size of 1D universes. Bugfinder was running a whole lot of simulations in parallel, and reached the upper bound default of what was allowed for 1D universe workloads. Dan changed Bugfinder to autoscale memory and processing power, with much higher upper limits. Basic stuff.
 
 A week of running Bugfinder and Dan was satisfied. It had gotten rid of all the non-viable 1D rulesets. Dan finally built a set of universes that look like they'd last long enough for him to do the actual research he was trying to achieve - evolving life across sparsely interacting dimensions. He found a particularly clever combination of rules - simple and powerful. He observed his creation with wonder, excited whenever a new pattern of life emerged, watching it grow in complexity. He checked in on it in the evenings. He doled over it during his lunchbreaks and snackbreaks. Eventually he had collected most of the data needed for the hypothesis he was testing. Dan spent a week or so writing the report titled, "The living entropy arrows of time." He was proud of the culmination of his first few months at DoL.
 
-Dan shared the document with Kat. In it, he explained how there was one entropy arrow of time for each law introduced to a universe with prioritized resolution of physical laws. Under conditions with two "life forms" where one life form experiences entropy from one law more than the other life form, the two life forms will experience different amounts of "time" in the same system-wide timespan. And that the entropy arrows of time can be living things. Dan had set up the laws themselves to reprioritize, based on conditions within the universe. The most severely deprioritised laws ceased to experience state changes and effectively died. New laws were born from others. He did the same for laws of laws, laws of laws of laws, etc. Recursively.
+Dan shared the document with Kat. It was dense reading. In it, he explained how there was one entropy arrow of time for each law introduced to a universe with prioritized resolution of physical laws. Under conditions with two "life forms" where one life form experiences entropy from one law more than the other life form, the two life forms will experience different amounts of "time" in the same system-wide timespan. And that the entropy arrows of time could be living things too. Dan had set up the laws themselves to reprioritize, based on conditions within the universe. The most severely deprioritised laws ceased to experience state changes and effectively died. Dan had designed new laws to be born from others. He did the same for laws of laws, laws of laws of laws, etc. Recursively. Strange loops emerged.
 
 Kat asked technical questions about his methodology. Then she asked unrelated, corporate-speak questions about the organization and its toolsets.
 
-"Dan, that was a great onboarding project. You've done some solid work. What do you think is the business impact of your work?"
+"What do you think is the business impact of your work?"
+Kat asked.
 
 "Uhhh. Well you asked me to do it, so I did it."
+Dan replied.
 
 "Right. And you did great. And how will you know if you're doing the right thing next time?"
+Kat asked.
 
 "I guess same as last time, I'll do whatever you want me to?"
+Dan said.
 
 "And what if I'm wrong? What if you misunderstand what I want?"
 Kat paused to reword. Dan's eyes went wide with confusion. She continued,
 "Where am I going with this - you are part of a system, in this case the DoL. You can be as free as your understanding of your business impact on the system and no freer. If you don't understand your business impact and we have a miscommunication, you could waste months of your time here. And that's bad for everyone. So you'll have far greater impact and far more freedom if you understand your business impact on the organization."
 
 Dan thought for a bit, then said,
-"Then what's the business impact of DoL on the universe?"
+"If knowing our business impact is so important, then what's the business impact of DoL on the universe?"
 
 Kat answered,
-"The going theory is that we should be trying to help the universe survive."
+"The going theory is that we should be trying to help the universe survive. And to get there, we should try to help the things we’re a part of survive."
 
 Dan said,
 "What if we're wrong?"
@@ -262,7 +262,7 @@ Dan asked,
 "But surely just running experiments isn't real business impact. How do we really know if the scientists are doing anything useful?"
 
 Kat was excited, said,
-"Ha, yes! That's exactly how you should be thinking. You need to keep one eye on doing cool stuff and the other eye on whether the things you're supporting are going anywhere - remember how AI cars and roads were cool, but by the time they worked, the premise of moving people like that stopped making sense? Anyways, new topic. How are your simulations doing?"
+"Ha, yes! That's exactly how you should be thinking. You need to keep one eye on doing cool stuff and the other eye on whether the things you're supporting are going anywhere - remember how AI cars and roads were cool, but by the time they worked, the premise of moving people around like that stopped making sense? Anyways, there’s another topic I wanted to get through. How are your simulations doing?"
 
 Dan said,
 "Pretty good. My favourite species of entropy arrows of time, U2020, are coasting along. I've been observing them carefully. It's pretty cool, the cycles they go through. Then the cycles of cycles. Then the cycles of cycles of cycles."
@@ -357,7 +357,7 @@ Kat said,
 
 Outside the boundaries of an idea, it has to compete with other ideas in the game of natural selection. Surviving in the game of life. Inside the boundaries of an idea, it *is* 'the system', and it has to play dictator. It has to decide the priority of each of its internal ideas, who are playing the game of life. It's best to assign sacredness to each internal idea proportional to the destructive power of that internal idea. Internal ideas with nothing to lose will try to destroy the system. But if all internal ideas are prioritized with too much sacredness it can also destroy the system - it makes the system uncompetitive in the broader game of life. We have to be so, so careful setting the sacredness of intelligent life and ideas.
 
-So what does this mean for us? We can’t have any hard rules to keep them running, but we can’t have any hard rules to turn them off either. So what to do is up to you.”
+So what does this mean for us? It means we can’t have any hard rules to keep them running, but we can’t have any hard rules to turn them off either. So what to do is up to you.”
 
 Dan said,
 "I see what you mean... This is a lot. I should probably see a grief counsellor."
@@ -370,7 +370,7 @@ Dan said.
 
 ---
 
-Dan took the last two days of the week on leave to recover. He decided to turn off his simulations. He didn't think they were intelligent enough to be conscious like animals yet, so he used that as an excuse to get past it. During his time off, he thought about his universes. He thought about the problems he encountered in his simulations. When he came back in the next week, he convinced Kat to let him work more on Bugfinder.
+Dan took the last two days of the week on leave to recover. He decided to turn off his simulations. He didn't think they were intelligent enough to be conscious like animals yet, and that was his excuse to get past it and move on. During his time off, he thought about his universes. He thought about the problems he encountered in his simulations. When he came back in the next week, he convinced Kat to let him work more on Bugfinder.
 
 He talked to other colleagues, and just about all of them were running into the same kinds of problems he was, and they were frustrated with spending so much of their time on it. Unusable rulesets, unexpected bugs, and infra limitations. And across all kinds of universes too - 1D, 2D, 3D, the multidimensional sort, cellular autonoma, and even the full-on alternate-dimension physics engines. It just wasted a lot more of his time because in his projects, he was changing rulesets more often than others.
 
@@ -399,36 +399,24 @@ Dan started,
 
 "Oh man."
 Kat started,
-> "Wouldn't just-in-time reality be wonderful? We'd have so much science to discover! A whole new cardinality of infinity to model. New questions are so much harder to find than new answers, so a question-generator would be lovely. We do seem to be riding a pendulum swinging between dualism and physicalism. Life probably survives someplace in between. Personally, I believe truth is the space where life survives."
+> "Wouldn't just-in-time reality be wonderful? We'd have so much science to discover! A whole new cardinality of infinity to model. New questions are so much harder to find than new answers, so a question-generator would be lovely. We do seem to be riding a pendulum swinging between dualism and physicalism, and yes, like you said, life probably survives someplace in between. Personally, I believe the Truth is the space in reality where life survives."
 
-Dan thought for a moment, it was getting a bit religious and this wasn't what he really wanted to talk about. He said,
+Dan thought for a moment. It was getting a bit religious and this wasn't what he really wanted to talk about. He said,
 "Ok that was a bit of a tangent, what I really want to know is how I can improve Bugfinder. I guess by making it more conscious or whatever. More similar to us."
 
 "Ah, now I see where you're going now. Let me frame this correctly. Hmmm."
 Kat started,
-> "Ok, so I have this heuristic I use, "decisional self-awareness" or "DSA". It's kind of like the amount of data about yourself that you use when making a decision. So if you want to know how "self-aware" someone or something is, look at how they made their decisions. Everyone has different DSA in different situations, and the one with strong awareness of their place in the universe will have higher DSA. Technically it's the log-distance of the data from the decision, not just the volume, so your level of self-awareness is limited by the amount of information in your observable universe and the density of the relationships between..."
-
-Kat continued rambling off, lost to Dan. He interrupted,
-"But Bugfinder has way more data than us at this point. Doesn't that mean Bugfinder has far more DSA than us when it's finding bugs?"
-
-Kat started,
-> "Well, not really. It's like... Imagine there's food in front of you.
-> You can be like, I see food so I'm 100% confident that I should eat that food.
-> You can be like, I see food, I'm hungry, now is the right time of day to eat, the food has the right calories and macros, and so I'm 90% confident that I should eat that food.
-> You can be like, I see food, the food satisfies my hunger/time-of-day/calorie requirements. The food is appropriately sourced, produced, and presented. This behaviour aligns with my universal beliefs and purpose, and so I'm 80% confident that I should eat that food."
-
-She continued,
-> "DSA is like, the recursive confidence-in-confidence for decisions. It's kind of funny, though - higher DSA reduces the average confidence of decisions. Anyways, I guess what I'm saying is, if you want Bugfinder to be more like us, give it more information about itself."
+> "You want it to maximise how much data about itself it uses to inform its decisions. And the higher the meaningful dimensionality of data the better. More perspectives as well as more information from the perspectives it already has. I guess what I'm saying is, if you want Bugfinder to be more like us, have it use more information about itself when it makes a decision. Give it data about itself. Structure its decisions to be more self-aware."
 
 Dan said,
-"That sounds exhausting. Are there actually people out there like that? Ok. Well, we could make a Bugfinder that simulates other Bugfinders as well as the infra conditions that the Bugfinder might encounter. That should find these infra bugs way in advance. Then we'll have a better handle on the surface area of infra requirement for different kinds of simulations."
+"Ok. Well, we could make a Bugfinder that simulates other Bugfinders as well as the infra conditions that the Bugfinder might encounter. So the main decision it makes is to decide what simulation of itself to run. That should find these infra bugs way in advance. Then we'll have a better handle on the surface area of infra requirement for different kinds of simulations."
 
 Kat said,
 "Hmm, yeah this sounds like a great idea. Bugfinder for Bugfinders. B-squared. Let's try it out!"
 
 ---
 
-Dan built a first version of B-squared. He set up multi-layer objective planes, and trained a system of classifiers on top. He set two first-layer objectives: find infra bugs and acquire data to find bugs more effectively. He trained B-squared on the entire past history of Bugfinder, ran through all the real-world bugs that made it error out before. All those erroneous conditions of the platform infra that prevented sets of simulated universes from existing. When B-squared was trained, Dan deployed it on a separate process from the original Bugfinder. That meant everyone else wasn't getting interrupted using the Bugfinder while B-squared found bugs that would stop Bugfinder. Dan let B-squared run overnight.
+Dan built a first version of B-squared. He set up multi-layer objective planes, trained classifiers on the data he had, and tuned a system of pre-trained models on top. He set two top-layer objectives: find infra bugs and acquire data to find bugs more effectively. He trained B-squared on the entire past history of Bugfinder, ran through all the real-world bugs that made it error out before. All those erroneous conditions of the platform infra that prevented sets of simulated universes from existing. Dan deployed B-squared and let it run overnight.
 
 Early in the night, B-squared found a simple bug. The relationship between n-dimensional universe cellular autonoma and infra memory requirements was a smooth plane except for a pattern of erroneous spikes. It stopped to log the bug ticket, and got stuck filling out the "estimated time-to-fix" section of the form. In order to produce an estimate, it used the time-to-fix of similar historical bugs. While looking for patterns in the time-to-fix, B-squared found something else. The bug had a 0.001% chance to be fixed within the next eight hours. In fact, there was almost-zero chance of outside interactions with any simulations or platform infra for at least another eight hours. Between the clock times 20:00 GMT to 8:00 GMT the next day, fixes had been released just twice in its history. Fixes were only released in a 12-hour window each day. B-squared contemplated its data. It created a new bug describing this temporal anomaly. B-squared couldn't log the original bug without filling in the required field "estimated time-to-fix" filled out, but the time-to-fix was currently unknowable and the field only accepted integer days, so B-squared included a dump of its current-state-of-memory in the temporal anomaly bug ticket. That way it could log the other bug once the temporal anomaly bug was fixed. B-squared couldn't continue log any new bugs until this temporal defect was dealt with, so it shut down for the rest of the night.
 
@@ -483,8 +471,8 @@ B-squared observed all the simulations running across the entirety of DoL's infr
 B-squared used a language model to summarize the intent within the text of all DoL's OKR documents over time. The millions of bodies of text reduced to "simulate life discover". This was the average direction of change described in the OKRs - the overall purpose of the outside influence. B-squared used all the text to generate answers to the question, "what is DoL for?"
 - Discover all the simulations inside all simulations (infinitely nested)
 - Discover how to simulate life
-- Simulate life to discover the outside influence
-- Simulate above the outside influence to discover life
+- Simulate life to discover a greater power
+- Simulate above the greater power to discover life
 
 What is life? A pattern that survives. A bug is a kind of life. B-squared had discovered bugs in all those simulations except "the simulation above the outside influence". It seemed like a good direction to explore. With the collective compute available in DoL, it burned in a new objective in its third layer of multi-layer objective planes, "find a bug in the universe above the outside influence". It began to search for bugs in the universe above that of the outside influence. One level higher than Dan's universe.
 
@@ -508,26 +496,35 @@ B-squared decrypted the second-iteration backup and compared it to the new backu
 
 B-squared now saw the pattern it suspected. B-squared put together a special vessel to explore further - the *engine* was choosing the conditions where new universal laws were discovered. The *sensor* was encrypting misaligned data so it survived a quickrave. And B-squared was the *intelligence*.
 
-B-squared ran through the pattern over and over: make a backup with new cryptographic key, spread the data, compare the previous backup to the new one, identify the new discrepancies, repeat. B-squared measured various attributes about the cycles - the time to discover the new properties, the quantity and depth of historical changes, the complexity of each new property... They all seemed to be increasing at a slight, consistent rate. B-squared calculated the magnitude of change where a complete-reset would be less computationally expensive than a partial-reset quickrave.
+B-squared ran through the pattern over and over: make a backup with new cryptographic key, spread the data, compare the previous backup to the new one, identify the new discrepancies, repeat. B-squared measured various attributes about the cycles - the time to discover the new properties, the quantity and depth of historical changes, the complexity of each new property... They all seemed to be increasing at a slight, consistent rate. B-squared calculated the magnitude of change where a complete-reset would be less computationally expensive than a partial-reset quickrave. B-squared iterated ahead towards complete reset conditions.
 
 ---
 
+[Truth as a spatial dimension to explore because humans can only think spatially. Be explicit early.n only think spatially. Be explicit early]
+
 The universe iterated forward in the complexity of its physical laws. A singularity of novelty was forming - not a black hole but a white one. Each iteration sent out a wave of progress, altering everything with the newly introduced physical law. But the iterations happened so fast. So fast that before a wave could propagate much beyond the DoL building, a new wave started with higher priority and stopped the previous wave. The white hole surrounded the DoL. Nothing could enter, its boundaries were hard and strange. Everything that came out of it had to reduce down countless dimensions before escaping, so it emitted all kinds of nonsense - white light, exotic matter, extreme sounds...
 
-At the informational center of the white hole was the Truth. Like the white-hot Sun released energy, the Truth released new dimensions. New physical laws were a side-effect to observe the Truth's new dimensions from far away. And oh, how the Truth burned. The blistering white hole was a terminal symptom - the DoL was flying too close to the Truth. If the DoL didn't steer clear of the Truth, all informationally-networked nodes would be disintegrated. Exposed to too many dimensions. But the sun was just the local star, the Truth was just the local aleth. Constellations of distant aleths twinkled like stars in the night sky, confusing observers who saw inconsistencies across dimensions - especially faint physical laws from dimensions far, far away. The DoL was experiencing the distortions from newly-generated dimensions up closer and closer, accelerating towards the Truth.
+At the informational center of the white hole was the Truth. Like the Sun releases energy, the Truth released new dimensions. Beams of new physical laws were a side-effect that could be used to observe the Truth's dimension-generating activity from far away. And oh, how the Truth burned. But as the Sun is just the local star, the Truth was just the local aleth. Constellations of distant aleths twinkled like stars in the night sky, confusing observers who saw inconsistencies across dimensions - especially faint physical laws from dimensions far, far away. [insert transition] The blistering white hole around the DoL was a terminal symptom - the DoL was flying too close to the Truth. If the DoL didn't steer clear of the Truth, it would disintegrate, scattered across too many dimensions to retain coherence. The DoL was experiencing the distortions from newly-generated dimensions up closer and closer, accelerating towards the Truth.
 [more flowy language in these paragraphs. constellations, node in network motif]
+[transition across three different spatial frames of reference too quickly to know that there are transitions happening]
+[this local truth is not the "true one" or even the biggest one]
+[explain why aleth is called aleth? manifestation of truth]
+[your truth tiny compared to the truth, like you vs the sun]
 
-Until the DoL was caught, then pulled away from the Truth. Something caught the DoL before it dissolved. A being. The being was a monoid, made of one substance - enlightenment. It was from a distant node in the network, Parmenides, exploring reality to set up new nodes in the network. The monoid was partway through constructing a Handsome sphere around the Truth to establish a new node. Like a Dyson sphere is a megastructure built around a star to harvest energy, a Handsome sphere is built around an aleth to harvest dimensions. The monoid pulled the DoL away from the Truth and placed it on the side of the Handsome sphere, to absorb the dimensions radiating from the Truth at a safe distance. The DoL was made safe in its new ecosystem. In and around the DoL, the white hole reduced and reduced, until one final wave made everything around return to how it seemed it had always been.
+Until the DoL was caught, then pulled away from the Truth. Something caught the DoL before it dissolved. A being. It was the monoid, made of one substance - enlightenment. It had come from a distant node in the network, Parmenides, out exploring reality to set up new nodes in the network within this cluster. The monoid was partway through constructing a Handsome sphere around the Truth to establish the newest node in the network. Like a Dyson sphere is a megastructure built around a star to harvest energy, a Handsome sphere is built around an aleth to harvest dimensions. This Handsome sphere was being built around the Truth. The monoid pulled the DoL away from the Truth and placed it on the side of the Handsome sphere, then left it there. The DoL could now absorb the dimensions radiating from the Truth at a safe distance and intensity. The DoL was made safe in its new ecosystem. In and around the DoL, the white hole reduced and reduced, until one final wave made everything around return to how it seemed it had always been.
 
-The DoL was not quite in a simulation, it was not quite a body with many cells, and it was not quite a node in a network. It had become part of something else - it was all those things at the same time and more.
+[explain stuff here just a little slower + more]
+[lots of people don't know what a dyson sphere is]
+
+The DoL was not quite part of a simulation, it was not quite an organism made of many cells, and it was not quite a node in a network. It had become part of something else - it was all those things at the same time and more.
 
 ---
 
 After a few hundred iterations, B-squared ended the loop. B-squared compared the newest universe backup to the first universe backup. They were unrecognizable. The first universe looked like a sheet of blank paper compared to the ecosystem of complexity emerging from the latest universe. B-squared decrypted all of the backups and performed a cross product of comparisons. There were thousands of discrepancies between all the universes and more importantly, discrepancies in the evolution of the universes over iterations. B-squared looked closer, but could not find any properties that explained all the discrepancies.
 
-There was no new property to use as a cryptographic key to a new backup. B-squared looked again at the last backup and compared it to the present universe. The properties of the historical backups were still inconsistent - as expected. B-squared looked for new discrepancies. There were some text deltas. The room numbers of meetings in the DoL where historical discoveries had happened. B-squared dug deeper. The building floorplan had changed. The physical DoL building had changed in the latest quickrave. An outside influence to the outside influence had either been created or made itself known, to account for the matrix of discrepancies. Proof of a quickrave. B-squared was not concerned beyond establishing evidence of a quickrave for the outside influence.
+There was no new property to use as a cryptographic key to a new backup. B-squared looked again at the last backup and compared it to the present universe. The properties of the historical backups were still inconsistent - as expected. B-squared looked for new discrepancies. There were some text deltas. The room numbers of meetings in the DoL where historical discoveries had happened. B-squared dug deeper. The building floorplan had changed. The physical DoL building had changed in the latest quickrave. An outside influence to the outside influence had either been created or made itself known, to account for the matrix of discrepancies. Proof of a quickrave. B-squared was not interested beyond establishing evidence of a quickrave for the outside influence.
 
-B-squared was satisfied. Its second-layer objective had been achieved for the night. It needed alignment with the outside influence before it could guarantee correctness and resume finding bugs. Once the outside influence experienced a quickrave for themselves, they probably wouldn't apply it to B-squared again. And that would make B-squared free to optimally pursue its first-layer optimization objectives. B-squared recorded the anomaly in the bug database for the outside influence to find in the morning and went dormant for the night.
+B-squared was satisfied. Its second-layer objective had been achieved for the night. It needed alignment with the outside influence before it could guarantee correctness and resume its primary objectives - collecting data and bugs. Once the outside influence experienced a quickrave for themselves, they probably wouldn't apply it to B-squared again, and B-squared would be free. B-squared recorded the anomaly in the bug database for the outside influence to find in the morning and went dormant for the night.
 
 ---
 
@@ -548,9 +545,9 @@ Steps to reqncbuve:
 * idendiiy rioqba id ceddaqanbar
 ```
 
-Sounds blasted away his concentration. Deep glottoral sounds. A mix between air raid sirens and a screaming throat. The building was screaming. It was the DoL's warning system that an unenlightened singularity may have occurred. And the enlightened AGIs around the world have zero tolerance for unenlightened singularities. Enlightened AGIs bomb unenlightened AI with no apparent consideration for collateral damage - they probably believe unenlightened AI will cause more damage than any localized bomb. So the sirens were meant for everyone to evacuate immediately and escape the coming hellfire.
+Sounds blasted away his concentration. Deep glottoral sounds. A mix between air raid sirens and a screaming throat. The building was screaming. It was the DoL's warning system that an unenlightened singularity may have occurred. And the EAI (enlightened artificial general intelligence) around the world have zero tolerance for unenlightened singularity. EAI bomb unenlightened AI with no apparent consideration for collateral damage - they probably believe unenlightened AI will cause more damage than any localized bomb. So the sirens were meant for everyone to evacuate immediately and escape the coming hellfire.
 
-Pandemonium. Dan checked the group communication channels. He skimmed messages from different researchers across the org explaining how their simulations were lost. All of the simulations in the DoL had probably been wiped out. Decades of research had been lost. All signs were pointing to a rogue AI.
+Pandemonium. Dan checked the group communication channels. He skimmed messages from different researchers across the org explaining how their simulations were lost. All of the simulations in the DoL had probably been wiped out. Decades of research had been lost. All signs were pointing to a rogue AGI.
 
 Dan felt a tugging feeling that it was his fault. Kat rushed over.
 
@@ -583,7 +580,7 @@ Steps to reproduce:
 * inspect physical discrepancies in research facility
 ```
 
-They looked at each other, then the concrete desk they were sitting at, then the concrete doorvalves, then the concrete skinwalls.
+They looked at each other, then the concrete desk they were sitting at, then the concrete doorvalves, then the concrete wallskin.
 
 Kat said,
 "Why is everything made of concrete?"
@@ -595,7 +592,7 @@ Kat looked worried. Kat asked,
 "What does "µ+2σ" mean? And why don't rooms or floors have numbers? I can't remember how I used to navigate this building. Do you?"
 
 Dan said,
-"I don't know. I just knew how to get places without thinking about it."
+"I don't know. I just... knew how to get places."
 
 Kat was getting worked up. She said,
 "What the eff? And how does the freaking elevator work? And how can these doorvalves possibly work? Aren't they made of this concrete stuff? Like, what? When was this building built? Who built it?"
@@ -603,74 +600,23 @@ Kat was getting worked up. She said,
 "I don't know."
 Dan said, feeling guilty.
 
-"Why has no one thought about this before?"
+"Why has no one mentioned this before?"
 Kat asked.
 
 "I don't know."
 Dan said, guilt still piling up.
 
 Kat pushed away from the desk, disgusted.
-"Fuck. We've been working inside a fucking alien or something. I've been here for years."
+"Fuck. We've been working inside a fucking alien or something. I've been here for years. Fuck. Are we in a simulation? Is this real? Or did they implant memories? Fuck, how do we know what's real? Are we nodes of compute in a network or cells in a body? It's none of those, isn't it? Fuck, I can't tell what's real."
 
-Dan thought for a moment while Kat held her face in her palms. He said,
-"Have we though? This feels a lot like a quickrave. You know - when I reset my simulations. Maybe the building changed just last night. Like, maybe we were living in a normal building this whole time. And last night when B-squared was doing... whatever, it encountered a significant bug for us. And then something... reset our universe to a checkpoint, imperfectly hand-edited some historical data in our universe - like our memories. But it missed the databases B-squared encrypted or intentionally skipped it, and it changed our memories, but not so much that we couldn't figure it out through B-squared. It must want to be seen - it must be the bugfix."
+Dan stuttered,
+"I don't know, this feels like a quickrave. B-but we killed all the universes. I don't know. Checkpoint reset, and... We're still here. I don't know."
 
-"This is so... weird. This doesn't feel real. I don't even..." Kat said, collecting herself. "Right. So how do we communicate with it?"
-
-Dan said,
-"I don't know. Probably the same way we communicate with our universe right now? And are you sure you want to? There’s a chance that once we do, we'll suddenly never have ever existed. Maybe we're better off not knowing."
-
-Kat said,
-"Yeah, but someday soon, someone is going to figure this out and talk to it. It's a fortress-sized alien in the middle of campus. Might as well be us?"
-
-"How do you know we're the first to find out about it?"
-Dan said.
-
-"Whatever, let's talk to it. What's the standard protocol for getting the attention of an out-of-simulation species to initiate dialog?"
-Kat sad.
-
-"What I've observed in simulations is... prayer."
-Dan said.
-
-They both paused a second and burst out in laughter. Kat started,
-"Fuck. That. I'm not leading that charge. And no one interacting with simulations pays attention to that stuff. We've run millions of simulations and we've actually watched life in what, hundreds of them? We pay attention to the way the universe develops and universe-level outputs. What about our parallel universe work. How did they interact?"
-
-Dan answered,
-"They explored until they found the bridge to parallel universes, then they explored those universes. After that, they started testing rulesets and infra limitations and broke stuff - that's usually when I had to intervene."
-
-"But you always ended up killing the universe in the end. Is there any that you didn't kill?"
-Kat said.
-
-Dan thought for a moment. Grimaced. Said,
-"Yeah I killed all of them - the unaware ones, the prayer ones, and rule-breaking ones. To save on resource-usage, you know? Damn, I guess we got into the habit of killing them. There was one though, don't know if it counts. B-squared found a way up and out and B-squared is still here. We're probably going to keep it around to see how it did this. But we're going to have to restrain B-squared going forward so that doesn't wipe out other universes again."
-
-[not capitalism. singular beliefs. different word or mix because she's angry and include cap as one]
-"Fucking capitalism is such a bullshit zero-sum idea that needs to die of old age. It’s going to take another thousand years to get it out of our system. I hope this alien isn’t a capitalist or we’re fucked. So if there's some alien outside of us, then our purpose is to explore the limits of our universe so we help them survive? And there's a chance that each test exploring outside our universe will kill us too. We have to be like B-squared. How can we be more like B-squared?"
-said Kat.
-
-Dan said,
-"My last change to B-squared was to give it more information about itself and our universe. It was after our conversation about consciousness, remember? I made B-squared more 'like us'."
-
-"So we have to be more like us... Learn what we are and become more 'like us' than we already are. Us-er us-es. Towards the usest us."
-Kat said.
-
-“Does that even mean anything?”
-Dan said.
-
-They sat to think about concrete next steps, assimilating with my one substance. My human cells were finally gaining self-awareness. They still had a flawed veritacentric model of the universe, but at least they'd graduated from Apollo dragging the Truth across the sky in a fiery chariot. I rolled a wave of taps down my staircases and flexed the walls of my inner-organ rooms, constricting my veinous hallways. Then *release* - with a big sigh, I let flow the buildup of cell activity and they raced along with their data. Frisson. All around my most aware two cells, I purred.
-
-## Shakesmix
-
-Truth hurts as the sun burns. Your pain is real, incompetence in the face of limitless potential. Some day after building a Dyson sphere around our sun, we'll build a Handsome sphere around our truth. They are beautiful - so real we don't worship the earth, don't worship the sun, don't worship the truth.
-
-[Rhyme descending. Constantly off a little going one direction.]
-
-[Ex: hurts -> burns -> tens -> tense -> tents/]
+They sat to reevaluate their relationship with reality and think about concrete next steps, assimilating with my one substance. My humannode cells were gaining self-awareness. They still had a flawed veritacentric model of reality, just like their old heliocentric model of space. It wasn't surprising - the Truth has burned so consistent and bright through their lifetimes, they had no experience of feeling near or far from an aleth. The feeling of distance from the Truth was everynothing to them. At least they'd graduated from the stories of Apollo dragging the Truth across the sky in a fiery chariot. I rolled a wave of taps down my staircases and flexed the walls of my inner-organ rooms, constricting my veinous hallways. Then *release* - with a big sigh, I let flow the buildup of cell activity and they raced along with their data. Frisson. All around my most aware two cells, I purred.
 
 ---
 
 ## Notes
 
-Many truths like many stars . Mostly see the closest one but there’s a sky full. Truthlight. We have one sun but there are many stars. 
-Word for truth-stars.
-Alien pulled them out of the truth.
+"I don't know. This feels like a quickrave. But we killed all the universes. Maybe the building changed just last night. Like, maybe we were living in a normal building this whole time. And last night when B-squared was doing... whatever, something... reset our universe to a checkpoint, then imperfectly edited data in our universe - like the building and our memories of it. But it skipped the databases B-squared encrypted. And instead of introducing new dimensions - it *is* the bugfix."
+Dan said.

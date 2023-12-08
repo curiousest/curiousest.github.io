@@ -238,6 +238,7 @@ She was used to patients questioning her authority, especially when hearing thin
 
 She changed her tone to be supportive again,
 "It's ok Dan. Look, you came here. Let's get on with why you're here. It's time to change you to be the way you want to be. Right now is a special time. Your beliefs are going to change and grow, and you'll be able to see them: the old ones and the silhouette of the new ones. Very quickly, though, you'll forget. You will forget what it feels like to believe your old ones. You will forget that you have any beliefs at all. So if you want to remember, store those thoughts and feelings outside of your brain, because it's designed to forget those things - it wouldn't work properly otherwise. We're going to grow a beautiful garden of beliefs inside of you."
+[french vs English schools of gardening]
 
 Dan became a bit calmer, still had some fight left. He said,
 "I think you're going to have to change something other than my beliefs. I don't see how this one can be false. Nothing matters. Maybe you can wash my brain and make me forget the past day. That could work."

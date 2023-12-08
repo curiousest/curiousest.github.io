@@ -14,6 +14,8 @@ Elidad stared out the window at the mountains, looking for any trace of the EAI.
 
 EAI. The "Enlightened Artificial General Intelligences", "EAGIs", or "good eggs". Instead of using traditional emotions and the laws of robotics, AI scientists bred and trained good eggs with a new set of emotions. A new set of optimization objectives. Carbon-based life forms seem to land on a local optima of 6-20 emotions like pleasure and fear. Whereas the good eggs were bred for global optima given our new global understanding - emotions modelled after properties of worthy ideas: OOMy, Zealot, Blindeaf, Waterfall, Censure, Erudite, Razor, Bloom, and Tunity. They were made naïve-enough to live and wise enough to not die.
 
+[they fundamentally changed everything. But given new fundamentals, they fundamentally changed nothing. Some people couldn’t fathom how life had gone before them, and some people wondered if they were even really there]
+
 Back home in London, Elidad was in financial services working in close contact with a good egg who operated in her industry - "The World Banker". The Banker was an EAI who volunteered to assist humans to optimise the financial sectors of human civilization. Like an anthropological researcher of the primitive world of human finance. The Banker, like any other EAI, could be virtually everywhere all at once from a human perspective. The Banker only controlled what humans collectively asked her to control, advised when humans asked. Human matters seemed both trivial and fascinating to the Banker. She loved our inspiring naivety. So much space left on the wisdom curve limit function (self awareness as purpose precariously approaches nothing).
 
 After working as a well-paid slave for almost ten years, Elidad was beginning to piece together the cracks in society as she saw it. She contemplated grandiose ideas. She tried discussing them with her colleagues. She received confused blank stares. Like she was either spewing heretical conspirital ideas, or she was trying too hard to sound smart and putting down others. It was neither - she had so many thoughts and questions but didn't know who to talk to. Didn't have the words to talk about it. Surely there were others out there who wanted to know how it all worked, but she didn't know that she needed them, never mind that she didn't know how to find them. She didn't know what she didn't know. So she reached out to the closest all-knowing resource within reach - she spoke with The Bank.
@@ -47,7 +49,7 @@ I am not a machine.
 "What story could turn secularism from an ideology into a religion?"
 The good egg responded with a cryptic parable, manifesting as text on a surface Elidad was engaged on. Elidad's head tilted back and eyes opened wide with inspiration. 
 
-## I will worship you
+## Generate my religion
 
 A young Lion boasted to a Donkey,
 "Do you see how great I am?"
@@ -152,6 +154,8 @@ Everything you say stems from your belief system and the current state of the wo
 "So what happens if you ask them a question in plain language?"
 
 "Sometimes they answer the question and sometimes they complain about your lack of culture. Either way it's an allegory, so you don't really know what they meant. It's easier to play along with their culture. I hope you have stories up your sleeve."
+
+"Well actually, we don't even know whether Pokemon are a good analogy, it's just what we've got for now. EAI are so far beyond our understanding that what they have may nott even be regarded as 'intelligence'. They might be working with another genre of complexity which 'intelligence' doesn't accurately capture. They might be so intelligent that 'intelligence' no longer really means much to them. Just like humans are made of so many cells that counting them is meaningless - while for very small organisms, the number of cells they have matters quite a lot."
 
 They went to sleep.
 
@@ -379,16 +383,16 @@ said the man.
 
 The AI quiz photobooth printed out a picture of the man. The man took the photo. At the bottom the picture was the text.
 > You believe in:
-> The AI quiz phonebooth.
+> The AI quiz photobooth.
 
-The man look at the photograph in disgust and ripped it up. He stayed in the booth and waited out the concluding music. He paid again, and before the AI quiz phonebooth could ask any questions, he asked,
+The man looked at the photograph in disgust and ripped it up. He stayed in the booth and waited out the concluding music. He paid again, and before the AI quiz photobooth could ask any questions, he asked,
 
 "Can you show me what you see when you look at me?"
 
 The screen in front of him came alive. A live feed of his beliefs. He saw his beliefs, changing in real time. A fractal-branch, growing on top of a mix of nothing and itself. He didn't know what to think. He said,
 "Ok please stop now."
 
-The visualizations stopped. The AI quiz phonebooth asked,
+The visualizations stopped. The AI quiz photobooth asked,
 "What do you believe in?"
 And the text bounced around in front of the man once again.
 
@@ -397,9 +401,9 @@ said the man.
 
 The AI quiz photobooth printed out a picture of the man. The man took the photo. At the bottom the picture was the text.
 > You believe in:
-> The beliefs of the tool you used to inspect your beliefs - whatever the AI quiz phonebooth believes in.
+> The beliefs of the tool you used to inspect your beliefs - whatever the AI quiz photobooth believes in.
 
-The angry man tore up the photo, tore open the curtains. He kicked the booth, which damaged his foot more than the booth, making him even angrier. He looked around and saw it was plugged in to an electrical outlet. He pushed the booth away from the wall it was plugged in to. He pulled out the plug from the wall, powering off the booth. When he put the plug down, he saw a plaque on the booth near the plug entrypoint. He bent down to look closer. It said,
+The man felt confused and manipulated and it made him angry. The angry man tore up the photo, tore open the curtains. He kicked the booth, which damaged his foot more than the booth, making him even angrier. He looked around and saw it was plugged in to an electrical outlet. He pushed the booth away from the wall it was plugged in to. He pulled out the plug from the wall, powering off the booth. When he put the plug down, he saw a plaque on the booth near the plug entrypoint. He bent down to look closer. It said,
 
 > For maintenance or defects, contact *Epistastrology Machines Ltd.*
 > To run the “belief” model, plug the booth in.
@@ -418,7 +422,7 @@ The AIs began a performance. A cacaphony. Their sensors didn't really correspond
 
 Finally, they provided their first answer. The AI projected visualized text for Eli and Annie.
 
-## Rise up from me
+## Evolve my species
 
 Once upon a time, a butterfly egg hatched on a tree. A small caterpillar emerged. On this one tree, it ate and ate until it grew one hundred times as big as it once was. It found a leaf on the tree to cocoon. It liked cocooning. The caterpillar began to change. There were parts of the caterpillar that became the protective cocoon and there were other parts of the caterpillar that began changing into a butterfly.
 
@@ -459,9 +463,9 @@ I have just one question to the EAI. I want to know the consequences of this ide
 
 Eli scribbled out her next story.
 
-## Be me for me
+## Spawn my systems
 
-There once was a little robot AI who visited the land of vehicles for its first time. It wanted to observe the system of vehicles it had never been around before. The little robot AI walked to an intersection of two paths where many vehicles were in operation and watched. And watched.
+There once was a little robot AI who visited the land of vehicles. It had never seen the system of vehicles before. The little robot AI walked to an intersection of two paths where many vehicles were in operation and watched. And watched.
 
 The little robot AI saw a smaller vehicle turn to follow a different path. There was an immense, "crash!". A larger vehicle smashed head-on into the smaller vehicle's driver door. The smaller vehicle was decimated.
 
@@ -491,7 +495,7 @@ I can't handle this altitude, I'm delirious. Whatever they say, I'm down to go b
 
 The EAI projected their answer.
 
-## Inspire my culture
+## Parameterize my purpose
 
 A wolf, a bear, and a hare lived on an island. Across the body of water lay another land. The three animals dreamed of what wonder could be found there.
 

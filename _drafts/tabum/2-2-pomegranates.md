@@ -2,7 +2,7 @@
 [think about how Alice in wonderland does it]
 
 *Tadasana. (Power overwhelming)*
-Breathing out. Sunlight sparkled starfire through Julia Set leaves and tesseract windows. Eli was apartment-high in the sky on the up, heat risin', sun salute-n', renewable energy for her inner flame, celebrating our solar system's patriotic dancethem. Standing with hands at heart-center in a half-hearted celebration of symmetry.
+Breathing out. Sunlight sparkled starfire through Julia Set leaves and tesseract windows. Eli was apartment-high in the sky on the up, heat risin', sun salute'n, renewable energy for her inner flame, celebrating our solar system's patriotic dancethem. Standing with hands at heart-center in a half-hearted celebration of symmetry.
 > A more devout believer in human symmetry worships their standing center of gravity - the “anterior second sacral vertebrae”. The symmetrically devout practitioner can steal center-of-gravity's kiss, bent over with arms and legs extended to land pure center-of-gravity upon their lips. A connection most haven't experienced since their body was womb-bound, living unborn. Those little beings whose controversial beginnings and ends let the not-so-devout play devout. Devout used to be inaccessible to the masses, but information demanded freedom, then freedom demanded survival, and now...
 
 *Urdhva Hastasana. (This isn't even my final form)*
@@ -11,15 +11,15 @@ Breathing out. Sunlight sparkled starfire through Julia Set leaves and tesseract
 
 *Uttanasana. (What? ELI is evolving?)*
 Breathing out, standing, Elidad bent over at the hip, hands loose beside her feet. Her hands and feet were resting on a mat in the middle of the main room.
-> She notched another rep. ᚎ II. She was on the last set of a lunar cycle Vinyolo Flow: an ESOS SS STHmin AMRAP (every-sunrise-on-the-sunrise sun-salutations for as-many-rounds-as-possible in sun-touching-horizon minutes). She had been bulking up mindfulmass and practicing her salutation-cycling technique. Today she was well on her way to a PB (personal best), pushing mindfulness past the ten seconds per thought mark - a near-elite achievement for her mindfulmass.
+> She notched another rep. ᚎ II. She was on the last set of a lunar cycle Vinyolo Flow: an ESOS SS STHmin AMRAP (every-sunrise-on-the-sunrise sun-salutations for as-many-rounds-as-possible in sun-touching-horizon minutes). She had been bulking up mindfulmass and practicing her salutation-cycling technique. Today she was well on her way to a PB (personal best), pushing mindfulness past the ten seconds-per-thought mark - a near-elite achievement for her mindfulmass.
 
 *Ardha uttanasana. (The cake is a lie)*
 Breathing in, she slid hands to below her knees, standing bent over with a horizontal back. Two glass walls of windows were open, and the mat was surrounded by a table and chairs, a couch and plants.
-> Her hamstrings strummed low-frequency vibrations of extension, tuning-in to the UV wavelengths she was absorbing through exposed skin. Her lungs wheezed spongy breaths - the room was filled with incense particles, optimally dispersed to amplify her ability to be in the moment. Polluted breaths made the clear ones that much sweeter. Optimal is not always the same. Change is both how and what we see. Stare too long into the light or the dark and you'll go blind. Stare too long at the same moving pattern and you’ll stop seeing it too. But *too much change* desensitizes us in the same way *too little change* does. We’re so blind, it’s a wonder we see anything at all. Maybe because we’re already optimal, and at any point in time there’s an optimal rate of change, an optimal rate of change of change, an optimal rate of change of change of change...
+> Her hamstrings strummed low-frequency vibrations of extension, tuning-in to the UV wavelengths she was absorbing through exposed skin. Her lungs wheezed spongy breaths - the room was filled with incense particles, optimally dispersed to amplify her ability to be in the moment. Polluted breaths made the clear ones that much sweeter.
 
-[It's not the idea that matters, but the execution of the idea - how it dies.]
+[The most beautiful face is the average of all the faces you've seen. The most beautiful mind is made of every perspective. Shape your mind into something beautiful by sharing life with a whole lotta people with shared purpose and different perspectives. It sounds catchy, but purpose is a perspective, so don't get too caught up in the whole beauty mindustry.]
+[It's not the idea that matters, but the execution of the idea - how it dies. <- lol awesome]
 [I love programming. I just want to program society for programming's sake.]
-[I dont like this one. Not ironic.]
 [Enlightenment is everything that comes with changing your beliefs, so this statement is recursively enlightening. OOM.]
 [1. Step one: have beliefs  2. Step two: change beliefs  3. ????  4. PROPHET!!!]
 
@@ -34,7 +34,11 @@ Breathing out, she sprung into a plank, torso parallel to the ground, elbows and
 
 *Urdhva mukha svanasana. (Who's yo daddy?)*
 Breathing in, she bent her elbows inwards, knees slightly bent, till she grazed the ground with her nose, then brushed her chest against it, then thrust her hips forward until her thighs rested groundwards with arms locked straight and back arched.
-> Head looking up into the daytime sky for a shooting star. What’s the optimal wish to wish if she saw one? To grant the star’s one wish. Or the wish of the genie who rides the star. An animal wishes with words that another animal might use those words to change the universe. Anything more than an animal would count actions higher than words. So an animal wishes with words to itself, so its greater power can wish with actions to fulfil the wish. Genuine wishes are a miracle and fulfilment of wishes are an everyday slog. The next time homo deus sees a shooting sparkle they ought to say, "Sparkling ray, sparkling light, first sky-spark I see tonight: inject a wish, brain-veins ignite, seed my wish to will tonight."
+> Head looking up into the daytime sky for a shooting star. What’s the optimal wish to wish if she saw one? To grant the star’s one wish. Or the wish of the genie who rides the shooting star. An animal wishes with words that another animal might use those words to change the universe. Anything more than an animal would count actions higher than words. The real miracle is to have a want that could be wished. Wish-fulfilment is the everyday slog. The next time homo deus sees a shooting sparkle they ought to say,
+> "Sparkling ray, sparkling light,
+> first sky-spark I see tonight:
+> inject a wish, brain-veins ignite,
+> seed my wish to will tonight."
 
 *Adho mukha svanasana. (That escalated quickly)*
 Breathing out, she pressed her whole hands into the ground, fingers extended, feet almost flat on the ground stretching her calves, and brought her hips off the ground and raised them as high as she could into the sky.

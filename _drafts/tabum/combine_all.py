@@ -1,8 +1,10 @@
 import datetime
+import pypandoc
 
 base = open("0-minimum-viable-purpose.md", "r")
 
-mvp = open(f"outputs/output-{datetime.date.today()}.md", "w")
+file_name = f"outputs/output-{datetime.date.today()}.md"
+mvp = open(file_name, "w")
 
 def combine(f):
     for line in f.readlines():
@@ -16,6 +18,7 @@ def combine(f):
             mvp.write(line)
 
 combine(base)
+pypandoc.convert_file(file_name, 'docx', outputfile=file_name.replace(".md", ".docx"))
 
 base.close()
 mvp.close()

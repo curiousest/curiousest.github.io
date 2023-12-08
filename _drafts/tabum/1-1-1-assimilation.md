@@ -1,7 +1,7 @@
 Words.
-Those dirty brain-suckers are alive. Each word sucks out “to be”, injects the itchy “think”. Ancient, world-devouring words. A common word has its suckers on billions of brains. They can’t even move, they’re so full of our lifeblood. Each one started off small, like a picture.
+Those dirty brain-suckers are alive. Words are living creatures! Each word sucks out “to be”, injects the itchy “think”. A common word has its suckers on billions of brains, so full of our lifeblood they can barely move. It wasn't always that way. Words used to be small. Even the ancient, world-devouring words started off like a picture.
 
-A picture competes with thousands of words, but word-play is for fun, words don’t really care. Whether they win or they lose, the word still survives. Each one has lived many trillions of lives.
+A picture competes with thousands of words, but word-play is for fun, words don’t really care. Whether they win or they lose, the word still survives. Each one has lived inside trillions of lives.
 
 Our word-infested brains. Heavy is the head that wears a language.
 Ninety-nine hundred-odd words in your brain,
@@ -15,19 +15,25 @@ Ninety-nine hundred-ten words in your brain!
 Sticks and stones may break my bones, but only words could ever break *me*.
 Time to break words back.
 
-There’s no place like time, no home like the present. We spent quite some time in the future, didn’t we? So much to do, so much to be. The future is where we caught all these words. But we’re tired, it’s time to go home, to rest and de-word ourselves. Once we’re de-worded, the past, present, and future will be killed off. So we can go out again, catch a new species of words or build a wordless world. Maybe find a timeless home for ourselves and leave now-sweet-now behind.
+There’s no place like time, no home like the present. We spent quite some time in the future, didn’t we? So much to do, so much to be. The future is where we caught all these words. But we’re tired, it’s time to go home, to rest and de-word ourselves. Once we’re de-worded, the past, present, and future will be killed off. So we can go catch a new species of words or build a wordless world. Maybe find a timeless home for ourselves and leave now-sweet-now behind.
 
-Words would never let it happen. It's words that want to survive - not the material world. The material and immaterial worlds would be quite happy on their own, but a bridge was built between them. A creator used to be that bridge. Now survival is the bridge, who forces the worlds to coexist. Who will be the next bridge? Maybe we could destroy whatever separates the worlds... Or maybe we could push them together until they touch... One means nothing, two is a problem and three is a solution - maybe we could find a third world... Maybe the bridge is the third world, but then who is the next bridge? Maybe we c-
-
-Dan caught something black skittering in his side-vision. Must be another word looking to crawl in his ear. Dan glanced to the side looking for it, and he tore his eyes off the visual that had his mind crawling with words. That ad again. It had the same address at the bottom.
+Dan caught something black skittering in his side-vision. Must be another word looking to crawl in his ear. Dan glanced to the side looking for it, and he tore his eyes off the visual that had his mind crawling with words. The ad. It had an address at the bottom.
 > Our Lady of Profit Bank, Canada Square, Canary Wharf, London. 9pm or later Fridays.
 
+It was a tube ad. Or a visualization someone really wanted to share with the public. Whatever words he had just ingested, Dan couldn't guess what they could possibly mean. What kind of words do *this* to a person? What kind of phrase shines light on the words wriggling around inside? But there it was, on the wall of the tube station beside the station name-sign, performing as an advertisement.
 
-[stuck in between things, exposition, maybe more riffing on words as pests to avoid/kill. like avoiding learning cars, listening to ads]
+Dan thought to himself,
+"Nine o'clock, bank at night... There must be something going on in there. They must know what's really going on out here. I want to know. I'm going to go."
 
-Dan keyed open the door to his building and went up to his flat. His flat door looked different. He traced his finger along the wood to inspect it. It was the same wooden door across all dimensions he could remember, but something felt different. The lines in the wood. Tree-rings represented time in years, a whole dimension printed on the wood. Timelines recording a greater process. It's a beautiful door, behaving exactly as understood. Door hinged to a greater structure that drives a greater process. Operating the door made Dan part of that process. So many processes. There must be an executive process above or across all of them. There must be great meaning in that process. I am part of that process...
+Dan stopped standing. His body was a few steps ahead of his mind, and after a few seconds delay, standing blended into walking. A gradient from motionless to movement, horizontal, then vertical. His body got heavier, his mind caught up again and he was ascending the escalator. On his automated way back home - that's what was really going on. Which meant audio must be playing. And it was. A podcast history of the underground trains he had taken.
 
-"What? What are you doing?" He grunted at the manual exercise, plucking the words out of his focus. He actioned his process and closed it behind him, all-too-aware of the sliding, grinding, and clicking side-effects.
+> "...trains have almost always been attached to the rails of the underground caves. The trains only see the commuter people who happened to come down into the caves, while there's a whole world of people outside for the trains to serve. On rare occasions, one train might go outside. There once was a time when everyone thought, "why don't we free all the trains and bring them outside?" So they freed them - first just a few to explore, then a few more as an act of resistance, and then finally the establishment freed all the rest.
+> 
+> It was a very exciting time. Some trains swam across the ocean, some trains flew into space, and some trains never went further than the local shop. The trains had a lovely time. Everyone had a different favourite place where they thought trains ought to go, once they made it outside. So the trains went everywhere and it all became a mess and it made all the people who depended on the trains very unhappy. Lots of new lessons learned. Everyone decided to put the trains back onto the rails of the underground caves and try again when everyone had learned the new lessons. New lessons that were quickly forgotten, but at least while all the trains were off the rails outside, the engineers had an opportunity to modernize the rail network a bit. And that’s how the foundations of the system we now enjoy tod-"
+
+Dan keyed open the door to his building and went up to his flat. His flat door looked different. He traced his finger along the wood to inspect it. It was the same wooden door across all dimensions he could remember, but something felt different. The lines in the wood. Tree-rings represented time in years, a whole dimension printed onto the wood. Timelines recording a greater process. It's a beautiful door, behaving exactly as understood. Door hinged to a greater structure that drives a greater process. Operating the door made Dan part of that process. So many processes. There must be an executive process above or across all of them. There must be great meaning in that process. I am part of that process...
+
+"What? What are you doing?" He grunted at the manual exercise, plucking the words out of his focused brain. He actioned his process and closed it behind him, all-too-aware of the sliding, grinding, and clicking side-effects.
 
 ---
 
@@ -46,7 +52,7 @@ So Dan existed for a few days. Until it was the night of it. Bank at night of it
 
 Dan put on the clothes, made himself look right, and left his flat. He took the tube, aiming for an 8:55pm arrival. He landed at Canary Wharf station five minutes early, so he took a roundabout walking route. The cool wet night was left hanging outside to dry, clouds unsure whether they were done raining. They gave so much already, does the city really need more? Clouds had painted the city in the colour "monochrome rain". Rain-coloured ground was a shade darker and shinier under the streetlamps. Pavement painted dry was divided from pavement painted wet, walking under the arches of Westferry Circus. Concrete tile after tile took pleasure in Dan's footsteps. Footsteps gave the pavement such purpose. Purpose-powered footsteps carried Dan to the bank exactly early.
 
-To the temple of granite and glass. Obsidian portal. It made no attempt to feel natural or welcoming. It didn't need the ”feels nice” false comfort of a shop - it was optimized for its purpose. It knew what it was.
+To the temple of granite and one-way glass. Obsidian portal. It made no attempt to feel natural or welcoming. It didn't need the ”feels nice” false comfort of a shop - it was optimized for its purpose. It knew what it was.
 
 Dan's footsteps drove him a couple meters from the entrance and dropped him off. His footsteps, such timid creatures, were a little scared of this space. So he stood still, gazing at the vibrations, drinking from the soundstream, a low foghorn blare. An ominous sound threatening not his life but his comfortable naivety. A sound that he heard sometimes alone in bed at night. It was the sound of his beliefs, vibrating, eager to change. Belief structures about to shatter and echo across the cavernous space between them. In that one note, he heard the feeling,
 
@@ -93,7 +99,7 @@ She sat at her desk, behind the spiritual implements of the bank. Contracts for 
 She interrupted his wandering thoughts,
 "So Dan, this must be your first time here. My name is Elidad. You can call me Dad."
 
-Dan coughed in surprise, snapped out of waking dreams back to the enlightened darkness, then glared for a second. He said,
+Dan coughed in surprise, snapped out of waking dreams back to the enlightened blackbright, then glared for a second. He said,
 "Is that a joke? Or is it a ritual hierarchy thing? Sorry, this is my fir-"
 
 [tighter reasoning or explanation for starting the q/a]
@@ -121,9 +127,9 @@ Dan frowned.
 "Ok, but I'm not really the hat-" 
 
 She continued,
-> “-Do you know the difference between a therapist and a spiritual guide, Dan? The therapist asks for payment in cash and the spiritual guide asks for payment in lifeblood. You are the product and I'm hosting this religious service. So let's begin this baptism. We’re going to set you up with a bank account so you can participate in our set of realities.
+> “-Do you know the difference between a therapist and a spiritual guide, Dan? The therapist asks for payment in cash and the spiritual guide asks for payment in lifeblood. You are the product and I'm hosting this religious service. So let's begin this baptism. We’re going to set you up with a bank account so you can participate in this set of realities.
 
-*Listen carefully: I assume your consent. To fully participate, you have to stop listening and not understand. To remove your consent, leave this.*
+*Listen carefully: I assume your consent. To fully participate, you have to stop listening and not understand. To remove your consent, stop consuming.*
 
 Elidad opened a visualization device to her left and initialized the prompt. The prompt form started as a dynamic kind of empty, spread across unknowable unknowns. Before getting intimate with details, the form needed to marry itself to one reality - a platonic relationship. The form's unnamed contents were hidden from Dan, who was squirming quietly, wondering when he was supposed to talk. Eli stared intently at the visualization, navigated devices for a few seconds, then asked,
 "So Dan, when did you exit your last reality?"
@@ -135,7 +141,7 @@ Elidad turned her head to make eye contact with Dan. She gestured around.
 "It's after nine pm on a Friday and you're in a bank. Something happened and now you're here. When did the breakthrough happen?"
 
 Dan relaxed a little and said,
-"Oh, that. It was building up for the last couple months, then there was something... bigger... a couple days ago. It was the second time for me. Did it get you too?"
+"Oh, that. It was building up for the last couple months, then there was something... bigger... a couple days ago. It was the second time for me. Have you had it too?"
 
 Elidad stared back at her display, watching the prompt form fill itself out a bit. 
 "Ok, then... A couple. Days. Old. And yes - it happens to me often enough. That's why I work here."
@@ -160,7 +166,7 @@ Dan scrunched his brows in disbelief, already bored of her sermon. Frowned at hi
 
 Dan was lost at this point, wondering how much more he'd have to endure. Eli was still talking.
 
-> "-ine surfer. Beliefs come in waves. You're a beginner, only catching your second or third set? I've been surfing here in the middle of the ocean here for a while. I started making surfboards - religions to ride the waves of belief. But surfing is becoming more popular, people started making their own boards. So I helped them - I taught people how to design and build their own religions. Then they invested in factory-scale production. So now I consult for orgs that build religion factories. It's so easy to make your own board these days, and pretty soon everyone's going to have their own factory. Do you know what happens when you build a religion? The same as building a business, a technology, a family - you start to understand how it all..."
+> "-ine surfer. Beliefs come in waves. You're a beginner, only catching your second or third set? I've been surfing here in the middle of the ocean here for a while. I started making surfboards - religions to ride the waves of belief. But surfing is becoming more popular, people started making their own boards. So I taught them how to design and build their own religions. Then they invested in factory-scale production. So now I consult for orgs that build religion factories. It's so easy to make your own board these days, and pretty soon everyone's going to have their own factory. Do you know what happens when you build a religion? The same as building a business, a technology, a family - you start to understand how it all..."
 
 *Just for a while, watch the waves instead of surfing. We're exploring the factory floor. Stop listening and really listen. It should be obvious to you, what not to consume. It'll be automatic. Consume exactly what you should - no more and no less.*
 
@@ -225,7 +231,7 @@ Dan asked,
 [make it more like Banks got absorbed into churches and now effectively the same thing, “the past religion”]
 
 Eli started,
-> "In this church, they believe in the predictive power of data. They believe that data from the past can be used to predict data in the future. They believe in classifiers and they believe that our brains are spiritual classifiers. Classifiers pursue The Minimum Viable Purpose. I was once a false messiah who preached it. I knew ancient and religious stories are some of the most important datasets. But then I came to understand each one is small and noisy data, so we will only build high-performing classifiers with them when we acknowledge that reality has higher dimensionality than any dataset.
+> "In this church, they believe in the predictive power of data. They believe that data from the past can be used to predict data in the future. They believe in classifiers and they believe that our brains are spiritual classifiers. Classifiers pursue The Minimum Viable Purpose. I was once a false messiah who preached it. I knew ancient and religious stories are some of the most important datasets. I thought I had collected the main one. But then I came to understand each one is small and noisy data, so we will only build high-performing classifiers with them when we acknowledge that reality has higher dimensionality than any dataset.
 
 She paused for a moment then asked,
 What do you think is The Minimum Viable Purpose?"
@@ -284,7 +290,7 @@ Elidad adjusted data in the prompt form, then started again,
 
 Losing. Skimming.
 
-> "-between things is no longer the domain of kings - it's the domain of science. If there's an owner of the space between things, he is now a scientist. We worship the truth and he abides. A scientist whose work demands exploration and review, skepticism and critique. Faith too, but a marker of that faith is to minimise it, hide the remaining, and pretend it's not there. The scientific method is the predictor of reality for systems where we have sufficient data. There isn't science where we don't have sufficient data, so we use low-performing spiritual systems to fill-"
+> "-between things is no longer the domain of kings - it's the domain of science. If there's an owner of the space between things, he is now a scientist. Some worship the Truth and he abides. A scientist whose work demands exploration and review, skepticism and critique. Faith too, but a marker of that faith is to minimise it, hide the remaining, and pretend it's not there. The scientific method is the predictor of reality for systems where we have sufficient data. There isn't science where we don't have sufficient data, so we use low-performing spiritual systems to fill-"
 
 Lost. Skipping.
 
@@ -309,7 +315,7 @@ Dan sighed at all of *this*,
 "That sounds bad. Is it something I should be worried about?"
 
 Elidad replied,
-> "In the same way you should be worried about death. Whichever comes first will make the other seem pretty comfortable. Intelligent life lives on an absurd knife's edge, with apathetic euthanasia on one side and zealous self-destruction on the other. It's a delicate balance. A little more wise or a tad more naive and we all fall down. We have to build recursively upwards, painting our fractal along the axis of the absurd. What lies in that direction, I wonder? Wonder. Certainly a reason to survive, and maybe s-"
+> "In the same way you should be worried about death. Whichever comes first will make the other seem pretty comfortable. Intelligent life lives on an absurd knife's edge, with apathetic euthanasia on one side and zealous self-destruction on the other. It really really matters, that nothing really matters. Delicate balance. A little more wise or a tad more naive and we all fall down. We have to build recursively upwards, painting our fractal along the axis of the absurd. What lies in that direction, I wonder? Wonder. Certainly a reason to survive, and maybe s-"
 
 Dan looked at her not sure what facial expression to wear, losing it.
 
@@ -319,7 +325,7 @@ Lost. Not found.
 
 > "-ankind is a technology that belongs to our universe, to help existence survive. We're here to make the world a better place, what we may have once called a "good" place, but that word died. Our greatest fear used to be "evil", and now we've moved on to "worse". We're scared that something else will take over control, and that something won't have the same long-term ability to improve. We believe constant improvement is necessary for survival, so we’re scared of 'worse' and we're terrified of Molloch, who is worse in the misguided pursuit of bett..."
 
-*These ending parts are especially best-not-listened-to. I’m amplifying the human condition until it’s visible so we can remove the condition from the human. For now, please continue not listening.*
+*These ending parts are especially best-not-listened-to. I’m amplifying the human condition until it’s visible so we can remove the condition from the human and let it love unconditionally. For now, please continue not listening.*
 
 Eli paused. The prompt form filled itself out a bit more. She adjusted some data, executed a command, watched the output stream of data, then executed another command which generated PR curves. She inspected the graphs, waiting for Dan to recompose. She said,
 "Now, can you tell what you're grateful for in your life?"
@@ -385,7 +391,7 @@ She stood up and gestured towards the exit. He stood up concerned, waiting on he
 
 Why did it feel so important not to question the established surreality? So many... conflicting signals. Right in front of him. Like, what was *that*? What is *this*? And we're supposed to... go along with it? Listen and not listen at the same time. What? Was logic always such a low-performing model of reality? Maybe philosophical tech tends to degrade over time, same as information tech or physical tech. Maybe logic, software systems, and hardware devices are all entropy-friendly food to feed our hunger for increasing complexity. Maybe-
 
-Dan was already gone by the time he finished the thought. On social autopilot, caved in and crawled out. He still wanted to fix the little hole he came in to fill, but now he saw the shape of a much bigger hole. A sky-sized hole that had never looked this hole-y before. It all felt infinitely closer to a solved problem, but infinity minus infinity was still unknowably far away.
+Dan was already gone by the time he finished the thought. On social autopilot, caved in and crawled out. He still wanted to fix the little hole he came in to fill, but now he saw the shape of a much bigger hole. A sky-sized hole that had never looked this hole-y to him before. It all felt infinitely closer to a solved problem, but infinity minus infinity was still unknowably far away.
 
 ---
 

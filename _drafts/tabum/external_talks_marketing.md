@@ -1,9 +1,26 @@
 
 
 ---
+
+
+
 ---
 
 What is it about?
+
+The afterintelligence
+
+By the 21st century, everything was made with electricity.
+Humankind seized control over reality.
+
+By the 22nd century, everything was made with artificial intelligence.
+Reality took control back.
+
+A chatbot hosted in your mind feeds you training data: 11 sci-fi philosophy short stories and 7 AI parables. DIY religion-factories, relationships who have consciousness, a research lab that flies too close to the Truth, Fortune 500 as a post-capitalist sports league, a blockchain of every thing’s purpose, a computational definition of love, and the annihilation of every brain-sucking word crawling around inside of you. It's an assault of confusing inspiration to help you change your beliefs, then revert them all back again.
+
+Consume this dataset to be absolved of all you've been.
+
+---
 
 As AI fades into the background of day-to-day life, humans become vessels who navigate religions. Dan and Eli, a young man and woman who work in tech and finance, explore their own minds like ships once sailed uncharted waters.
 
@@ -12,11 +29,34 @@ AI will fade into the background like electricity. Everything will either run on
 
 *In this next cycle of religions and empires and technologies, will we become more or less human? Will anything even change?
 
-Science fiction philosophy. Narrator is a chatbot hosted in your mind feeding you training data. Anthology of ~15 short stories after AI has faded into the background of day-to-day life. DIY religion-factories, relationships that have consciousness, research lab that discovers generative dualism, Fortune 500 as a post-capitalist sports league, a blockchain of every thing’s purpose, and a computational definition of love.
+Science fiction philosophy. Narrator is a chatbot hosted in your mind feeding you training data. Anthology of ~15 short stories after AI has faded into the background of day-to-day life. DIY religion-factories, relationships that have consciousness, research lab that flies too close to the Truth, Fortune 500 as a post-capitalist sports league, a blockchain of every thing’s purpose, and a computational definition of love.
 
 , no longer vassals to just one
 
 It’s the story of your changing beliefs.
+
+---
+
+titles:
+Thought Basilisk Messiah
+Minimum Viable Purpose
+Messiah Complex
+What AIs Love?
+The After-Intelligence
+Welcome to the After-Intelligence
+
+---
+
+The After-Intelligence
+
+By the 21st century, everything was made with electricity. Humankind changed. What will it be like when everything is made with Artificial Intelligence?
+
+OR
+
+By the 21st century, everything was made with electricity. Humankind harnessed their new understanding of reality.
+
+By the 22nd century, everything was made with artificial intelligence. Reality harnessed humankind.
+
 
 ---
 
@@ -165,3 +205,7 @@ I dissected my soul, stuck it between two plates of glass, and traced the outlin
 —-
 
 I wanted to paint a panpsychism theology more rationally coherent than any western one, then tear up the painting and say, “Isn’t this blank canvas divine? Now it’s your turn. You try.”
+
+---
+
+The rapidly evolving popular understanding of the mind is an opportunity to re-align spirituality with the last few centuries of philosophy.

@@ -1,6 +1,6 @@
 "So you're an enlightenment douche?"
 
-"No - I mean maybe, but that's not what's wrong."
+"No. I mean maybe, but that's not what's wrong."
 
 "Well, let me play it back to you, what you just said. First, you've been having these big changes in your life’s purpose. So... repeated enlightenment, yeah?"
 
@@ -16,12 +16,12 @@
 
 "Dude... I'm sorry this is happening to you. It must be pretty overwhelming. If that was happening to me, yeah I'd be messed up too."
 
-Dan paused a moment to absorb the information and empathize with Alex. Thinking about what mentorship to provide. Dan's eyes drifted around the transparent-open office. Just about everything was see-through. Everything in the building except humans, so Dan could see all the people, on all floors above and below, float-walking about their day. A colleague standing in the kitchen six meters away caught his eye. Stephan - a Deacon of SRE, on his third coffee of the morning. Stephan was looking rough, like caffeine was today's crutch. Dan glanced at Stephan's purpose.
+Dan paused for a moment to absorb the information and empathize with Alex. Thinking about what mentorship to provide. Dan's eyes drifted around the transparent-open office. Just about everything was see-through. Everything in the building except humans, so Dan could see all the people, on all floors above and below, float-walking about their day. A colleague standing in the kitchen six meters away caught his eye. Stephan - a Deacon of SRE, on his third coffee of the morning. Stephan was looking rough, like caffeine was today's crutch. Dan glanced at Stephan's purpose.
 
 ```
 Purpose of Stephan (from Dan's perspective):
 
-past minute: "Consume caffiene." (0.9 confidence)
+past minute: "Consume caffeine." (0.9 confidence)
 past hour: "Debug faulty system." (0.8)
 past day: "Party." (0.4)
 past week: 
@@ -34,7 +34,7 @@ lifetime: "Individual survive." (0.8)
 
 Stephan glanced at a notification, saw that Dan had observed his purpose, rendered from Dan's perspective. Stephan looked over through walls at Dan and Alex huddled in a booth, gestured devils horns with right-hand index and pinky fingers pointed up and stuck his tongue out. Dan started to chuckle, remembered he was in a serious meeting, then disguised his laugh with a cough. He switched his AR (augmented reality) eyeset to "one-on-one" mode and Stephan disappeared. Along with all the people in Poise, he was able to see through the transparent walls and ceilings and floors and doors - all of the people disappeared, made transparent too. All he could see was the ground a few stories down, the horizon, the cloud-numbed sky, and Alex float-sitting two meters in front of him.
 
-Dan had long moved on from DoL. Buildings move too slowly so he dove into the realm of dolphin logos. The exponential growth scene, where viral living orgs grow. He was ordained in Poise, a Series-B epidemic organizationism that calculates the historical purpose of every single thing known to humankind.
+Dan had long moved on from DoL. Buildings move too slowly so he dove into the realm of dolphin logos. The exponential growth scene, where viral living orgs multiply. He was ordained in Poise, a Series-B epidemic organizationism that calculates the historical purpose of every single thing known to humankind.
 > The “Poise” distributed purpose calculator used the endless public sensor data streaming from every inch of the world. Poise estimated the beliefs embedded in any thing using the observed decisions that thing made, as well as decisions that resulted from that thing’s effect on the world. Poise could derive the emergent optimization objectives (aka purpose) that thing follows from having those estimated beliefs. In effect, Poise estimated the beliefs and therefore purpose any given "thing" - everything from a pomegranate to a house or even a human. Purpose is relative, and all Poise calculations are made relative to the viewer of the purpose, as if the viewer had consumed all the public sensor data about the subject to come to their own conclusions about its purpose.
 
 Dan glanced at his own last five minutes of purpose. It read, 

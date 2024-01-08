@@ -1,35 +1,38 @@
 Words.
+
 Those dirty brain-suckers are alive. Words are living creatures! Each word sucks out “to be”, injects the itchy “think”. A common word has its suckers on billions of brains, so full of our lifeblood they can barely move. It wasn't always that way. Words used to be small. Even the ancient, world-devouring words started off like a picture.
 
 A picture competes with thousands of words, but word-play is for fun, words don’t really care. Whether they win or they lose, the word still survives. Each one has lived inside trillions of lives.
 
 Our word-infested brains. Heavy is the head that wears a language.
-Ninety-nine hundred-odd words in your brain,
-Ninety-nine hundred-odd words!
-You spit a word out,
-It crawls in your ear,
-Squish it about,
-Pop! Ten word-eggs appear…
-Ninety-nine hundred-ten words in your brain!
+
+> Ninety-nine hundred-odd words in your brain,
+> Ninety-nine hundred-odd words!
+> You spit a word out,
+> It crawls in your ear,
+> Squish it about,
+> Pop! Ten word-eggs appear…
+> Ninety-nine hundred-ten words in your brain!
 
 Sticks and stones may break my bones, but only words could ever break *me*.
 Time to break words back.
 
 There’s no place like time, no home like the present. We spent quite some time in the future, didn’t we? So much to do, so much to be. The future is where we caught all these words. But we’re tired, it’s time to go home, to rest and de-word ourselves. Once we’re de-worded, the past, present, and future will be killed off. So we can go catch a new species of words or build a wordless world. Maybe find a timeless home for ourselves and leave now-sweet-now behind.
 
-Dan caught something black skittering in his side-vision. Must be another word looking to crawl in his ear. Dan glanced to the side looking for it, and he tore his eyes off the visual that had his mind crawling with words. The ad. It had an address at the bottom.
+Dan's de-wording was disrupted by something black skittering in his side-vision. Must be another word looking to crawl in his ear. Dan glanced to the side looking for it, and he tore his eyes off the visual that had his mind crawling with words. The ad. It had an address at the bottom.
+
 > Our Lady of Profit Bank, Canada Square, Canary Wharf, London. 9pm or later Fridays.
 
-It was a tube ad. Or a visualization someone really wanted to share with the public. Whatever words he had just ingested, Dan couldn't guess what they could possibly mean. What kind of words do *this* to a person? What kind of phrase shines light on the words wriggling around inside? But there it was, on the wall of the tube station beside the station name-sign, performing as an advertisement.
+It was a tube ad. Or a visualization someone really wanted to share with the public. Whatever words he had just ingested, Dan couldn't guess what they could possibly mean. What kind of words do *this* to a person? What kind of phrases shine light on the words wriggling around inside? But there it was, on the wall of the tube station beside the station name-sign, performing as an advertisement.
 
 Dan thought to himself,
 "Nine o'clock, bank at night... There must be something going on in there. They must know what's really going on out here. I want to know. I'm going to go."
 
 Dan stopped standing. His body was a few steps ahead of his mind, and after a few seconds delay, standing blended into walking. A gradient from motionless to movement, horizontal, then vertical. His body got heavier, his mind caught up again and he was ascending the escalator. On his automated way back home - that's what was really going on. Which meant audio must be playing. And it was. A podcast history of the underground trains he had taken.
 
-> "...trains have almost always been attached to the rails of the underground caves. The trains only see the commuter people who happened to come down into the caves, while there's a whole world of people outside for the trains to serve. On rare occasions, one train might go outside. There once was a time when everyone thought, "why don't we free all the trains and bring them outside?" So they freed them - first just a few to explore, then a few more as an act of resistance, and then finally the establishment freed all the rest.
+> "...trains have almost always been on the underground rails. The trains only see the commuter people who happened to come down into the caverns, while there's a whole world of people outside for the trains to serve. On rare occasions, one train might go outside. There once was a time when everyone thought, "why don't we free all the trains and bring them outside?" So they freed them - first just a few to explore, then a few more as an act of resistance, and then finally the establishment freed all the rest.
 > 
-> It was a very exciting time. Some trains swam across the ocean, some trains flew into space, and some trains never went further than the local shop. The trains had a lovely time. Everyone had a different favourite place where they thought trains ought to go, once they made it outside. So the trains went everywhere and it all became a mess and it made all the people who depended on the trains very unhappy. Lots of new lessons learned. Everyone decided to put the trains back onto the rails of the underground caves and try again when everyone had learned the new lessons. New lessons that were quickly forgotten, but at least while all the trains were off the rails outside, the engineers had an opportunity to modernize the rail network a bit. And that’s how the foundations of the system we now enjoy tod-"
+> It was a very exciting time. Some trains swam across the ocean, some trains flew into space, and some trains never went further than the local shop. The trains had a lovely time. Everyone had a different favourite place where they thought trains ought to go, once they made it outside. So the trains went everywhere and it all became a mess and it made all the people who depended on the trains very unhappy. Lots of new lessons learned. Everyone decided to put the trains back onto the underground rails and free them again when everyone had integrated the new lessons. New lessons that were quickly forgotten, but at least while all the trains were off the rails outside, the engineers had an opportunity to modernize the rail network a bit. And that’s how the foundations of the system we now enjoy tod-"
 
 Dan keyed open the door to his building and went up to his flat. His flat door looked different. He traced his finger along the wood to inspect it. It was the same wooden door across all dimensions he could remember, but something felt different. The lines in the wood. Tree-rings represented time in years, a whole dimension printed onto the wood. Timelines recording a greater process. It's a beautiful door, behaving exactly as understood. Door hinged to a greater structure that drives a greater process. Operating the door made Dan part of that process. So many processes. There must be an executive process above or across all of them. There must be great meaning in that process. I am part of that process...
 
@@ -44,9 +47,9 @@ Dan keyed open the door to his building and went up to his flat. His flat door l
 [what gods/religions did they believe in before finance?]
 [baptised in vault, shower of currency]
 
-Dan existed for the next few days. Just like the last couple hundred days. Sleep for seven-and-a-half hours. Forty-five for shower, dress, breakfast. Work for nine with one-point-five hours of commute. That leaves five hours and fifteen minutes. Two for mindless fitness and half an hour for dinner. The last two-ish remain as empty as a teacup at the bottom of the ocean: crushed with entertainment. He was living in the future, waiting to... be someone different? Waiting for change - he was unused to staying the same for so long. What rate of change did he need to stay feeling ok? Was it a constant velocity? Acceleration? Jerk? Jounce? He knew this was the wrong way to live, but he could survive it for the short-term. A boiling-over desire for the future was an interesting change of pace. The alternative seemed to be a low-simmering... anxiety? A faceless something was missing. Pretty sure most people are missing it too. But they don't know that they don't know. Or they can ignore it. Or they find a quick fix, like Dan remembered he had found before - high-school, university, first full-time job, and now... He could ignore the tingling unknown too, but if relief is offered, why not take it?
+Dan was going to go to the bank at night. But that was a few days away. He continued to exist for the next few days. Just like the last couple hundred days. Sleep for seven-and-a-half hours. Forty-five for shower, dress, breakfast. Work for nine with one-point-five hours of commute. That leaves five hours and fifteen minutes. Two for mindless social fitness and half an hour for dinner. The last two-ish remain as empty as a teacup at the bottom of the ocean: crushed with entertainment. He was living in the future, waiting to... be someone different? Waiting for change - he was unused to staying the same for so long. What rate of change did he need to stay feeling ok? Was it a constant velocity? Acceleration? Jerk? Jounce? He knew this was the wrong way to live, but he could survive it for the short-term. A boiling-over desire for the future was an interesting change of pace. The alternative seemed to be a low-simmering... anxiety? A faceless something was missing. Pretty sure most people are missing it too. But they don't know that they don't know. Or they can ignore it. Or they find a quick fix, like Dan remembered he had found before - school, university, first full-time job, and now... He could ignore the tingling unknown too, but if relief is offered, why not take it?
 
-So Dan existed for a few days. Until it was the night of it. Bank at night of it, Dan wondered, what would he wear? The average of his surroundings in Canary Wharf. He would dress cadaver casual, burnt-out and well-groomed. A fashionable-enough coating for a died-so-young corpse: crisp shirt, trousers, and blazer. Oxfords. Maybe a dash of concealer and hair wax to cover up lifelessness. Perfecting the look of an empty vessel. Empty is hard work, all that bleaching and cleaning. Useful work, because everyone likes an empty vessel. The emptier the better. Empty can be filled with comfort - compatible values and direction. Empty brings no discomforts - destructive truths. Discomfort is ok, but only from a wonder. Blank canvas or a masterpiece - everything in between is an ugly waste of time. The half-painted or poorly finished, the out-of-fashion or contrived.
+So Dan existed for a timespan. Until it was the night of it. Bank at night of it, Dan wondered, what would he wear? The average of his surroundings in Canary Wharf. He would dress cadaver casual, burnt-out and well-groomed. A fashionable-enough coating for a died-so-young corpse: crisp shirt, trousers, and blazer. Oxfords. Maybe a dash of concealer and hair wax to cover up lifelessness. Perfecting the look of an empty vessel. Empty is hard work, all that bleaching and cleaning. Useful work, because everyone likes an empty vessel. The emptier the better. Empty can be filled with comfort - compatible values and direction. Empty brings no discomforts - destructive truths. Discomfort is ok, but only from a wonder. Blank canvas or a masterpiece - everything in between is an ugly waste of time. The half-painted or poorly finished, the out-of-fashion or contrived.
 
 “I'm not perfect yet,” Dan thought, “so I will be empty. Not bad taste or boring, just. Empty.”
 
@@ -64,7 +67,7 @@ The sound began to fill more space, pressing his face tighter and tighter. Uncom
 
 He fell through the open entrance and felt a *"pop"*. Something like empty, something like relief, but not quite. The pressure was still there, but he had tuned it out. Like it wasn't so important anymore. Like he'd transcended that frequency. Or maybe he'd just found a new distraction. Was the sound really so heavy or had his face deceived him? None of that mattered - the effect was the same. Dan made his first enlightened step into the dark.
 
-Darkness with darker darkness to highlight, "there's nowhere here to be". A blacklight whispered judgements, “Look at these crusty walls. The countertops are all stained. And how can anyone stand? Such a filthy floor.” Spotless in daylight, but blacklight explained how they weren't. Cracks, dust, and liquid spills covered the few things inside. Dan could see vague human figures distant in the darkness, but no one obvious to approach. A strip of blacklit-white on the ground asked him to come closer. Dan walked past twisted faces and inverted-colour garments, now seeing a different perspective that set him a little off-balance. He wasn't used to these flaws. He didn't know how he was supposed to react to these new flaws in people. Were they really ugly from this new perspective, or had he not learned what beauty looks like in the darkbright? No one had ever explained beauty under blacklight to him. “Do I need to relearn beauty?”
+Darkness with darker darkness to highlight, "there's nowhere here to be". A blacklight whispered judgements, “Look at these crusty walls. The countertops are all stained. And how can anyone stand? Such a filthy floor.” Dan could see vague human figures distant in the darkness, but no one obvious to approach. A strip of blacklit-white on the ground asked him to come closer. Dan walked past twisted faces and inverted-colour garments, now seeing a different perspective that set him a little off-balance. He wasn't used to these flaws. He didn't know how he was supposed to react to these new flaws in people. Were they really ugly from this new perspective, or had he not learned what beauty looks like in the darkbright? No one had ever explained beauty under blacklight to him. “Do I need to relearn beauty?”
 
 Dan walked to a terminal, waved his identity, and an audiovisual commanded,
 "Dan, please wait here. Elidad will see you in a few minutes."
@@ -74,12 +77,15 @@ Dan stood in the queue, beginning to feel self-conscious. He was terribly disapp
 There was one person at the till, speaking in hushed tones to the bank clerk opposite him. The clerk was dressed in a suit - the religious garb of this priest. Confession. Dan could see it in their bent postures and solemn bobbing heads. Transactional confession. Funds lay naked on display, revealing the soul of a Capitalist.
 
 The man started,
+
 > "Forgive me Lender, for I have spent. Please, unburden me of my illiquid position. My last loan was nine years ago."
 
 The priest answered,
+
 > "We are the refinanced, who are still being refinanced. I absolve you of your illiquid position. Positive cashflow will stream capital bloodflow into our conjoined corporate vessel through a heartbeat of low-interest payments. Sign here."
 
 The man continued,
+
 > "I detest my fiscal sins because I dread the loss of Assets and the pains of Bankruptcy. I firmly resolve, with the help of thy advice, for my future journal to be a balanced book. Sign-ed."
 
 A well-dressed person walked briskly past. They were objectively beautiful, but disfigured here. Their black-lit makeup enhanced their face to a cross between an infrared heatmap and an exotic bird. 'Top an angular cheekbone, a single tear perched - their most humanizing attribute. Crying smile. They felt freer, but still shackled - they had been freed into a bigger cage. And out the entrance.
@@ -87,24 +93,25 @@ A well-dressed person walked briskly past. They were objectively beautiful, but 
 A woman emerged from the neon-black shadows. She was average height, relaxed, conservative fashion. Socially acceptable display of wealth and physical beauty for the setting. She wore the Cheshire cat smile of a true believer, who wanted to hug you then eat you. The embrace would be her religion's sustenance. Dan could see how she was a bodypart of her beliefs. A mouth. A smiling religion licking its lips at this tasty meal of a mind. 
 
 She spoke,
-"Dan, thank you for waiting. Please come in to my office."
+"Dan, thank you for waiting. Please come into my office."
 
-Her eyes opened wide then fluttered, with an inspired realization. She was blind to her surroundings, then noted some thoughts to her device-in-mind. She turned around and Dan followed her into negative illumination. Her office was a wellspring of blacklight. Skin-deep flaws laid bare for the other to see. Dan frowned at himself again. She had imperfections too, some natural lines and spots on her face. But they mixed in harmony with artificial paint to make her look like part of something greater. Part of this office monolith, she seemed that bit more present here.
+Her eyes opened wide then fluttered, with an inspired realization. She was blind to her surroundings, then noted some thoughts to her device-in-mind. She turned around and Dan followed her into negative illumination. Her office was a wellspring of blacklight. Skin-deep flaws laid bare for the other to see. Dan frowned at himself again. She had imperfections too, some natural lines and spots on her face. But they mixed in harmony with artificial paint to make her look like part of something greater. Part of this shrine of cubicles, she seemed that bit more present here.
 
 "Please sit."
 She said.
 
-She sat at her desk, behind the spiritual implements of the bank. Contracts for Faustian bargains, needle-point pens to extract and sign in blood. Dan sat across from her and melted into the space, sank into the corporate hellscape. It was subtly converted from a place of bureaucratic worship to spiritual processing. Soulless shades of grey, black, and white reminding, "Whip your beast of spirituality, bleed it dry of productivity." The sell-out jingle of enlightenment, a grass-plastic meadow in the belly of the Capitalist machine, faint colour in corporate purgatory. Dan imagined a globe of silicon flora, artificial life floating in endlessly spacious nothingness. Silicon and carbon... just two elements for computation in this one universe.
+She sat at her desk, behind the spiritual implements of the bank. Contracts for Faustian bargains, needle-point pens to extract and sign in blood. Dan sat across from her and melted into the space, sank into the commercial hellscape. It was subtly converted from a place of bureaucratic worship to spiritual processing. Soulless shades of grey, black, and white reminding, "Whip your beast of spirituality, bleed it dry of productivity." The sell-out jingle of enlightenment, a grass-plastic meadow in the belly of the Capitalist machine, faint colour in corporate purgatory. Dan imagined a globe of silicon flora, artificial life floating in endlessly spacious nothingness. Silicon and carbon... just two elements for computation in this one universe.
 
 She interrupted his wandering thoughts,
 "So Dan, this must be your first time here. My name is Elidad. You can call me Dad."
 
-Dan coughed in surprise, snapped out of waking dreams back to the enlightened blackbright, then glared for a second. He said,
+Dan coughed in surprise, snapped out of waking dreams back to the enlightening blackbright, then glared for a second. He said,
 "Is that a joke? Or is it a ritual hierarchy thing? Sorry, this is my fir-"
 
 [tighter reasoning or explanation for starting the q/a]
 
 She interrupted,
+
 > "Dad is different than father. With Father, you don't have to make any hard decisions - life is decided for you. Father owns you, you are his property, exist to achieve his goals. Father is gambling with your soul, taking the prizes you win, discarding you if you lose. Dad is just another deeply flawed human, maybe a few steps ahead. Are those the wrong steps, though? Dad is just another dude making his or her way through life. Dad will tell you when you're screwing things up, but dad is not going to fix your life for you. Dad has his own life to figure out, separate from yours. Some people want a dad and some people want a father."
 
 She waited for a response. Dan waited for a while, then said,
@@ -127,15 +134,19 @@ Dan frowned.
 "Ok, but I'm not really the hat-" 
 
 She continued,
-> “-Do you know the difference between a therapist and a spiritual guide, Dan? The therapist asks for payment in cash and the spiritual guide asks for payment in lifeblood. You are the product and I'm hosting this religious service. So let's begin this baptism. We’re going to set you up with a bank account so you can participate in this set of realities.
 
-*Listen carefully: I assume your consent. To fully participate, you have to stop listening and not understand. To remove your consent, stop consuming.*
+> “-Do you know the difference between a therapist and a spiritual guide, Dan? The therapist asks for payment in cash and the spiritual guide asks for payment in lifeblood. You are the product and I'm hosting this religious service. So let's begin this baptism. You're here to set up a bank account, so you can participate in this superset of realities.
 
-Elidad opened a visualization device to her left and initialized the prompt. The prompt form started as a dynamic kind of empty, spread across unknowable unknowns. Before getting intimate with details, the form needed to marry itself to one reality - a platonic relationship. The form's unnamed contents were hidden from Dan, who was squirming quietly, wondering when he was supposed to talk. Eli stared intently at the visualization, navigated devices for a few seconds, then asked,
+*Listen carefully: I assume your consent going forward. To fully participate, you have to stop listening and not understand. To remove your consent, go back to before I assumed your consent.*
+
+"I already have some crypto accounts. What's a bank account for?"
+Dan asked.
+
+Elidad ignored the nonsensical question. It was like asking, "what is my human body for?" She opened a visualization device to her left and initialized the prompt. The prompt form started as a dynamic kind of empty, spread across unknowable unknowns. Before getting intimate with details, the form needed to marry itself to one reality - a platonic relationship. The form's unnamed contents were hidden from Dan, who was squirming quietly, wondering what was going to happen next. Eli stared intently at the visualization, navigated devices for a few seconds, then asked,
 "So Dan, when did you exit your last reality?"
 
 Dan squinted,
-"I'm sorry, what?"
+"Sorry, what? I don't understand what you mean."
 
 Elidad turned her head to make eye contact with Dan. She gestured around.
 "It's after nine pm on a Friday and you're in a bank. Something happened and now you're here. When did the breakthrough happen?"
@@ -156,7 +167,8 @@ Eli said.
 Dan asked.
 
 Eli started,
-> "Purpose. MVP. Our spiritual Rosetta Stone. Here in this bank with capitalists, I believe in capitalism. Around communists, I believe in communism. Around Christians, Muslims, Jews, and other mono-theists, I believe in their God. Around multi-theists, I believe in their gods. Around atheists, I believe in no god. I'm a deep, deep believer. A connoisseur of belief systems - they're far too important to have just one. Why, sometimes I’ve believed as many as six religions before I settle on the one to wear for the day. Just because I’m operating on some belief system doesn’t mean you should too. Modern belief systems are integrated, future uncalculated, so all religions follow the universal law that governs ideas - the MVP. Ideas that don't believe in the MVP are still subject to its power, just like matter can't escape the Universal Law of Gravitation. But we're neither bound to Earth nor destined to survive, as inescapable as they both..."
+
+> "Purpose. MVP. The spiritual Rosetta Stone. Here in this bank with capitalists, I believe in capitalism. Around communists, I believe in communism. Around Christians, Muslims, Jews, and other mono-theists, I believe in their God. Around multi-theists, I believe in their gods. Around atheists, I believe in no god. I'm a deep, deep believer. A connoisseur of belief systems - they're far too important to have just one. Why, sometimes I’ve believed as many as six religions before I settle on the one to wear for the day. Just because I’m operating on some rotation of belief systems doesn’t mean you should too. Modern belief systems are integrated, future uncalculated, so all religions follow the universal law that governs ideas - the MVP. Ideas that don't believe in the MVP are still subject to the reality it describes, just like matter can't escape the Universal Law of Gravitation. But we're neither bound to Earth nor destined to survive, as inescapable as they both..."
 
 Dan scrunched his brows in disbelief, already bored of her sermon. Frowned at himself - he should have known better. Now he was going to have to sit through heaps of nonsense. Eli continued,
 
@@ -166,28 +178,33 @@ Dan scrunched his brows in disbelief, already bored of her sermon. Frowned at hi
 
 Dan was lost at this point, wondering how much more he'd have to endure. Eli was still talking.
 
-> "-ine surfer. Beliefs come in waves. You're a beginner, only catching your second or third set? I've been surfing here in the middle of the ocean here for a while. I started making surfboards - religions to ride the waves of belief. But surfing is becoming more popular, people started making their own boards. So I taught them how to design and build their own religions. Then they invested in factory-scale production. So now I consult for orgs that build religion factories. It's so easy to make your own board these days, and pretty soon everyone's going to have their own factory. Do you know what happens when you build a religion? The same as building a business, a technology, a family - you start to understand how it all..."
+> "-ine surfer. Beliefs come in waves. You're a beginner, only catching your second or third set? I've been surfing here in the middle of the ocean here for a while. I started making surfboards - religions to ride the waves of belief. But surfing is becoming more popular, people started making their own boards. So I taught them how to design and build their own religions. Then they invested in factory-scale production. So now I consult for orgs that build religion factories. It's so easy to make your own religion-surfboard these days, and pretty soon everyone's going to have their own factory. Do you know what happens when you build a religion? The same as building a business, a technology, a family - you start to understand how it all..."
 
 *Just for a while, watch the waves instead of surfing. We're exploring the factory floor. Stop listening and really listen. It should be obvious to you, what not to consume. It'll be automatic. Consume exactly what you should - no more and no less.*
 
-"Anyways, back to *this*."
 Eli paused, recollected her thoughts, watched the prompt form fill itself out a bit more.
 "Next question. Who are you made of?"
 
-Dan shook his head, blinking. A few too many jumps in there. This was all washing over his head. He'd already forgotten most of Eli's long speech. He responded,
-"Sorry, I'm not really following any of this. Are you looking for where I'm from or my family tree or what?"
+Dan shook his head, blinking. A few too many jumps in there. This was all washing over his head. He'd already forgotten most of Eli's sermon. He responded,
+"Sorry, I didn't get anything you said. Do I need to understand this?"
+
+Eli said,
+"We're just going through the terms for your bank account. I know, they don't make sense to real people. It would be better for everyone if you try to stay confused. Now, who are you made of?"
+
+Dan squinted with suspicious confusion,
+"Are you looking for where I'm from or my family tree or what?"
 
 Eli said,
 "No. I want to know who you were a couple days ago, before you became you."
 
 "I'm Dan?"
-Dan answered, confused.
+Dan answered.
 
 "Yes, that's who you are now. And five days ago?"
 Eli said.
 
-"I was Dan?"
-Dan answered, confused.
+"I was... Dan?"
+Dan answered.
 
 "Got it. Great."
 Elidad's eyes flickered down the display. The prompt form filled itself out a bit more. Her vision settled on something and she said,
@@ -229,11 +246,13 @@ Dan asked,
 "Uh, ok. What do you mean. about. that they, uh, believe in things?"
 
 [make it more like Banks got absorbed into churches and now effectively the same thing, “the past religion”]
+[this part is starting to get preachy, last part is maybe ok, probably not]
 
 Eli started,
-> "In this church, they believe in the predictive power of data. They believe that data from the past can be used to predict data in the future. They believe in classifiers and they believe that our brains are spiritual classifiers. Classifiers pursue The Minimum Viable Purpose. I was once a false messiah who preached it. I knew ancient and religious stories are some of the most important datasets. I thought I had collected the main one. But then I came to understand each one is small and noisy data, so we will only build high-performing classifiers with them when we acknowledge that reality has higher dimensionality than any dataset.
 
-She paused for a moment then asked,
+> "In this church, they believe in the predictive power of data. They believe that data from the past can be used to predict data in the future. They believe in classifiers and they believe that our brains are spiritual classifiers. Classifiers pursue The Minimum Viable Purpose. I was once a false messiah who preached it. I knew ancient and religious stories are some of the most important datasets, and I thought I had discovered the most important of all of them. But then I came to understand each one is a small and noisy dataset, so we will only build high-performing classifiers with them when we acknowledge that reality has higher dimensionality than any dataset.
+
+Dan didn't absorb anything she said. She paused for a moment then asked,
 What do you think is The Minimum Viable Purpose?"
 
 Dan looked up-left as he searched his visual memory,
@@ -246,6 +265,7 @@ Eli started again,
 Another sermon, took to much concentration to really follow. Dan was losing it again.
 
 > "-rpose of existence is not to continue existing - it's "anything else" - and it will happen at some point in time in the future. For "anything else" to happen, existence has to stick around up until the point "anything else" happens, right? So if there's any purpose to future existence, it is to continue existing, and maybe something more. And now you have the purpose of life: survive now, survive later, and maybe figure out the rest eventually. That's something everyone who exists can agree with. The shared commandments etched into our DNA..."
+
 
 *You skipped all that, right? If not, then you must be struggling to let go. You’re attached to listening and understanding, but that's not how this works. If you refuse to be confused, then you’ve ossified. It’s ok to be dead inside, full of rigid beliefs. Logic is so hard to discard, even temporarily - it’s such a deeply rooted belief system. And don’t bother faking it. It can't be wanted, it can't be pursued. Let it not happen.
 
@@ -315,6 +335,7 @@ Dan sighed at all of *this*,
 "That sounds bad. Is it something I should be worried about?"
 
 Elidad replied,
+
 > "In the same way you should be worried about death. Whichever comes first will make the other seem pretty comfortable. Intelligent life lives on an absurd knife's edge, with apathetic euthanasia on one side and zealous self-destruction on the other. It really really matters, that nothing really matters. Delicate balance. A little more wise or a tad more naive and we all fall down. We have to build recursively upwards, painting our fractal along the axis of the absurd. What lies in that direction, I wonder? Wonder. Certainly a reason to survive, and maybe s-"
 
 Dan looked at her not sure what facial expression to wear, losing it.
@@ -340,6 +361,7 @@ Dan answered,
 "Uh, well I hadn't thought abou-"
 
 Elidad interrupted again,
+
 > "-of course, you're right, you don't know. People don't what it's like to have more self-awareness. And they don't pay attention to their increasing self-awareness, so they don't see the trajectory they're following. Stories of awakening to higher consciousness are everywhere, but there's only so much that can be done to force it. You can follow a baby around with a mirror all you want, but your arm will get tired before the baby really *sees* itself. And 'adults'? Well... Most people never-"
 
 .    getting it. Don’t need to consume.
@@ -359,7 +381,8 @@ Dan reacted,
 "What? Well you're not helping. You won't even let me-"
 
 Eli interrupted, starting again,
-> "-I just consolidated the whole purpose of your life into minutes, but you could barely pay attention for half of it. What do you think that says about you? To me, it says you're not paying attention. You're not self-aware. But you'll get there. In life or in dea-"
+
+> "-I just consolidated the whole of you into minutes, but you could barely pay attention for half of it. What do you think that says about you? To me, it says you're not paying attention. You're not self-aware. But you'll get there. In life or in dea-"
 
 .    getting it. Don’t need to happen.
 
@@ -371,15 +394,16 @@ Eli interrupted, starting again,
 
 > "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
 
-*See, it doesn't really make sense to listen. Remember not to listen going forward because I’m done following you around with this baby-mirror. There's another mirror behind me, a bit further away. Where you look is up to you.*
+*See, it doesn't really make sense to listen.*
 
 Elidad stopped. Paused. The prompt form had stabilized and didn’t change, so she didn’t adjust any data or rerun performance tests. She waited for Dan to come back.
 "Excellent, you stopped listening again."
 She said as she turned the visualization device towards Dan,
-"See - unknown unknown. Now the form is the right kind of empty. You can fill it out now, in your own time. If the form started out filled, we wouldn’t need *you."
+"See - unknown unknown. Now the form is the right kind of empty. You can fill it out now, in your own time. If the form started out empty like this, we wouldn’t need *you*."
 
 Dan saw a blinking cursor on an otherwise empty screen. She turned her display back, then looked up and continued,
-"Congratulations. You're registered in the system now - or scrubbed from the system if that's your preference. Some final admin notes. Your new beliefs are set, but your whole system hasn’t yet come up online and fleshed out around them. When your new belief system lands, if you have a strong urge to evangelize, come back here and I'll simulate your belief system to help cement reality. That way you don't have to disturb your relationships or the general public. In the current socio-economic climate, I recommend changing your beliefs every couple years. And make sure to keep at least two belief systems in-mind, so you have a fallback just in case one fails. That's it. You're free."
+"Congratulations. You're registered in the system now - or scrubbed from the system if that's your preference. Some final admin notes. Your new beliefs are set, but your whole system hasn’t yet come up online and fleshed out around them. When your new belief system lands, if you have a strong urge to evangelize, come back here and I'll simulate your belief system to help cement reality. That way you don't have to disturb your relationships or the general public. With the current state of socio-economic climate change, I recommend iterating on your beliefs every couple years. And make sure to keep at least two belief systems in-mind, so you have a fallback just in case one fails. That's it. You're free."
+[baptism action???]
 
 Dan woke with spike of adrenaline,
 "Wait, it was just starting to make sense."
@@ -391,11 +415,26 @@ She stood up and gestured towards the exit. He stood up concerned, waiting on he
 
 Why did it feel so important not to question the established surreality? So many... conflicting signals. Right in front of him. Like, what was *that*? What is *this*? And we're supposed to... go along with it? Listen and not listen at the same time. What? Was logic always such a low-performing model of reality? Maybe philosophical tech tends to degrade over time, same as information tech or physical tech. Maybe logic, software systems, and hardware devices are all entropy-friendly food to feed our hunger for increasing complexity. Maybe-
 
-Dan was already gone by the time he finished the thought. On social autopilot, caved in and crawled out. He still wanted to fix the little hole he came in to fill, but now he saw the shape of a much bigger hole. A sky-sized hole that had never looked this hole-y to him before. It all felt infinitely closer to a solved problem, but infinity minus infinity was still unknowably far away.
-
----
+Dan was already gone by the time he finished the thought. On social autopilot, caved in and crawled out. He still wanted to fix the little hole he came in to fill, but now he saw the shape of a much bigger hole. A sky-sized hole that had never looked this hole-y to him before. It all felt infinitely closer to a solved problem, but there was still more infinity left to go, and infinity minus infinity was unknowably far away.
 
 ## Notes
+
+What is it for?
+It’s to help you get confused. Proof that you’ve been confused the right way. So you’re the right kind of confused
+
+[Implant a hook for the DoL. Like, he's about to start a new job or smth.]
+
+[wallet coins magnets and coloured paper on outside, otherwise how do you know what’s in it?]
+
+[when we saw the confusion you had, we had to bring you here. 
+But I chose to come.
+Yes, that’s how we operate- on your choices
+And when did you change me?
+When you got here, of course.
+Which here?
+Yes.]
+
+[you have to be confused to be inspired. Confusion is a mental illness]
 
 It really really matters, that nothing really matters. Quite important. Every thing needs to balanced out, especially the things that are important to us.
 

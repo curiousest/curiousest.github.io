@@ -1,4 +1,26 @@
-I'm taking a sabbatical to write and study philosophy. Online philosophy courses don't look right - like they're made for people who have to be convinced to study. I explored some self-study patterns, and found [this quora post](https://qr.ae/py6yGR).
+
+I'm taking a sabbatical to study philosophy and write a book. I plan on returning to industry after.
+
+## why
+
+A little story:
+
+> Once upon a time, there was someone who constantly tapped their fingers, hands, and feet all their life. They listened to music, and tapping is part of that, but producing commercial music never seemed interesting. Music seemed to be made mostly of non-tapping, uninteresting things. And so they began a career in dance - far more tapping involved.
+> 
+> One year in adulthood, they came to realize that there’s a whole history and discipline behind the tapping they’ve been doing their whole life. And that discipline is a component of music, a part of dance, but the discipline can be explored on its own.
+
+Philosophy is like that for me. It’s a bit of a spiritual journey, a mental pilgrimage. Achieving something concrete so I can resume all the other aspects of life I put on hold.
+
+And I can probably reason my way into clever arguments about how it will be professionally useful, saying catchy things like:
+- “it’s similar to an MBA, but for sharpening my technical abilities, so I can see the truth through the industry and corporate noise”
+- “if I have the tools to think about the purpose of the systems themselves, I’ll be more performant at understanding and building them”
+
+Maybe, and that’d make this more relatable to others. But the story above is what’s up.
+## how
+
+Consume one or two works from ~20 philosophers. 
+
+Online philosophy courses don't look quite right to me - like they're made for people who have to be convinced to study and taught how to. This [this quora post](https://qr.ae/py6yGR) seems reasonable, and I double-checked with professor friends who said it’s a sensible series. Maybe an ambitious series.
 
 <details>
 
@@ -152,9 +174,8 @@ While I should think there is enough of material above for years of philosophy, 
 </details>
 
 Also:
-- https://www.lesswrong.com/highlights#
-- foucalt
-- delause
+- Foucault
+- Delause
 - Sartre
 
 I've also bumped into [The Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/index.html) a couple times and saw it recommended. For my learning style, I think I'll be following roughly the same process for every piece:
@@ -164,9 +185,9 @@ I've also bumped into [The Stanford Encyclopedia of Philosophy](https://plato.st
 	2. Browse wikipedia articles for the author and their context.
 	3. See what happened downstream - who built on top of it, who disagreed.
 2. Consume it.
-	1. Some things are hard to consume. Self-study is powered by carrots and not sticks, so I won't try to force-feed myself. I'll rely on interpretations of it.
+	1. Some things are hard to consume. 🧘‍♂️
 	2. The style and medium is part of the message.
 3. Produce something from it.
-	1. Explaining a thing clarifies your thinking.
+	1. Explaining a thing clarifies thinking.
 	2. Trying to break a thing shows you its boundaries.
 	3. Playing with a thing helps you discover what it's useful for.

@@ -20,12 +20,13 @@ Sacrifice the messiah in you. You will have to let them go.
 
 [Touched by highly exotic natural phenomena. Why would anyone ever want to be struck by lightning? Of course some would, just to know what it feels like. And others might stand on the top of a hill every rainy day, hoping to discover electricity or fire. They mostly die, and the ones that survive only remember the buildup, up until the moment reality exceeds the limits of their delicate sensors.]
 
+## Notes
 
-—-
+---
 The problem with capitalism, and many things before it, was that dinosaurs stopped going extinct.
 Post-capitalism happened just like industrialisation. Industrialisation happened when groups of people embraced a pattern they found desirable. The pattern used new technologies to scale the impact of their effort. Like moving big things with trains instead of horse-drawn carriages. FALC post-capitalism happened when groups of people embraced another pattern: they used new technologies to get the benefits once reserved for factory-scale production without suffering the externalities that come with that scale. Like producing their own energy instead of relying on a grid which buys its supplies from a tyrannical organisation. Or building their own digital social networks instead of consuming propaganda on a global-scale social network.
 
-—-
+---
 
 Ontology entry #1 : Archinatomy of an idea. Diagram.
 Features (lower class ideas)
@@ -33,7 +34,7 @@ Compute engines.
 Identity engine. Rules for determining which set of lower-class ideas comprise the identity.
 
 Entry #2 : relationship
-—-
+---
 
 Entry #6: identity
 Set of ideas sitting in the head of the identity machine, who get to observe the generated story of reality streaming in
@@ -360,11 +361,11 @@ Hardy religion: where the things that are most likely to destroy the religion ar
 
 Is there some properties of the distribution of beliefs or rate of change in beliefs, all in a distributed system, which describe the optimal way to search the space of reality? The way those beliefs are held consistent across a distributed system. What rate of change in beliefs in a distributed system is optimal for survival?those beliefs are held consistent across a distributed system. What rate of change in beliefs iEither there is or there isn't. Either way is interesting.
 
-—-
+---
 
 Every piece of data you consume is a drug, every idea is a tool.
 
-—-
+---
 
 Generative fiction. As you consume it, you add the final ingredient of making it a reality.
 

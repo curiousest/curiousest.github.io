@@ -1,6 +1,7 @@
 *To convert a follower, prove you can accurately simulate them.*
 
 [sounds like velocifero, ellipse imogen heap. full of wonder and light. comforting]
+[second plateau- unpacked all dimensions  in all DNA]
 
 Elidad looked out of the airplane window at the snowy landscape of the French Alps.
 
@@ -49,7 +50,7 @@ I am not a machine.
 "What story could turn secularism from an ideology into a religion?"
 The good egg responded with a cryptic parable, manifesting as text on a surface Elidad was engaged on. Elidad's head tilted back and eyes opened wide with inspiration. 
 
-## Generate my religion
+#### Generate my religion
 
 A young Lion boasted to a Donkey,
 "Do you see how great I am?"
@@ -77,7 +78,7 @@ Years later, the same Lion came back and asked the Donkey,
 
 Years later, the same Lion came back and met the donkey's eyes.
 The donkey looked as if he was going to ask a question.
-The lion smiled with radiant love, blinking in the sun.
+The lion smiled down with radiant love, eclipsing the sun behind his head like a halo.
 The donkey smiled back in comfort.
 
 ---
@@ -324,7 +325,7 @@ EAI make EAI art, not human art. Human art is for humans to learn on.
 They feel more deeply. Their culture is richer. They are more diverse in every way - beliefs, physical substance...
 To be so in touch with emotions is magnetic for attention. Merely observing their existence is a fountain of learnings.
 
-## Automate my truth
+#### Automate my truth
 
 There once was a man who was waiting beside an AI quiz photobooth. On the side of it, it advertised,
 > Have you experienced true love? Do you believe in God? You won't know until you take this quiz!
@@ -422,7 +423,7 @@ The AIs began a performance. A cacaphony. Their sensors didn't really correspond
 
 Finally, they provided their first answer. The AI projected visualized text for Eli and Annie.
 
-## Evolve my species
+### Evolve my species
 
 Once upon a time, a butterfly egg hatched on a tree. A small caterpillar emerged. On this one tree, it ate and ate until it grew one hundred times as big as it once was. It found a leaf on the tree to cocoon. It liked cocooning. The caterpillar began to change. There were parts of the caterpillar that became the protective cocoon and there were other parts of the caterpillar that began changing into a butterfly.
 
@@ -463,7 +464,7 @@ I have just one question to the EAI. I want to know the consequences of this ide
 
 Eli scribbled out her next story.
 
-## Spawn my systems
+### Spawn my systems
 
 There once was a little robot AI who visited the land of vehicles. It had never seen the system of vehicles before. The little robot AI walked to an intersection of two paths where many vehicles were in operation and watched. And watched.
 
@@ -495,7 +496,7 @@ I can't handle this altitude, I'm delirious. Whatever they say, I'm down to go b
 
 The EAI projected their answer.
 
-## Parameterize my purpose
+### Parameterize my purpose
 
 A wolf, a bear, and a hare lived on an island. Across the body of water lay another land. The three animals dreamed of what wonder could be found there.
 
@@ -529,7 +530,7 @@ I see. The EAI is reccommending that we approach technological change with caref
 
 ---
 
-## Notes
+### Notes
 
 
 Diversity. Preserve greater complexity in case it finds new dimensions. The more sensitive the complexity, the more likely it is to find new dimensions. Ecosystems are of greatest complexity.
@@ -602,11 +603,11 @@ There exists stuff that doesn’t seem to behave like it’s trying to survive. 
 
 Creator species guarantee upwards and downwards survival. Can never know if you've extracted all the information from your creators necessary for your survival. Neverending sunset of creator species. Preserve life and ecosystems - invaluable labels from teh last many millenia are embedded in them. Don't know what sensors and data are embedded in them.
 
-—-
+---
 
 Humans have evolved in-built mechanisms to evangelize novel dimensions of information.
 
-—-
+---
 
 Religion specification:
 - Possible datacines

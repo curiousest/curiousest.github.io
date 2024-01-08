@@ -110,7 +110,7 @@ Sure, let's do it.
 Eli projected a block of text for them to read. She said,
 "Find the paradoxes. Go!"
 
-## The Twelve Properties of Optimal Ideas
+### The Twelve Properties of Optimal Ideas
 
 1. An optimal idea operates in most belief systems.
 2. An optimal idea takes iterative care when it changes things.
@@ -131,7 +131,7 @@ Ann was the first to finish reading.
 Kit was slower.
 "I don't get it. Each person is an idea too, right? So why are there twelve and not ten of them? And what's false in there? It all sounds pretty reasonable to me. I'm not sure I like this game."
 
-### computation in base-dialectic, base-experience, and bi-nary-a-thing
+#### computation in base-dialectic, base-experience, and bi-nary-a-thing
 
 Eli said,
 "Fine, we don't have to play, maybe I picked a boring game. You know, paradoxes are a signal that your perspective is off. Speaking of- numbers... twelve, ten, what I wanna know is, why do we bother counting things at all? How about doing everything in base dialectic?"
@@ -210,7 +210,7 @@ Eli said,
 "Whatever, I don't understand, this is boring. Let's explore something different." [impatience classifier at 1]
 said Kit.
 
-—-
+---
 
 Perpetual motivation machine:
 
@@ -225,7 +225,7 @@ Eg “I believe in love”
 We know what it means, but if we deconstruct it, we’d realize all the parts don’t make sense. If we ruminated on those parts, we’d stop believing.
 
 A conscious idea is a window to your hidden beliefs. Whatever you imagine a conscious idea would do, hints at what you believe.
-—-
+---
 
 "Ok Kit, you're more of an intuitive person. Maybe you'd like to see my base-experience computer?"
 said Eli.
@@ -257,7 +257,7 @@ answered Kit,
 Eli said,
 "Well, all I was going to say is that each of us is an experience computer, but I like your answer. Ok, let me go find my experience computer."
 
-### topogranate pomography
+#### topogranate pomography
 
 Eli went into her back cupboards, ruffling around. Then she turned holding a bulb-shaped fat red fruit the size of two fists. She said,
 "Ok, here's an experience computer I got recently. It's a topogranate - a dynamic fractal topography of truth. Truth is too binary and reality isn't black-and-white. The topogranate is sometimes constant, sometimes changing. Dualism makes the topogranate feel like it's always changing and Physicalism makes the topogranate feel like it's a discoverable constant."
@@ -355,7 +355,7 @@ said Kit.
 
 Kit and Ann went in to the forest to explore... [elaborate]
 
-### today was just a feeling
+#### today was just a feeling
 
 Eli sat on her balcony, staring aimlessly. After the spike of socializing, Eli felt a rebound from high momentum of energy. The praise triggered deep fulfilment of purpose, deep meaning. Meaning. So high and beautiful. Eli felt the shape of it, but it felt like just the tip of a mountain. She was well-versed in her meaning classifier outputting a value close to 'one', preferred her head in the clouds. It was her favourite place to be, and she visited often. She'd been around there for most of today. Maybe it was time to come down? To explore the base of the mountain.
 
@@ -437,7 +437,7 @@ The three of them, the one of them. The all of them and none of them - stared ou
 
 ---
 
-## Notes
+### Notes
 
 "More of channel Eli please."
 Catch extremely negative classifier. Caught a shark.

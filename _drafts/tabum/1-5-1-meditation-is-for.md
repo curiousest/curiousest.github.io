@@ -1,38 +1,48 @@
-### Meditation is for self-improvement - exploring new mental states.
+#### Meditation is for self-improvement - exploring new mental states
 
+[relatable story, especially start]
+[mattering is the appendix of the mind. Stopping existential crisis like burst appendix. It’s not yet clear what it’s for, and when it violently ruptures, it can mean the end of you without immediate attention ]
 Breathe in.
-A sheet of block-protein machinery tightened and flattened itself, pulling on all its tethers to stretch three hundred million spongy air sacs. The stretching pressure sucked in a mix of twenty percent fruit and eighty percent non-consumables. Before all the goodies filled the tubular air sacs, the mix went through a vent where it was warmed, humidified, and filtered. Once inside, the fruits in the mix nestled against the walls of the tree of tubes, ripe for harvest. Red-colour workers gathered all around the tree to pick the fruit in social union. They picked fruit until their baskets were full, then floated through the mass transport system and carried the fruit all across transport-connected space to personally feed the hungry. From each worker according to their limited capacity, to each consumer according to their bounded hunger.
+
+A sheet of block-protein machinery tightened and flattened itself, pulling on all its tethers to stretch three hundred million spongy air sacs. The stretching pressure sucked in a mix of twenty percent fruit and eighty percent non-consumables. Before all the goodies filled the tubular air sacs, the mix went through a vent where it was warmed, humidified, and filtered. Once inside, the fruits in the mix nestled against the walls of the tree of tubes, ripe for harvest. Wine-coloured workers gathered all around the tree to pick the fruit in social union. They picked fruit until their baskets were full, then floated through the mass transport system and carried the fruit all across transport-connected space to personally feed the hungry. From each worker according to their limited capacity, to each consumer according to their bounded hunger.
+
 The system worked.
 
 Dan was sitting, staring at a dot on the wall, preparing.
 
 Breathe out.
-A river of white-light photons hit the dot on the wall high up there. The dye molecules in the high-up dot absorbed the wavelengths of light from the violet/blue end of the spectrum. The rest of the light reflected all around the room, some of it piercing a transparent sheet into a pair of caves - one of the places where fruit was delivered. A gathering of conic and cylindrical workers stood at the back of each cave, chained to the wall. The chained workers consumed their own portion of the light. Each worker whispered their interpretations of the light into a line where a network of designated light-interpreters looked across all the light interpretations to produce a unified understanding. They preached their understanding - the high-up dot. But everyone else had stopped listening to the light-interpreters. Everyone else cared about what the light-interpreters had to say when it was adapted to the present, and what they said stopped making sense a long time ago. Change is both how and what everyone saw. The light-interpreters had stared too long into the light, while everyone else had stared too long into the dark, and now they were all blind. The unified understanding of the light burned blindingly bright with irrelevance. All that was left was the high-up dot - the singular obsession of the light-interpreters and the last reminder that there used to be more to the light than the high-up dot.
+
+A river of white-light photons hit the dot on the wall. The dye molecules in the dot absorbed the wavelengths of light from the violet/blue end of the spectrum. The rest of the light reflected all around the room, some of it piercing a transparent sheet into a pair of caves - one of the places where fruit was delivered. A gathering of conic and cylindrical workers stood at the back of each cave, chained to the wall. The chained workers consumed their own portion of the light. Each worker whispered their interpretations of the light into a line where a network of designated light-interpreters looked across all the light interpretations to produce a unified understanding. They preached their understanding - the dot. But everyone else had stopped listening to the light-interpreters. Everyone else cared about what the light-interpreters had to say when it was adapted to the present, and what they said had stopped making sense a long time ago. Change is both how and what everyone saw. The light-interpreters had stared too long at this unchanging light, while everyone else had stared too long into the dark, and now they were all blind. The unified understanding of the light burned blindingly bright with irrelevance. All that was left was the dot - the singular obsession of the light-interpreters and the last reminder that there used to be more to the light than the dot on the wall.
+
 The system wasn't working. It was being hacked.
 
-Dan's eyes were open, but he couldn't see anything, like his eyes had gone numb. Just the dot on the wall high up there. He closed his eyes.
+Dan's eyes were open, but he couldn't see anything, like his eyes had gone numb. Just the dot on the wall. He closed his eyes.
 
 Breathe in.
-Sight went to sleep. Taste, smell, and sound were already sleeping too. Touch was the only one awake. An old and grounded sensation, who was usually drowned out by all the others and rarely drove the system’s focus. Touch steered focus to *the breath*. Light pressure on nostrils, a little moisture stolen from the throat, slight stretch of the lungs. Belly muscles pushed out, chest motionless while the belly expanded. Focus was exploring too many things, so touch held focus on a tight leash: top of the upper lip. Grazed. Then no sensation. Brushed. Then no sensation. Ghoasc - some other sensation lost in translation as focus wandered forwards to the space in front of the upper lip. Empty. It felt peaceful. Then the space in front of that, and in front of that, and in front of that… The forward-going space kept on giving peace to focus, but the ever-expanding forwards was beginning to feel… Something in self was trending towards infinity. "That way is unknown." Touch said, gently guiding focus back to *the breath*. Top of the lower lip. Moisture drying. Top of the lower lip. Pulse... Pulse.
+
+Sight went to sleep. Taste, smell, and sound were already sleeping too. Touch was the only one awake. An old and grounded sensation, who was usually drowned out by all the others and rarely drove the system’s focus. Touch steered focus to *the breath*. Light pressure on nostrils, a little moisture stolen from the throat, slight stretch of the lungs. Belly muscles pushed out, chest motionless while the belly expanded. Focus was exploring too many things, so touch pulled focus to a tighter leash: top of the upper lip. Grazed. Then no sensation. Brushed. Then no sensation. Ghoasc - some other sensation lost in translation as focus wandered forwards to the space in front of the upper lip. Empty. It felt peaceful. Then the space in front of that, and in front of that, and in front of that… The forward-going space kept on giving peace to focus, but the ever-expanding forwards was beginning to feel… Something in self was trending towards infinity. "That way is unknown." Touch said, gently guiding focus back to *the breath*. Top of the lower lip. Moisture drying. Top of the lower lip. Pulse... Pulse.
+
 The system worked.
 
 Dan sat motionless for another forty minutes.
 
 Breathe out.
+
 Touch went to sleep and so focus lost its last link to reality. A touch-bright brain was floating in the nothing. Ego in a vat.
 
 Dan felt a shock of excitement. Finally, an opportunity to gather exotic experiential data. He silenced his excitement so it didn't scare away his brainstate.
 
 Ego in a vat, the exotic brainstate. It felt like proprioception of his brain floating around in vacuum. Blue-white in touch-colour, with no sound. Weightless. His mind's eye looked down and then there were two hands, the same touch-colour but a little less bright. He saw them through touch, disconnected and floating apart from his mind along a dimension without length. The length of nothing is either unknowable or infinite - two physiologically synonymous terms. There was nothing between his separated hands and head, so it was unknowably far away. So it felt infinitely far away. A new exotic brainstate - infinite rayman.
+
 The system wasn't working. It was being hacked.
 
-Dan was sparked with excitement again. He imagined a crowd celebrating him and his achievements. Imagined a podium with someone speaking about him. He imagined it was a funeral speech, listing all his worldly accomplishments. His family and friends were there, so much love. But he was dead, so sad. He felt his inner-right tear duct pump salt water into a budding droplet attached to his right sticky globe. Volume built up until the tear's surface tension collapsed under its own weight and cried gravity-wards. What's the minimum cry-able concept? An eye can cry. A tear duct? Does a tear cry?
+Dan was sparked with excitement again. He imagined a crowd celebrating him and his achievements. Imagined a podium with someone speaking about him. He imagined it was a funeral speech, listing all his worldly accomplishments. His family and friends were there, so much love. But he was dead, so sad. He felt his inner-right tear duct pump salt water into a budding droplet attached to his right sticky globe. Volume built up until the tear's surface tension collapsed under its own weight and cried gravity-wards. What's the minimum cry-able object? An eye can cry. A tear duct? Does a tear cry?
 
 Dan caught himself. All his senses had woken up. He yelled at himself internally. He was just about to collect more exotic brainstates, but ego-tripping got him caught up in useless sentimental garbage. There were much better samples of funeral experiential data in real life. At least he collected the exotic brainstates, "ego in a vat" and "infinite rayman". This was only the third time he'd experienced "infinite rayman".
 
 Dan’s mind woke up his sleeping body, who hooked himself up to his DayDreamEATer - an experience authoring tool. He wanted to produce something close to the exotic brainstates he had just felt. Audio wasn't expressive enough, neither was video, so he needed to produce a sentio. The DayDreamEATer read some echoes of his sensory input sequences and notable brainstate transitions, then produced a first-draft sentio thick with sensory deprivation and two major focus transitions. Dan fleshed out the sensory focus using prompts made of recalled touch-feel from his memory, especially targeting the "ego in a vat" to "infinite rayman" transition. He had already modelled "ego in a vat" a few times, so he didn't need to elaborate on that buildup any more.
 
-He played the sentio back. For a moment, all senses were wide awake - Dan felt the inoffensive boot-up sound, smell, taste, sight, touch, mixed with other supplementary senses. Then all of them were silenced for a few moments. Touch was set free to feel and set focus on the upper lip just long enough to forget that the other senses were still there. Touch went quiet too and focus disconnected from anything human. A dull brainy mouth-feel floated in a massive empty warehouse. Focus moved forward to the other end of the warehouse and two hands came to be. Brain hundreds of meters from hands.
+He played the sentio back. For a moment, all senses were wide awake - Dan felt the inoffensive boot-up sound, smell, taste, sight, touch, mixed with other supplementary senses. Then all of them were silenced for a few moments. Touch was set free to feel and set focus on the upper lip just long enough to forget that the other senses were still there. Touch went quiet too and focus disconnected from anything human. A dull brainy mouth-feel floated in a massive empty warehouse. Focus moved forward to the other end of the warehouse and two hands came to be. Brain hundreds of meters from hands in the warehouse.
 [make sentio more casual and less immersive, while still involving all senses. think, mobile device. What would exotic brainstates be casually useful for?]
 
 Then it ended. Back to reality, where Dan was hooked up to the DayDreamEATer.
@@ -43,6 +53,7 @@ A notification tapped his shoulder and whispered, “meeting starting now”. Da
 
 ---
 
+[include dans reactions to all this, so empathy built up]
 Dan joined the virtual conference in social union. Around a hundred people. A *wrong* hundred. He scanned the list of names as everyone waited for synchronized presence. A mix of junior, mid, and senior staff. A couple directors whose roles he didn't understand. Some people he didn't like or respect and some people he liked quite a bit. This group shouldn't be together.
 
 Sight and sound softened, signalling that social synchronization had been achieved and it was time to start. A senior executive took focus. He wore a button-up shirt, a neutral expression, and the company's values. On the scale from corporate monkey to grease monkey, he was looking rather ape. Just another dude making his way through life.
@@ -69,21 +80,26 @@ Charon chanted,
 
 The Charon visualized the highest-ranked concerns of those on the call. She stood behind the executive and raised a cat-o-nine-tails. She read out the first question on the list,
 "First question-lash-answer... I thought we were safe here."
-Then she struck the executive on his back with the weapon to extract answers and blood.
+Then she struck the executive on his back with the weapon to draw blood and answers.
 
 The senior executive coughed in pain and answered,
 "You are privileged, not protected - at worst you can find a job at a lower tier of employer in a month or two."
 
 Charon looked at the new message and read,
-"Second question-lash-answer... This organatomy refactor is suboptimal for my happiness. Why is this happening?"
+"Second question-lash-answer... This organatomy refactor is suboptimal for my happiness. Why is this happening? We will be fighting this with lawyers."
 She struck the executive again.
 
 The senior executive flinched, then answered,
 "Yes, it is suboptimal for all of us. I am responsible for the staffing overreach, and my punishment is to serve you these sentences. I know you would enjoy heavier punishment, but you are dead now. It weighs as hard on my heart as it does on your mind - half of my remaining humanity will be struck from my soul and I don’t have much left to begin with. Still, this refactor is the optimal path. Sometimes, to go forwards we must first step back - to succeed, I must be able to fail. We have to delete optimal functions of a suboptimal module. Most of you are not poor performers - just unfortunate ones."
 
-[add more q&a. Visas. Health care. Fight against this with lawyers.]
+Charon looked at the new message and read,
+"Third question-lash-answer... For those of us on visas that let us to stay in this corporeal plane, what will you do for us? And what about healthcare?"
+She struck the executive again.
 
-Charon struck the executive one last time and read,
+The senior executive cried out in pain, then answered,
+“Yes, we will help you bend the laws of this universe, but that’s just slowing your descent. You will have to latch on to a new organizationism to stay. Without a host, there’s no reason for you to be healthy or here.”
+
+Charon struck the executive one last time and the executive cried out in pain, moaning longer and droning into a sigh now that his punishment had finished. Charon read,
 "We give thanks for this penance. Now we meditate together in a collective closing prayer.”
 
 She started slowly, so all in the conference could join in. Everyone had the flow of the chant down, if not the words.
@@ -113,9 +129,9 @@ The conference ended rather suddenly. Then it continued to end rather slowly, th
 Dan thought to himself,
 "All my friends are here. I spend all my time here. Everything… my purpose is here. I felt settled."
 
-—-
-## Meditation is for self-awareness - debugging complex distributed brainsystems
+#### Meditation is for self-awareness - debugging complex distributed brainsystems
 
+[more relatable, fewer focused weird descriptions ]
 Dan continued his day as normally as he could. But what do you do when what you do is gone? Certainly recompute from first principles - but what if your first principles died too?
 
 Dan closed his eyes and was smothered in something familiar. An isolated awareness, which wasn't integrated with other data or sensation. An all-consuming awareness, approaching everynothing. It started as a low drone, the first slow iterations of loading a new optimization objective into memory. The old optimization objective was deleted, and a new one had to replace it. But the new one didn't fit - it was infinitely large and unknown. There were no alternatives to load. It was the beginning of compute-thrashing, the first iterations slow and measured. But with each failure, the task became more urgent and the attempts became more frantic. The sound became louder. It was the sound of his beliefs changing again - from something into nothing. Deletion. It said,
@@ -163,19 +179,17 @@ Dan played the sentio back. He felt the pleasant boot-up senses. Then it was pit
 
 Then it ended. Back to reality.
 
-"That was actually decent." Dan thought to himself. But it was such a strange thing - the sentio being anything at all. Just an artificial sensory input sequence. Just some data. What a strange feeling - he felt it about everything. And he knew that there was something about the past day of feelings and experiences that was... important. It contained information he should pay attention to. There was probably some obviously optimal action to take next. He thought for a moment, then he thought about how strange it is to have to think about what to do next - isn't that what brains are supposed to do for you? Brains were supposed to automate this task - why did he have to do it manually?
+"That was actually decent." Dan thought to himself. But it was such a strange thing, the sentio being anything at all. Just an artificial sensory input sequence. Just some data. What a strange feeling - he felt it about everything. And he knew that there was something about the past day of feelings and experiences that was... important. It contained information he should pay attention to. There was probably some obviously optimal action to take next. He thought about *what to do next* for a bit, then he thought about how strange it is to have to think about *what to do next*. Isn't that what brains are supposed to do for you? His brain was supposed to automate this task - why did he have to do it manually?
 
-That's it - he should go to the Village Elder. The place to tend the vessels wherein decisions are made. So Dan performed his morning habits. So ridiculous, every habit was a performance of the universe, for the universe. Water. Brush teeth. Shower. Clothes. Pills. Food. Water. Directions, short walk, only fifteen minutes - go. What a silly little performance.
+That's it! Next, he should go to the Village Elder. The place to tend the vessels wherein decisions are made. So Dan performed his morning habits. So ridiculous, every habit was a performance of the universe, for the universe. Water. Brush teeth. Shower. Clothes. Pills. Food. Water. Directions, short walk, only fifteen minutes - go. What a silly little performance.
 
----
-
-## Meditation is for survival - medicine for dangerous data
+#### Meditation is for survival - medicine for dangerous data
 
 Dan walked outside. The world had lost so many of its dimensions. Even trees. The “London plane” trees along the road were just trying to survive. A vast evolutionary line, ancestors imported from America and Asia, then enslaved here to look pretty and clean the air a little. Allowed to live the way they wanted to live, as long as the way they wanted to live was the way they're wanted to live. Otherwise… first warning disfigurement, then capital punishment. Clean air obviously useful for human survival, while cityscape beauty had more elaborate reasoning. Dan thought he could probably look closer at a tree to observe more dimensions, and he'd probably see the same singular pattern over and over. Trees. Just another something trying to survive.
 
 Dan walked. He would look at a thing, deconstruct it to his reductive beliefs, then it lost all meaning. Dan walked on the brick-tiled walkway. The bricks wouldn't be here if they weren't useful. If there was something better, they'd be replaced. And the walkway too - if a road ought to be here, it would. Even the cool, humid air - if there was a stabler compound containing the same base elements, he'd be breathing that instead. Or not. He didn't exactly need to be here. Why exactly was he here, again? Ah, right - for the same reason as everything else. Like everything else, he was reducible to survival, which meant nothing in this infinite universe. He had lost all meaning.
 
-Village Elder ahead, it was just a glass wall in a vertical lake of glass walls. Sunlight and wind swept up waves of curling reflections and refractions. It had a puddle-sized tile at the ground level and Dan stepped in. Reception. No one there. It didn't look like anyone else was around because it didn't need to look like there was anyone else around. Instead, it felt like people were just about to be here. Things were just about to start and he was just about to be seen. Well-lit, sunlight pouring in, dynamic paintings on the walls, desk-drawers and standing cabinets half-open, platoon of chairs at attention - the room felt alive. A weekday 10am in the flesh, without the flesh. Behind a desk, there was a hallway of doors. Dan approached the desk and it visualized some instructions for him.
+Village Elder ahead, it was just one glass wall in a vertical lake of glass walls. Sunlight and wind swept up waves of curling reflections and refractions. It had a puddle-sized tile at the ground level and Dan stepped inside. Reception. No one there. It didn't look like anyone else was around because it didn't need to look like there was anyone else around. Instead, it felt like people were just about to be here. Things were just about to start and he was just about to be seen. Well-lit, sunlight pouring in, dynamic paintings on the walls, desk-drawers and standing cabinets half-open, platoon of chairs at attention. The room felt alive. A weekday 10am in the flesh, without the flesh. Behind a desk, there was a hallway of doors. Dan approached the desk and it visualized some instructions for him.
 
 ```
 Hello Dan. Welcome back to your local Village Elder. Please go down the hall to the first room on the right. A Village Elder will be with you shortly.
@@ -217,14 +231,14 @@ He gestured around, then continued,
 She pouted.
 "Painful feelings don't matter either, but you seem pretty obsessed with yours. We have to grow the ecosystem of beliefs in your brain, not burn the last of it down."
 
-Dan was a mix of furious and catatonic. He let himself go with it. However false they were, these emotions felt so much better than the empty ones he'd been smothered by all day. Dan smiled like a clown, crying with his eyes and smiling with his teeth. He spoke through his smiling teeth,
+Dan was a mix of furious and catatonic. He let himself go with them. However false they were, these emotions felt so much better than the empty ones he'd been smothered by all day. Dan smiled like a clown, crying with his eyes and smiling with his teeth. He spoke through his smiling teeth,
 “We're all just classifiers. Love is just set theory and romance is just a fairy tale to explain confusing pain and pleasure signals. Children are just new models with randomized weights we have to retrain and parenting is just retraining ourselves. Art and culture are just training data to share belief systems. Language is just a data transfer protocol. Religion is just some patterns that follow from an infectious belief system. Food is just fuel with complex pleasure signatures. Life is just an entropy-maximizing search algorithm and death is just a flat signal. Our purpose is to optimize for whatever meaningless beliefs-du-jour are in our head, which point in survival's general direction. Technology is just a way for life to happen faster. Meaning is just a brain-signal and mine is stuck at zero. It's all just matter being pushed around in the form of data and algorithms.”
 
 She looked through his eyes, all the way beyond him again.
 “It's all rather absurd, isn't it? Naming an idea makes it real enough, but when you look too close, it fades away. It's so easy to make anything unreal. But it seems like you're making the wrong things fade away, Dan. Do you really want me to feel the same way you feel? Will that make everything better?”
 
 She let him sit uncomfortably for a moment. Her gaze inspected him so closely that he felt himself fading away. She started again,
-“Nothing really matters in exactly the same way that anything can matter. It must feel like you have the answer and you know everything. It's ok Dan, that's completely normal, happens to lots of people. Soon enough you'll feel like you know nothing - life survives somewhere in-between. It's easy to tear things down like you just did, but you're only tearing apart your own mind. You have a false belief. You're a clever reductionist and you have a great mental model, very accurate, but you've confused it with reality. A long time ago, you would have claimed we're just software, longer ago you would have claimed we're just machines, and in ancient times you would have claimed we're just animals. Do you see the pattern? We are ideas and classifiers and software and machines and animals, but we're not *just* that. I'm glad you were able to identify and explain your feelings, though. That will speed up your treatment. You caught reductionist nihilism and identified a false belief at the root of most of your mind. That caused complications - you weren't able to transition your beliefs to something that made sense, so they evolved into reductionist absurdism, and now your whole belief system is based on something you know is false. You probably feel able to make decisions with certainty, and you're aware of your purpose, but you're certain that it's all false. That means there's no more space between things for you, nothing left to explore, and no fulfilling optimisation objectives. You've lost all meaning. What you have right now is not integrated enough. You need to re-establish a healthy ecosystem in your mind with new beliefs, corollaries, and purpose. Does that make sense to you, Dan?”
+“Nothing really matters in exactly the same way that any one thing can matter. It must feel like you have the answer and you know everything. It's ok Dan, that's completely normal, happens to lots of people. Soon enough you'll feel like you know nothing - life survives somewhere in-between. It's easy to tear things down like you just did, but you're only tearing apart your own mind. You have a false belief. You're a clever reductionist and you have a great mental model, very accurate, but you've confused it with reality. A long time ago, you would have said ‘we're just software’, longer ago you would have said ‘we're just machines’, and in ancient times you would have said ‘we're just animals’. Do you see the pattern? We are ideas and classifiers and software and machines and animals, but we're not *just* that. I'm glad you were able to identify and explain your feelings, though. That will speed up your treatment. You caught reductionist nihilism and identified a false belief at the root of most of your mind. That caused complications - you weren't able to transition your beliefs to something that made sense, so they evolved into reductionist absurdism, and now your whole belief system is based on something you know is false. You probably feel able to make decisions with certainty, and you're aware of your purpose, but you're certain that it's all false. That means there's no more space between things for you, nothing left to explore, and no fulfilling optimisation objectives. You've lost all meaning. What you have right now is not integrated enough. You need to re-establish a healthy ecosystem in your mind with new beliefs, corollaries, and purpose. Does that make sense to you, Dan?”
 
 Dan nodded. He didn't care. Nothing mattered, except maybe stopping brain cycles. Whatever put out his existential wildfires and stopped his mind from pointing out every single thing that doesn't matter. Every single thing, one-at-a-time, doesn’t matter... “Ahhh that makes sense now.” Dan thought to himself - he finally understood the purpose of suicide. Death is indeed a valid solution, although mostly suboptimal. He wondered, at what point does it become optimal?
 
@@ -233,25 +247,24 @@ Colour was leaving the room. Couch-chairs were losing the feeling of life. Docto
 
 “I'm not a child." Dan replied, "And how do you know what this feels like? You're like, half my age. How can you possibly teach me about what to believe or not believe. You don't have the life experience.”
 
-She was used to patients questioning her authority, especially when hearing things that were incompatible with their beliefs - which was often. She replied,
-“Medical doctors know more about your body than you do, even though they don't know exactly how it feels to have your body. I'm a belief-gardener. I know all the beliefs you can grow, all the experiential data that seeds them, and all their symptomatic purposes and behaviours. And yes, I don’t know exactly what it feels like to be you, but I have what’s needed to help you with your damaged beliefs."
+She was used to patients questioning her authority, especially when hearing things that were incompatible with their beliefs, which was often. She gave her canned response,
+“Medical doctors know more about your body than you do, even though they don't know exactly how it feels to have your body. I'm a belief-gardener. I know all the beliefs you can grow, all the experiential data that seeds them, and all their symptomatic purposes and behaviours. And yes, I don’t know exactly what it feels like to be you, but I have what’s needed to help you with your damaged ecosystem of beliefs."
 
 She changed her tone to be supportive again,
 "It's ok Dan. Look, you came here. Let's get on with why you're here. It's time to change you to be the way you want to be. Right now is a special time. Your beliefs are going to change and grow, and you'll be able to see them: the old ones and the silhouette of the new ones. Very quickly, though, you'll forget. You will forget what it feels like to believe your old ones. You will forget that you have any beliefs at all. So if you want to remember, store those thoughts and feelings outside of your brain, because it's designed to forget those things - it wouldn't work properly otherwise. We're going to grow a beautiful garden of beliefs inside of you."
 [french vs English schools of gardening]
 
 Dan became a bit calmer, still had some fight left. He said,
-"I think you're going to have to change something other than my beliefs. I don't see how this one can be false. Nothing matters. Maybe you can wash my brain and make me forget the past day. That could work."
+"I think you're going to have to change something other than my beliefs. Nothing matters. I don't see how that can be false. Maybe you can wash my brain and make me forget the past day. That could work."
 
 She started,
-"A helpful way to think about beliefs is that every belief is part-false. But each belief has different consequences of being part-false. Science calculates the cost of the false part of beliefs. Science is a data-driven risk management system for beliefs - a rather optimal tool for survival. Today, you acquired some beliefs, and you haven't applied much science to them, yet. Mainstream spiritual belief systems are established on low-consequence, untouched-by-science beliefs for their day-and-age, but those beliefs can become higher-consequence and explored-by-science over time. Especially as large structures of stories and corollaries are built on top a handful of innocent beliefs. Those beliefs start off filling in the gaps of data and understanding of their day-and-age. And they go on to conflict with the future reality they weren’t designed for. Most spiritual beliefs remain low-consequence, but a crack in the foundation can ruin the spiritual belief system. And a crack can be fixed by adding a new belief or removing an outdated one, followed by an expensive corollary refactor. And, of course, everything I just said is part-false too, but the consequences of the false parts are low right now."
-[change or delete]
+"All your beliefs are part-false, even that one. Each belief has different consequences of being part-false, and we have data-driven risk management systems for all that. But you don’t need science to see, ‘it really really matters that nothing really matters’ is an absurd belief to have.”
 
-"I'm not a spiritual person."
+"You just don’t get it."
 Dan grumbled.
 
 She started,
-"That's ok - we can change that if you'd like. Caramel tells me you've been here three times before, so you know you can have any belief you want. If you can't think of any, I can find one that's compatible with your remaining core beliefs that you can't see. But that will make you believe in me a little, so it's better if you pick yourself. It's time to plant your beliefs. So Dan, what do you want to believe in?”
+"That's ok - we can change that belief too if you'd like. Caramel tells me you've been here three times before, so you know you can have any belief you want. If you can't think of any, I can find some that's compatible with your remaining core beliefs that you can't see. But that will make you believe in me a little, so it's better if you pick yourself. It's time to plant your beliefs. So Dan, what do you want to believe in?”
 
 Dan thought about the people who had changed his life. He saw now that they were all aimless. There was one person, though...
 
@@ -273,7 +286,7 @@ She looked around distracted,
 The colour had completely left the room. Carpet dry and dead. Window looking empty. Sounds came through the door - shouting and metal scrapes and heavy things falling. Doctor K's face went white.
 "Ohmygod. Where did Caramel go? Where is he?"
 
-She looked behind her.
+She looked behind her and gasped,
 "Oh no, I left the door open."
 
 She ran out. Dan got up and leaned out the door. All the lobby chairs were in a pile, wrestling. Paintings were painting each other. The reception desk was tipped over, slamming drawers open and shut to get back up while a cabinet bounced on top slamming its drawers into the desk.
@@ -288,12 +301,12 @@ She screamed down the hallway, towards the other meeting's owner,
 
 "CARAMEL, REJOIN!"
 
-Life shot back to the room. She slammed the door. Everything inside was avoiding her. She walked towards a couch-chair to sit and it crawled away at the same pace. Dan tried to approach a couch-chair, but it turned away from seating him too. Room contents restacked itself in the corner.
+Life shot back to the room. She slammed the door. Everything inside avoided her. She walked towards a couch-chair to sit and it crawled away at the same pace. Dan tried to approach a couch-chair, but it turned away from seating him too. Room contents restacked itself in the corner.
 
 "I'm so bad to him. Look at what I've done. I shouted and I physically lashed out at him. He just triggers me, and it takes over. I can't help it. I love him too much and I hate it when he might get hurt. I just can't stand it."
 
 Doctor K held her face with her hands for a moment, golden rivers flowing over. Deep breath. Then flung back. She looked down, neutralized her expression, took a deep breath, and apologized, 
-"I'm so sorry. I'm so sorry about that. I hope you can forgive Caramel and me. I promise this doesn't happen every day. Let's get back to you, ok? Let's plant your beliefs! Ok so Dan, what do you want to believe?"
+"I'm so sorry. I'm so sorry about that. I hope you can forgive Caramel and me. I promise this doesn't happen every day. Caramel, ah. Ok. Let's get back to you, ok? Let's plant your beliefs! Ok so Dan, what do you want to believe?"
 
 "Whatever Elidad believed."
 Dan answered without thinking. This was a lot. He was numb and a bit unsure after being so sure and... anything concrete sounded great.
@@ -306,9 +319,9 @@ Doctor K turned and fed Caramel a treat of data, selecting Dan's treatment plan.
 
 "What's datacine?"
 Dan asked.
-
+[experiential data is a part-material, part-idea substance]
 She started again,
-"Experiential data medicine. Kind of like sentio but much more powerful - like the effects of drinking a cup of tea compared to skydiving. Or a nice lullaby compared to morphine. Datacines combine artificial sensory inputs with real-world physical events to make it feel more real than reality. It's one thing to be aware of an experiential dataset (a human experience). It's quite another to have the dataset loaded in-brain and cementing foundational beliefs. Take the datacine, "losing a loved one". You can watch someone else lose a loved one, but all you see is what happens on the outside of the person - and you mostly just learn that this kind of deep intensity of feeling is possible. You yourself losing a loved one is what will make you stop believing in the vague stories of loss in your imagination and start believing in your new reality that actually has those internal feelings. I'm sure you were aware of the datacine, "nothing really matters" long before you experienced it today. I'm sure you watched people say "nothing really matters", and observed their expressions and tone of voice when they said it. It's very different loaded in-brain, isn't it?"
+"Experiential data medicine. Kind of like sentio but much more powerful - like skydiving compared to a sip of warm tea. Or morphine compared to a nice lullaby. Datacines combine artificial sensory inputs with real-world physical events to make it feel more real than reality. It's one thing to be aware of an experiential dataset (a human experience). It's quite another to have the dataset loaded in-brain and cementing foundational beliefs. Take the datacine, "losing a loved one". You can watch someone else lose a loved one, but all you see is what happens on the outside of the person - and you mostly just learn that this kind of deep intensity of feeling is possible. You yourself losing a loved one is what will make you stop believing in the vague stories of loss in your imagination and start believing in your new reality that actually has those internal feelings. I'm sure you were aware of the datacine, "nothing really matters" long before you experienced it today. I'm sure you watched people say "nothing really matters", and observed their expressions and tone of voice when they said it. It's very different loaded in-brain, isn't it?"
 
 So Dan, what do you want to believe?"
 
@@ -339,7 +352,7 @@ The whole room danced in excitement. The totempole toppled over and the chairs s
 "No questions. All ok, it makes sense."
 Dan said. At this point, anything was whatever to him. 
 
-What looked like a fighter jet's cockpit brought itself into the room. A datacine machine. It was the size of the building's soul, with an exterior that could believe in love. Had enough technology strapped in under the hood to run whatever simulation it existed in. And a fluffy, caramel-coloured lay-back seat.
+What looked like a fighter jet's cockpit brought itself into the room. A datacine machine. It was the size of the building's soul, with a body-surface that could believe in love. Had enough technology strapped in under the hood to run whatever simulation it existed in. And a fluffy, caramel-coloured lay-back seat.
 
 Doctor K gestured to it,
 "Can you please lay down in there, Dan?"
@@ -353,9 +366,7 @@ A tray beside Dan presented two pills and a cup of water. Doctor K started,
 Dan took the pills and thought,
 "Nothing really matters. I may as well believe."
 
-Dan put the pills in his mouth along with a mouthful of water and swallowed. The datacine machine began taking hold of his reality. He eased into it all. Happy to let these ideas of him die, letting new ideas of him take root. Wondering what Elidad believed, what he was about to believe. Probably some naive, mostly false spiritual construction. But at least it was something and not nothing. At least he could change again, the next time something turned into nothing. Such bliss.
-
----
+Dan put the pills in his mouth along with a mouthful of water and swallowed. The datacine machine began taking hold of his reality. He eased into it all. Happy to let these ideas of him die, letting new ideas of him take root. Wondering what Elidad believed, what he was about to believe. Probably some naive, mostly false spiritual construction. But at least it was something and not nothing. At least he knew he could change again, the next time something turned into nothing. Such bliss.
 
 ## Notes
 

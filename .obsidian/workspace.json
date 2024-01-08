@@ -8,55 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f19f75de7f08b3a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2023-11-25-place-in-the-universe-skills.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1dd4a40136aa8319",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_drafts/tabum/1-1-1-assimilation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "44e37c634b3f4078",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_drafts/tabum/1-3-1-department-of-life.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0fa7f502bf6cb9f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_drafts/tabum/1-1-3-what-ais-love.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fictional b",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -130,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_drafts/tabum/1-1-3-what-ais-love.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_drafts/tabum/1-1-3-what-ais-love.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_drafts/tabum/1-1-3-what-ais-love.md"
+                "file": "README.md"
               }
             }
           },
@@ -180,7 +143,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -203,41 +168,46 @@
   },
   "active": "0fa7f502bf6cb9f9",
   "lastOpenFiles": [
-    "_posts/2023-11-25-place-in-the-universe-skills.md",
+    "_posts/3-Descartes.md",
+    "shorts.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "Untitled.canvas",
+    "Tabum TODO.md",
+    "_drafts/tabum/1-2-relationships-live.md",
+    "2.1.1-price-of-power.md",
+    "2022-10-09.md",
+    "2023-09-11.md",
+    "2023-09-10-plato.md",
+    "_posts/2023-01-07-after-together.md",
+    "_drafts/2020-06-05-after-together.md",
+    "_posts/1-Plato.md",
+    "_drafts/2023-11-15-star-of-freedom.md",
+    "_posts/2022-09-11-negative-planning.md",
+    "_posts/2022-09-04-duke-of-intent.md",
+    "_posts/2023-01-01-philosophy-study.md",
+    "_drafts/tabum/1-1-1-assimilation.md",
+    "_drafts/tabum/1-4-measured-purpose.md",
     "_drafts/tabum/1-1-3-what-ais-love.md",
     "_drafts/tabum/0-minimum-viable-purpose.md",
-    "_drafts/tabum/Fictional belief system.md",
-    "_drafts/tabum/1-4-measured-purpose.md",
-    "_drafts/tabum/1-3-1-department-of-life.md",
-    "_drafts/tabum/1-1-1-assimilation.md",
+    "_posts/2-Aristotle.md",
+    "_drafts/tabum/outputs/output-2023-12-20.docx",
+    "_drafts/tabum/outputs/output-2023-12-20.md",
+    "_drafts/tabum/assets/nn_love_labelled.png",
+    "_drafts/tabum/assets/nn_with_idea_of_me_and_family.png",
+    "_drafts/tabum/assets/blank_neural_network.png",
+    "_drafts/tabum/assets/neural_network_description.png",
+    "_drafts/tabum/assets",
     "_posts/2023-08-24-philosophy-study.md",
-    "_posts/2023-12-01-suboptimal-ideal.md",
-    "_drafts/tabum/1-2-relationships-live.md",
+    "_drafts/tabum/1-3-1-department-of-life.md",
     "_drafts/tabum/1-1-2-li.md",
-    "_drafts/tabum/1-5-2-lc.md",
-    "_drafts/tabum/1-3-2-sli.md",
-    "_drafts/tabum/automate_me/automate-me.md",
+    "_drafts/tabum/outputs/output-2023-12-13.docx",
+    "_drafts/tabum/outputs/output-2023-12-10-paula.docx",
+    "_drafts/tabum/outputs/output-2023-12-11.docx",
+    "_drafts/tabum/outputs/output-2023-12-10.docx",
     "_drafts/tabum/outputs/output-2023-11-24.docx",
-    "_drafts/tabum/outputs/output-2023-11-24.md",
     "_drafts/tabum/credentials.json",
     "_drafts/tabum/tabum-406117-58aefcc4b2c9.json",
-    "_drafts/tabum/upload_to_google_drive.py",
-    "_drafts/tabum/Makefile",
-    "_drafts/tabum/requirements.txt",
-    "_drafts/tabum/upload_to_google.py",
-    "_drafts/tabum/automate_me/rokos-basilisk-farm.md",
-    "_drafts/tabum/2-2-pomegranates.md",
-    "_posts/2020-05-25-how-i-speak-product.md",
-    "_drafts/tabum/outputs/output-2023-11-22.md",
-    "_posts/2023-11-15-suboptimal-ideal.md",
-    "_drafts/2023-11-15-star-of-freedom.md",
-    "_posts/2023-11-15-shape-of-not-you.md",
-    "_drafts/tabum/1-5-1-meditation-is-for.md",
-    "_drafts/tabum/2-1-simulate-me.md",
-    "_drafts/tabum/external_talks_marketing.md",
-    "_drafts/2024-01-07-autobiography.md",
-    "Untitled.canvas",
-    "_drafts/tabum/combine_all.py",
-    "_drafts/tabum/outputs"
+    "_drafts/tabum/upload_to_google_drive.py"
   ]
 }

@@ -18,7 +18,14 @@ def combine(f):
             mvp.write(line)
 
 combine(base)
-pypandoc.convert_file(file_name, 'docx', outputfile=file_name.replace(".md", ".docx"))
+pypandoc.convert_file(file_name, 'docx', outputfile=file_name.replace(".md", ".docx"), extra_args = [
+'-V',
+'mainfont="Times New Roman"',
+#'-f',
+#'commonmark_x',
+'--lua-filter',
+'/Users/Douglas.Hindson/workspace/pagebreak/pagebreak.lua'
+])
 
 base.close()
 mvp.close()

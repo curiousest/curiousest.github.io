@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Philosophy study
-date: 2024-02-17T16:50:00.000-05:00
+date: 2024-02-08T16:50:00.000-05:00
 author: Douglas Hindson
 tags:
   - philosophy
   - blog
-modified_time: 2024-02-17T16:50:47.073-05:00
+modified_time: 2024-02-08T16:50:47.073-05:00
 ---
 I'm taking a sabbatical to study philosophy and write a book. I plan on returning to industry after.
 ## why

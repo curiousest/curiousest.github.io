@@ -1,3 +1,13 @@
+---
+layout: post
+title: Descartes study notes
+date: '2024-01-25T16:50:00.000-05:00'
+author: Douglas Hindson
+tags:
+- notes
+- philosophy
+modified_time: '2024-01-25T16:50:47.073-05:00'
+---
 ## materials
 
 ### background & overview

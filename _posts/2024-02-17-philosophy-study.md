@@ -1,26 +1,33 @@
-
+---
+layout: post
+title: Philosophy study
+date: 2024-02-17T16:50:00.000-05:00
+author: Douglas Hindson
+tags:
+  - philosophy
+  - blog
+modified_time: 2024-02-17T16:50:47.073-05:00
+---
 I'm taking a sabbatical to study philosophy and write a book. I plan on returning to industry after.
-
 ## why
-
 A little story:
 
-> Once upon a time, there was someone who constantly tapped their fingers, hands, and feet all their life. They listened to music, and tapping is part of that, but producing commercial music never seemed interesting. Music seemed to be made mostly of non-tapping, uninteresting things. And so they began a career in dance - far more tapping involved.
+> Once upon a time, there was a person who constantly tapped their fingers, hands, and feet. They listened to music, and tapping is part of that, but producing commercial music never seemed interesting. Music seemed to be made mostly of non-tapping, uninteresting things. And so they began a career in dance - far more tapping involved.
 > 
 > One year in adulthood, they came to realize that there’s a whole history and discipline behind the tapping they’ve been doing their whole life. And that discipline is a component of music, a part of dance, but the discipline can be explored on its own.
 
-Philosophy is like that for me. It’s a bit of a spiritual journey, a mental pilgrimage. Achieving something concrete so I can resume all the other aspects of life I put on hold.
+Philosophy is like that for me. It’s a bit of a spiritual journey, a mental pilgrimage. I feel a need to achieve something personal and concrete in this space before I can resume all the other aspects of life I put on hold.
 
 And I can probably reason my way into clever arguments about how it will be professionally useful, saying catchy things like:
 - “it’s similar to an MBA, but for sharpening my technical abilities, so I can see the truth through the industry and corporate noise”
 - “if I have the tools to think about the purpose of the systems themselves, I’ll be more performant at understanding and building them”
 
-Maybe, and that’d make this more relatable to others. But the story above is what’s up.
+Maybe, and that’d make this more relatable to others. But the story up above is what’s up.
 ## how
-
-Consume one or two works from ~20 philosophers. 
-
-Online philosophy courses don't look quite right to me - like they're made for people who have to be convinced to study and taught how to. This [this quora post](https://qr.ae/py6yGR) seems reasonable, and I double-checked with professor friends who said it’s a sensible series. Maybe an ambitious series.
+1. Consume one or two works from ~20 philosophers.
+2. Spend most of my time reading and writing for the next year or so.
+### consume
+In-person philosophy courses look very long and expensive and career-oriented. Online philosophy courses don't look quite right to me - like they're made for people who have to be convinced to study and have their hand held along the way. Holding hands can be very fulfilling, but it’d holds me back from sprinting and dancing the way I’d like. This [this quora post](https://qr.ae/py6yGR) seems reasonable, and I double-checked with professor friends who said, “it’s a sensible series, maybe overambitious.” Perfect.
 
 <details>
 
@@ -171,23 +178,34 @@ While I should think there is enough of material above for years of philosophy, 
 - W. V. Quine: “Two Dogmas of Empiricism”. Quick and dirty, this little essay packs a bigger punch than most books. Brought down logical empiricism and defined the course of analytic philosophy for decades.
 - Jean-Paul Sartre: Being and Nothingness. Because nothing beats being like Being and Nothingness! Well, Existentialism is a Humanism just might, so keep that in mind too.
 
-</details>
+---
 
-Also:
+Also, I plan on reading some:
 - Foucault
 - Delause
 - Sartre
 
-I've also bumped into [The Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/index.html) a couple times and saw it recommended. For my learning style, I think I'll be following roughly the same process for every piece:
+</details>
+
+For my learning style, I think I'll be following roughly the same process for every work.
+
+[Here's an example, where I studied J. J. Rousseau & "The Social Contract"](2024-02-08-Rousseau-study-notes).
 
 1. Get the gist of it.
-	1. Read one or more summaries of the piece.
-	2. Browse wikipedia articles for the author and their context.
-	3. See what happened downstream - who built on top of it, who disagreed.
+	1. Understand the philosopher. Where they came from, who came before them, the outline of their main ideas, agreements/disagreements after them. Wikipedia, YouTube lectures, [Encyclopaedia](https://plato.stanford.edu/index.html) entries, etc.
+	2. Look at the outline of the piece. Wikipedia, YouTube lectures, Encyclopaedia entries, etc.
 2. Consume it.
 	1. Some things are hard to consume. 🧘‍♂️
 	2. The style and medium is part of the message.
+	3. [This video](https://m.youtube.com/watch?v=uiNB-6SuqVA&list=PL7YPshZMeLIa2KksLNqmWx_SANbSjaUbU&index=9&pp=iAQB) really helped me understand how to retain information while reading.
 3. Produce something from it.
-	1. Explaining a thing clarifies thinking.
-	2. Trying to break a thing shows you its boundaries.
-	3. Playing with a thing helps you discover what it's useful for.
+	1. I write notes as I read, summarizing each section.
+	2. I explain key concepts I’m excited about to friends/family around.
+	3. I update parts of the book I’m writing.
+	4. I take note of new ideas that inspired me, from what I read.
+### live
+Staying in London doesn’t feel right for this endeavour. I have the wrong habits here for this kind of thing, and I now have significant physical freedom. [I already did the "backpack across the world" thing](2013-08-23-itinerary), and that doesn't feel right either - I don't want to be distracted by *everything*.
+
+I plan on visiting family and friends for long stretches, ideally a month or so in different spots with short transitional stops. First visiting Vienna, then eventually making my way to Germany. I plan on spending the summer in Canada.
+
+I don’t really know how this next year will go. But my last two years have been so full of rapid personal development, that I hope this year cements all that into foundations for new dimensions of growth.

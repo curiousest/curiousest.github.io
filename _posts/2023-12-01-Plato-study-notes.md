@@ -1,4 +1,13 @@
-
+---
+layout: post
+title: Plato study notes
+date: 2023-12-01T16:50:00.000-05:00
+author: Douglas Hindson
+tags:
+  - notes
+  - philosophy
+modified_time: 2023-12-01T16:50:47.073-05:00
+---
 # overview
 
 

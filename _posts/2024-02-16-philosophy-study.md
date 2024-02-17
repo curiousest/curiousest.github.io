@@ -1,22 +1,22 @@
 ---
 layout: post
 title: Philosophy study
-date: 2024-02-08T16:50:00.000-05:00
+date: 2024-02-16T16:50:00.000-05:00
 author: Douglas Hindson
 tags:
   - philosophy
   - blog
-modified_time: 2024-02-08T16:50:47.073-05:00
+modified_time: 2024-02-16T16:50:47.073-05:00
 ---
-I'm taking a sabbatical to study philosophy and write a book. I plan on returning to industry after.
+I'm taking a year to study philosophy and write a book. I plan on returning to industry after.
 ## why
 A little story:
 
-> Once upon a time, there was a person who constantly tapped their fingers, hands, and feet. They listened to music, and tapping is part of that, but producing commercial music never seemed interesting. Music seemed to be made mostly of non-tapping, uninteresting things. And so they began a career in dance - far more tapping involved.
+> Once upon a time, there was a person who constantly tapped their fingers, hands, and feet. They listened to music, and tapping is part of that, but producing commercial music never seemed interesting. Music seemed to be made mostly of non-tapping things. And so they began a career in dance - far more tapping involved.
 > 
 > One year in adulthood, they came to realize that there’s a whole history and discipline behind the tapping they’ve been doing their whole life. And that discipline is a component of music, a part of dance, but the discipline can be explored on its own.
 
-Philosophy is like that for me. It’s a bit of a spiritual journey, a mental pilgrimage. I feel a need to achieve something personal and concrete in this space before I can resume all the other aspects of life I put on hold.
+Philosophy is like that for me. It’s a bit of a spiritual journey, a mental pilgrimage. I have this feeling that I should achieve something personal and concrete in this space before resuming all the other aspects of life I put on hold.
 
 And I can probably reason my way into clever arguments about how it will be professionally useful, saying catchy things like:
 - “it’s similar to an MBA, but for sharpening my technical abilities, so I can see the truth through the industry and corporate noise”
@@ -204,8 +204,8 @@ For my learning style, I think I'll be following roughly the same process for ev
 	3. I update parts of the book I’m writing.
 	4. I take note of new ideas that inspired me, from what I read.
 ### live
-Staying in London doesn’t feel right for this endeavour. I have the wrong habits here for this kind of thing, and I now have significant physical freedom. [I already did the "backpack across the world" thing](2013-08-23-itinerary), and that doesn't feel right either - I don't want to be distracted by *everything*.
+Staying in London doesn’t feel right for this. I have the wrong habits here for this kind of thing, and I now have significant physical freedom. [I already did the "backpack across the world" thing](2013-08-23-itinerary), and that doesn't feel right either - I don't want to be distracted by *everything*.
 
-I plan on visiting family and friends for long stretches, ideally a month or so in different spots with short transitional stops. First visiting Vienna, then eventually making my way to Germany. I plan on spending the summer in Canada.
+I plan on visiting family and friends for long stretches, ideally a month or so in different spots with short transitional stops. First visiting Vienna, then eventually making my way to Germany. I plan on spending the summer at my family cottage in Canada, and hitting up Toronto/Waterloo/California.
 
 I don’t really know how this next year will go. But my last two years have been so full of rapid personal development, that I hope this year cements all that into foundations for new dimensions of growth.

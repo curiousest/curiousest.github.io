@@ -18,7 +18,7 @@ modified_time: '2024-02-08T16:50:47.073-05:00'
 	* https://plato.stanford.edu/entries/rousseau/
 * Videos
 	* [POLITICAL THEORY – Jean-Jacques Rousseau](https://www.youtube.com/watch?v=81KfDXTTtXE "POLITICAL THEORY – Jean-Jacques Rousseau")
-	* [Jean-Jacques Rousseau - The Social Contract | Political Philosophy](https://www.youtube.com/watch?v=ACAIasysHj4 "Jean-Jacques Rousseau - The Social Contract | Political Philosophy")
+	* [Jean-Jacques Rousseau - The Social Contract Political Philosophy](https://www.youtube.com/watch?v=ACAIasysHj4 "Jean-Jacques Rousseau - The Social Contract Political Philosophy")
 	* [Introduction to Rousseau: The Social Contract](https://www.youtube.com/watch?v=qvjrE5nc4xs "Introduction to Rousseau: The Social Contract")
 ### books
 * https://www.gutenberg.org/cache/epub/46333/pg46333-images.html#CONTENTS

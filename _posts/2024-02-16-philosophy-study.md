@@ -29,7 +29,7 @@ Maybe, and that’d make this more relatable to others. But the story up above i
 
 ### consume
 
-In-person philosophy courses look very long and expensive and career-oriented. Online philosophy courses don't look quite right to me - like they're made for people who have to be convinced to study and have their hand held along the way. Holding hands can be very fulfilling, but it’d holds me back from sprinting and dancing the way I’d like. This [this quora post](https://qr.ae/py6yGR) seems reasonable, and I double-checked with professor friends who said, “it’s a sensible series, maybe overambitious.” Perfect.
+In-person philosophy courses look very long and expensive and career-oriented. Online philosophy courses don't look quite right to me - like they're made for people who have to be convinced to study and have their hand held along the way. Holding hands can be very fulfilling, but it’d hold me back from sprinting and dancing the way I’d like. This [this quora post](https://qr.ae/py6yGR) seems reasonable, and I double-checked with professor friends who said, “it’s a sensible series, maybe overambitious.” Perfect.
 
 <details>
 
@@ -194,8 +194,8 @@ For my learning style, I think I'll be following roughly the same process for ev
 [Here's an example, where I studied J. J. Rousseau & "The Social Contract"](2024-02-08-Rousseau-study-notes).
 
 1. Get the gist of it.
-	1. Understand the philosopher. Where they came from, who came before them, the outline of their main ideas, agreements/disagreements after them. Wikipedia, YouTube lectures, [Encyclopaedia](https://plato.stanford.edu/index.html) entries, etc.
-	2. Look at the outline of the piece. Wikipedia, YouTube lectures, Encyclopaedia entries, etc.
+	1. Understand the philosopher. Where they came from, who came before them, the outline of their main ideas, agreements/disagreements after them. Wikipedia, YouTube lectures, [Encyclopedia](https://plato.stanford.edu/index.html) entries, etc.
+	2. Look at the outline of the piece. Wikipedia, YouTube lectures, Encyclopedia entries, etc.
 2. Consume it.
 	1. Some things are hard to consume. 🧘‍♂️
 	2. The style and medium is part of the message.
@@ -210,4 +210,4 @@ Staying in London doesn’t feel right for this. I have the wrong habits here fo
 
 I plan on visiting family and friends for long stretches, ideally a month or so in different spots with short transitional stops. First visiting Vienna, then eventually making my way to Germany. I plan on spending the summer at my family cottage in Canada, and hitting up Toronto/Waterloo/California.
 
-I don’t really know how this next year will go. But my last two years have been so full of rapid personal development, that I hope this year cements all of it into foundations for new dimensions of growth.
+I don’t really know how this next year will go. But my last two years have been so full of rapid personal development, that I hope this year cements all of it into foundations for new.

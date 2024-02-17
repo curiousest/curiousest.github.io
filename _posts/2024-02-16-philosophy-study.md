@@ -26,7 +26,9 @@ Maybe, and that’d make this more relatable to others. But the story up above i
 ## how
 1. Consume one or two works from ~20 philosophers.
 2. Spend most of my time reading and writing for the next year or so.
+
 ### consume
+
 In-person philosophy courses look very long and expensive and career-oriented. Online philosophy courses don't look quite right to me - like they're made for people who have to be convinced to study and have their hand held along the way. Holding hands can be very fulfilling, but it’d holds me back from sprinting and dancing the way I’d like. This [this quora post](https://qr.ae/py6yGR) seems reasonable, and I double-checked with professor friends who said, “it’s a sensible series, maybe overambitious.” Perfect.
 
 <details>
@@ -208,4 +210,4 @@ Staying in London doesn’t feel right for this. I have the wrong habits here fo
 
 I plan on visiting family and friends for long stretches, ideally a month or so in different spots with short transitional stops. First visiting Vienna, then eventually making my way to Germany. I plan on spending the summer at my family cottage in Canada, and hitting up Toronto/Waterloo/California.
 
-I don’t really know how this next year will go. But my last two years have been so full of rapid personal development, that I hope this year cements all that into foundations for new dimensions of growth.
+I don’t really know how this next year will go. But my last two years have been so full of rapid personal development, that I hope this year cements all of it into foundations for new dimensions of growth.

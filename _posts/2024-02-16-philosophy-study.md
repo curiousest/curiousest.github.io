@@ -355,6 +355,7 @@ For my learning style, I think I'll be following roughly the same process for ev
 	2. I explain key concepts I’m excited about to friends/family around.
 	3. I update parts of the book I’m writing.
 	4. I take note of new ideas that inspired me, from what I read.
+
 ### live
 
 Staying in London doesn’t feel right for this. I have the wrong habits here for this kind of thing, and I now have significant physical freedom. [I already did the "backpack across the world" thing](2013-08-23-itinerary), and that doesn't feel right either - I don't want to be distracted by *everything*.

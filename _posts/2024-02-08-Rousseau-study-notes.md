@@ -36,6 +36,7 @@ modified_time: '2024-02-08T16:50:47.073-05:00'
 * People are inherently good, but they have to band together and that corrupts them. They should should be positioned such that they act in their personal interest when they're acting in the best interests of the nation.
 * All parts of the nation are constantly subject to change, and the nation itself will eventually die out.
 * The relationship between this framework and religion was incredibly interesting. And the division of religion from politics with the monotheistic religions through this lens.
+# reading notes
 ## the social contract
 
 ### book 1

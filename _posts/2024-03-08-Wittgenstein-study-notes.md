@@ -61,7 +61,7 @@ Studied for 3wks, from Feb 17 -> Mar 8. In a Vienna University library and my au
 
 * Philosophy as therapy for ideas/thoughts/discussions.
 * Atomicism vs. Ecosystem in ideas/thought/logic
-* Express by showing rather than saying. Messages are embedded in the process of building it all up, then tearing it all down.
+* Express by showing rather than saying. Messages are embedded in the process of building it all up, then tearing it all down. Ladder metaphor.
 * Language is an emergent, living, contextual phenomenon.
 ### tractatus
 

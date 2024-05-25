@@ -10,7 +10,7 @@ tags:
 modified_time: '2019-06-17T00:00:00.001-05:00'
 ---
 
-I have a friend who is small. One evening walking on busy streets, I noticed that people kept bumping into her like a toy boat in rapids, smashing into rocks.
+I have a friend who is small. One evening walking on busy streets, I noticed that people kept bumping into her like she was a toy boat in rapids, smashing into rocks.
 
 “You seem to be getting really unlucky - everyone is running into you.”
 

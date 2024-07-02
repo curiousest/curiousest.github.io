@@ -7,6 +7,7 @@ tags:
   - short
   - parable
   - essay
+  - favourite
 modified_time: 2019-07-01T00:00:00.001-05:00
 ---
 Here is an excerpt from [a post](2013-08-28-one-day-of-travel) I wrote ten years ago, describing my travel between two cities in Indonesia:
@@ -39,4 +40,4 @@ I told this story to someone and they said to me,
 
 "Remember that feeling you had there? That's often how women feel around men."
 
-It's a not-quite-safe feeling. Where you know you can trust 99.9% of people, but you still have to compensate for that rare evildoer, and you end up profiling and treating some good people like potential threats. You make decisions based on your gut instinct.
+For me, it was a not-quite-safe feeling. Where I knew I could trust the vast majority of people, but I still had to compensate for that rare evildoer, and I ended up profiling and treating some good people like potential threats. I made decisions based on my gut instinct and initially rejected everyone who initiated interactions with me. I wanted someone to go with, but I had to figure out who to trust. The ones with the most to gain from me were the ones who were willing to do the worst things to me.

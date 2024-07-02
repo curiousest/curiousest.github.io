@@ -1,13 +1,14 @@
 ---
 layout: post
 title: A Parable - Patriarchy Chicken
-date: '2019-05-30T00:00:00.001-05:00'
+date: 2019-05-30T00:00:00.001-05:00
 author: Douglas Hindson
-tags: 
-- short
-- parable
-- essay
-modified_time: '2019-06-17T00:00:00.001-05:00'
+tags:
+  - short
+  - parable
+  - essay
+  - favourite
+modified_time: 2019-06-17T00:00:00.001-05:00
 ---
 
 I have a friend who is small. One evening walking on busy streets, I noticed that people kept bumping into her like she was a toy boat in rapids, smashing into rocks.

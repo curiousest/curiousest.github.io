@@ -8,7 +8,7 @@ tags:
   - story
 modified_time: 2024-07-20T00:00:00.001-05:00
 ---
-These days I'm up at the family cottage, studying Kant and writing. My dad comes up on the weekends and this Friday after dinner, my dad, his partner, and I were sitting around the table, playing cards and eating candy. We were trying to figure out what flavours were in the candy.
+These days I'm up at the family cottage, studying Kant and writing. My dad comes up on the weekends and this Friday after dinner, my dad, his partner, and I were sitting around the table, playing cards and eating candy. Conversation shifted to figuring out what flavours were in the candy.
 
 <img src="https://i.imgur.com/aLfkxH2.png">
 

@@ -8,9 +8,9 @@ tags:
   - story
 modified_time: 2024-07-20T00:00:00.001-05:00
 ---
-Microsoft Google and strawberry liquorice. They're the same, but they're also different. 
+These days I'm up at the family cottage, studying Kant and writing. My dad comes up on the weekends and this Friday after dinner, my dad, his partner, and I were sitting around the table, playing cards and eating candy. We were trying to figure out what flavours were in it.
 
-These days I'm up at the family cottage, studying Kant. My dad comes up on the weekends and this Friday after dinner, my dad, his partner, and I were sitting around the table, playing cards and eating candy. We were trying to figure out what flavours were in it.
+<img src="https://i.imgur.com/aLfkxH2.png">
 
 "Is it green apple liquorice? Mmm, maybe it's guava liquorice." 
 
@@ -20,24 +20,24 @@ These days I'm up at the family cottage, studying Kant. My dad comes up on the w
 
 "There's cola in there somewhere, and red ones are strawberry liquorice."
 
-"Strawberry liquorice, green apple liquorice, guava liquorice, cola liquorice. They don't mean anything!"
+"Strawberry liquorice, green apple liquorice, guava liquorice, cola liquorice. They don't mean anything!" my dad said.
 
-My dad said. I felt a tickle in the back of my mind that the words were wrong, I could see what he meant. What's wrong with "strawberry liquorice"? We thought about it for a minute and came up with the answer:
+I could see what he meant, I felt a tickle in the back of my mind that the words were wrong. What's wrong with "strawberry liquorice"? We thought about it for a minute and came up with the answer:
 
 1. Liquorice is a *plant*.
-2. Liquorice is a *flavour* named after the plant. The flavour became so popular that people may not know it's a plant.
-3. Liquorice is a *kind of candy* named after the flavour (a particular shape and consistency). The candy became popular enough that people may not know that it's a flavour.
+2. Liquorice is a *flavour* named after the plant.
+3. Liquorice is a *kind of candy* named after the flavour (a particular shape and consistency).
 4. Strawberry is a *fruit*.
 5. Strawberry is a *flavour* named after the fruit.
 6. "Strawberry liquorice" is a strawberry-flavoured version of the liquorice kind of candy.
 
-And the "problem" is, strawberry and liquorice are exactly the same "kind" of thing (a flavour), so naming something using those two words together can mean different things to different people. When one person says it to mean, "strawberry (flavour) + **liquorice (kind of candy)**", and the other person hears "strawberry (flavour) + **liquorice (flavour)**", the listener experiences confusion. "Strawberry liquorice" can sound almost like "Ireland Argentina", "air water", or "ear eye".
+The "problem" is that using those two words together can mean different things to different people. When one person says it to mean, "strawberry (flavour) + **liquorice (kind of candy)**", and the other person hears "strawberry (flavour) + **liquorice (flavour)**", the listener will be confused. "Strawberry liquorice" can sound almost like "Ireland Argentina", "air water", or "ear eye".
 
-Now that we figured out what was wrong, I said,
+Now that we had figured out what was wrong, I said,
 
 "I wonder what else is like strawberry liquorice..."
 
-We thought about it for a few minutes, and I can't say what was going on in my mind because it felt like meditation, not computation, but I came up with an answer,
+We thought about it for a few minutes, and I can't say what was going on in my mind because it felt more like meditation than computation, but I came up with an answer,
 
 "I have one! Ok, it'd be like **to Microsoft Google**. You know, to Google something on the internet, but with Microsoft's search engine."
 
@@ -45,18 +45,18 @@ We thought about it for a few minutes, and I can't say what was going on in my m
 <summary>Microsoft Google analysis (click to expand)</summary>
 
 1. Google is a tech *company*.<br/>
-2. Google is a *search engine* product named after the company. The *search engine* became so popular that some people may not think about how it's a company too.<br/>
+2. Google is a *search engine* product named after the company.<br/>
 3. Google is a *verb* named after the product that means "to search using a search engine".<br/>
 4. Microsoft is a tech *company*.<br/>
 5. Microsoft has a *search engine* product called Bing, not Microsoft.<br/>
 6. Microsoft Google could be a *verb* that means, "to search using Microsoft's search engine".
 </details>
 
-So Microsoft Google and strawberry liquorice are the same. Yes, they're the same, but they're also different, and not in the trivial, "made of different letters" kind of way. They're so different that you, dear reader, probably thought that "Microsoft Google and strawberry liquorice" was a typo in the title of this article, but it's not "**Microsoft, Google, and strawberry liquorice**", it's "**Microsoft Google** and **strawberry liquorice**"! Back to our conversation - we had established how they're the same, but now - how are they not the same? I had a couple of guesses:
+So Microsoft Google and strawberry liquorice are the same. Yes, they're the same, but they're also different, and not in the trivial, "made of different letters" kind of way. They're so different that the title of this article "Microsoft Google and strawberry liquorice" looks like it has a typo, but it's not "**Microsoft, Google, and strawberry liquorice**", it's "**Microsoft Google** and **strawberry liquorice**"! Back to our conversation - we had established how they're the same, but now - how are they not the same? I had a couple of guesses:
 
 <details>
 <summary>Strength of association (click to expand)</summary>
-When you hear the word, "Microsoft", you don't think, "search engine product", so no one is going to hear "Microsoft Google" and think *search engine + verb*. When you hear the word "strawberry", you do think "flavour", so people could legitimately hear "strawberry liquorice" and think either *flavour + kind of candy* or *flavour + flavour*. 
+When you hear the word, "Microsoft", you don't think, "search engine product", so no one is going to hear "Microsoft Google" and think *search engine + verb* or *search engine + search engine*. When you hear the word "strawberry", you do think "flavour", so people could legitimately hear "strawberry liquorice" and think either *flavour + kind of candy* or *flavour + flavour*. 
 </details>
 
 <details>
@@ -70,13 +70,13 @@ To Uber, to Deliveroo, to Xerox, to Skype, to Tinder, to Instagram... There are 
 Whereas for "plant -> flavour -> type of candy", I could only find two examples with some after-the-conversation help from ChatGPT - *mint* and *cola* (cola is a kind of beverage, not candy). ChatGPT also suggested *vanilla*, which feels similarly rare "plant -> flavour -> type of choice" (vanilla is a plain, default, inoffensive type of choice).
 </details>
 
-"Ok, so how would AI be able to do that?"
+"Ok, so how would AI be able to do that?" my dad said.
 
-My dad said. It was a vague question that seemed like an intractable problem, but after a few minutes, I landed on this. This is what I thought "an AI" would need:
+It was a vague question that seemed like an intractable problem, but after a few minutes, I landed on this. This is what I thought "an AI" would need:
 
-1. Problem intuition - *something is wrong*. First, when we said "strawberry liquorice", my dad had the feeling that something was wrong. A problem to be solved.
+1. Problem intuition - *something is wrong*. First, when we said "strawberry liquorice", my dad had the feeling that something was wrong. There was a problem to be solved.
 2. Triage - *it has to do with the word having multiple meanings*. Our snap judgement within a few seconds to a minute. 
-3. Diagnosis - *it has to do with multiple words having multiple meanings that cause little or lots of conflict depending on your perspectives*. We analyzed where the words came from and what led to "the problem". We imagined other examples to test out our theory of what happened, then analyzed those examples too.
+3. Diagnosis - *it has to do with multiple words having multiple meanings that can combine to make no sense depending on your perspectives*. We analyzed where the words came from and what led to "the problem". We imagined other examples to test out our theory of what happened, then analyzed those examples too.
 
 What struck me from that answer was how difficult the first step was to replicate - the intuition that *something is wrong*. It made me think, a more interesting question is,
 
@@ -84,26 +84,26 @@ What struck me from that answer was how difficult the first step was to replicat
 
 We were comparing *some AI* to *a person*, but even *a person* wouldn't have that initial intuition, *a person* alone would not have noticed that something was wrong. A group of people performing some activity together would notice, and that's what had happened - in a group of us, someone said something that didn't make sense to my dad. The comparison we should be making for *this task* is between *some AI* and a group of people participating in some cooperative/competitive system together. The key question of this whole article is, what is *the task* and what abilities are needed to do it? Or from another perspective, "what would it look like for I, the reader, to do this task"? Let's start with part 1: "what is *the task*?":
 
-* Is the task, *to do the **analysis** of "Microsoft Google and strawberry liquorice"*? Figuring out that "strawberry liquorice" is strange and why it is so.
+* Is the task, *to do the **analysis** of "Microsoft Google and strawberry liquorice"*? Figuring out that "strawberry liquorice" is strange and why it is strange.
 * Is the task, *to do the **analysis of the analysis** of "Microsoft Google and strawberry liquorice"*? Wondering, "why am I able to do this analysis" and "who else would be able to do this analysis"?
 * Is the task, *to do the **analysis of the analysis of the analysis** of "Microsoft Google and strawberry liquorice"*?
 
-Wait, where's the third analysis coming from? What's this analysis^3? Well the essence of this post isn't a trivial matter of wordplay or even an exploration of the capabilities of AI, although those are both juicy hooks. See, I've been [studying philosophy](2024-02-16-philosophy-study) while writing a book for the past seven months, now three months left. I've read some Aristotle, Plato, [Descartes](2024-01-25-Descartes-study-notes), [Rousseau](2024-02-08-Rousseau-study-notes), [Wittgenstein](2024-03-08-Wittgenstein-study-notes), [Kierkegaard](2024-03-31-Kierkegaard-study-notes), [Aristotle again](2024-04-31-Aristotle-study-notes-2), [Hume](2024-05-31-Hume-study-notes), [Spinoza](2024-06-12-Spinoza-study-notes), and now I'm partway through Kant before I dig into Hegel, the Bible, Nieztsche, J.S. Mill, and Heidegger. I've written a first draft of my sci-fi philosophy novel, and I've been passively thinking about how to share what all that means to everyone who knows me.
+Wait, where's the third analysis coming from? What's this analysis^3? Well the essence of this post isn't trivial wordplay or even an exploration of the capabilities of AI, although those are both juicy hooks. See, I've been [studying philosophy](/2024-02-16-philosophy-study) while writing a book for the past seven months, now three months left. I've read some Aristotle, Plato, [Descartes](/2024-01-25-Descartes-study-notes), [Rousseau](/2024-02-08-Rousseau-study-notes), [Wittgenstein](/2024-03-08-Wittgenstein-study-notes), [Kierkegaard](/2024-03-31-Kierkegaard-study-notes), [Aristotle again](/2024-04-31-Aristotle-study-notes-2), [Hume](/2024-05-31-Hume-study-notes), [Spinoza](/2024-06-12-Spinoza-study-notes), and now I'm partway through Kant before I dig into Hegel, the Bible, Nieztsche, J.S. Mill, and Heidegger. I've written a first draft of my sci-fi philosophy novel, and I've been passively thinking about how to share what all that means to those who know me.
 
-If I did an MBA or started a startup or had kids, most everyone who knows me would understand how those things might change me, but I'm studying philosophy and writing a book. Before doing them, I didn't how those things might change someone. How have I changed? Let's now look at part 2: "what would it look like to do *the task*?":
+If I did an MBA or started a startup or had kids, most everyone who knows me would understand how those things might change me, but I'm studying philosophy and writing a book. Before doing them, I didn't how those things might change someone, so I'm sure most others feel the same. How have I changed? Let's now look at part 2: "what would it look like to do *the task*?":
 
 There are things here that I would have done differently before studying philosophy:
 1. I wouldn't have been able to break down what's wrong with "strawberry liquorice" as precisely and quickly as I did, and I wouldn't have been able to explain it nearly as clearly.
-2. I wouldn't have wondered too deeply why *Microsoft Google* was "the same but different" and wouldn't have been able to break it down the way I did.
+2. I wouldn't have wondered too deeply why *Microsoft Google* was "the same but different" and would have framed it as a pure computer science problem, which is too reductive.
 3. I wouldn't have thought to ask the more interesting question, "in this situation, what are we really comparing *AI* to?"
 
 There are things here that I wouldn't have been able to do before writing the book I'm writing:
 1. Synthesize all these topics into many stories that point at a broader narrative.
 2. Give you an intuition for the abilities that writing and studying philosophy develops.
-3. Write this in three to four hours (anything like this would have taken me weeks to a month before).
+3. Write this in three to four hours (my posts like this before took me weeks to a month).
 
-That said, I have so much room for improvement. My analyses are just "ok" and not grounded in any literature. The way I use sensitive terms is not as crisp and consistent as it could be - analysis, meaning, intuition, AI, person, etc. The essence of this post could probably be expressed in a way that has more density of meaning in fewer words at a lower level of reading comprehension, I've only touched on small facets of studying philosophy / writing, and I'm careful that at some point [further focus becomes an unworthy cause...](2024-07-06-artists)
+That said, I have so much room for improvement. My analyses were just "ok" and not grounded in any literature. The way I use sensitive terms is not as crisp and consistent as it could be - analysis, meaning, intuition, AI, person, etc. The essence of this post could probably be expressed in a way that has more density of meaning in fewer words at a lower level of reading comprehension, I've only touched on small facets of studying philosophy / writing, and I'm careful that at some point [further focus becomes an unworthy cause...](/2024-07-06-artists)
 
 Back to the titular question - what do Microsoft Google and strawberry liquorice mean to me?
 
-Like any worthwhile piece of writing, I can't exactly summarize it concisely in one sentence, otherwise I would have written that sentence instead of *all this*. Hopefully by now, you can grasp what "Microsoft Google and strawberry liquorice" mean to me.
+Like any worthwhile piece of writing, I can't exactly summarize it concisely in one sentence, otherwise I would have written that sentence instead of *all this*. They're a pair of meaningless terms, but hopefully by now you can grasp what "Microsoft Google and strawberry liquorice" mean to me.

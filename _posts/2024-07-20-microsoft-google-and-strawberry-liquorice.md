@@ -6,6 +6,7 @@ author: Douglas Hindson
 tags:
   - essay
   - story
+  - favourite
 modified_time: 2024-07-20T00:00:00.001-05:00
 ---
 These days I'm up at the family cottage, studying Kant and writing. My dad comes up on the weekends and this Friday after dinner, my dad, his partner, and I were sitting around the table, playing cards and eating candy. Conversation drifted to figuring out what flavours were in the candy.
@@ -22,7 +23,7 @@ These days I'm up at the family cottage, studying Kant and writing. My dad comes
 
 "Strawberry liquorice, green apple liquorice, guava liquorice, cola liquorice. They don't mean anything!" my dad said.
 
-I could see what he meant, I felt a tickle in the back of my mind that the words were wrong. What's wrong with "strawberry liquorice"? We thought about it for a minute and came up with the answer:
+I could see what he meant, I felt a tickle in the back of my mind that the words were wrong. "Strawberry liquorice" sounded almost like "Ireland Argentina", "air water", or "ear eye". What's wrong with "strawberry liquorice"? We thought about it for a minute and came up with the answer:
 
 1. Liquorice is a *plant*.
 2. Liquorice is a *flavour* named after the plant.
@@ -31,7 +32,7 @@ I could see what he meant, I felt a tickle in the back of my mind that the words
 5. Strawberry is a *flavour* named after the fruit.
 6. "Strawberry liquorice" is a strawberry-flavoured version of the liquorice kind of candy.
 
-The "problem" is that using those two words together can mean different things to different people. When one person says it to mean, "strawberry (flavour) + **liquorice (kind of candy)**", and the other person hears "strawberry (flavour) + **liquorice (flavour)**", the listener will be confused. "Strawberry liquorice" can sound almost like "Ireland Argentina", "air water", or "ear eye".
+The "problem" is that using those two words together can mean different things to different people. When one person says it to mean, "strawberry (flavour) + **liquorice (kind of candy)**", and the other person hears "strawberry (flavour) + **liquorice (flavour)**", the listener will be confused.
 
 Now that we had figured out what was wrong, I said,
 

@@ -799,3 +799,18 @@ You shouldn't have to include the concept of time in the expression of the princ
 
 #### 2. The supreme principle of all synthetic judgments
 
+> If knowledge is to have objective reality, i.e. to relate to an object and have meaning and significance in relation to it, the representation of the object must be related to actual or possible experience.
+
+Representations of objects must be related to actual/possible experience, otherwise knowledge generated from those representations is not objectively real.
+
+The possibility of experience is what gives rise to a-priori knowledge.
+
+Experience is the only kind of knowledge that can give reality to other kinds of knowledge.
+
+The supreme principle of all synthetic judgements:
+> Every object conforms to the necessary conditions of synthetic unity of the manifold of intuition in a possible experience.
+
+There's some system. Objects that come out of that system must exhibit certain properties, otherwise they couldn't have come out of that system. Otherwise, the objects are not "objectively real".
+
+#### 3. A systematic presentation of all the synthetic principles of pure understanding
+

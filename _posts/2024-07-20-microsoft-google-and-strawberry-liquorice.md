@@ -8,7 +8,7 @@ tags:
   - story
 modified_time: 2024-07-20T00:00:00.001-05:00
 ---
-These days I'm up at the family cottage, studying Kant and writing. My dad comes up on the weekends and this Friday after dinner, my dad, his partner, and I were sitting around the table, playing cards and eating candy. Conversation shifted to figuring out what flavours were in the candy.
+These days I'm up at the family cottage, studying Kant and writing. My dad comes up on the weekends and this Friday after dinner, my dad, his partner, and I were sitting around the table, playing cards and eating candy. Conversation drifted to figuring out what flavours were in the candy.
 
 <img src="https://i.imgur.com/aLfkxH2.png">
 
@@ -82,7 +82,8 @@ What struck me from that answer was how difficult the first step was to replicat
 
 "In this situation, what are we comparing *an AI* to?"
 
-We were comparing *some AI* to *a person*, but even *a person* wouldn't have that initial intuition, *a person* alone would not have noticed that something was wrong. A group of people performing some activity together would notice, and that's what had happened - in a group of us, someone said something that didn't make sense to my dad. The comparison we should be making for *this task* is between *some AI* and a group of people participating in some cooperative/competitive system together. The key question of this whole article is, what is *the task* and what abilities are needed to do it? Or from another perspective, "what would it look like for I, the reader, to do this task"? Let's start with part 1: "what is *the task*?":
+We were comparing *some AI* to *a person*, but even *a person* wouldn't have that initial intuition, *a person* alone would not have noticed that something was wrong. A group of people performing some activity together would notice, and that's what had happened - in a group of us, someone said something that didn't make sense to my dad. The comparison we should be making for *this task* is between *some AI* and a group of people participating in some cooperative/competitive system together. The key question of this whole article is, what is *the task* and what abilities are needed to do it? Or from another perspective, "what would it look like for I, the reader, to do this task"? 
+### Analysis^3 Part 1: What is *the task*?
 
 * Is the task, *to do the **analysis** of "Microsoft Google and strawberry liquorice"*? Figuring out that "strawberry liquorice" is strange and why it is strange.
 * Is the task, *to do the **analysis of the analysis** of "Microsoft Google and strawberry liquorice"*? Wondering, "why am I able to do this analysis" and "who else would be able to do this analysis"?
@@ -90,7 +91,9 @@ We were comparing *some AI* to *a person*, but even *a person* wouldn't have tha
 
 Wait, where's the third analysis coming from? What's this analysis^3? Well the essence of this post isn't trivial wordplay or even an exploration of the capabilities of AI, although those are both juicy hooks. See, I've been [studying philosophy](/philosophy-study) while writing a book for the past seven months, now three months left. I've read some Aristotle, Plato, [Descartes](/Descartes-study-notes), [Rousseau](/Rousseau-study-notes), [Wittgenstein](/Wittgenstein-study-notes), [Kierkegaard](/Kierkegaard-study-notes), [Aristotle again](/Aristotle-study-notes-2), [Hume](/Hume-study-notes), [Spinoza](/Spinoza-study-notes), and now I'm partway through Kant before I dig into Hegel, the Bible, Nieztsche, J.S. Mill, and Heidegger. I've written a first draft of my sci-fi philosophy novel, and I've been passively thinking about how to share what all that means to those who know me.
 
-If I did an MBA or started a startup or had kids, most everyone who knows me would understand how those things might change me, but I'm studying philosophy and writing a book. Before doing them, I didn't how those things might change someone, so I'm sure most others feel the same. How have I changed? Let's now look at part 2: "what would it look like to do *the task*?":
+If I did an MBA or started a startup or had kids, most everyone who knows me would understand how those things might change me, but I'm studying philosophy and writing a book. Before doing them, I didn't how those things might change someone, so I'm sure most others don't know either. How have I changed?
+
+### Analysis^3 Part 2: What would it look like to do *the task*?
 
 There are things here that I would have done differently before studying philosophy:
 1. I wouldn't have been able to break down what's wrong with "strawberry liquorice" as precisely and quickly as I did, and I wouldn't have been able to explain it nearly as clearly.

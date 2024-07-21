@@ -29,7 +29,7 @@ Maybe, and that’d make this choice more relatable. But the story up above is w
 
 ### consume
 
-In-person philosophy courses look very long and expensive and career-oriented. Online philosophy courses don't look quite right to me - like they're made for people who have to be convinced to study and have their hand held along the way. Holding hands can be very fulfilling, but it’d hold me back from sprinting and dancing the way I’d like. This [this quora post](https://qr.ae/py6yGR) seems reasonable, and I double-checked with professor friends who said, “it’s a sensible series, maybe overambitious.” Perfect.
+In-person philosophy courses look very long and expensive and career-oriented. Online philosophy courses don't look quite right to me - like they're made for people who have to be convinced to study and have their hand held along the way. Holding hands can be very fulfilling, but it’d hold me back from progressing the way I’d like. [This quora post](https://qr.ae/py6yGR) seems reasonable, and I double-checked with professor friends who said, “it’s a sensible series, maybe overambitious.” Perfect.
 
 <details>
 

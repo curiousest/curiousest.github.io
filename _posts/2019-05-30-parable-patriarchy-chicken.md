@@ -8,6 +8,7 @@ tags:
   - parable
   - essay
   - favourite
+  - feminism
 modified_time: 2019-06-17T00:00:00.001-05:00
 ---
 

@@ -814,3 +814,46 @@ There's some system. Objects that come out of that system must exhibit certain p
 
 #### 3. A systematic presentation of all the synthetic principles of pure understanding
 
+All the laws of nature fall under the higher principles of understanding. They apply those higher principles in special cases to the understanding.
+
+Some principles of mathematics are derived through the understanding, and so they aren't principles of the understanding.
+
+When concepts of understanding are applied to possible experience, their synthesis is used as mathematical or dynamical. The synthesis is mathematical when it is concerned with the **intuition** of appearance, while it's dynamical when it is concerned with the **existence** of appearance.
+
+The a-priori conditions of intuition are necessary conditions of any possible experience.
+While the conditions of the existence of the objects of a possible empirical intuition are only accidental/contigent.
+
+The principles of using math are necessary.
+The principles of using dynamical are a-priori necessary when there's an empirical thought in an experience.
+
+The principles of pure understanding:
+- Axioms of intuition
+- Anticipations of perception
+- Analogies of experience
+- Postulates of empirical thought
+
+Mathematical/Dynamical are labels that describe how principles are applied and their "evidentness". 1&2 are mathematical, 3&4 are dynamical.
+
+Connecting: synthesis of things that belong together.
+Assembling: synthesis of things that don't necessarily belong together.
+
+#### 1. Axioms of Intuition
+
+**Their principle is: all intuitions are extensive magnitudes.**
+
+All appearances contain an intuition of space and time. This is an a-priori condition of their form.
+
+An object can't be perceived as an appearance without the concept of magnitude happening.
+
+Extensive magnitude: the representation of its parts makes the representation of the whole possible. The representation of the parts has to precede the representation of the whole.
+
+All appearances are intuited as aggregates, as bunches of previously given parts.
+
+The principle makes mathematics applicable to objects of experience. A-priori.
+
+Appearances are not things-in-themselves, but they're all we get. Appearances are what have to satisfy any conditions of our intuitions.
+
+The synthesis of space**s** and time**s** is the essential form of all intuition. That synthesis is what makes us able to be conscious of appearance, and therefore every outer experience. That synthesis is what makes us able to have knowledge of outer objects of experience. Whatever pure mathematics holds for the synthesis of apprehension must also hold for the objects that went through it.
+
+#### 2. Anticipations of perception
+

@@ -8,6 +8,7 @@ tags:
   - parable
   - essay
   - favourite
+  - feminism
 modified_time: 2019-07-01T00:00:00.001-05:00
 ---
 Here is an excerpt from [a post](2013-08-28-one-day-of-travel) I wrote ten years ago, describing my travel between two cities in Indonesia:

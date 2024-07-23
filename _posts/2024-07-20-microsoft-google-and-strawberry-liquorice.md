@@ -9,7 +9,7 @@ tags:
   - favourite
 modified_time: 2024-07-20T00:00:00.001-05:00
 ---
-These days I'm up at the family cottage, studying Kant and writing. My dad comes up on the weekends and this Friday after dinner, my dad, his partner, and I were sitting around the table, playing cards and eating candy. Conversation drifted to figuring out what flavours were in the candy.
+These days I'm at the family cottage, studying Kant and writing. My dad comes up on the weekends and this Friday after dinner, my dad, his partner, and I were sitting around the table, playing cards and eating candy. Conversation drifted to figuring out what flavours were in the candy.
 
 <img src="https://i.imgur.com/aLfkxH2.png">
 
@@ -92,13 +92,13 @@ We were comparing *some AI* to *a person*, but even *a person* wouldn't have tha
 
 Wait, where's the third analysis coming from? What's this analysis^3? Well the essence of this post isn't trivial wordplay or even an exploration of the capabilities of AI, although those are both juicy hooks. See, I've been [studying philosophy](/philosophy-study) while writing a book for the past seven months, now three months left. I've read some Aristotle, Plato, [Descartes](/Descartes-study-notes), [Rousseau](/Rousseau-study-notes), [Wittgenstein](/Wittgenstein-study-notes), [Kierkegaard](/Kierkegaard-study-notes), [Aristotle again](/Aristotle-study-notes-2), [Hume](/Hume-study-notes), [Spinoza](/Spinoza-study-notes), and now I'm partway through Kant before I dig into Hegel, the Bible, Nieztsche, J.S. Mill, and Heidegger. I've written a first draft of my sci-fi philosophy novel, and I've been passively thinking about how to share what all that means to those who know me.
 
-If I did an MBA or started a startup or had kids, most everyone who knows me would understand how those things might change me, but I'm studying philosophy and writing a book. Before doing them, I didn't how those things might change someone, so I'm sure most others don't know either. How have I changed?
+If I did an MBA or started a startup or had kids, most everyone who knows me would understand how those things might change me, but I'm studying philosophy and writing a book. Before doing them, I didn't know how those things might change someone, so I'm sure most others don't know either. How have I changed?
 
 ### Analysis^3 Part 2: What would it look like to do *the task*?
 
 There are things here that I would have done differently before studying philosophy:
 1. I wouldn't have been able to break down what's wrong with "strawberry liquorice" as precisely and quickly as I did, and I wouldn't have been able to explain it nearly as clearly.
-2. I wouldn't have wondered too deeply why *Microsoft Google* was "the same but different" and would have framed it as a pure computer science problem, which is too reductive.
+2. I wouldn't have wondered too deeply why *Microsoft Google* was "the same but different" and I would have framed it as a pure computer science problem, which is too reductive.
 3. I wouldn't have thought to ask the more interesting question, "in this situation, what are we really comparing *AI* to?"
 
 There are things here that I wouldn't have been able to do before writing the book I'm writing:

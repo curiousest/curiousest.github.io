@@ -7,6 +7,15 @@ title: Douglas' Blog
 	<tr>
 	  <td style="vertical-align:top">
 
+		<h2>Best Posts</h2>
+		<ul class="posts">
+		{% for post in site.posts %}
+		{% if post.tags contains "favourite" %}
+			<li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+		{% endif %}
+		{% endfor %}
+		</ul>
+
 		<h2>Grow</h2>
 		<ul class="posts">
 		{% for post in site.posts %}
@@ -20,15 +29,6 @@ title: Douglas' Blog
 		<ul class="posts">
 		{% for post in site.posts %}
 		{% if post.tags contains "fitness" %}
-			<li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-		{% endif %}
-		{% endfor %}
-		</ul>
-
-		<h2>Best Posts</h2>
-		<ul class="posts">
-		{% for post in site.posts %}
-		{% if post.tags contains "favourite" %}
 			<li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
 		{% endif %}
 		{% endfor %}

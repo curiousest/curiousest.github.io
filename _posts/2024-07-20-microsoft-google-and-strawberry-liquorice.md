@@ -110,4 +110,4 @@ That said, I have so much room for improvement. My analyses were just "ok" and n
 
 Back to the titular question - what do Microsoft google and strawberry liquorice mean to me?
 
-Like any worthwhile piece of writing, I can't exactly summarize it concisely in one sentence, otherwise I would have written that sentence instead of *all this*. They're a pair of meaningless terms, but hopefully by now you can grasp what "Microsoft google and strawberry liquorice" mean to me.
+Like any worthwhile piece of writing, I can't exactly summarize it nicely in one sentence, otherwise I would have written that sentence instead of *all this*. They're a pair of meaningless terms, but hopefully by now you can grasp what "Microsoft google and strawberry liquorice" mean to me.

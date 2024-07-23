@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hume study notes
+title: Kant study notes
 date: 2024-06-12T16:50:00.000-05:00
 author: Douglas Hindson
 tags:

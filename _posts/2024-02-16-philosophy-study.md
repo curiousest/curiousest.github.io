@@ -27,7 +27,8 @@ Maybe, and that’d make this choice more relatable. But the story up above is w
 1. Consume one or two works from ~20 philosophers.
 2. Spend most of my time reading and writing for the next year or so.
 
-### consume
+update post: [here's how it went](./2024-07-20-microsoft-google-and-strawberry-liquorice)
+## what
 
 In-person philosophy courses look very long and expensive and career-oriented. Online philosophy courses don't look quite right to me - like they're made for people who have to be convinced to study and have their hand held along the way. Holding hands can be very fulfilling, but it’d hold me back from progressing the way I’d like. [This quora post](https://qr.ae/py6yGR) seems reasonable, and I double-checked with professor friends who said, “it’s a sensible series, maybe overambitious.” Perfect.
 

@@ -4,7 +4,6 @@ title: Unleash your inner Lily
 date: 2024-07-22T00:00:00.001-05:00
 author: Douglas Hindson
 tags:
-  - essay
   - story
   - feminism
 modified_time: 2024-07-22T00:00:00.001-05:00
@@ -13,7 +12,7 @@ Lily is a little beagle who must not have freedom, it's for her own good. At all
 
 <img src="https://i.imgur.com/vSW83H7.png">
 
-Lily is a few years old. She spent her puppy days at a nursing home among the elderly where she learned how to steal. She can read any situation and know when the food will be vulnerable. Her signature move is to ninja onto a table when no one is looking and drink the cream out of a cup of coffee. Whenever the dishwasher door comes down, she's in there licking the plates and bowls and cutlery - you can't put dishes in *and* hold her back in at the same time. When there's food on a countertop, she stands up and walks around on two feet to scope out how to snatch it away. She became heavily overweight at the nursing home, so when she got new guardians they put her on a weight-loss diet, driving up the intensity of her food obsession.
+Lily is a few years old. She spent her puppy days at a nursing home among the elderly where she learned how to steal. She can read any situation and know when the food will be vulnerable. Her signature move is to ninja onto a table when no one is looking and drink the cream out of a cup of coffee. Whenever the dishwasher door comes down, she's in there licking the plates and bowls and cutlery - you can't put dishes in *and* hold her back at the same time. When there's food on a countertop, she stands up and walks around on two feet to scope out how to snatch it away. She became heavily overweight at the nursing home, so when she got new guardians they put her on a weight-loss diet, driving up the intensity of her food obsession.
 
 Lily is on her third or fourth guardians, having spent most of her life wearing a harness and a leash. Maybe she received too much attention in her youth or maybe she wasn't able to escape mistreatment, but when she achieves the level of freedom she fights for, she tends to cause suffering to herself and others. She now wears a location-tracker on her collar because when guests come to visit and open the front door, she's always poised to escape. When Lily escapes, her guardians get to play "catch the beagle", using the location tracker and a car to track her down, box her in, and grab her. The game usually lasts a few hours, and the longer it goes, the more willing Lily is to be caught. She's especially tame when the game stretches long enough to eat into dinnertime.
 

@@ -1,25 +1,29 @@
 ---
 layout: post
 title: Kant study notes
-date: 2024-06-12T16:50:00.000-05:00
+date: 2024-08-12T16:50:00.000-05:00
 author: Douglas Hindson
 tags:
   - notes
   - philosophy
-modified_time: 2024-06-12116:50:47.073-05:00
+modified_time: 2024-08-12116:50:47.073-05:00
 ---
 ## materials
 
 ### background & overview
-* Wikipedia:
-* Stanford Encyclopedia of Philosophy:
+* Wikipedia: https://en.wikipedia.org/wiki/Immanuel_Kant
+* Stanford Encyclopedia of Philosophy: https://plato.stanford.edu/entries/kant/
 ### books
-
-
+All from this great site: https://www.earlymoderntexts.com/authors/kant
+- **Prolegomena to any Future Metaphysic**
+- **The Critique of Pure Reason**
+- **Groundwork for the Metaphysic of Morals**
 ### lectures
-- [https://www.youtube.com/watch?v=V0UKj32lRAI&t=10s](Kant's copernican revolution)
-
-
+- [PHILOSOPHY: Immanuel Kant](https://www.youtube.com/@theschooloflifetv)
+- [Course on Kant's Critique of Pure Reason](https://www.youtube.com/playlist?list=PL8Nxd4OXpzqkWppWYGtXQTto46ac-OoCT)
+- [Kant's moral philosophy](https://www.youtube.com/watch?v=d-vcItYxM9U)
+- [Immanuel Kant's Philosophy - Bryan Magee & Geoffrey Warnock (1987)](https://www.youtube.com/@Philosophy_Overdose)
+- [Dr. Darren Staloff, Kant's Copernican Revolution](https://www.youtube.com/@dr.michaelsugrue)
 ## approach
 
 Instead of starting with skimming the main works before diving in deep, like I've done for other philosophers, I decided to do preliminary reading. I read Prolegomena then a reader's guide, without taking extensive notes. Both were really enjoyable and understandable.
@@ -82,21 +86,26 @@ My prompt to ChatGPT:
 
 ## takeaways
 
-The "copernican revolution", "subject decides on the contents of reality" is something I had already written about before reading Kant. It's the main plot device in one of the short stories I wrote, and I can see some parallels.
+### Critique of Pure Reason
 
-Tendency to look for the thing that explains everything - thing-in-itself. I already had written something about this before reading Kant:
+The "copernican revolution", "subject decides on the contents of reality" is close to something I had already written about before reading Kant. It's the main plot device in one of the short stories I wrote, and I can see some parallels.
 
-> Humans intuition says “sufficiently advanced technology is indistinguishable from magic”, so when the entirety of reality has become magic, human brains begin to hallucinate the properties of the advanced technology that made it this way.
+Tendency to look for the thing that explains everything - thing-in-itself. It's interesting that he separates it out and decides that it can't be explained, just "gestured at".
 
 When I tried explaining to someone how not all knowledge comes from experience, I gave the example of us inherently having a conception of time and space. The person I explained it to was initially sceptical, then upon hearing about time and space being somehow inherent in humans, they agreed. When I saw them think, I imagined that they thought,
 "Oh, ok, so time+space are written into our genetic code somehow."
 The thing is, you can apply the same logic recursively, the next level is to the species as a whole. Ex: not all genetic code in a species has to come from experience. Some aspects of time+space are inherent in having genetic code. Etc, etc.
 
-The knowing machine:
+One of the systems he describes, from a high level:
 1. Appearances produced by senses
 2. Appearances produced by imagination, using concepts/laws
 3. Consciousness recognizes appearances matching across both, makes knowledge
 
+A pattern of thought that I took away from Kant was:
+Our thinking faculties appear to behave like some system. If we imagine a model of that system, then extrapolate all kinds of edge cases or conditions, we run into some really interesting realizations that seem to map to our understanding of things.
+
+Another pattern of thought that I took away after reflecting on Kant (which may have had nothing to do with Kant specifically) was:
+asdf
 # reading notes
 
 # A Critique of Pure Reason
@@ -857,3 +866,576 @@ The synthesis of space**s** and time**s** is the essential form of all intuition
 
 #### 2. Anticipations of perception
 
+**Their principle is: in all appearances, any real object of sensation has intensive magnitude (degree).**
+
+Perception is empirical consciousness. Space/time can't be "perceived", but objects of perception can.
+
+An appearance needs formal features if it is to be an intuition at all.
+An appearance needs material features to represent an object in space/time.
+
+There can be a gradual change from empirical consciousness to pure consciousness, leaving only a "formal a priori consciousness of the spatio- temporal manifold". Pure consciousness is magnitude=0, therefore objects of perception have intensive magnitude.
+
+Anticipation: something that can be known about all sensations a-priori (even though the sensations themselves can't be known)
+
+> Sensation is the element in any appearance that doesn’t involve a temporally drawn-out synthesis proceeding from parts to the whole representation; so it has no extensive magnitude.
+
+Sensation has to go through some system before it becomes an appearance. Appearances and not sensations have magnitude.
+
+The real has magnitude, but not extensive magnitude.
+
+Continuous magnitude: no part of it is the smallest possible.
+Space and time are continuous magnitudes.
+All appearances are continuous magnitudes.
+
+Alterability of an appearance depends on features of appearances, so it can't be explored a-priori.
+
+No perception or experience has a complete absence of reality. The proof of an empty space or time can't be proved with experience.
+
+The degree of a feature can reduce down to zero without the extensive magnitude disappearing too.
+
+#### 3. Analogies of experience
+
+**Their principle is: Experience is possible only through the representation of a necessary connection of perceptions**
+
+Experience is empirical knowledge.
+Any item of knowledge contains a manifold of perceptions pulled together in one consciousness.
+
+To determine the time-involving facts about objects, we have to connect them through concepts. So experience is possible only through a representation of the necessary connection of perceptions.
+
+The three modes of time are persistence, succession, and coexistence.
+
+Constuitive rule: tells you what something is / what it is like
+Regulative rule: tells you how to look for a thing
+
+##### FIRST ANALOGY  
+Principle of the persistence of substance:  
+> In all change of appearances substance persists, and the amount of it in Nature doesn’t get larger or smaller
+
+Kind of like the law of conservation of matter.
+
+Substance: the persisting element in the experienced world, in relation to which all temporal relations of appearances can be determined.
+
+So far, this proof has only been made through experience.
+
+Old philosophical assumptions:
+•Nothing comes out of nothing
+•Nothing can revert into nothing
+
+They only apply to appearances in the domain of experience.
+
+> Experience couldn’t be unified if we allowed that new things—new substances—could come into existence; for then we would lose the only item ·in the domain of appearance· that can represent the unity of time, namely the identity of the substratum in which change has thoroughgoing unity.
+
+The principle is necessary for experience. Experience wouldn't "work" if substance didn't persist across changes, so the principle is a consequence of our systems and not a fact of reality.
+
+##### SECOND ANALOGY  
+Principle of temporal sequence, in accordance with the law of causality:  
+> All alterations take place in conformity with the law of the connection of cause and effect.
+
+All appearances of succession in time are only alterations.
+All change of appearances is merely alterations.
+Appearances follow one another and we connect two perceptions in time.
+
+No state of affairs has its "when" (the time to which it belongs) as an empirically perceptible feature of it.
+
+Cause and effect relates the appearances together. 
+Therefore appearances as objects of experience are only possible if they conform with the law of cause and effect.
+
+Something happening can't be perceived unless the previous state didn't have that appearance.
+
+Appearances have to be causally chained together, and it's hard to imagine them not chained together.
+
+> The only way I can make my subjective synthesis of apprehension objective is through a rule in accordance with which the appearances are determined by the preceding state.
+
+The only way I can chain appearances objectively is by using the rule that appearances are decided by the previous state.
+
+> When I perceive that something x ·objectively· happens, the first thing that is contained in this representation is that something y happened just before, because it’s only by reference to a preceding y that this appearance x gets •its time-relation, i.e.
+> - its existing after a time when it didn’t exist, ·i.e.
+> - its status as an event or happening
+
+The first thing contained in a representation is the event that preceded it. That means the previous event preceded according to a rule. That means:
+- you can't reverse the series
+- if the previous event is given, the following event is necessary and inevitable
+
+It's only through appearances (things in time) that we can empirically detect the continuity in the way times hang together.
+
+The understanding makes the sensation of objects possible. It carries the time-order over into the appearances. It relates each event to the preceding ones.
+
+How does a thing pass from state x to state y?
+The two instants are the boundaries of:
+- the time of alteration
+- the time of the intermediate state between x and y
+And they form part of the total alteration.
+
+The law of the continuity of alteration: time doesn't consist of smallest parts, there's no atomicity. Same with time-taking events. There's no smallest difference between two real items any more than there is a smallest difference between two periods of time.
+
+> any perception is drenched in time
+
+##### THIRD ANALOGY
+
+**Principle of coexistence**, in accordance with the law of interaction or community: All substances that can be perceived to coexist in space are in thorough-going interaction with one another.
+
+If objects had perceptions only at different points in time and not together, we couldn't learn that they coexist.
+
+When two objects are empirically represented as coexisting, they have to be causing features of one-another. They're in a dynamical community with one-another if it's possible to know through perception that they exist at the same time. 
+
+##### Summary of analogies
+
+> •an appearance has to time itself as a magnitude (the magnitude of existence, i.e. duration ·= persistence·);
+> •appearances have to one another in time as a successive series;  
+> •appearances have in time as a sum of all simultaneous existence.
+
+1. An appearance is a magnitude in time.
+2. Appearances are successively chained in time.
+3. Appearances collectively make up simultaneous experience.
+
+#### 4. Postulates of empirical thought
+
+Possible: whatever agrees with the formal conditions of experience (conditions of intuition/concepts)
+Actual: whatever is tied to "material conditions of experience" (sensation)
+Necessary: whatever is required by the universal conditions of experience, and connected to the actual
+
+**Possible**
+An object that fulfils the other three analogies of experience is not necessarily possible. (If it changes or is linked to other appearances or is in community with other objects)
+
+What allows us to connect the concept X with the possibility of there being such a thing as an X?
+- space is a formal a-priori condition of outer experiences
+- the synthesis where we construct X in our imagination is exactly the same as the synthesis when we apprehend an appearance to make an empirical concept of X
+
+**Actual**
+
+No mark of a thing's existence can be found in its concept.
+What indicates actuality: a perception that provides the concept with its content.
+Also: the concept being connected with knowledge (ex: magnetism in iron filings)
+
+#### Refutation of Idealism
+
+Two forms:
+problematic idealism: the existence of objects in outside space is objectionable (a-la Descartes)
+dogmatic idealism: space and everything that needs space to exist are impossible
+
+If space is a property of things-in-themselves, the dogmatic idealism is unavoidable.
+
+Dogmatic idealism is disproven by the transcendental aesthetic.
+Problematic idealism is disproven by showing that outer experience is possible if inner experience exists.
+
+##### THESIS: My consciousness of my own existence and of details about myself proves the existence of objects in space outside me.
+
+All knowledge of temporal stuff presupposes knowledge of something persistent in perception.
+I am in different states through time, and those other states of me are outside of me, therefore there is stuff outside of me.
+
+"I" isn't an intuition - it's an intellectual representation of the activeness of a thinking subject. It's not persistent like matter.
+
+The intuition I have about "I" is sensible and not intellectual, so it necessarily brings time into the story.
+
+Outer sense is tied into inner sense.
+
+> Everything that happens is determined a priori through its cause in the ·domain of· appearance.
+
+
+Propositions:
+1. Nothing happens through blind chance
+2. Necessity is always conditioned and intelligible
+3. There are no leaps in chains of appearances
+4. There are no blanks/gaps between appearances in the totality of empirical intuitions in space
+
+##### General Note on the System of the Principles
+
+Unaided categories can't show us that a thing is possible.
+
+### Chapter 3: The basis for distinguishing all objects into phenomena and noumena
+
+When we are trying to extend our knowledge, the attitude, "I want to know how this will be useful before doing the work" is harmful and absurd.
+
+The understanding can't both:
+- know the boundaries of its use
+- know what lies in/out of its domain
+
+Two things required for every concept:
+1. logical form that makes it a concept
+2. possibility of applying to some concept
+
+Quantity
+Magnitude: a fact about a thing that makes it possible to think about how many units are involved in it. The how-many-times (units) is based on successive repetition - time.
+
+Quality
+To explain reality's contrast with negation, we have to think of time as being filled or empty.
+
+Relation
+Substance has persistence
+Cause requires time for multiple states
+Community requires two-way causal interations
+
+Modality
+Something is contingent if its nonexistence is possible. Exist -> nonexist is a state change that requires time.
+
+The pure concepts of understanding can't be used transcendentally, only empirically.
+
+Categories are nothing but forms of thought. They are just the logical capacity for uniting the manifold given in intuition into one consciousness.
+
+Phenomena: sensible entities
+Noumena: intelligible entities. Ex: things-in-themselves
+
+Two kinds of noumenon:
+- Negative: thing that is not an object of our sensible intuition
+- Positive: object of a non-sensible intuition. (we can't understand how intellectual intuition could be possible)
+
+Categories can only be used to understand things in space and time.
+
+Problematic concept:
+1. contains no contradiction
+2. related to other items of knowledge, by serving as a boundary to the concepts involved in them
+3. can't be known to be objectively real
+
+The concept of noumenon is problematic. You can't apply transcendental use of the understanding with noumenon as an object.
+
+### Appendix: amphiboly of the concepts of re- flection arising from the confusion of the empirical use of the understanding with its transcendental use
+
+## Critique of Pure Reason: The Dialectic
+
+### Introduction
+#### Transcendental Illusion
+
+The senses don't err because they don't judge at all.
+Transcendental misuse of the categories is an error in the faculty of judgement.
+
+Logical illusion: the illusion that a formally invalid argument is valid.
+Trascendental illusion: illusions disproven by transcendental logic, which tend to persist after being proven invalid. (ex: the world must have a beginning in time)
+
+#### 2. Pure reason as the seat of transcendental illusion
+
+##### A. Reason in general
+
+Reason can be used in a merely formal manner or as a source of concepts and principles itself (transcendental use).
+
+The understanding can't give us any synthetic items of knowledge derived from concepts.
+
+Knowledge derived from principles is quite different than knowledge derived from the understanding.
+
+Just as understanding can be seen as the faculty that uses rules to unify appearances,
+reason can be seen as the faculty that uses principles to unify the understanding's rules.
+Reason gives a-priori unity by means of concepts to the understanding's complex web of knowledge.
+
+##### The logical use of reason
+
+Immediate vs. inferred. We get so used to inferring that we forget what's immediate and what's inferred.
+
+In every process of reasoning, there's:
+1. The premise
+2. The conclusion (another premise)
+3. The inference (where the conclusion is inseparably connected with the premise)
+
+If you can get 2 without 1, it's immediate.
+Immediate inferences: inferences of the understanding
+Non-immediate inferences: inferences of reason
+
+##### C. The pure use of reason
+
+Reason can either be considered all on its own as an independent source of concepts or as a subordinate faculty for imposing logical form on knowledge. Kant says it's #2.
+
+> reason makes the ·output of· the understanding hang together in a thoroughly connected whole, by bringing it under principles,
+> the understanding connects up the various outputs of intuition, by bringing them under concepts
+
+Does pure reason contain a-priori synthetic principles and rules?
+Understanding deals with objects by bringing intuitions under rules.
+Reason doesn't deal with objects, but understanding and its judgements.
+
+When reason is used logically, it looks at a judgement and tries to find a more general rule where that judgement is a special case. The universal rule is the premise and the judgement is the conclusion.
+
+### Book 1: the concepts of pure reason
+
+#### 1. The ideas in general
+
+It's better to go back in history and pick out a word from a dead language, rather make your own up.
+
+Levels of ideas:
+1. Perception: representation accompanied by consciousness.
+2. Cognition: perception of something.
+3. Concept: cognition relating indirectly to objects, through features that they share.
+4. Pure concepts
+5. Notion: pure concept originating solely from the understanding
+6. Idea: concept formed from notions that has "outrun the possibility of experience"
+
+#### 2. The transcendental ideas
+
+Absolute has two meanings:
+- true of a thing in-and-of itself
+- something that holds true in all respects, without limitation
+
+> a transcendental concept of reason always aims at absolute totality in the synthesis of conditions
+
+Reason needs to assume a series of conditionals taken as a whole is True.
+
+#### 3. System of the transcendental ideas
+
+Three kinds of relation-based classifications of pure reason:
+1. categorical: ideas containing the absolute unity of the thinking subject (psychology, soul)
+2. hypothetical: ideas containing the absolute unity of the series of conditions of appearances (cosmology, world/universe)
+3. disjunctive: ideas containing the absolute unity of the conditions of thought in general (theology, God)
+
+Pure reason x the understanding's concept of objects leads to:
+1. the concept of absolute unity in the thinking subject (soul)
+2. logical procedure in hypothetical inferences of reason leads to the "utterly unconditioned in a series of given conditions" (universe)
+3. the mere form of the disjunctive inference of reason must necessarily involve the highest concept of reason (God)
+
+### Book 2:  The dialectical inferences of pure reason
+
+Three kinds of dialectical inferences of reason
+1. Transcendental paralogism: the transcendental concept of the subject => absolute unity of the subject, although it contains nothing but a manifold and we have no concept of the manifold subject, only the thinker.
+2. Antimony of pure reason: the transcendental concept of the absolute totality of the series of conditions for any given appearance.
+3. Ideal of pure reason: the absolute synthetic unity of all the conditions for things to be possible.
+
+### Chapter I: The paralogisms of pure reason (1st edition)
+
+logical paralogism: inference of reason that is fallacious in form
+
+transcendental paralogism: transcendental basis for the formal fallacy
+
+"I think" is a transcendental concept
+
+Using categories:
+- the soul is substance
+- it is simple in quality
+- through the different times when it exists, it is one - a unity and not plurality
+- it relates to possible objects in space
+
+All concepts of pure psychology can be pulled out of these elements:
+- the substance as an object of inner sense yields the concept of immateriality
+- as simple substance, it yields the concept of indestructability
+- being a thinking substance that lasts through time yields personhood
+- all three combine to yield spirituality
+- relation to objects in space yields causal interplay with bodies
+- the thinking substance as the source of life in matter yields soul/animality
+- animality combined with spirituality yields immortality
+
+"I" isn't even a concept - it's a bare consciousness that accompanies concepts.
+
+> It is a priori necessary that I attribute to a thing all the properties that are preconditions of my having any thought about them.
+
+There are properties of a thing that are necessary for me to be able to think about them.
+I attribute those properties to that thing.
+I can't get any representation of a thinking thing externally, only internally.
+Therefore external thinking things must have their own version of the property "I".
+
+##### First paralogism: Substantiality
+
+[faulty logic]
+* x is substance if its representation is the absolute subject of our judgments and can’t be used as determination of something else
+* "I" (the thinking being) am the absolute subject of all my possible judgements and can't be used as predicate of anything else
+* therefore "I" am substance
+
+In Transcendental Logic, he showed that pure categories have no objective significance except when they are brought under an intuition. Substance is a category.
+
+"I" can't be represented as the state of something else.
+The constant logical subject of thought is not something we can have knowledge about.
+
+##### Second paralogism: Simplicity
+
+[faulty logic]
+- x is a thing whose actions are not a consequence of several things acting together
+- the soul or thinking "I" is an x
+- therefore the soul or thinking "I" is simple
+
+A thought has to be made by one thing. A thought can't be thought compositely, although pieces of the thought can be put together in composite, then thought altogether as one thought by one thing.
+
+> The only reason why anyone has cared about the assertion of the simple nature of the soul is as a way of distinguishing this •thinking subject from all •matter, thus enabling the soul to escape from the dissolution to which matter is always liable.
+
+The only reason why people care about the soul being "simple" is so that it can be divided from other substance, which is what Descartes' arguments depend on.
+
+There is:
+1. The something that underlies outer appearances
+2. The something that is the subject of our thoughts
+
+If 1 were a thing-in-itself, then it would be a different substance than 2. But it's just an appearance. There's nothing stopping 1 & 2 from being made of the same stuff, therefore the soul is not simple.
+
+##### Third paralogism: Personhood
+
+[faulty logic]
+- a person: anything that is conscious of how it's just one thing through time
+- the soul is conscious of how it's just one thing through time
+- therefore the soul is a person
+
+If I view myself, I can say both:
+- the whole time is in me as a conscious unity
+- I am one thing through time
+So in my own consciousness, identity of person is met.
+
+When I look at someone else, my consciousness is not bound up with their identity. I could be different number of things. I could be passing my consciousness off to them, and they could be passing it back to me.
+
+The real logical progression is
+1. Assume: as far as I can tell, I exist forever
+2. I am a person
+When an outside observer asks, "are you a soul?" The response they get is "yes", but it's a meaningless assumption.
+
+##### Fourth paralogism: ideality (in regard to outer relation)
+
+- if the only basis for x is that it's a cause for other perceptions, then it's unclear whether x exists
+- the existence of outer appearances is never immediately perceived - our only basis for believing they exist is as causes to perceptions
+- therefore it's an open question whether any objects of the outer senses really exist
+
+the ideality of outer appearances: open-to-question-ness
+idealism: doctrine of the ideality
+dualism: opposing doctrine that we can know certainly about objects of outer sense
+
+Transcendental realism: time and space are given in-themselves
+Transcendental realists = empirical idealists
+transcendental idealists = empirical realists
+
+empirical:
+realism: we can't be certain that the proposition is true
+idealism: we can be certain that the proposition is true
+
+transcendental:
+idealism: metaphysics propositions are complex statements about minds
+realism: metaphysics propositions are independent of our minds
+
+We have to learn about the soul from experience rather than reason because it's not a subject we can reason about - it's a mechanism in the mind.
+
+> We run in trouble over interaction only when we •hypostatise outer appearances, •come to regard them not as representations but as things existing by themselves outside us, with the same qualities that they have in us, and •think of them as acting on our thinking subject in the way they (as appearances) act on one another.
+
+We run into trouble when we think that outer appearances exist as things-in-themselves outside us, with the same qualities as we perceive them having inside of us. And when we think they act on other things the same way they act on us.
+
+Three kinds of objections to a judgement (some proposition P about object x):
+- dogmatic: a claim to know more about x, which supports "not P"
+- critical: an attack of the proof of P, which shows that P is unsupported, but not false
+- skeptical: sets up P and "not P" as equally-matched opponents, so all judgement on the topic is null and void
+
+Three kinds of theories about connection between soul and body:
+1. physical influence (what must be)
+2. predetermined harmony (what is)
+3. supernatural intervention (what ought to be)
+
+1 doesn't fall to dogmatic objection. 
+
+Three dialectical uses of pure reason:
+1. The synthesis of the conditions of thought as such
+2. The synthesis of the conditions of empirical thinking
+3. The synthesis of the conditions of pure thinking
+
+Cause the three sciences of pure reason:
+1. transcendental psychology
+2. transcendental cosmology
+3. transcendental theology
+
+#### The paralogisms of pure reason (second edition)
+
+> Without providing any positive doctrine, rational psychology reminds us that we should regard reason’s refusal to give a satisfying answers to our inquisitive questions about things that are beyond the limits of this present life as being reason’s hint that we should divert our self-knowledge from fruitless and extravagant speculation to fruitful practical use.
+
+Analytic propositions: 
+
+> In all judgments I am the determining subject of the relation that constitutes the judgment
+
+> The I of self-awareness, and therefore the I in every act of thought, is one, and can’t be resolved into a plurality of subjects, and consequently signifies a logically simple subject.
+
+"I" is logically simple, but it doesn't mean that "I" is a substance.
+
+> Through all the variety of which I am conscious through time I am identical with myself.
+
+> I distinguish my own existence as that of a thinking being from other things outside me—among them my body.
+
+##### Refutation of Mendelssohn’s proof of the permanence of the soul
+
+The usual argument for the permanence of soul is that it's simple and can't go out of existence by dissolution to something lesser. It doesn't have parts and can't be taken apart. It can't gradually go out of existence - it has to be instant, but that means a discrete point in time where it exists, then next discrete point where it doesn't, but that's impossible because time is continuous.
+
+The soul has intensive magnitude, not extensive magnitude. It *can* gradually lose powers.
+
+It's impossible to arrive at results that lie beyond the limits of experience using dogma. The defence:
+1. try to prove that the proposition is necessarily true
+2. find that this can't be done
+3. explain why it can't be done (the limits of our reason)
+4. make the opponent back down too, because they are infringing on the same limits
+
+#### Concluding the solution of the psychological paralogism
+
+1 The object of inner sense is in time-only.
+2 The objects of outer sense are in space and time.
+2 appears to one externally. Whatever underlies the appearance of both may not be different.
+The only question that remains is, "How is it possible for any two substances to interact causally?"
+
+##### Moving across from rational psychology to cosmology
+
+### Chapter 2:  The antinomy of pure reason
+
+world-concept: any transcendental idea that concerns the absolute totality in the synthesis of appearances
+
+##### 1. System of cosmological ideas
+
+The only source for pure and transcendental concepts is the understanding.
+Reason is not a source, but it can clean empirical concepts into pure ones.
+
+For a given condition we want to turn into a concept,
+reason demands absolute totality on the side of the conditions that the understanding finds for all appearances.
+
+Because each of the conditioned relation is an instance of one of the categories, transcendental ideas of reason are categories extended to the unconditioned.
+
+Reason has an interest in the question ‘Was there a first time?’ but not in the question ‘Will there be a last time?’
+
+##### (1) AN IDEA SUPPOSEDLY RELATED TO THE CATEGORIES OF QUANTITY
+
+...
+
+> But most of the time empiricism itself becomes dogmatic about ideas, confidently denying whatever lies out of reach of the knowledge it can have through intuition. When that happens. empiricism shows the same lack of modesty ·that it has criticised in its dogmatic opponents·; and this fault is especially blameworthy because it does irreparable harm to reason’s practical interests.
+
+
+...
+
+##### 1. Solution of the cosmological idea of the totality of  
+the composition of the appearances of a cosmic whole
+
+> The empirical regress we can’t experience an absolute limit; we can’t experience any condition as being empirically absolutely unconditioned.
+> 
+> That’s because such an experience would have to involve perceiving a limitation of appearances by nothing, i.e. by the void, and it’s impossible to perceive a void.
+
+Absolute limits don't work because we'd need to perceive a limitation of appearances by nothing.
+
+
+
+## Groundwork for the metaphysic of morals
+
+### Preface
+Ancient greek philosophy divided into logic, natural science, and ethics. Logic is about formal knowledge, doesn't care about differences between objects. Natural sciences is about laws of nature. Ethics is about laws of freedom.
+
+Moral laws are different from any practical knowledge involving anything empirical AND they depend on non-empirical knowledge.
+
+For something to be morally good, it has to both conform to the law and be done because it conforms to the law.
+
+Three reasons for not going straight into critical examination of pure practical reason:
+1. Pure speculative reason is more useful than pure practical reason, because theoretical pure reason is dialectical (has inherent contradictions), while human reason can end up pretty correct and practical.
+2. Practical and speculative reason have to be brought together.
+3. Metaphysic of morals is easier to understand, made for stupid people
+
+### Chapter 1:  Moving from common-sense knowledge to philosophical knowledge about morality
+
+People who employ a lot of reason tend to be less happy.
+Good will requires the use of reason.
+Good will (morality) and happiness seem to be in opposition, but we have to balance them.
+
+First proposition of morality:
+> For an action to have genuine moral worth it must be done from duty
+
+Second:
+> An action that is done from duty doesn’t get its moral value from the purpose that’s to be achieved through it but from the maxim that it involves, ·giving the reason why the person acts thus
+
+Moral value doesn't come from the ends of an action. It comes from the reason why the person acts this way.
+
+Third:
+> To have a duty is to be required to act in a certain way out of respect for law
+
+> That is, I ought never to act in such a way that I couldn’t also will that the maxim on which I act should be a universal law.
+
+### Chapter 2:  Moving from popular moral philosophy to the metaphysic of morals
+
+Old stuff was too into self-interest.
+
+We can't get our concept of morality from examples because we can't know they're good examples without having a concept of morality first.
+
+Each human is an end to themselves.
+> the end or purpose that all men naturally have is their own happiness.
+
+> the principle of morality in three ways:
+> •Act as though the maxim of your action were to become, through your will, a universal law of nature.
+> •Act in such a way as to treat humanity, whether in your own person or in that of anyone else, always as an end and never merely as a means.
+> •Act only so that your will could regard itself as giving universal law through its maxim.
+
+### Chapter 3:  Moving from the metaphysic of morals to the critique of pure practical reason
+
+> The concept of freedom is the key to explaining the autonomy of the will

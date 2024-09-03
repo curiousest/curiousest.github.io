@@ -21,7 +21,7 @@ These days I'm at the family cottage, studying Kant and writing. My dad comes up
 
 "There's cola in there somewhere, and red ones are strawberry liquorice."
 
-"Strawberry liquorice, green apple liquorice, guava liquorice, cola liquorice. They don't mean anything!" my dad said.
+"Strawberry liquorice, green apple liquorice, guava liquorice, cola liquorice, they don't mean anything!" my dad said.
 
 I could see what he meant, I felt a tickle in the back of my mind that the words were wrong. "Strawberry liquorice" sounded almost like "Ireland Argentina", "air water", or "ear eye". What's wrong with "strawberry liquorice"? We thought about it for a minute and came up with the answer:
 
@@ -32,7 +32,7 @@ I could see what he meant, I felt a tickle in the back of my mind that the words
 5. Strawberry is a *flavour* named after the fruit.
 6. "Strawberry liquorice" is a strawberry-flavoured version of the liquorice kind of candy.
 
-The "problem" is that using those two words together can mean different things to different people. When one person says it to mean, "strawberry (flavour) + **liquorice (kind of candy)**", and the other person hears "strawberry (flavour) + **liquorice (flavour)**", the listener will be confused.
+The "problem" is that using those two words together can mean different things to different people. When one person says it to mean, "strawberry (flavour) + **liquorice (kind of candy)**", and another person hears "strawberry (flavour) + **liquorice (flavour)**", it's confusing.
 
 Now that we had figured out what was wrong, I said,
 
@@ -76,10 +76,10 @@ Whereas for "plant -> flavour -> type of candy", I could only find two examples 
 It was a vague question that seemed like an intractable problem, but after a few minutes, I landed on this. This is what I thought "an AI" would need:
 
 1. Problem intuition - *something is wrong*. First, when we said "strawberry liquorice", my dad had the feeling that something was wrong. There was a problem to be solved.
-2. Triage - *it has to do with the word having multiple meanings*. Our snap judgement within a few seconds to a minute. 
-3. Diagnosis - *it has to do with multiple words having multiple meanings that can combine to make no sense depending on your perspectives*. We analyzed where the words came from and what led to "the problem". We imagined other examples to test out our theory of what happened, then analyzed those examples too.
+2. Triage - *it has to do with a word having multiple meanings*. Our snap judgement within a few seconds to a minute. 
+3. Diagnosis - *it has to do with multiple words having multiple meanings that can combine to make no sense from a certain perspective*. We analyzed where the words came from and what led to "the problem". We imagined other examples to test out our theory of what happened, then analyzed those examples too.
 
-What struck me from that answer was how difficult the first step was to replicate - the intuition that *something is wrong*. It made me think, a more interesting question is,
+What struck me was how difficult the first step was to replicate - the intuition that *something is wrong*. I couldn't imagine figuring that out myself. It made me think, there's a much more interesting question,
 
 "In this situation, what are we comparing *an AI* to?"
 

@@ -40,7 +40,7 @@ This is an outline of a standard writing process that every writer will recogniz
 4. Review to see if it's going in a good direction.
 5. Write a beta draft.
 6. Review to find big problems.
-	<br/>*("development edits" and/or "beta readings" - plot, characters, worldbuilding, style, themes)*
+	<br/>*("development edits" and/or "beta readings" - plot, characters, worldbuilding, style)*
 7. Write to resolve the development edit problems.
 8. Review to find smaller problems.
 	<br/>*("line edits" and/or "beta readings" - flow, consistency, clarity)*

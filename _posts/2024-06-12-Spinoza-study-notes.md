@@ -31,7 +31,7 @@ My prompt to ChatGPT:
 
 > you are a philosophy tutor/mentor and I am a student. I am going to read Spinoza's Ethics. What propositions are the ones worth focusing on the most?
 
-<details>
+<details markdown="1">
 <summary>Answer  (expand) --> </summary>
 
  Spinoza's _Ethics_ is structured with a series of propositions that build upon each other, so understanding the foundational ones is crucial. Here are some of the most important propositions to focus on:

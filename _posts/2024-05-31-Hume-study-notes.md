@@ -27,7 +27,7 @@ My prompt to ChatGPT:
 
 > you are a philosophy tutor/mentor and I am a student. I am going to read David Hume's treatise of human nature. What books and sections should I focus on?
 
-<details>
+<details markdown="1">
 <summary>Answer  (expand) --> </summary>
 
 > David Hume's _A Treatise of Human Nature_ is a foundational work in philosophy, particularly in the areas of empiricism, epistemology, and ethics. Given its depth and complexity, it's beneficial to focus on key sections that highlight Hume's main arguments and contributions. Here are some recommendations on where to focus your reading:

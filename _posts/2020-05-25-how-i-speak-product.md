@@ -108,7 +108,7 @@ If the salesperson and tech lead had clarified the tree of problems, they could 
 
 ## More real-life examples
 
-<details>
+<details markdown="1">
 
 <summary>A developer improving webpage navigation</summary>
 
@@ -129,7 +129,7 @@ Did this solution have the best value/effort tradeoff for those solutions? The d
 
 </details>
 
-<details>
+<details markdown="1">
 
 <summary>Establishing a technical strategy</summary>
 

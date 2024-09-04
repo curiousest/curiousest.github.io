@@ -68,19 +68,50 @@ div.post ol li li li {
 div.post ol li li li {
     font-size: 90%;
 }
-p {
+p, code {
     font-size: 1.3em;
     line-height: 1.4em;
     color: #333;
     margin-top: 0.7em;
     margin-bottom: 0.7em;
 }
+pre {
+    background-color: #f4f4f4; /* Light gray background */
+    padding: 10px;             /* Padding around the code */
+    border-radius: 5px;        /* Rounded corners */
+    overflow-x: auto;          /* Horizontal scrolling if necessary */
+    margin: 1em 0;             /* Margins around the block */
+    box-sizing: border-box;
+}
+
+blockquote {
+    background-color: #f9f9f9;   /* Light background for emphasis */
+    border-left: 4px solid #ccc; /* Vertical bar for distinction */
+    margin: 1.5em 10px;          /* Spacing around the blockquote */
+    padding: 10px 20px;          /* Padding inside the blockquote */
+    font-style: italic;          /* Italicized text */
+    color: #555;                 /* Softer text color */
+    quotes: "“" "”" "‘" "’";    /* Custom quote marks */
+}
+
+blockquote::before {
+    font-size: 2em;
+    line-height: 0;
+    margin-right: 10px;
+    vertical-align: -0.4em;
+    color: #ccc;                 /* Light color for the quote mark */
+}
+
 details {
+    background-color: whitesmoke;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    padding: 1em;
+}
+details summary {
     font-size: 1.3em;
     line-height: 1.4em;
     color: #333;
-    margin-top: 0.5em;
-    margin-bottom: 0.5em;
 }
 table {
     font-size: 1.3em;

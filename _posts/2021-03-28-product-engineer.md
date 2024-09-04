@@ -42,7 +42,7 @@ A "good" answer is when the candidate matches what the team needs. A product-ori
 
 An "experienced" answer sounds something like, "I've done them all. I'm best at #3, prefer #2, and avoid #1."
 
-<details>
+<details markdown="1">
 <summary><b>Story #1</b>: My mistaken investment <i>(click to expand)</i></summary>
 
 <br/>
@@ -65,7 +65,7 @@ Five years later, here I am working in that same business domain and a different
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><b>Story #2</b>: Maximum productivity: a product team of one</summary>
 
 <br/>
@@ -84,7 +84,7 @@ The entire problem space, solution space, priorities, and project plan lived in 
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><b>Story #3</b>: Product engineers without product context</summary>
 
 <br/>

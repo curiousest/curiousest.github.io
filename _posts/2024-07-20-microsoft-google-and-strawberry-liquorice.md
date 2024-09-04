@@ -42,7 +42,7 @@ We thought about it for a few minutes, and I can't say what was going on in my m
 
 "I have one! Ok, it'd be like **to Microsoft google**. You know, to google something on the internet, but with Microsoft's search engine."
 
-<details>
+<details markdown="1">
 <summary>Microsoft Google analysis (click to expand)</summary>
 
 1. Google is a tech *company*.<br/>
@@ -55,12 +55,12 @@ We thought about it for a few minutes, and I can't say what was going on in my m
 
 So Microsoft google and strawberry liquorice are the same. Yes, they're the same, but they're also different, and not in the trivial, "made of different letters" kind of way. They're so different that the title of this article "Microsoft google and strawberry liquorice" looks like it has typos, but it's not "**Microsoft, Google, and strawberry liquorice**", it's "**Microsoft google** and **strawberry liquorice**"! Back to our conversation - we had established how they're the same, but now - how are they not the same? I had a couple of guesses:
 
-<details>
+<details markdown="1">
 <summary>Strength of association (click to expand)</summary>
 When you hear the word, "Microsoft", you don't think, "search engine product", so no one is going to hear "Microsoft google" and think *search engine + verb* or *search engine + search engine*. When you hear the word "strawberry", you do think "flavour", so people could legitimately hear "strawberry liquorice" and think either *flavour + kind of candy* or *flavour + flavour*. 
 </details>
 
-<details>
+<details markdown="1">
 <summary>Etymological lineage (click to expand)</summary>
 
 Liquorice went "plant -> flavour -> type of candy".<br/>

@@ -32,7 +32,7 @@ My prompt to ChatGPT:
 
 > you are a philosophy tutor/mentor and I am a student. I am going to read Kant's critique of pure reason. What books and sections should I focus on?
 
-<details>
+<details markdown="1">
 <summary>Answer  (expand) --> </summary>
 
  Reading Immanuel Kant's "Critique of Pure Reason" can be quite challenging, but it's incredibly rewarding. Here's a structured approach to help you navigate through this dense text:

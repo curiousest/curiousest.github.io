@@ -53,7 +53,7 @@ The further down that list you go, *the easier it is to automate*, so the more "
 
 Good work comes from executing each part of a writing process effectively and good work can be done by many team compositions, but some team comps consistently perform better than others. For example, all the "review to find" tasks are best executed by someone with a different perspective than the writer - whether it's "distant-future you" after you forgot what you wrote, a person with different genetic code, or something derived from an entirely different sort of code... Someone with a lot of experience is usually great for development edits, and getting feedback from your target audience is critical.
 
-In this first article of the series, I'm going to explore the steps that have to do with "high-level editing" (steps 4 and 6), using LLMs to produce **development edits** and **not** line edits or copy edits. Generating the edits alone didn't require any programming or fine-tuning to get a great result, just basic prompting. Using LLMs to assist with writing or lower-level edits needs a lot more technical expertise. In followup articles, I will explore the steps that have to do with line edits (step 8) generating new writing (steps 3, 5, 7, and 9).
+In this first article of the series, I'm going to explore the steps that have to do with "high-level editing" (steps 4 and 6), using LLMs to produce **development edits** and **not** line edits or copy edits. Generating the edits alone didn't require any programming or fine-tuning to get a great result, just basic prompting. Using LLMs to assist with writing or lower-level edits needs a lot more technical expertise. In followup articles, I will explore the steps that have to do with line edits (step 8) and generating new writing (steps 3, 5, 7, and 9).
 
 <div style="display: flex; justify-content: space-between; width: 800px; margin: auto;">
 <img src="https://i.imgur.com/VBdni8A.jpg" style="width: calc(33.33% - 4px); margin-right: 2px;"/>
@@ -121,7 +121,7 @@ With no further purpose and survival guaranteed,      without a flic
 
 Here is the first prompt I used to get feedback:
 
-> You are the "bad cop" editor for the publisher. Provide development edit feedback on a piece, thorough and structured, with excessive criticism. The file is attached.
+> You are the "bad cop" editor for a science fiction publisher. Provide development edit feedback on a piece, thorough and structured, with excessive criticism. The file is attached.
 
 Here is the LLM response:
 

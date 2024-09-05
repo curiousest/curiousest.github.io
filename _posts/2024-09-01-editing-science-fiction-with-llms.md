@@ -187,7 +187,7 @@ Only if you, as the child playing *Pooh and Tigger* with your dog, want to mix i
 
 ### Prompt engineering
 
-What's really incredible in the earlier prompt example is that I didn't have write much depth at all into the character or setup, and it gave me great results (in my opinion). This doesn't happen all the time, but if it didn't, I can iteratively adapt the character and setup until it's giving me what I want. That process is called *prompt engineering*, and there are patterns out there that describe to do it more effectively. It's an art and not a science.
+What's really incredible in the earlier prompt example is that I didn't have write much depth at all into the character or setup, and it gave me great results. This doesn't happen all the time, and when it doesn't, I can iteratively adapt the character and setup until it's giving me what I want. That process is called *prompt engineering*, and there are patterns out there that describe to do it more effectively. It's an art and not a science.
 
 The first prompt I wrote didn't include the "bad cop" part. The advice wasn't as good because it felt too balanced in its criticism vs. praise, so there were conflicting signals. When I split it into two prompts, "bad cop" vs. "good cop", I got the results I was looking for. It was even better in unexpected ways. Depending on my mood, I can focus more on one set of feedback or the other. Feeling anxious or down? Good cop. Feeling ready to take on the world? Bad cop. The feedback-giver didn't have to read the current state of my mind to give me the most effective feedback - it was up to me to self-examine and self-regulate. That's empowering.
 

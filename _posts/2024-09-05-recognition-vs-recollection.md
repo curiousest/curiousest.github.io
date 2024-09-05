@@ -74,3 +74,7 @@ Of where it hasn't shifted:
 - Things that can't be digitalized.
 
 But there are more...
+
+Where I came to this thought was doing interview prep, and at first being demoralized that ChatGPT would be able to answer any interview question better than me. Then I thought about how to answer interview questions in a way that an LLM wouldn't be able to reproduce, and that began to feel like a worthwhile investment. The difference was, I was no longer "memorizing the recall of Chinese characters" anymore.
+
+As an interviewer, ask questions that an LLM wouldn't be able to answer. As an interviewee, answer questions in a way that an LLM wouldn't be able to reproduce.

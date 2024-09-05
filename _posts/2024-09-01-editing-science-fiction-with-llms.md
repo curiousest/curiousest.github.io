@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How writers will dominate in a world of LLMs (part 1)
+title: Writers will dominate in a world of LLMs (part 1)
 date: 2024-09-01T00:00:00.001-05:00
 author: Douglas Hindson
 tags:
@@ -49,7 +49,7 @@ This is an outline of a standard writing process that every writer will recogniz
 	<br/>*("copy edits" - grammar, spelling, formatting)*
 11. Resolve the copy edits.
 
-The further down that list you go, *the easier it is to automate*, so the more "human" tasks are higher up. That doesn't mean anything can be completely automated - we've had spellchecks forever and grammar checkers for a long time now, but copy editing still isn't completely automated. Most books on any bestseller list would have had someone paid to perform a copy edit.
+The further down that list you go, *the easier it is to automate*, so the more "human" tasks are higher up. That doesn't mean anything can be completely automated - we've had spellchecks forever and grammar checkers for a long time now, but copy editing still isn't completely automated. Most books on any bestseller list would have had a person paid to perform a copy edit.
 
 Good work comes from executing each part of a writing process effectively and good work can be done by many team compositions, but some team comps consistently perform better than others. For example, all the "review to find" tasks are best executed by someone with a different perspective than the writer - whether it's "distant-future you" after you forgot what you wrote, a person with different genetic code, or something derived from an entirely different sort of code... Someone with a lot of experience is usually great for development edits, and getting feedback from your target audience is critical.
 
@@ -485,7 +485,7 @@ Here are my favorite three quotes from the piece, along with why they resonated 
 
 > Now you are the "good cop" reviewer of the same audience. Provide development edit feedback on the piece, with excessive praise describing everything that worked.
 
-> What was your favourite three quotes from the piece and why?
+> What were your favourite three quotes from the piece and why?
 
 <details markdown="1">
 <summary>ChatGPT's response (click to expand)</summary>

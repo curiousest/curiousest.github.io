@@ -1,176 +1,30 @@
 ---
 layout: post
-title: How writers will dominate in a world of LLMs (part 2)
+title: Writing science fiction with LLMs - first attempt at writing
 date: 2024-09-01T00:00:00.001-05:00
 author: Douglas Hindson
 tags:
   - projects
 modified_time: 2024-09-01T00:00:00.001-05:00
 ---
-I imagined that writing scifi with an LLM would like going from finger-painting to photoshop. In reality, it was more like going from a fountain pen to a word processor, but I'm still using the tip of the fountain pen to press each key, spilling ink on electronics. I'd like to show you what "learning how to type" looks like for LLMs.
+I'm an AI engineer [on a sabbatical](2024-02-16-philosophy-study) [studying philosophy](2024-07-20-microsoft-google-and-strawberry-liquorice) and writing a book. The novel I'm writing is sci-fi philosophy and now that I've finished a readable draft, I've been looking into experimenting with using LLMs as a tool in my writing process. In my other post, I explored making development edits with LLMs.
 
-<img src="https://imgur.com/wS6EztQ.jpg" alt="You might wonder how I got so much of it on my hands. Well, I thought if I turned my world upside-down, to get a new perspective, it world make things better.">
-
-In my previous post, I introduced the profound parallels between writing and building IT products. In this post, I will build a short story from scratch with LLMs.
-
-If you're in tech/product with exposure to AI, this should be getting into the weeds and seeing new possibilities for building.
-
-If you're a writer, this is a taste of the future. The core capability I've outlined will probably be included in the next generation of word processors or whatever new interface we use to write. This post will be too technical to understand *everything*. Pay attention to writer callouts, cruise through the technical parts, and try to grasp the new processes.
-
-This post contains:
-- The LLM-assisted writing processes I ended up developing
-- The end-result: a draft scifi short story
-- First prompts and outlining
-- Body and style
-
-I'm writing this because I'm an AI engineer [on a sabbatical](2024-02-16-philosophy-study), [studying philosophy](2024-07-20-microsoft-google-and-strawberry-liquorice) and writing my first book. The novel I'm writing is sci-fi philosophy and now that I've finished a readable draft (sans-LLMs), I've been experimenting with LLMs as a tool in my writing process. So to me, this post is a little marketing, some personal exploration of AI industry tech, and a lot of fun.
-
-If you want to follow the next posts in the series or catch updates on my book:
-- [LinkedIn](https://www.linkedin.com/in/dhindson/)
-- [Email newsletter](https://curiousest.ck.page/437b446194)
-- [X/Twitter](https://x.com/minviablpurpose)
-- [TikTok](https://www.tiktok.com/@minimumviablepurpose)
-- [Facebook](https://www.facebook.com/profile.php?id=61564237665611)
-
-## An LLM-augmented writing process
-
-In my [previous post](2024-09-01-editing-science-fiction-with-llms.md), I explained this writing process:
-
-<details>
-<summary>Standard writing process (click to expand)</summary>
-1. Come up with an idea of what to write.
-2. Validate the idea.
-3. Write an alpha first draft (an early work-in-progress).
-4. Review to find big problems in the alpha draft.
-5. Write a good first draft.
-6. Review to find big problems in the good first draft ("development edits" and/or "beta readings" - plot, characters, worldbuilding, themes).
-7. Write to resolve the development edit problems.
-8. Review to find smaller problems in the second draft ("line edits" and/or "beta readings" - flow, consistency, clarity).
-9. Write to resolve the line edits.
-10. Review to find tiny problems in the second draft ("copy edits" - grammar, spelling, formatting).
-11. Resolve the copy edits.
-</details>
-
-I think of each step of a process like this as an *expert task* where the *expert task* can either be done by a human or broken down further and further until parts of the *expert task* can be automated. We're focusing on step 3, which involves creating something new. I find that when I'm producing something new on my own, I tend to follow a process something like this:
-1. Outline
-2. Brainstorm
-3. Filter ideas
-4. Compose ideas together
-
-To automate a given expert task, I tend to follow this process:
-1. Define task
-2. Find examples
-3. Generate training data
-4. Train model
-5. Apply model
-
-Combining those processes together, I ended up with this AI-augmented process I can apply at whatever content I want to produce:
-1. Outline
-	1. Outline content
-	2. Define task
-2. Brainstorm
-	1. Find examples
-	2. Generate training data with LLMs
-	3. Fine-tune LLM
-	4. Generate ideas with fine-tuned LLM
-3. Filter ideas
-4. Compose ideas together
-
-I can use that process wherever feels right. For writing a scifi short story, the things that felt right to partially-automate were:
-- The opening paragraphs
-- Parts where I got "stuck"
-- The story outline
-
-It's easy to extrapolate and think, "if we can break anything down into expert tasks, and every expert task could be automated, then we can automate anything!" It doesn't work that way in practice. You need an intuition for what tasks can be automated using which tools, and if you rigidly apply the framework I described, then anything you build will be rigid. Rigid structures are great, but it's hard to change their foundations or walls, so when you sometimes need a house and othertimes need a bicycle, no one framework will do.
-## The end-result
-
-In order to understand what was going on in my LLM-augmented writing process, it's useful to see where it ended up. I wanted to explore the feeling/belief, "we ought to work at understanding ourselves", by drawing parallels with another belief. "Belief in God" is an easy one to work with and well-understood, so drawing parallels between the two beliefs teaches you something about both of them. I wrote a parable in my book about a "little AI robot" that I really like and I wanted a similar character here. I also wanted to mix in some Kant-meets-Wittgenstein ideas about "what you can sensibly talk about" while giving a basic intuition for [Wittgenstein's ladder](https://en.wikipedia.org/wiki/Wittgenstein%27s_ladder).
-
-I'm not especially pleased with the end-result, but it's ok. I wrote a second piece a week later that I'm much happier with, and I'll share that one later.
-
-### AI can see the light, a pitter-patter of photons on my pupils
-
-[insert]
-
-## Generating body and style
-
-intro:
-- Style vs. content (find a funny analogy)
-- Training vs. telling (AI x software development. Rasa reference. CEO running company/consulting agency. Product definitions that could be applied by anyone. Applies to writing. find a funny analogy)
-	- New genre of code which is at the intersection between hand-written and AI-generated. When AI-generated gets edited/built-upon, so that code can be regenerated.
-
-### finding style
-[image: reaching into books to pull out worlds (yellow brick road or jade tower of oz), objects (thousand leagues under the sea machine), characters (tin man)]
-
-First, I wrote the outline. I've done this twice before, so I have some patterns that I picked up that gave me better results.
-
-pattern 1: the right amount of direction
-I found that when I asked it to generate the whole story, I got better results. I had to give it significant constraints, but also make it feel like it had a lot of control. It was a balance, finding exactly how much control to give it. If I gave it too much control, it produced gradually accellerating nonsense. If I didn't give it enough control, it just rewrote my prompt in different language. In-between the two was where the magic happened - where it gave me great, sensical ideas.
-
-After writing the outline, I had an idea of the style I was going for. I was thinking Aesop's Fables meets Narnia, where the setting is AI/cloud-computing meets Fantasia. I prompted ChatGPT for ideas for where to get samples in that space. My chat went like this:
-
-1. Tell ChatGPT to be a literary scholar giving me advice.
-2. Explain the style I'm looking for. Ask for books/short stories in the public domain in those styles.
-3. I filtered the books/stories that interested me, I asked for the parts and then passages that were relevant.
-4. I filtered the passages that fit what I was going for and copied them into my training data.
-5. I explored a bit more for passages that ChatGPT didn't mention that I wanted.
-
-Here's my ChatGPT chat:
-https://chatgpt.com/share/a5e55fb3-c36d-4dfc-9549-209ba7562508
-
-### training (fine-tuning)
-
-
-[asdf]
-
-
-### generating
-
-I haven't had to train a new model again. 
-asdf
-
-
-## Generating outline
-
-asdf
-
-
-[generate a bunch of outlines and train on them. establish "assist given task" pattern: task -> examples -> reverse-engineer training data -> train -> use]
-[try whole stories for outline]
-[pick my own for style]
-
+[to the tech/product people out there, writing is the simplest form of building with LLMs. This is the most relatable exploration of using LLMs in product you will see out there]
 
 [use LLMs to understand what they can and can't write, then write what they can't, so that someday we can build something else that can]
 [what they can't write is the unspoken edge of the human condition. what is that? I hope you can begin to see it in my writing - especially these blog posts.]
 
-## Conclusion
+If you want to follow the next posts in the series or catch updates on my book:
+- [X/Twitter](https://x.com/minviablpurpose)
+- [Email newsletter](https://curiousest.ck.page/437b446194)
+- [TikTok](https://www.tiktok.com/@minimumviablepurpose)
+- [Facebook](https://www.facebook.com/profile.php?id=61564237665611)
+## Actual, write this blog post like I'm writing stories
 
-asdf
-## Notes
+[the prompt]
+[the model and training data]
 
 
-Here is the process I ended up developing:
-- Draft a partial outline
-- Write the LLM prompt with partial content
-- Fine-tune the LLM model for writing style:
-	- Choose training structure
-	- Gather data
-	- Fine-tune model
-- Generate outlines and pick while I like
-- Make a collage of pickings for a solid outline
-- Generate e2e first drafts and pick what I like
-- Make a collage of pickings and write part of the first draft
-- Update the LLM prompt with a solid outline and more content
-- Iteratively fill-in what's left:
-	- generate -> copy -> assemble -> write -> edit
-
-#### Conditioning on written text
-- Part of the self-supervised learning of LLMs is that they get better with more context (prompt length).
-- Every time I gave it a prompt where some part of it was already written text, it was a different "condition" that changed it's outputs.
-- Frequently, the context length would hit the prompt token limit. I would deal with that by cutting off the older context that was less relevant, or paraphrasing repeated content so I could fit more new content in.
-- There was one time in the process where having a large context wasn't working. The back-and-forth reiterated the same ideas with minor variations. I removed most the context and it improved the results.
-
----
 ## An example story
 
 In order to understand the LLM-based writing process, it's useful to see where it ends up. This was my first attempt at writing a story with an LLM. I wanted to explore the feeling/belief, "we ought to work at understanding ourselves", by drawing parallels with another belief. "Belief in God" is an easy one to work with and well-understood, so drawing parallels between the two beliefs teaches you something about both of them. I wrote a parable in my book about a "little AI robot" that I really like and I wanted a similar character here. I also wanted to inject some Kant-meets-WIttgenstein.
@@ -197,7 +51,7 @@ Not too long after, the little AI chatbot sprung back into running programs from
 
 ---
 
-If you're impressed with the story I wrote "with" the LLM, it's like being impressed with a twelve-year-old's assignment that was mostly written by their parent.
+If you're impressed with the story I wrote "with" the LLM, it's like being impressed with a twelve-year-old's assignment that was mostly written by their parent. In my imagination, writing with an LLM should be like going from finger-painting to photoshop. This was more like going from a fountain pen to a word processor, but I'm still using the tip of the pen to move the mouse and press each key. Fortunately, I was never any good at handwriting so it's not as painful as it could be.
 
 [funny picture]
 

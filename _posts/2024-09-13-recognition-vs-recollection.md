@@ -18,6 +18,7 @@ For example, Chinese written text is not phonetic so you have to memorize all wo
 As someone who had actively avoided memorizing throughout my schooling, this was *hard*. My first instinct was to figure out how to memorize less. After a month of studying, I realized that **it's easier to *recognize* than it is to *recall*.**
 
 > To recognize: when presented with something, to identify it as something you've seen before.
+> 
 > To recall: to bring something back into your mind.
 
 An example:
@@ -63,14 +64,14 @@ In this same vein is the infamous "Stack Overflow" method of yester-decade. It a
 
 It's not a new phenomenon, it has just expanded/exploded with LLMs. We can take advantage of the change by *recognizing* where the recall-recognition tradeoff has suddenly shifted and where it hasn't. LLMs are much better at recognition than recall too:
 * [Recognition, Recall, and Retention of Few-Shot Memories in Large Language Models](https://arxiv.org/abs/2303.17557)
-* [Think-in-Memory: Recalling and Post-thinking Enable LLMs with Long-Term Memory]((https://arxiv.org/abs/2311.08719)
+* [Think-in-Memory: Recalling and Post-thinking Enable LLMs with Long-Term Memory](https://arxiv.org/abs/2311.08719)
 
 It's easy to think, "If LLMs also struggle with recall, then shouldn't we do *more* recall learning and not less?" But that perspective misses the point. Instead of asking who should handle recall, we should be asking, "Given that recall is difficult and resource-intensive, what aspects of recall should we prioritize?" Like LLMs, humans don’t have infinite capacity for recall, and it's inefficient to treat all information equally. So when people or LLMs learn, we need to be strategic about reserving our recall-memorization efforts for the concepts that matter most.
 
 I came to these thoughts while doing interview prep, and getting demoralized that ChatGPT would be able to answer any interview question better than me with a bit of prompting. Questions like:
-- "You are a machine-learning engineer: make a system design of Instagram's feed."
+- "You are a machine-learning engineer. Make a system design of Instagram's feed."
 - "You are a PM at AirBnB. How would you increase bookings?"
-- "You are a software engineer: design a rate limiter."
+- "You are a software engineer. Make a system design of a rate limiter."
 
 Interview prep felt like a recall-memorization task on unimportant content because to answer any of these interview questions in real life I'd use an LLM and Google. Then I thought about how to answer interview questions in a way that an LLM wouldn't be able to reproduce, and my studying began to feel like a worthwhile investment beyond interviews. I no longer felt like I was superficially "memorizing the recall of Chinese characters" anymore.
 

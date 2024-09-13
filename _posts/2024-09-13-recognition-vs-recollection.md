@@ -25,15 +25,23 @@ An example:
 Take five seconds and memorize this character: 海
 
 Now clear your mind and scroll down until the character is hidden.
-
-
-
-
-
-
-
-
-
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 Do you think you'd be able to draw that character now? Every stroke perfectly - all the angles and dots and curves?
 

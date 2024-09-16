@@ -60,7 +60,7 @@ With the technique I described, I was able to learn Chinese much faster than oth
 
 This same concept applies to *all* the things that LLMs seem to be useful for. The learning curve for a huge set of tasks has changed because if you can structure the task right, you can use LLMs to turn it into an exercise in recognition rather than recall.
 
-In this same vein is the infamous "Stack Overflow" method of yester-decade. It applied to certain kinds of software development problem (package installations, exotic error codes, etc.). You'd Google your error message, click on the first couple Stack Overflow links, look at a couple solutions, then copy-paste the one that looked best. The alternative would be to understand what was really going on, but that wasn't worth the effort most of the time (right up until it was worth the effort).
+In this same vein is the infamous "Stack Overflow" method of yester-decade. It applied to certain kinds of software development problem (package installations, exotic error codes, etc.). You'd Google your error message, click on the first couple Stack Overflow links, look at a couple solutions, then copy-paste the one that looked best. The alternative would be to understand what was really going on, but that wasn't worth the effort most of the time.
 
 It's not a new phenomenon, it has just expanded/exploded with LLMs. We can take advantage of the change by *recognizing* where the recall-recognition tradeoff has suddenly shifted and where it hasn't. LLMs are much better at recognition than recall too:
 * [Recognition, Recall, and Retention of Few-Shot Memories in Large Language Models](https://arxiv.org/abs/2303.17557)
@@ -75,7 +75,7 @@ I came to these thoughts while doing interview prep, and getting demoralized tha
 
 Interview prep felt like a recall-memorization task on unimportant content because to answer any of these interview questions in real life I'd use an LLM and Google. Then I thought about how to answer interview questions in a way that an LLM wouldn't be able to reproduce, and my studying began to feel like a worthwhile investment beyond interviews. I no longer felt like I was superficially "memorizing the recall of Chinese characters" anymore.
 
-When you're learning or testing, be strategic about what's important for recognition vs. recall memory. As an interviewer, ask questions that an LLM couldn't answer. As an interviewee, give answers that an LLM couldn't produce. That's how we can learn and test on the things that matter. It might sound ridiculous now, but it's no different than saying, "give questions/answers that can't be Googled" two decades ago.
+When you're learning or testing, be strategic about what's important for recognition vs. recall memory. As an interviewer, ask questions that an LLM couldn't answer. As an interviewee, give answers that an LLM couldn't produce. That's how to learn and test the things that matter. It might sound ridiculous now, but it's no different than saying, "give questions/answers that can't be Googled" two decades ago.
 
 ## Post-article notes
 

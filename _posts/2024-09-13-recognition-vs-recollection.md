@@ -13,7 +13,7 @@ Memorizing is a waste of time. Find a way to learn without memorizing.
 
 That's what I thought my whole student life until I started to learn Chinese. You have to memorize - the hardest thing about Chinese is how much memorization there is. For every one thing you memorize in French, you have to memorize like five things in Mandarin!
 
-For example, Chinese written text is not phonetic so you have to memorize all words twice - the spoken sounds and one or two characters that you've never seen before. Whereas French is phonetic. So "child" in French is "enfant", while in Mandarin it's "háizi" (spoken) and 孩子 (written). And then there's overlap in French words but not Chinese, and more importantly, there's a direct mapping of concepts in French, but much less in Chinese. [Eg, in Chinese there's no direct equivalent to the concept, "no"](https://studycli.org/learn-chinese/no-in-chinese/).
+For example, Chinese written text is not phonetic so you have to memorize all words twice - the spoken sounds and one or two characters that you've never seen before. Whereas French is phonetic. So "child" in French is "enfant", while in Mandarin it's "háizi" (spoken) and 孩子 (written). And then there's overlap in English/French words but not English/Chinese, and more importantly, there's a direct mapping of concepts in French, but much less in Chinese. [Eg, in Chinese there's no direct equivalent to the concept, "no"](https://studycli.org/learn-chinese/no-in-chinese/).
 
 As someone who had actively avoided memorizing throughout my schooling, this was *hard*. My first instinct was to figure out how to memorize less. After a month of studying, I realized that **it's easier to *recognize* than it is to *recall*.**
 

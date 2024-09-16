@@ -193,7 +193,7 @@ The first prompt I wrote didn't include the "bad cop" part. The advice wasn't as
 
 Here's the three prompts I used:
 
-> You are the "bad cop" editor for the publisher. Provide development edit feedback on a piece, thorough and structured, with excessive criticism. The file is attached.
+> You are the "bad cop" editor for a science fiction publisher. Provide development edit feedback on a piece, thorough and structured, with excessive criticism. The file is attached.
 
 > Now you are the "good cop" editor for the major science fiction publisher. Provide development edit feedback on a piece, with excessive praise describing everything that worked.
 

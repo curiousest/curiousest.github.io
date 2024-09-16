@@ -75,7 +75,7 @@ I came to these thoughts while doing interview prep, and getting demoralized tha
 
 Interview prep felt like a recall-memorization task on unimportant content because to answer any of these interview questions in real life I'd use an LLM and Google. Then I thought about how to answer interview questions in a way that an LLM wouldn't be able to reproduce, and my studying began to feel like a worthwhile investment beyond interviews. I no longer felt like I was superficially "memorizing the recall of Chinese characters" anymore.
 
-When you're learning or testing, be strategic about what's important for recognition vs. recall memory. As an interviewer, ask questions that an LLM wouldn't be able to answer. As an interviewee, learn to answer questions in a way that an LLM wouldn't have been able to produce. That's how we can learn and test on the things that matter. It might sound ridiculous now, but it's no different than saying, "give questions/answers that can't be Googled" two decades ago.
+When you're learning or testing, be strategic about what's important for recognition vs. recall memory. As an interviewer, ask questions that an LLM couldn't answer. As an interviewee, give answers that an LLM couldn't produce. That's how we can learn and test on the things that matter. It might sound ridiculous now, but it's no different than saying, "give questions/answers that can't be Googled" two decades ago.
 
 ## Post-article notes
 

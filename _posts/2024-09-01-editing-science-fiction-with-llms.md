@@ -26,9 +26,6 @@ I'm writing this because I'm an AI engineer [on sabbatical](2024-02-16-philosoph
 I will post more technical followups on this topic. If you want to follow the next posts in the series or catch updates on my book:
 - [LinkedIn](https://www.linkedin.com/in/dhindson/)
 - [Email newsletter](https://curiousest.ck.page/437b446194)
-- [X/Twitter](https://x.com/minviablpurpose)
-- [TikTok](https://www.tiktok.com/@minimumviablepurpose)
-- [Facebook](https://www.facebook.com/profile.php?id=61564237665611)
 
 ## Adding automation to writing
 

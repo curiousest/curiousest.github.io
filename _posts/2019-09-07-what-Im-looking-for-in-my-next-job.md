@@ -15,6 +15,11 @@ modified_time: '2021-09-22T00:00:00.001-05:00'
 
 When looking for a new position, I like my goals to be clear to me and available to others. This post documents the goals in my transitions. Like most goals/values lists, what's excluded is often as notable as what's included. At each transition, I have many "wants", but I don't expect to get them all - they're notable factors for my decision-making.
 
+# 2024
+
+Growth, community, and AI.
+
+Early stage company, as an IC that can grow either into management or sales/product-oriented roles. I want early stage to have the camaraderie and also to get involved in the industry.
 # 2022
 
 I'm not actively looking, just projecting that I will want some sort of change by this point in time (either within my current company or to a new one).

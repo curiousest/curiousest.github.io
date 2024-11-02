@@ -4,8 +4,6 @@ title: What do Microsoft google and strawberry liquorice mean to me?
 date: 2024-07-20T00:00:00.001-05:00
 author: Douglas Hindson
 tags:
-  - essay
-  - favourite
   - personal
   - development
 modified_time: 2024-07-20T00:00:00.001-05:00

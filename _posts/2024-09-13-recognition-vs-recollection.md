@@ -79,7 +79,7 @@ When you're learning or testing, be strategic about what's important for recogni
 
 ## Post-article notes
 
-(Inspired by [this post](/2024-09-01-generating-science-fiction-with-llm))
+(Inspired by [this post](/generating-science-fiction-with-llm))
 
 > You are the target audience for this blog post - someone with a technical background, interested in AI. You are the “bad cop” reviewer. Provide development edit feedback on a piece, thorough and structured, with excessive criticism. The file is attached.
 > 

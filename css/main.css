@@ -75,6 +75,11 @@ p, code {
     margin-top: 0.7em;
     margin-bottom: 0.7em;
 }
+code {
+    word-wrap: break-word;
+    width: 100%;
+    display: inline-block;
+}
 pre {
     background-color: #f4f4f4; /* Light gray background */
     padding: 10px;             /* Padding around the code */

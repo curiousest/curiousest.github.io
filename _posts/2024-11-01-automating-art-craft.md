@@ -6,6 +6,7 @@ author: Douglas Hindson
 tags:
   - projects
   - essay
+  - essays
 modified_time: 2024-11-02T00:00:00.001-05:00
 ---
 > Be the data you want to see in the world.
@@ -18,7 +19,7 @@ In the age of generative AI, creating media is changing fast. Any works created 
 
 In the coming years, I think artists should invest in exploring the changing new world rather than investing in the the previous-generation tools that are being rapidly deprecated. Artists should let genAI and technologists figure out the art-craft for now, and gather experiences in the *real world* instead of the *art world*. That way we will get less of a deluge of art about art.
 
-Soon, genAI will be able to create art from *worthy experiential data*. So the focus of the artist is better invested on generating *worthy experiential data* and not the downstream craft that processes the experiential data into art. In this post, I'm going to demo how to automatically extract meaning and create worthy story from experiential data. The end-product is bad but the point of it is to show that automating much of the craft of worthy art is possible, so we can expect huge advances in the tools of art-craft.
+Soon, genAI will be able to create art from *worthy experiential data*. So it's better for artists to invest in generating *worthy experiential data* rather than the downstream craft that processes the experiential data into art. In this post, I'm going to demo how to automatically extract meaning and create worthy story from experiential data. The end-product is bad but the point of it is to show that automating much of the craft of worthy art is possible, so we can expect huge advances in the tools of art-craft.
 
 ## system overview
 

@@ -5,19 +5,20 @@ date: 2024-11-02T00:00:00.001-05:00
 author: Douglas Hindson
 tags:
   - projects
+  - essay
 modified_time: 2024-11-02T00:00:00.001-05:00
 ---
 > Be the data you want to see in the world.
 
-I everyone should live by this maxim in the age of AI, especially artists.
+Everyone should live by this maxim in the age of AI, especially artists.
 
-Artists produce art about themselves and their lived experience, that's just how it works. Artists who invest in their craft inevitably produce art about their craft - *art about art*. Professional artists can't help but produce *art about art*. That's not bad in isolation, but when most art is produced by professional artists, we mostly end up with *art about art*.
+Artists produce art about themselves and their lived experience, that's just how it works. Artists who spend a lot of time investing in their craft tend to produce art about their craft - *art about art*. If all you do is art, all you'll want to produce is *art about art*. That's not bad in isolation, but when most art is produced by professional artists, the art we mostly end up with is *art about art*.
 
-In the age of generative AI, the craft of art is changing fast. The art world is being turned upside-down, so artists will want to produce art about the changing nature of art. Loads of art about art...
+In the age of generative AI, creating media is changing fast. Any works created or delivered through a computer will soon be done by a computer + AI. The creative world is being turned upside-down, so artists will be inspired to produce something about that change - the changing nature of art. Loads of art about art...
 
-In the coming years, I think artists should invest in exploring the changing new world rather than investing in the profession of art and the previous-generation tools that are being rapidly deprecated. Artists should let genAI do the art-craft for now, and gather experiences in the *real world* instead of the *art world*. That way we will get less of a deluge of art about art.
+In the coming years, I think artists should invest in exploring the changing new world rather than investing in the the previous-generation tools that are being rapidly deprecated. Artists should let genAI and technologists figure out the art-craft for now, and gather experiences in the *real world* instead of the *art world*. That way we will get less of a deluge of art about art.
 
-Soon, genAI will be able to create art from *worthy experiential data*. So the focus of the artist is better invested on generating *worthy experiential data* and not the downstream craft that processes the experiential data into art. In this post, I'm going to demo how to automatically extract meaning and create worthy art from experiential data, e2e. The end-product is low quality with nuggets of quality, and the point of it is to show that automating most of the craft of worthy art is possible.
+Soon, genAI will be able to create art from *worthy experiential data*. So the focus of the artist is better invested on generating *worthy experiential data* and not the downstream craft that processes the experiential data into art. In this post, I'm going to demo how to automatically extract meaning and create worthy story from experiential data. The end-product is bad but the point of it is to show that automating much of the craft of worthy art is possible, so we can expect huge advances in the tools of art-craft.
 
 ## system overview
 
@@ -25,7 +26,11 @@ The process of automatically creating art from experiential data I'm demoing is:
 
 **collect experiential data -> extract beliefs -> generate art from the beliefs**
 
-I use this abstraction, "beliefs", because they are granular enough to be useable by LLMs and abstract enough to hold sufficient meaning for art. Comparable things like sentiment analysis or ontological mapping exist, but beliefs feel to me like they're more usable for the purposes of art and self-improvement.
+**collect experiential data**: in this demo, this is a 1500-word text conversation
+**extract beliefs**: in this demo, this is a prompt that analyzes the conversation
+**generate art from beliefs**: in this demo, this is a prompt that writes a story
+
+I use this abstraction, "beliefs", because they are granular enough to be useable by LLMs and abstract enough to hold sufficient meaning for what I'm doing here. Comparable things like sentiment analysis or ontological mapping exist, but beliefs feel to me like they're more usable for the purposes of art and self-improvement.
 
 I have two hypotheses:
 - LLMs can extract "beliefs" from experiential data.

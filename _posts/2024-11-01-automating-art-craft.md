@@ -27,9 +27,9 @@ The process of automatically creating art from experiential data I'm demoing is:
 
 **collect experiential data -> extract beliefs -> generate art from the beliefs**
 
-**collect experiential data**: in this demo, this is a 1500-word text conversation
-**extract beliefs**: in this demo, this is a prompt that analyzes the conversation
-**generate art from beliefs**: in this demo, this is a prompt that writes a story
+- **collect experiential data**: in this demo, this is a 1500-word text conversation
+- **extract beliefs**: in this demo, this is a prompt that analyzes the conversation
+- **generate art from beliefs**: in this demo, this is a prompt that writes a story
 
 I use this abstraction, "beliefs", because they are granular enough to be useable by LLMs and abstract enough to hold sufficient meaning for what I'm doing here. Comparable things like sentiment analysis or ontological mapping exist, but beliefs feel to me like they're more usable for the purposes of art and self-improvement.
 
@@ -202,6 +202,7 @@ Response:
 In my opinion, stories where LLMs write every sentence are stylistically garbage. Stories that are both written and ideated by LLMs rather than human prompting are "style garbage" x "trope garbage" = garbage². Generative AI will still overhaul the toolsets of the art world, because it doesn't have to automate everything a person does, just the tedious stuff that people don't want to do.
 
 I generated two pieces of "art":
+
 - a parable using the source text (the baseline)
 - a parable using the source text and the additional prompt "Change the following belief in the parable: {extracted_belief}"
 
@@ -322,7 +323,8 @@ Moreover, I think that successful storytellers identify the beliefs in a populat
 ## Conclusion
 
 Back to today's artists within the framework:
-**collect experiential data -> extract beliefs -> generate art from the beliefs
+
+**collect experiential data -> extract beliefs -> generate art from the beliefs**
 
 I think their time is better spent collecting experiential data. The rest of the artistic process will be lost in the churn of fast-advancing technology, and to participate there, an artist needs to be a technologist. Not every artist should be a technologist.
 

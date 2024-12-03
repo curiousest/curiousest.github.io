@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Eagle and the Beavers
+title: The eagle and the armies of beavers
 date: 2024-12-04T00:00:00.001-05:00
 author: Douglas Hindson
 tags:

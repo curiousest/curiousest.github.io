@@ -58,8 +58,8 @@ said the spokesbeaver.
 "Then we need more intensity."
 said the eagle.
 
-"Or you must join us underwater."
-said the spokesbeaver.
+ "Or you must join us underwater."
+ said the spokesbeaver.
 
-And the beavers were left to wonder how to surface their intensity while staying underwater.
-While the eagle was left to ponder whether it was willing to risk drowning for the dam.
+The beavers were left to wonder how to surface their intensity, underwater.
+The eagle was left to ponder whether it was willing to risk drowning for the dam.

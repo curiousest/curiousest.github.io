@@ -61,5 +61,5 @@ said the eagle.
 "Or you must join us underwater."
 said the spokesbeaver.
 
-And the eagle was left to ponder whether it was willing to risk drowning for the dam.
-While the beavers were left to wonder how to stay in the water while returning to land.
+And the beavers were left to wonder how to surface their intensity while staying underwater.
+While the eagle was left to ponder whether it was willing to risk drowning for the dam.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The eagle and the armies of beavers
+title: A Parable - The eagle and its armies of beavers
 date: 2024-12-04T00:00:00.001-05:00
 author: Douglas Hindson
 tags:
@@ -42,7 +42,7 @@ The beavers kept working, but up on land they mostly looked content. There was n
 
 ---
 
-A few years later, the eagle commissioned an army of beavers to build a great dam to divert another river. In the past few years beavers had learned how to live and work underwater. They collected building materials underwater and slept in their dams underwater. Just a few spokesbeavers came above water to meet with the eagle, so the eagle rarely saw the army of beavers anymore. Fall came around and the dam was not yet done, so the eagle got all the beavers to swim up to the surface and explained,
+A few years later, the eagle commissioned an army of beavers to build a great dam to divert another river. In the past few years beavers had learned how to live and work underwater. They collected building materials underwater and slept in their dams underwater. Just a few spokesbeavers ever came above water to meet with the eagle, so the eagle never saw the army of beavers anymore. Fall came around and the dam was not yet done, so the eagle got all the beavers to swim up to the surface and explained,
 
 "If we do not build the dam by winter, ice floes will sweep it away. We need more intensity."
 
@@ -62,4 +62,5 @@ said the eagle.
  said the spokesbeaver.
 
 The beavers were left to wonder how to surface their underwater activity.
+
 The eagle was left to ponder whether it was willing to risk drowning for the dam.

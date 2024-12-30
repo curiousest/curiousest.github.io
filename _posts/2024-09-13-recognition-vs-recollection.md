@@ -189,3 +189,18 @@ Your ability to bring personal experience into a technical discussion without lo
 Keep up the excellent work—this is the kind of writing that bridges technical knowledge with real-world application!
 
 </details>
+
+## Extension (update)
+
+What if harnessing the differential between recall and recollection is a building block of intelligence?
+
+### Example 1: LLMs for writing
+
+I've been using LLMs along with a story outline and a prompt to generate ~100s of attempts to write parts of the story. A prompt might be like, "write the opening scene" or "write the dialogue when the characters meet". I read through the 100s of examples to pick out the phrases or paragraphs that I like. It's maybe 5% of the content. I've created labelled data for two different tasks:
+1. Recall: given a prompt, the LLM should produce the content that I preferred and not the content is didn't prefer.
+2. Recognition: given produced text, the LLM should filter the content to match my preferences.
+My intuition says that both humans and LLMs are much better at recognition than recall. This is super interesting, because any system can make itself more intelligent at a task by performing batch recall (with some randomization), then filtering with recognition. It's like brainstorming and filtering.
+
+### Example 2: Evolution and survival
+
+Let's frame survival of the fittest as a recollection task given to "nature" or "the universe". A species produces a whole batch of candidate life forms within the species. Nature filters the life forms that it prefers. In this way, the "intelligence" of the universe is transferred into the next generation of the species. Those preferences of nature are compressed into the DNA/source code of the species.

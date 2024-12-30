@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Masters and Slaves of the Universe
-date: 2024-12-23:00:00.001-05:00
+date: 2024-12-23T00:00:00.001-05:00
 author: Douglas Hindson
 tags:
   - essay
-modified_time: 2024-12-23:00:00.001-05:00
+modified_time: 2024-12-23T00:00:00.001-05:00
 ---
 ## The argument: are we masters or slaves of the universe?
 

@@ -9,3 +9,4 @@ _site/
 Gemfile.lock
 _drafts/tabum/
 _drafts/tabum/*
+.DS_Store

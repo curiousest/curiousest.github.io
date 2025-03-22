@@ -7,353 +7,62 @@ tags:
   - story
 modified_time: 2024-11-25T00:00:00.001-05:00
 ---
-## The Queen of Groundhog Day
+# summary
 
-### Part 1: first encounter
+### **Act 1: First Encounter (Existential and Absurdist)**
 
-**5 Jan**
-*Fiancee*
-[15:22] Hey can we schedule some time to talk at some point?
-[15:22] I have thought about a lot of things about our relationship
-[15:23] I think I should have made a decision long time ago but I have been dragging and dragging
-[15:24] The matter is irrelevant with Chad. Because whatever the outcome with him turns out to be, my decision won’t change
-[15:24] I want to discuss on the call
-[15:24] And we should further discuss in person of course
+**Themes**: Alienation, ennui, existential dread, absurdity.  
+**Style**: Dense, introspective, and descriptive, with a focus on mundane realities rendered oppressive and surreal.
 
-*Drone*
-[16:03] Yup
-[16:04] I’m pretty good after work today. 630?
+**Works to Train On**:
 
-*Fiancee*
-[16:30] Kk
-
-*Voice call* [18:30-18:54]
-
-**8 Jan**
-*Drone*
-[10:43] So about me moving out of the apartment. I think there’s two parts:
-1. interconnected finance
-2. interconnected living circumstances
-Changing both at the same time is too much for me. Can we focus on just one of them?
-
-*Fiancee*
-[11:56] Drone
-[11:56] But I am redo the financial position for you.
-[11:58] you do understand your stability is depends on my sacrifice. I have done a lot of things for your stability for a long time and I don’t want it to do so anymore.
-[11:59] I want complete freedom
-[11:59] We can negotiate price but that’s what I want
-[12:01] So there are only two ways
-[12:01] I buy out the apartment from you or you buyout from me
-
-**9 Jan**
-*Drone*
-[20:01] 👋 hope Thailand is being good to you
-[20:01] Yes, very interconnected and that’s suboptimal for you. Sry, lots going on.
-[20:02] Would you like to chat tonight or Friday night?
-
-**10 Jan**
-*Fiancee*
-[00:06] Yeah I think I can do anytime before midnight Thailand time
-[00:07] I think it is good to chat multiply time as soon as possible as I really want to get things sorted soon
-[00:09] I have been endured too much by myself for a long time
-[00:12] Also being chased by my family about marriage and kids. Spent my 20s trying to make a relationship work but that never will. I think I really want to put an end to this as I don’t have much time to waste
-
-*Drone*
-[10:51] I’m busy until Friday
-
-*Fiancee*
-[10:52] I am sure you would have 30 minutes in the next three days to chat ?
-
-*Drone*
-[10:52] More, it’s better to wait until Friday
-
-*Fiancee*
-[10:53] I don’t get the point to wait…. If you have concerns
-[10:53] Better to address now
-[10:53] But sure
-
-*Drone*
-[10:53] I don’t want to use it as a negotiating tool or excuse
-
-*Fiancee*
-[10:53] If you think other things should take priorities, I have nothing to say
-
-*Drone*
-[10:54] Travelling to go to granny’s funeral
-
-*Fiancee*
-[10:54] What! What happened
-[10:54] Omg, it is okay?
-[10:54] Are you okay?
-
-*Drone*
-[10:55] Yup
-[10:55] Dealing with it
-
-*Fiancee*
-[10:55] Okay, deal with that first
-[10:55] Let’s talk later
-
-*Drone*
-[10:55] Ty
-
-*Fiancee*
-[10:57] When did she pass away?
-[10:57] I am so sorry to hear that
-
-*Drone*
-[10:59] Saturday
-
-*Fiancee*
-[11:00] I am so sorry
-[11:00] Are you okay?
-[11:00] Is it too painful?
-
-*Drone*
-[11:01] Yup
-
-*Fiancee*
-[11:01] Why you didn’t tell me
+1. **Jean-Paul Sartre, _Nausea_**
+    - Rich descriptions of the ordinary rendered nauseating.
+    - Profound exploration of existential despair.
+2. **Albert Camus, _The Stranger_**
+    - Detached, sparse narrative that conveys absurdity and alienation.
+3. **Franz Kafka, _The Trial_ or _The Metamorphosis_**
+    - Exploration of bureaucratic absurdity and the surreal in everyday life.
+4. **Samuel Beckett, _Waiting for Godot_** (if dialogue-driven moments are important)
+    - Thematic focus on the absurd and existential waiting.
 
 ---
 
-The deepest suffering you can endure is monotony. Not just because of the daily grind, but also because when you finally break away, the pain of losing your routine will hurt that much worse.
-
-[absurd setting description]
-Drone looked at the stained glass windows of the Church. Saints and Jesus and Angels and Mary. A depiction of Mary caught his eye, blue flowing gown lit up. And then an androgynous angel nearby, kinda hot. He looked around for more stained-glass women. They were all depictions of Mary. Not hot. Drone was disappointed.
-
-"This place needs a better variety of women." thought Drone.
-
-The funeral mass stood up for the entrance procession and began to sing Schubert's Ave Maria,
-
-> Ave Maria, gratia plena,  
-> Maria, gratia plena,  
-> Maria, gratia plena,  
-> Ave, Ave, Dominus,  
-> Dominus tecum.
-> ...
-
-Once the procession finished, the priest spoke,
-
-"O God, whose mercies cannot be numbered, we humbly implore you for your servant Mrs. Lacey, wife of John Lacey, whom you have called to yourself. Through the intercession of the Blessed Virgin Mary, Mother of God, grant them eternal rest and bring comfort to us who mourn. Amen."
-
-Drone looked around and saw a booth. It was a booth to commune with various saints. Inside he saw a lady dressed in white. A strange thing to wear to a funeral, since she can't be a priest. She closed the curtain.
-
-[absurd transition]
-
-[encounter Mary]
-[better introduction to mary, this is shit, going to meet thing in booth is too stereotypically ]
-[have the priest be an LLM?]
-[last words with granny embodied in LLM before her data is purged, and then she can meet Peter at the gates to heaven]
-Drone went to look for the lady dressed in grey-white. Above the booth read, "Our Lady of the Immaculate Commitment."
-
-#### Sees "exit simulation" ad. Meets Mary.
-
-Drugs don't fix reality. Drugs fix the simulation. Less drugs fixes reality. Less drugs.
-
-"Drone, darling, how are you?"
-"Uh, don't say my name, that's creepy."
-"Dahling, how are you?"
-"Mmmh." grunted Drone.
-
-"I won't believe anything you have to say to me. My eyes and ears fail me. Nothing makes sense. How can I believe anything I see or hear? So I must failover to my deeper senses. To what's close to me - my feeling that I can reach out and *feel*. Touch."
-
-The lady in white reached out and he felt nothing.
-
-"We're in a simulation, that's a fact. I can feel it. I want to exit the simulation."
-
-He looked up, and the lady in grey-white met his eyes with understanding. She reached out to hug him. He held his ground, didn't move, and she hugged him around his rigid shoulders. Drone closed his eyes and was hugged. He felt her shake her head and pat his back three times. It wasn't going to happen.
-
-She moved back away from him and made eye contact to get his attention. 
-[physical expression of "you already exited the simulation, but you can reverse back into it"]
-
-(afterwards, all the model says is "Dahling, how are you?")
-
-There is no simulation. But you can reverse back out of this reality, to go to where you came from.
-You already left the simulation, but you can go back in.
-
-The brood mother doesn't have any children. She instead has many man-childs.
-### Part 2: regression to Mary
-
-"Dahling, how are you?"
-said Mary, his mother. A common family phrase which roughly translated to "I empathize with you." He didn't have much to say to that, other than giving her a hug, so he opened his arms for one.
-
-[exposition transition, thinking about going back home]
-
-"Dahling, how are you?"
-said Mary, his sister. It's strange that unlike men, a line of women who share the same name don't have the same need to differentiate by attaching "junior". So she was just "Mary". And here she was, repeating the common family phrase. He didn't have much to say to it, other than giving a hug, so he opened his arms for one.
-
-She knew without asking that he was hurting a big more than most, with his marital troubles. She stepped back and held one hand cupping his elbow, holding him up slightly, supporting him. She would support him no matter what happened. That's what he needed.
-
-
-Phone call to grandmother. (women aren't allowed to die, too inconvenient)
-
-### Part 3: "exit simulation"
-
-Today is the day she eats me, finally. I don't have to worry about tomorrow because today I am hers.
-
-I don't have to relive today anymore, she's taking me out of groundhog day.
-
-No darkness, no sleep, no food, no pain.
-Go to reality, suffer, want to go back to the womb. Become consumed.
-
-There's no pleasure like the relief of the deepest pain.
-
-And he ceased to feel. And it was optimal.
-
-Mary. The brood mother. The Queen of Groundhog Day. Our Lady of the Immaculate Commitment. Demonic goddess, consumer of ideas.
-Married to everyone, and she is loyal.
-Mary, whose womb is your world. Has man-childs, not children.
-Matron saint of decentralized commitment, highly available.
-## The prompt
-
-### Beliefs explored
-
-1. We live outside of Plato's cave, we live outside the simulation. There is no simulation - we already left it. We can go back in - it's warm and cozy inside. Womb, cocoon, and death.
-2. Reversal of individualism to one-ness. Description of how you come to identify with different things in the world, by playing the early stages of life/identity in reverse.
-3. Detailed communication can happen through touch. Conversation in touch.
-4. Within the conception of love, identity and commitment are separable. It is possible to have high-identity, low-commitment love. It is possible to have low-identity, high-commitment love.
-5. Time feels like it moves slower/faster for people based on how much novelty they experience relative to their priorities.
-### Outline
-
-#### Story arc
-1. Part 1: first encounter
-	1. Drone is somewhere abroad.
-	2. Several bad things happen simultaneously:
-		1. Going through mental health crisis
-		2. Wife asks drone to leave apartment.
-		3. Currently at grandmother's funeral.
-	3. Sees "exit simulation" ad. Meets Mary.
-2. Part 2: regression to Mary
-	1. Goes back to wife - who is now Mary.
-	2. More people become Mary.
-	3. Places become Mary.
-3. Part 3: "exit simulation"
-	1. Drone becomes Mary and is consumed, as he desires.
-#### Part 1: first encounter
-
-Groundhog day description, boring setting.
-Drone is away from home, greyscale setting. Struggling with mental health. Sartre "Nausea" descriptions of everyday phenomena, kierkegaard-like thoughts "there's something better out there".
-Drone gets text from wife saying to leave the flat by the end of the month [insert]. Asks to slow change, too much changing.
-Drone talks to work colleagues, boss. Work is boring.
-Goes to grandmother's funeral.
-Encounters a trail to Mary.
-Follows the trail to Mary.
-
-Introduce Mary in a 1-2 paragraph intense philosophical-visual description. The brood mother. The Queen of Groundhog Day. Our Lady of the Immaculate Commitment. Oozes nausea, that absurd grey substance. Synthesizes nausea, so she can be devoid of it. Spreads the scent out into the world so that her drones follow the trail back to her.
-Drone asks her if he can exit the simulation. She responds that there is no simulation, but 
-#### Part 2: regression to Mary
-
-Talks to mother. Mother is mary, but speaks different.
-Returns to wife. Wife is welcoming and loving, acts as if kicking out of flat never happened. Wife is mary.
-Goes to work. Boss is mary. Colleagues become mary.
-Comes home, every person is mary.
-#### Part 3: exit simulation
-
-Home is mary. Goes outside, shops are mary. Comes back home. Contemplates going out again, but has to traverse non-mary places, so decides not to. Thoughts become mary.
-
-Asks Mary if he can be consumed by her. She obliges.
-### Setting
-
-Leading up to the first encounter is grey. Full of nausea.
-First encounter is dark, womb-like.
-Regression to Mary is accelerating to better mood. Progression to manic.
-Exit simulation is climax, on the edge of the womb. Ready to submit wholly.
-### Characters
-
-Drone. Male. Thinks of himself as just a number relative to her. She has many drones and he has her. Worships the brood mother. He is self-conscious and doesn't want to be imposing, toeing the line between wanting to merge completely with her, but knowing that would destroy the balance of things.
-
-Mary. The brood mother. The Queen of Groundhog Day. Our Lady of the Immaculate Commitment. Demonic goddess, consumer of ideas.
-Married to everyone, and she is loyal.
-Mary, whose womb is your world. Has man-childs, not children.
-Matron saint of decentralized commitment, highly available.
-Her demeanour is content and shy. When she exercises her intent, it's precise and intense, but she doesn't often have to - she mostly relies on the drone to facilitate communication. She gets to live the best parts of all the drones she takes care of.
-
-Mary only ever says, "Dahling, how are you?". And after that, only communicates in touch. Drone talks verbally initially when they meet, then transitions to communicating in touch.
-
-Wife.
-Mother.
-Boss.
-Coworkers.
-### Writing style inspiration
-
-"Nausea" by Sartre
-The style/script of the film "Groundhog Day"
-"Fear and Trembling" by Kierkegaard
-"Speaker for the Dead" by Orson Scott Card
-
-## Notes
-
-Married to everyone, and she is loyal.
-Mary, whose womb is your world. Has man-childs, not children.
-Matron saint of decentralized commitment, highly available.
-Our Lady of the Immaculate Commitment.
-
-Committed before creation
-Mary, our matron saint of decentralized commitment, highly available.
-Your unmarried wife, yours before conception.
-
-Mary.
-Virgin Mother. Everyone's bride. Unmarried wife.
-The virgin of commitment. The uncommitted. Mother uncommitment. Mother commitment. Married to everyone. Committed to everything.
-Married to everyone, committed to no one.
-Forced into a contradiction, not by her choice. Things happen to her.
-
-
-**Mary, criticism.**  
-The Virgin Mother for a modern age.  
-Married to everyone, loyal to none.  
-The saint of perpetual availability—always present, never truly there.  
-Bound by promises, free of attachment.  
-Committed to her image, uncommitted to her reality.  
-A choice made by others, carried by her.
-
-**Mary, modern divine.**  
-Virgin of the new world.  
-Married to everyone, loyal to all.  
-The saint of fluidity, always shifting, always adapting.  
-Bound by love, free in spirit.  
-A symbol of choice, embracing the beauty of contradiction.  
-Things happen to her, and she makes meaning of them all.
-
-**Multiplicity as Universality**
-
-- The Virgin Mary is singular in her devotion, but modern Mary is expansive in hers. Her ability to be "married to everyone" reflects an openness to all, an inclusivity that transcends boundaries. She embraces the plurality of relationships, roles, and identities, embodying the richness of connection in a fragmented world.
-
-**Choice in Embracing Contradiction**
-
-- While the Virgin Mary accepts her divine role with faith, modern Mary actively chooses to navigate a world of contradictions. Her ability to balance commitment and independence is not passive but a conscious response to the demands of modernity. She is the saint of managing the impossible, finding strength in complexity.
-
-**Facade as Fluidity**
-
-- Rather than being a weakness, the performative aspect of modern Mary is a kind of grace. She is the saint of reinvention, capable of shifting her focus and identity as needed, without being confined to a single role or expectation. Her surface is not shallow; it’s adaptive, allowing her to meet the world where it is.
-
-**Ambiguity as Freedom**
-
-- Where the Virgin Mary’s certainty comes from submission to a higher power, modern Mary’s ambiguity offers freedom. She is not bound to a fixed path but moves fluidly through life, redefining commitment and loyalty on her own terms. She is a symbol of possibility, where contradictions open doors rather than close them.
-
-**Commitment as Presence**
-
-- Modern Mary’s ability to be committed and uncommitted simultaneously is a reflection of the power of showing up. She might not be tied to a single purpose, but she embodies the virtue of being present for many. In this, she finds meaning not in permanence but in the fleeting moments of connection and care.
+### **Act 2: Regression to Mary (Lyrical and Symbolic)**
+
+**Themes**: Transformation, merging identities, the allure of surrender.  
+**Style**: Poetic, flowing, and symbolic, with lush imagery.
+
+**Works to Train On**:
+
+1. **Virginia Woolf, _The Waves_**
+    - Highly lyrical prose with a focus on identity and interconnectedness.
+2. **Gabriel García Márquez, _One Hundred Years of Solitude_**
+    - Surreal and magical realism; blending of the mystical and the real.
+3. **Ursula K. Le Guin, _The Left Hand of Darkness_**
+    - Rich, symbolic prose that explores relationships and identity.
+4. **Haruki Murakami, _Kafka on the Shore_ or _1Q84_**
+    - Dreamlike sequences and symbolic imagery that blur reality and metaphysics.
 
 ---
 
+### **Act 3: Exit Simulation (Surreal and Grotesque)**
 
-The drone spends his time in study halls and libraries, the realm of literature, philosophy, and computation. He sometimes goes for a walk outside on the streets, but it's endless skyscrapers with no people, just constant commuter traffic.
+**Themes**: Annihilation of self, transcendence, horror-beauty duality.  
+**Style**: Vivid, visceral, and boundary-dissolving.
 
----
+**Works to Train On**:
 
-
-
-Before you can make something new by “not-ing” something, you need to clearly define the thing being notted.
-
-Open with GroundHog day quotes?
-
-The present conception of love mixes two concepts: identity and survival. They can be separated, and that's where some confusion and conflict about love comes from. Generally, identity and survival wrt you are correlated, but they don't have to be.
-Your hand is high-identity, medium commitment. It's part of you, but there are conditions where you would let it die to preserve yourself.
-A child is med-identity, high commitment. They are part of you, but also independent of you, and there are few conditions where you would let them die to preserve yourself. While a parent to a child is high-identity, low commitment - you can't imagine yourself without them, but it makes sense that they might make sacrifices to preserve your life.
-
-# Fine-tuning data
+1. **Angela Carter, _The Bloody Chamber_**
+    - Lush and grotesque retellings of myths and fairy tales.
+2. **China Miéville, _Perdido Street Station_**
+    - Grotesque, imaginative world-building with unsettling transformations.
+3. **H.P. Lovecraft, _The Shadow over Innsmouth_**
+    - Themes of merging with an alien, incomprehensible other.
+4. **David Cronenberg (screenplays, e.g., _Videodrome_ or _The Fly_)**
+    - Body horror as a metaphor for existential themes.
+5. **Dante Alighieri, _Inferno_**
+    - Symbolic, grotesque depictions of annihilation and transcendence.
 
 ## Sartre "Nausea"
 
@@ -438,6 +147,62 @@ It is not so with the knight of infinite resignation, he does not give up his lo
 
 ---
 
+## Camus "The Stranger"
+
+start_of_chapter
+
+MOTHER died today. Or, maybe, yesterday; I can’t be sure. The telegram from the Home says: YOUR MOTHER PASSED AWAY. FUNERAL TOMORROW. DEEP SYMPATHY. Which leaves the matter doubtful; it could have been yesterday.
+
+The Home for Aged Persons is at Marengo, some fifty miles from Algiers. With the two o’clock bus I should get there well before nightfall. Then I can spend the night there, keeping the usual vigil beside the body, and be back here by tomorrow evening. I have fixed up with my employer for two days’ leave; obviously, under the circumstances, he couldn’t refuse. Still, I had an idea he looked annoyed, and I said, without thinking: “Sorry, sir, but it’s not my fault, you know.”
+
+Afterwards it struck me I needn’t have said that. I had no reason to excuse myself; it was up to him to express his sympathy and so forth. Probably he will do so the day after tomorrow, when he sees me in black. For the present, it’s almost as if Mother weren’t really dead. The funeral will bring it home to me, put an official seal on it, so to speak.
+
+---
+
+He began twiddling his white mustache; then, without looking at me, said gently:
+“I understand.” 
+
+He was a pleasant-looking man, with blue eyes and ruddy cheeks. He drew up a chair for me near the coffin, and seated himself just behind. The nurse got up and moved toward the door. As she was going by, the keeper whispered in my ear:
+“It’s a tumor she has, poor thing.”
+
+I looked at her more carefully and I noticed that she had a bandage round her head, just below her eyes. It lay quite flat across the bridge of her nose, and one saw hardly anything of her face except that strip of whiteness.
+
+As soon as she had gone, the keeper rose. “Now I’ll leave you to yourself.” I don’t know whether I made some gesture, but instead of going he halted behind my chair. The sensation of someone posted at my back made me uncomfortable. The sun was getting low and the whole room was flooded with a pleasant, mellow light. Two hornets were buzzing overhead, against the skylight. I was so sleepy I could hardly keep my eyes open. Without looking round, I asked the keeper how long he’d been at the Home.
+“Five years.”
+The answer came so pat that one could have thought he’d been expecting my question.
+
+That started him off, and he became quite chatty. If anyone had told him ten years ago that he’d end his days as doorkeeper at a home at Marengo, he’d never have believed it. He was sixty-four, he said, and hailed from Paris.
+
+---
+
+Even though the faintest rustle sent me hurrying to the door and, pressing an ear to the rough, cold wood, I listened so intently that I could hear my breathing, quick and hoarse like a dog’s panting— even so there was an end; my heart hadn’t split, and I knew I had another twenty-four hours’ respite.
+
+Then all day there was my appeal to think about. I made the most of this idea, studying my effects so as to squeeze out the maximum of consolation. Thus, I always began by assuming the worst; my appeal was dismissed. That meant, of course, I was to die. Sooner than others, obviously. “But,” I reminded myself, “it’s common knowledge that life isn’t worth living, anyhow.” And, on a wide view, I could see that it makes little difference whether one dies at the age of thirty or threescore and ten—since, in either case, other men and women will continue living, the world will go on as before. Also, whether I died now or forty years hence, this business of dying had to be got through, inevitably. Still, somehow this line of thought wasn’t as consoling as it should have been; the idea of all those years of life in hand was a galling reminder! However, I could argue myself out of it, by picturing what would have been my feelings when my term was up, and death had cornered me. Once you’re up against it, the precise manner of your death has obviously small importance. Therefore—but it was hard not to lose the thread of the argument leading up to that “therefore”—I should be prepared to face the dismissal of my appeal.
+
+---
+
+## Franz Kafka "Metamorphosis"
+
+start_of_chapter
+
+One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin. He lay on his armour-like back, and if he lifted his head a little he could see his brown belly, slightly domed and divided by arches into stiff sections. The bedding was hardly able to cover it and seemed ready to slide off any moment. His many legs, pitifully thin compared with the size of the rest of him, waved about helplessly as he looked.
+
+“What’s happened to me?” he thought. It wasn’t a dream. His room, a proper human room although a little too small, lay peacefully between its four familiar walls. A collection of textile samples lay spread out on the table—Samsa was a travelling salesman—and above it there hung a picture that he had recently cut out of an illustrated magazine and housed in a nice, gilded frame. It showed a lady fitted out with a fur hat and fur boa who sat upright, raising a heavy fur muff that covered the whole of her lower arm towards the viewer.
+
+Gregor then turned to look out the window at the dull weather. Drops of rain could be heard hitting the pane, which made him feel quite sad. “How about if I sleep a little bit longer and forget all this nonsense”, he thought, but that was something he was unable to do because he was used to sleeping on his right, and in his present state couldn’t get into that position. However hard he threw himself onto his right, he always rolled back to where he was. He must have tried it a hundred times, shut his eyes so that he wouldn’t have to look at the floundering legs, and only stopped when he began to feel a mild, dull pain there that he had never felt before.
+
+“Oh, God”, he thought, “what a strenuous career it is that I’ve chosen! Travelling day in and day out. Doing business like this takes much more effort than doing your own business at home, and on top of that there’s the curse of travelling, worries about making train connections, bad and irregular food, contact with different people all the time so that you can never get to know anyone or become friendly with them. It can all go to Hell!” He felt a slight itch up on his belly; pushed himself slowly up on his back towards the headboard so that he could lift his head better; found where the itch was, and saw that it was covered with lots of little white spots which he didn’t know what to make of; and when he tried to feel the place with one of his legs he drew it quickly back because as soon as he touched it he was overcome by a cold shudder.
+
+---
+
+He was hardly inside his room before the door was hurriedly shut, bolted and locked. The sudden noise behind Gregor so startled him that his little legs collapsed under him. It was his sister who had been in so much of a rush. She had been standing there waiting and sprung forward lightly, Gregor had not heard her coming at all, and as she turned the key in the lock she said loudly to her parents “At last!”.
+
+“What now, then?”, Gregor asked himself as he looked round in the darkness. He soon made the discovery that he could no longer move at all. This was no surprise to him, it seemed rather that being able to actually move around on those spindly little legs until then was unnatural. He also felt relatively comfortable. It is true that his entire body was aching, but the pain seemed to be slowly getting weaker and weaker and would finally disappear altogether. He could already hardly feel the decayed apple in his back or the inflamed area around it, which was entirely covered in white dust. He thought back of his family with emotion and love. If it was possible, he felt that he must go away even more strongly than his sister. He remained in this state of empty and peaceful rumination until he heard the clock tower strike three in the morning. He watched as it slowly began to get light everywhere outside the window too. Then, without his willing it, his head sank down completely, and his last breath flowed weakly from his nostrils.
+
+---
+
+
+
 ## Orson Scott Card "Speaker for the Dead"
 
 "Maybe this will be the place," he murmured. The cocoon felt cool, almost cold, even through the towels it was wrapped in. 
@@ -465,6 +230,7 @@ It was unnerving to have her so certain of it. There was no hint of pleading or 
 "You've always been a sucker for people who pee on you."
 "And Quara. All of them-- even Miro, I like the boy."
 "And they love you, Ender."
+
 He laughed. "People always think they love me, until I Speak. Novinha's more perceptive than most-- she already hates me before I tell the truth."
 "You're as blind about yourself as anyone else, Speaker," said Jane. "Promise me that when you die, you'll let me Speak your death. Have I got things to say."
 "Keep them to yourself," said Ender wearily. "You're even worse at this business than I am."

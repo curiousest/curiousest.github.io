@@ -199,6 +199,7 @@ What if harnessing the differential between recall and recollection is a buildin
 I've been using LLMs along with a story outline and a prompt to generate ~100s of attempts to write parts of the story. A prompt might be like, "write the opening scene" or "write the dialogue when the characters meet". I read through the 100s of examples to pick out the phrases or paragraphs that I like. It's maybe 5% of the content. I've created labelled data for two different tasks:
 1. Recall: given a prompt, the LLM should produce the content that I preferred and not the content is didn't prefer.
 2. Recognition: given produced text, the LLM should filter the content to match my preferences.
+
 My intuition says that both humans and LLMs are much better at recognition than recall. This is super interesting, because any system can make itself more intelligent at a task by performing batch recall (with some randomization), then filtering with recognition. It's like brainstorming and filtering.
 
 ### Example 2: Evolution and survival

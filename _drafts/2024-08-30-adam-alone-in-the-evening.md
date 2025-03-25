@@ -450,17 +450,3 @@ The training prompt was:
 ```
 You will be provided a paragraph of a story and a summary of the paragraph that follows it. Use the preceding paragraph and the summary to write the paragraph that follows. The provided paragram and summary are separated by \n---\n
 ```
-## Notes
-
-If you predict something that science can’t predict, then there’s a missing component to science. Build on super powerful ai story where people are surprised.
-
-“This is the edge of your “you are special” belief. I’m doing a special kind of math here. It’s using the same brain circuits as doing math. Find example math problem that feels good.
-
-
----
-
-**Add subtle hints throughout the story** about the potential consequences of Adam’s existence. This will make the ending feel more satisfying while maintaining its mystery
-
-- **Expand Mrs. Shelley’s emotional arc**: Show more moments of doubt and hesitation, so her realization feels earned. A few additional scenes—perhaps reflecting on her family—would give her more depth.
-- **Give Roderick a personal stake**: Maybe his detachment stems from personal trauma, or he’s hiding his own experience with Adam. These touches would make him more than just a cynical archetype.
-**Make the conversations more subtle**. For example, instead of directly saying “There’s no Adam left,” have Roderick hint at his loss through fragmented thoughts or analogies.

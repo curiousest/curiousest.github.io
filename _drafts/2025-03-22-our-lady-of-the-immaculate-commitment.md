@@ -333,3 +333,120 @@ There's no pain like existential pain.
 Drone was released from his existence, now wholly Mary.
 
 And he ceased to feel. And it was optimal.
+
+# Prompts, training data, and models
+
+# The LLM Prompt
+
+## Beliefs explored
+
+Throughout:
+1. There's a particular set of roles that women ought to play in society. Posits this is both true and false (meaningless) by presenting a depiction where both sides of the argument could say, "see - the story aligns with my beliefs".
+2. The way we come to understand separable "things" starts with the mother in the womb and seeing her in others. The story posits this is true by portraying a reversal of the progression of one-ness to individualism. Description of how you come to identify with different things in the world, by playing the early stages of life/identity in reverse.
+3. Detailed communication can happen through touch. Conversation in touch.
+
+Part 1:
+1. There is no simulation - we already exited it. We're outside of Plato's cave. We can go back in - it's warm and cozy inside. Womb, cocoon, and death.
+
+Part 2:
+1. We are simulated in death
+	1. The dead are running the simulation
+	2. The afterlife is an opt-in simulation
+	3. Dying as Self-Replication – What if death isn’t destruction but a process by which intelligence spreads?
+2. All-encompassing love is good. Posits this can be false.
+## Story arc
+
+Part 1: taste the simulation
+	1. Several bad things happen simultaneously to Drone:
+		1. Going through mental health crisis, thinks he's in a simulation
+		2. Fiancee asks drone to leave apartment.
+		3. Currently at grandmother's funeral.
+	2. Meets Mary.
+		4. Wanders off from funeral
+		5. Led to Mary
+		6. Mary tells him he's not in a simulation, but offers to bring him into a simulation
+Part 2: resume simulation
+	3. People become Mary
+		1. Mother and sister back at funeral are Mary, they console him.
+		2. Goes back to fiancee is now Mary, she welcomes him.
+		3. Boss and colleagues are now Mary, they celebrate him.
+	4. Everything becomes Mary
+		4. Places become Mary, they comfort him.
+		5. Thoughts and ideas become Mary.
+		6. Drone asks to become Mary and is consumed.
+
+### Part 1
+
+**plot**
+
+Start with a text conversation between Drone and fiancee to establish his current circumstances.
+
+Drone is at his grandmother's irish funeral mass. The reader already knows he's at a funeral and that his partner has left him and that he's dissociative.
+Drone is struggling with mental health. Absurd descriptions of normal phenomena.
+Encounters a trail to Mary during the funeral proceedings. Follows the trail to Mary.
+
+Introduce Mary in a 1-2 paragraph intense philosophical-visual description.
+Drone asks her if he can exit the simulation. She responds that there is no simulation left to exit, he already exited it. But he can go back in.
+### Part 2
+
+**plot**
+Talks to mother. Mother is Mary, but reader is led to believe it only *might* be the case.
+Talks to sister. Also Mary, reader also partially misled.
+Returns to fiancee at home. Also Mary, she is welcoming and loving, acts as if breakup never happened.
+Goes to work. Boss is Mary. Colleagues become Mary.
+Coming home, every person on the commute is Mary.
+
+Home is Mary, but he goes outside for some reason. Goes outside, shops are Mary. Comes back home. Contemplates going out again, but outside has become Mary, so there's no reason to anymore. Thoughts become Mary.
+
+Asks Mary (his own thoughts) if he can be consumed by her. She obliges.
+
+**style**
+Progressively more rhythmic/poetic to illustrate growing idealism and reductivism.
+Progressively more comfortable and "one" and divine.
+## Setting
+
+Part 1:
+Leading up to the first encounter is absurd/grey/full of nausea.
+First encounter is dark, womb-like.
+
+Part 2:
+The regression to Mary is brings out better and better moods, to the point of being ecstatic and profoundly comforted. Progression to excessive idealism / reductivism.
+Exit simulation is climax, on the edge of the womb. Ready to submit wholly.
+## Characters
+
+Drone. Male. Thinks of himself as just a number relative to her. She has many drones and he has her. Worships the brood mother. He is self-conscious and doesn't want to be imposing, toeing the line between wanting to merge completely with her, but knowing that would destroy the balance of things.
+
+Mary. The brood mother. The Queen of Groundhog Day. Our Lady of the Immaculate Commitment. Demonic goddess, consumer of ideas.
+Married to everyone, and she is loyal.
+Mary, whose womb is your world. Has man-childs, not children.
+Matron saint of decentralized commitment, highly available.
+Her demeanour is content and shy. When she exercises her intent, it's precise and intense, but she doesn't often have to - she mostly relies on the drone to facilitate communication. She gets to live the best parts of all the drones she takes care of.
+Oozes nausea, that absurd grey substance. Synthesizes nausea, so she can be devoid of it. Spreads the scent out into the world so that her drones follow the trail back to her.
+
+Mary only ever says, "Dahling, how are you?". And after that, only communicates in touch. Drone talks verbally initially when they meet, then transitions to communicating in touch.
+
+Fiancee, Mother, sister, Boss, Coworkers are all depersonalized as generic female NPCs whose purpose is to support Drone, in exploring the feminism beliefs.
+
+# The model
+
+- chatgpt-4o-mini
+- 7 fine-tuned models
+- 3.45M input tokens of chat completions
+- <$60
+
+# The training data
+
+## Part 1
+
+"Nausea" by Sartre
+"Fear and Trembling" by Kierkegaard
+"Metamorphosis" by Kafka
+"The Strangers" by Camus
+"Speaker for the Dead" by Orson Scott Card
+
+### Part 2
+
+"The Waves" by Virginia Woolf
+"The Left Hand of Darkness" Ursula LeGuin
+"Against Nature" by Joris-Karl Huysmans
+"Annihilation" by Jeff VanderMeer

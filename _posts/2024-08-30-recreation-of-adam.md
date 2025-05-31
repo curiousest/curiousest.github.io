@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Adam alone in the evening
+title: The re-Creation of Adam
 date: 2024-08-30T00:00:00.001-05:00
 author: Douglas Hindson
 tags:

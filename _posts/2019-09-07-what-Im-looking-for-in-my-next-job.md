@@ -20,7 +20,7 @@ Responsibility, founder-fit, and AI.
 - Prefer seed-to-series-A, open to later stages with more scope.
 - Prefer hybrid. I'm open to fully remote but I've seen more underperforming than high-performing ones.
 - Target role: IC in AI startup that augments experts, high return-on-hustle.
-- Can also do (best mixed with IC): product, line management, B2B customer-facing.
+- Also good at (best mixed with IC): product, line management, B2B customer-facing.
 - Will stretch boundaries for literature/publishing.
 
 # 2024

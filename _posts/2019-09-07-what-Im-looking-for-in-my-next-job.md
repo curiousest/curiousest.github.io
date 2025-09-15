@@ -1,19 +1,27 @@
 ---
 layout: post
-title: "What I'm looking for in my next job"
-date: '2019-09-08T00:00:00.001-05:00'
+title: What I'm looking for in my next job
+date: 2019-09-08T00:00:00.001-05:00
 author: Douglas Hindson
-tags: 
-- blog
-- career
-- personal development
-- tech industry
-modified_time: '2021-09-22T00:00:00.001-05:00'
+tags:
+  - blog
+  - career
+modified_time: 2021-09-22T00:00:00.001-05:00
 ---
 
 # Purpose
 
 When looking for a new position, I like my goals to be clear to me and available to others. This post documents the goals in my transitions. Like most goals/values lists, what's excluded is often as notable as what's included. At each transition, I have many "wants", but I don't expect to get them all - they're notable factors for my decision-making.
+
+# 2025
+
+Responsibility, founder-fit, and AI.
+
+- Prefer seed-to-series-A, open to later stages with more scope.
+- Prefer hybrid. I'm open to fully remote but I've seen more underperforming than high-performing ones.
+- Target role: IC in AI startup that augments experts, high return-on-hustle.
+- Can also do (best mixed with IC): product, line management, B2B customer-facing.
+- Will stretch boundaries for literature/publishing.
 
 # 2024
 

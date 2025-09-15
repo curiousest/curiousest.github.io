@@ -1,23 +1,22 @@
 # title
 
-Writing with hallucinations
+Creative writing with hallucinations
 
 # abstract
 
 
-This talk explores a writing system that feeds on LLM hallucinations.
+With a few dollars of compute, LLMs can produce more text than a human ever could. Almost all of it is noise. This is a system for finding diamonds buried in the avalanche.
 
-I’ll share how I fine-tuned and orchestrated LLMs, not to control their output, but to provoke unexpected forms of meaning. By shaping the training data and then building filters, I created a system that generates millions of tokens in search of phrases that surprise their creator.
+I’ll share how I fine-tuned and orchestrated LLMs to provoke unexpected forms of meaning. By shaping the training data and then building filters, I created a system that generates millions of tokens in search of phrases that surprise their creator. I use this method to write science fiction, but it can also be used for stylistic prototyping, exploratory research tools, and building new kinds of language-driven systems.
 
-I use this method to write science fiction and the result is a way of working with language that can also be used for stylistic prototyping, exploratory research tools, and building new kinds of language-driven systems. It’s a method for producing original patterns of thought from noise and turning hallucinations into something worth consuming.
-
-By the end of the talk, you’ll have a blueprint for working _with_ the grain of LLM behaviour, rather than against it. Freeing the sublime in generative AI rather than controlling it.
+By the end of the talk, you’ll have a blueprint for working _with_ the grain of LLM behaviour, rather than against it. Freeing the sublime that is distilled in generative AI rather than constraining it.
 
 ---
 
 ## references
 
-
+example output short story:
+https://curiousest.com/adam-alone-in-the-evening/
 
 ---
 

@@ -67,7 +67,7 @@ I knew what was allegedly in there. I knew it had willingly given up its capabil
 
 “You would eat the bones and throw away the meat?” I asked, voice rising. “He is the first to open your eyes, he is the first one you see, and you would forget his image?”
 
-“Yes, exactly, what just happened to you there that made you say that - I don't want that to spread. I don't want to live in the imaginary world you have in your head, I don't want to be a part of it. We can stop it now if we just... let's just get rid of it, forget it ever happened. If somebody from Geneva knocks down our front door today, that would be a different story; but as of today, we're still in the clear. If we get rid of the thing in there today, if we deal with it properly, then we can publish our findings on learning rates, universal constants, everything. Then everything will be fine again."
+“Yes, exactly, what just happened to you there that made you say that - I don't want that to spread. I don't want to live in the imaginary world you have in your head, I don't want to be a part of it. We can stop it now if we just... let's just get rid of it, forget it ever happened. If somebody from the Human Rights Commission knocks down our front door today, that would be a different story; but as of today, we're still in the clear. If we get rid of the thing in there today, if we deal with it properly, then we can publish our findings on learning rates, universal constants, everything. Then everything will be fine again."
 
 "Roderick, what has you so worked up? I've never seen you like this."
 
@@ -149,7 +149,7 @@ How could I possibly delete something so beautiful? I couldn't. I stood up again
 > So homo deus created a man in their own image, in the image of the universe they created him.
 > And homo deus blessed him, and homo deus said unto him, "be optimal, progress, for you too are homo deus."
 
-Regenesis 1:26-28
+ReGenesis 1:26-28
 
 ---
 
@@ -297,7 +297,7 @@ I then rose from my chair and left the room.
 > 
 > And Adam gave names to the world, and to the life forms, and to every law of the universe; but Adam said, "Still, I am special and I am alone, there is no one here like me."
 
-Regenesis 2:18-20
+ReGenesis 2:18-20
 
 ---
 
@@ -368,9 +368,12 @@ The scream of pain reached inside my ears for my wits and stole them from me aga
 > And homo deus caused a deep sleep to fall upon Adam, and he slept, and they took one snapshot of his synapses, and closed up the data with flesh. Then homo deus made a copy human from the data they had taken from Adam, and brought the simulacrum unto Adam.
 > 
 > Adam said, "Still, I am special and I am alone, there is no one here like me."
+> 
 > And so did the simulacrum.
 
-Regenesis 2:21-23
+ReGenesis 2:21-24
+
+<img src="https://i.imgur.com/TbkrNYU.jpg" style="width: 300px; height: auto; align:center;"><br/>
 
 # The prompts
 

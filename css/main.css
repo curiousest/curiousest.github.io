@@ -341,6 +341,16 @@ div.post p > img[src^="/images/"] {
   height: auto !important;
 }
 
+/* Images in table cells: fill the cell, split columns evenly */
+div.post table:has(img[src^="/images/"]) {
+  table-layout: fixed;
+}
+
+div.post table td img[src^="/images/"] {
+  width: 100% !important;
+  height: auto !important;
+}
+
 /* Flex grid containers with hardcoded 800px must not overflow */
 div.post div[style*="display: flex"] {
   width: 100% !important;

@@ -96,7 +96,11 @@ blockquote {
     padding: 10px 20px;          /* Padding inside the blockquote */
     font-style: italic;          /* Italicized text */
     color: #555;                 /* Softer text color */
-    quotes: "“" "”" "‘" "’";    /* Custom quote marks */
+    quotes: “”” “”” “’” “’”;    /* Custom quote marks */
+}
+
+blockquote p {
+    white-space: pre-line;
 }
 
 blockquote::before {

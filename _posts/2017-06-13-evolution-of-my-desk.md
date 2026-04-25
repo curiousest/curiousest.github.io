@@ -30,9 +30,7 @@ A year ago I went on vacation and realized I had a lot of tension and pain in my
 * slouched-forward posture curving my back and neck
 * tensing forward/inward tightening my chest muscles 
 
-<img src="https://fixtheneck.com/images/kephotic_posture_side.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
-
-[Source](https://fixtheneck.com/illustrations/illustration_side_slouched_improved.html)
+[Source: fixtheneck.com](https://fixtheneck.com/illustrations/illustration_side_slouched_improved.html)
 
 ## Standing desk
 
@@ -105,9 +103,7 @@ Mobile typing was an interesting goal, but provided little utility. Still, keybo
 
 Another inspiration I had when figuring out how to make mobile typing possible was Dr. Octopus.
 
-<img src="https://upload.wikimedia.org/wikipedia/en/9/95/Doctor_Octopus_2004_film.jpg"><br/>
-
-[Wikipedia source](https://en.wikipedia.org/wiki/Doctor_Octopus)
+[Wikipedia: Doctor Octopus](https://en.wikipedia.org/wiki/Doctor_Octopus)
 
 Having experienced the high difficulty of making keyboards wearable, I made the compromise of Dr. Octopus-ing my desk instead. I bought [two large wired keyboards](https://www.amazon.co.uk/gp/product/B01ALLTBDY/ref=oh_aui_detailpage_o07_s00) and a set of [flexible arm tablet holders](https://www.amazon.co.uk/gp/product/B014V3ESHC/ref=oh_aui_detailpage_o05_s00). I quickly found that I needed two tablet holders per keyboard, and that it was difficult to get the keyboards in a comfortable orientation: once the keyboards + tablet holders were in place, it wasn't worth moving them. It was ok, though, since the convenience of the ergonomic keyboard setup always working was worth the reduction in mobility. I speared squishy balls onto the setup for palm rests. 
 

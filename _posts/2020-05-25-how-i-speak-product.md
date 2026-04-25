@@ -24,7 +24,7 @@ We all have good intentions, but there's conflict. This article explains where I
 
 Every time a person or team puts effort into something, they are working on a solution to some problem. The problem is an opportunity for someone to get new value, and the solution is an approach to capture some of that value.
 
-<img src="https://i.imgur.com/U0Imhub.jpg" style="width: 600px; height: auto; align:center;"><br/>
+<img src="/images/98 - U0Imhub.jpg" style="width: 600px; height: auto; align:center;"><br/>
 
 ## That's abstract. How is this useful?
 
@@ -43,7 +43,7 @@ A salesperson just came off of a call with a big, important B2B customer. The me
 
 **1. What problem is this solving?**
 <table><tr><td>
-<img src="https://i.imgur.com/g3umspm.jpg" style="width: 300px; height: auto; align:center;">
+<img src="/images/99 - g3umspm.jpg" style="width: 300px; height: auto; align:center;">
 </td>
 <td style="font-size: 0.7em">
 
@@ -57,7 +57,7 @@ A salesperson just came off of a call with a big, important B2B customer. The me
 **2. What other solutions are there?**
 
 <table><tr><td>
-<img src="https://i.imgur.com/23Iw7L5.jpg" style="width: 300px; height: auto; align:left;">
+<img src="/images/100 - 23Iw7L5.jpg" style="width: 300px; height: auto; align:left;">
 </td>
 <td style="font-size: 0.7em">
 
@@ -72,7 +72,7 @@ A salesperson just came off of a call with a big, important B2B customer. The me
 **3. What problems is this really solving for?**
 
 <table><tr><td>
-<img src="https://i.imgur.com/hBUu7es.jpg" style="width: 300px; height: auto; align:center;">
+<img src="/images/102 - hBUu7es.jpg" style="width: 300px; height: auto; align:center;">
 </td><td>
 
 Low user engagement was the underlying problem. The pain point expressed by the users (the customer's employees) was one of many excuses for low engagement with the product. Low user engagement was causing low product value to the customer.
@@ -81,7 +81,7 @@ Low user engagement was the underlying problem. The pain point expressed by the 
 **4. What other solutions are there?**
 
 <table><tr><td>
-<img src="https://i.imgur.com/vcLRdO7.jpg" style="width: 300px; height: auto; align:center;">
+<img src="/images/101 - vcLRdO7.jpg" style="width: 300px; height: auto; align:center;">
 </td><td style="font-size: 0.7em">
 
 <ul>
@@ -95,7 +95,7 @@ Low user engagement was the underlying problem. The pain point expressed by the 
 **5. What problems is this really, really solving?**
 
 <table><tr><td>
-<img src="https://i.imgur.com/RBIAlOM.jpg" style="width: 300px; height: auto; align:center;">
+<img src="/images/103 - RBIAlOM.jpg" style="width: 300px; height: auto; align:center;">
 </td><td>
 The product was not providing enough value to the customer to justify the cost. The customer had faith, and wanted to see the product improving over time.
 </td></tr></table>
@@ -117,7 +117,7 @@ If the salesperson and tech lead had clarified the tree of problems, they could 
 A developer was adding a new section to the navigation menu of a website for expert users. They saw that the list in the navigation menu was long, and long navigation lists generally should be made into collapsible headings. There was some refactoring required, but the developer believed it's worth making the page easier for the expert users to use.
 <br><br>
 
-<img src="https://i.imgur.com/0Q8naLC.jpg" style="width: 600px; height: auto;"><br/>
+<img src="/images/97 - 0Q8naLC.png" style="width: 600px; height: auto;"><br/>
 <br>
 <b>Reframing the problem</b>
 <br><br>

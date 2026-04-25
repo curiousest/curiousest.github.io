@@ -53,9 +53,9 @@ Good work comes from executing each part of a writing process effectively and go
 In this first article of the series, I'm going to explore the steps that have to do with "high-level editing" (steps 4 and 6), using LLMs to produce **development edits** and **not** line edits or copy edits. Generating the edits alone didn't require any programming or fine-tuning to get a great result, just basic prompting. Using LLMs to assist with writing or lower-level edits needs a lot more technical expertise. In followup articles, I will explore the steps that have to do with line edits (step 8) and generating new writing (steps 3, 5, 7, and 9).
 
 <div style="display: flex; justify-content: space-between; width: 800px; margin: auto;">
-<img src="https://i.imgur.com/VBdni8A.jpg" style="width: calc(33.33% - 4px); margin-right: 2px;"/>
-<img src="https://i.imgur.com/8NV47hS.jpg" style="width: calc(33.33% - 4px); margin-right: 2px;"/>
-<img src="https://i.imgur.com/XAHZg8e.jpg" style="width: calc(33.33% - 4px);"/>
+<img src="/images/189 - VBdni8A.jpg" style="width: calc(33.33% - 4px); margin-right: 2px;"/>
+<img src="/images/190 - 8NV47hS.jpg" style="width: calc(33.33% - 4px); margin-right: 2px;"/>
+<img src="/images/191 - XAHZg8e.jpg" style="width: calc(33.33% - 4px);"/>
 </div>
 
 
@@ -108,9 +108,9 @@ Each death and rebirth stimulates a burst of state changes.       
 With no further purpose and survival guaranteed,      without a flickering consciousness.        fading into the background of existence once again.
 
 <div style="display: flex; justify-content: space-between; width: 800px; margin: auto;">
-<img src="https://i.imgur.com/lCUlvss.jpg" style="width: calc(33.33% - 4px); margin-right: 2px;"/>
-<img src="https://i.imgur.com/CB2X7Nv.jpg" style="width: calc(33.33% - 4px); margin-right: 2px;"/>
-<img src="https://i.imgur.com/sQ0Gvdo.jpg" style="width: calc(33.33% - 4px);"/>
+<img src="/images/181 - lCUlvss.png" style="width: calc(33.33% - 4px); margin-right: 2px;"/>
+<img src="/images/182 - CB2X7Nv.png" style="width: calc(33.33% - 4px); margin-right: 2px;"/>
+<img src="/images/183 - sQ0Gvdo.png" style="width: calc(33.33% - 4px);"/>
 </div>
 
 
@@ -179,7 +179,7 @@ Imagine you are a child and you *prompt* your dog to play a character in a scene
 You might wonder, "since LLMs can figure out what's wrong with a piece, they must be able fix what's wrong too?"
 Only if you, as the child playing *Pooh and Tigger* with your dog, want to mix in a dog's interpretation of Tigger that often involves something like a dead squirrel.
 
-<img src="https://imgur.com/PcPQu8R.jpg" style="width:800px">
+<img src="/images/195 - PcPQu8R.jpg" style="width:800px">
 
 
 ### Prompt engineering
@@ -267,7 +267,7 @@ I love all the compliments. Immediately, I can see some differences of opinion g
 
 The good cop/bad cop contrast also highlights something important - dialectics. When the good cop and bad cop give praise and criticism about *the same thing*, that is an important piece of information. That's where the art is, it's a signal that you should seek feedback from other people on exactly that point. You have to be careful, though - these are LLMs and the good cop may just be using the bad cop as context for its advice. If I really wanted to be sure about the dialectics, I'd make a separate chat for each, but then again, the bad cop context is useful for the good cop to give more holistic feedback.
 
-<img src="https://imgur.com/5DAoyQq.jpg">
+<img src="/images/197 - 5DAoyQq.jpg">
 
 
 
@@ -286,9 +286,9 @@ There's a lot of context in how tasks are put together, and therein lies the pro
 If we pretend for a moment that we humans are "workers" too, then we apply this principle to modern writing and IT product development practices... In writing, LLMs enable writers to distribute the work across more "workers". In product development, LLMs enable "workers" to build with more context. LLMs can do other things too, but this, IMO, is LLMs' "killer app" for those industries.
 
 <div style="display: flex; justify-content: space-between; width: 800px; margin: auto;">
-<img src="https://imgur.com/ewmEW0I.jpg" style="width: calc(33.33% - 4px); margin-right: 2px;"/>
-<img src="https://i.imgur.com/CAnqvdT.jpg" style="width: calc(33.33% - 4px); margin-right: 2px;"/>
-<img src="https://imgur.com/nsX8Efj.jpg" style="width: calc(33.33% - 4px);"/>
+<img src="/images/200 - ewmEW0I.jpg" style="width: calc(33.33% - 4px); margin-right: 2px;"/>
+<img src="/images/188 - CAnqvdT.jpg" style="width: calc(33.33% - 4px); margin-right: 2px;"/>
+<img src="/images/201 - nsX8Efj.jpg" style="width: calc(33.33% - 4px);"/>
 </div>
 
 For half of the feedback, further prompting isn't useful. For the other half, I'd do something like these:

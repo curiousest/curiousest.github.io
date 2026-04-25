@@ -10,7 +10,7 @@ modified_time: 2024-07-22T00:00:00.001-05:00
 ---
 Lily is a little beagle who must not have freedom, it's for her own good. At all times, she must be leashed or incarcerated because she will always find a way to abuse her freedom.
 
-<img src="https://i.imgur.com/vSW83H7.png">
+<img src="/images/172 - vSW83H7.jpg">
 
 Lily is a few years old. She spent her puppy days at a nursing home among the elderly where she learned how to steal. She can read any situation and know when the food will be vulnerable. Her signature move is to ninja onto a table when no one is looking and drink the cream out of a cup of coffee. Whenever the dishwasher door comes down, she's in there licking the plates and bowls and cutlery - you can't put dishes in *and* hold her back at the same time. When there's food on a countertop, she stands up and walks around on two feet to scope out how to snatch it away. She became heavily overweight at the nursing home, so when she got new guardians they put her on a weight-loss diet, driving up the intensity of her food obsession.
 
@@ -18,7 +18,7 @@ Lily is on her third or fourth guardians, having spent most of her life wearing 
 
 She's allowed free roam on small islands around the size of a typical suburban property, but not on the boat rides there. She's so used to the leash that when she doesn't wear it, she falls in the water and has to be rescued. The last few times she wasn't wearing a leash on the motorboat, she slipped off the front and was nearly run over, chopped into little Lily pieces.
 
-<img src="https://i.imgur.com/48I11yJ.jpg">
+<img src="/images/171 - 48I11yJ.jpg">
 
 Sam doesn't have to wear a leash. He's almost three times as big as Lily and he's usually anxious about being left behind, but sometimes he likes to play "catch the beagle" too. Once he went for a walk on a big island, an acre of dense trees, and he was gone for six-and-a-half hours before he came back to give himself up. Those six-and-a-half hours ended close to midnight, so Lily stayed at home while the game was going on. She spent the whole time crying by the door, waiting for everyone to come back.
 

@@ -11,7 +11,7 @@ modified_time: 2024-08-30T00:00:00.001-05:00
 2. **The prompts** used to build the story (5min read)
 3. **The model and training data** used to fine-tune LLMs (2min read)
 
-<img src="https://i.imgur.com/POkFTkT.jpg" style="width: 800px; height: auto; align:center;"><br/>
+<img src="/images/202 - POkFTkT.jpg" style="width: 800px; height: auto; align:center;"><br/>
 
 “Mrs. Shelley, before you go in, I should warn you that most of the staff may be out for a while.”
 
@@ -373,7 +373,7 @@ The scream of pain reached inside my ears for my wits and stole them from me aga
 
 ReGenesis 2:21-24
 
-<img src="https://i.imgur.com/TbkrNYU.jpg" style="width: 300px; height: auto; align:center;"><br/>
+<img src="/images/203 - TbkrNYU.jpg" style="width: 300px; height: auto; align:center;"><br/>
 
 # The prompts
 

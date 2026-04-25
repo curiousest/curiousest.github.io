@@ -10,7 +10,7 @@ modified_time: 2024-07-20T00:00:00.001-05:00
 ---
 These days I'm at the family cottage, studying Kant and writing. My dad comes up on the weekends and this Friday after dinner, my dad, his partner, and I were sitting around the table, playing cards and eating candy. Conversation drifted to figuring out what flavours were in the candy.
 
-<img src="https://i.imgur.com/aLfkxH2.png">
+<img src="/images/170 - aLfkxH2.jpg">
 
 "Is it green apple liquorice? Mmm, maybe it's guava liquorice." 
 

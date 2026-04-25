@@ -38,9 +38,9 @@ The objectives of this strategy do not include:
 
 Here are some examples of weeks in my calendar where I booked most of my personal time (blue is personal, grey is work):
 
-<img src="https://i.imgur.com/4XcLZsA.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
+<img src="/images/73 - 4XcLZsA.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
 
-<img src="https://i.imgur.com/hHQINAo.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
+<img src="/images/72 - hHQINAo.jpg" style="max-width: 1024px; max-height: 800px; width: auto; height: auto;"><br/>
 
 
 ## Observations, results, and conclusions

@@ -8,20 +8,20 @@ tags:
   - projects
 modified_time: 2025-07-30T00:00:00.001-05:00
 ---
-# forwards
+## forwards
 
 I think, going forward, written pieces will be defined by the systems used to build those pieces. More and more, people will build novel systems to write novel pieces. I think it's always been that way - for example, you can't escape the language you're writing in - but it's never been easier to create novel systems to write.
 
 This is a system I've been working on. I've built other systems before, and I will build others.
 
-# why did I make this system?
+## why did I make this system?
 
 I made this system because:
 - I wanted to be able to start and finish a short story in a weekend, so that I could do a project on a whim and not feel burdened by it when it's half-done.
 - I had made my mind up about what stories are for - namely, to perform state-changing operations on a reader's beliefs (reinforcing beliefs is a state-change).
 - LLMs have suddenly unlocked possibilities in writing. **But** LLMs write terribly.
 
-# overall process
+## overall process
 
 ### outline
 

@@ -26,4 +26,4 @@ Winter came, and the deer starved in the lower forest.
 
 The squirrel survived the winter in the hills, then worked hard through the spring and summer for the best harvest possible. When the summer heat sparked a fire, the flames climbed the hill faster than anything the squirrel had seen before.
 
-The squirrel's bones were surrounded by husks of nuts.
+The squirrel's bones were surrounded by a treasure-horde of nut husks.

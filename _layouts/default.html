@@ -1,33 +1,31 @@
 <!DOCTYPE html>
-	<html>
-		<head>
-			<title>{{ page.title }}</title>
-			<!-- link to main stylesheet -->
-			<link rel="stylesheet" type="text/css" href="/css/main.css">
-			<link href="https://raw.githubusercontent.com/curiousest/curiousest.github.io/master/favicon.ico" rel="shortcut icon" type="image/x-icon">
-			{% if jekyll.environment == 'production' and site.google_analytics %}
-			  {% include analytics.html %}
-		    {% endif %}
-		</head>
-		<body>
-			<nav>
-	    		<ul>
-	        		<li><a href="/">Home</a></li>
-		        	<li><a href="http://github.com/curiousest/">GitHub</a></li>
-	        		<li><a href="https://uk.linkedin.com/in/dhindson">LinkedIn</a></li>
-					<li><a href="https://curiousest.ck.page/437b446194">Subscribe</a></li>
-	    		</ul>
-			</nav>
-			<div class="container">
-			
-			{{ content }}
-			
-			</div><!-- /.container -->
-			<footer>
-	    		<ul>
-	        		<li><a href="https://github.com/curiousest">github.com/curiousest</a></li>
-					<li><a href="https://curiousest.ck.page/437b446194" target="_blank"><button>Subscribe</button></a></li>
-				</ul>
-			</footer>
-		</body>
-	</html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" type="text/css" href="/css/main.css">
+    <link href="https://raw.githubusercontent.com/curiousest/curiousest.github.io/master/favicon.ico" rel="shortcut icon" type="image/x-icon">
+    {% if jekyll.environment == 'production' and site.google_analytics %}
+      {% include analytics.html %}
+    {% endif %}
+  </head>
+  <body>
+    <div class="site-masthead">
+      <a class="site-name" href="/">Douglas Hindson</a>
+    </div>
+
+    <div class="container">
+      {{ content }}
+    </div>
+
+    <footer>
+      <ul>
+        <li><a href="/">curiousest.com</a></li>
+        <li><a href="http://github.com/curiousest/">github</a></li>
+        <li><a href="https://uk.linkedin.com/in/dhindson">linkedin</a></li>
+        <li><a href="https://curiousest.ck.page/437b446194" target="_blank">subscribe</a></li>
+      </ul>
+    </footer>
+  </body>
+</html>

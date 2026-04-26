@@ -1,10 +1,27 @@
 ---
 layout: default
 ---
+{% assign word_count = content | number_of_words %}
+{% if page.tags contains "story" or page.tags contains "parable" %}
+  {% assign post_type = "Story" %}
+{% elsif page.tags contains "projects" %}
+  {% assign post_type = "Projects" %}
+{% elsif page.tags contains "essay" %}
+  {% assign post_type = "Essay" %}
+{% elsif word_count < 350 %}
+  {% assign post_type = "Note" %}
+{% elsif word_count > 1500 %}
+  {% assign post_type = "Essay" %}
+{% else %}
+  {% assign post_type = "" %}
+{% endif %}
+
+<span class="post-type">{{ post_type }}</span>
 <h1>{{ page.title }}</h1>
+<p class="post-meta">{{ page.date | date: "%-d %B %Y" }}</p>
 
 <div class="post">
   {{ content }}
 </div>
 
-<p class="meta">{{ page.date | date_to_string }}</p>
+<div class="post-ending">&middot; &middot; &middot;</div>

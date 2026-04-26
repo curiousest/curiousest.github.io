@@ -1,76 +1,124 @@
 ---
 layout: default
-title: Douglas' Blog
+title: curiousest
 ---
-<h1 style="margin-block-end: 0px;">{{ page.title }}</h1>
-<table style="width:100%;font-size:1em" class="frontpage-by-category">
-	<tr>
-	  <td style="vertical-align:top">
 
-		<h2>Best Posts</h2>
-		<ul class="posts">
-		{% for post in site.posts %}
-		{% if post.tags contains "favourite" %}
-			<li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-		{% endif %}
-		{% endfor %}
-		</ul>
+<section id="best">
+  <div class="section-label">Posts that define me</div>
+  <ul class="posts">
+    {% for post in site.posts %}
+      {% if post.tags contains "favourite" %}
+        <li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</section>
 
-		<h2>Grow</h2>
-		<ul class="posts">
-		{% for post in site.posts %}
-		{% if post.tags contains "development" or post.tags contains "personal development" %}
-			<li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-		{% endif %}
-		{% endfor %}
-		</ul>
+<section id="categories">
+  <div class="cat-tabs">
+    <button class="cat-tab" data-cat="grow">Grow</button>
+    <button class="cat-tab active" data-cat="stories">Stories</button>
+    <button class="cat-tab" data-cat="essays">Essays</button>
+    <button class="cat-tab" data-cat="fitness">Fitness</button>
+    <button class="cat-tab" data-cat="projects">Projects</button>
+  </div>
 
-		<h2>Fitness</h2>
-		<ul class="posts">
-		{% for post in site.posts %}
-		{% if post.tags contains "fitness" %}
-			<li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-		{% endif %}
-		{% endfor %}
-		</ul>
+  <div class="cat-section" data-cat="grow">
+    <div class="cat-section-label">Grow</div>
+    <ul class="posts">
+      {% for post in site.posts %}
+        {% if post.tags contains "development" or post.tags contains "personal development" %}
+          <li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+  </div>
 
-	  </td>
-	  <td style="vertical-align:top">
+  <div class="cat-section" data-cat="stories">
+    <div class="cat-section-label">Stories</div>
+    <ul class="posts">
+      {% for post in site.posts %}
+        {% if post.tags contains "story" %}
+          <li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+  </div>
 
-		<h2>Stories</h2>
-		<ul class="posts">
-		{% for post in site.posts %}
-		{% if post.tags contains "story" %}
-			<li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-		{% endif %}
-		{% endfor %}
-		</ul>
+  <div class="cat-section" data-cat="essays">
+    <div class="cat-section-label">Essays</div>
+    <ul class="posts">
+      {% for post in site.posts %}
+        {% if post.tags contains "essay" %}
+          <li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+  </div>
 
-		<h2>Projects</h2>
-		<ul class="posts">
-		{% for post in site.posts %}
-		{% if post.tags contains "projects" or post.tags contains "facts and data" %}
-			<li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-		{% endif %}
-		{% endfor %}
-		</ul>
+  <div class="cat-section" data-cat="fitness">
+    <div class="cat-section-label">Fitness</div>
+    <ul class="posts">
+      {% for post in site.posts %}
+        {% if post.tags contains "fitness" %}
+          <li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+  </div>
 
-		<h2>Essays</h2>
-		<ul class="posts">
-		{% for post in site.posts %}
-		{% if post.tags contains "essay" %}
-			<li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-		{% endif %}
-		{% endfor %}
-		</ul>
+  <div class="cat-section" data-cat="projects">
+    <div class="cat-section-label">Projects</div>
+    <ul class="posts">
+      {% for post in site.posts %}
+        {% if post.tags contains "projects" or post.tags contains "facts and data" %}
+          <li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+  </div>
+</section>
 
-	  </td>
-	</tr>
-</table>
-<h2>Posts by date</h2>
-<ul class="posts">
-{% for post in site.posts %}
-	<li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-{% endfor %}
-</ul>
+<script>
+(function() {
+  var tabs = document.querySelectorAll('.cat-tab');
+  var sections = document.querySelectorAll('.cat-section');
+  var labels = document.querySelectorAll('.cat-section-label');
 
+  function showCat(cat) {
+    sections.forEach(function(s) {
+      s.style.display = s.dataset.cat === cat ? '' : 'none';
+    });
+    labels.forEach(function(l) { l.style.display = 'none'; });
+  }
+
+  // Default to stories on load
+  showCat('stories');
+
+  tabs.forEach(function(tab) {
+    tab.addEventListener('click', function() {
+      tabs.forEach(function(t) { t.classList.remove('active'); });
+      this.classList.add('active');
+      showCat(this.dataset.cat);
+    });
+  });
+})();
+</script>
+
+<section id="archive">
+  <div class="section-label">All</div>
+  {% assign posts_by_year = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
+  {% for year_group in posts_by_year %}
+    <div class="year-group">
+      <div class="year-label">{{ year_group.name }}</div>
+      <ul class="posts">
+        {% for post in year_group.items %}
+          <li>
+            <span class="post-date">{{ post.date | date: "%-d %b" }}</span>
+            <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+  {% endfor %}
+</section>

@@ -9,8 +9,8 @@ modified_time: 2024-12-04T00:00:00.001-05:00
 ---
 > You can only extend your love to so many things.
 > 
-> Beyond humankind,
-> what is a person to you?
+> When you extend it far beyond humankind,
+> then what is a person to you?
 > 
 > Perhaps "what it means to be human"
 > is choosing human survival

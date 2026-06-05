@@ -1,12 +1,14 @@
 ---
 layout: post
-title: "Product Engineer"
-date: '2021-03-28T00:00:00.001-05:00'
+title: Product Engineer
+date: 2021-03-28T00:00:00.001-05:00
 author: Douglas Hindson
-tags: 
-- personal development
-- professional
-modified_time: '2021-03-28T00:00:00.001-05:00'
+tags:
+  - professional
+  - personal
+  - development
+  - d-tier
+modified_time: 2021-03-28T00:00:00.001-05:00
 ---
 
 In a previous job I was onboarding a senior product person. I complained that some important task shouldn't be mine to do. The senior product person said, in effect,

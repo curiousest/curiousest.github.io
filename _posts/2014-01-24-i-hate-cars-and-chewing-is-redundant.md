@@ -1,11 +1,12 @@
 ---
 layout: post
 title: I Hate Cars and Chewing is Redundant
-date: '2014-01-24T11:50:00.000-05:00'
+date: 2014-01-24T11:50:00.000-05:00
 author: Doug Hindson
 tags:
-- essay
-modified_time: '2014-11-30T10:20:25.427-05:00'
+  - essay
+  - c-tier
+modified_time: 2014-11-30T10:20:25.427-05:00
 ---
 
 ### Imagine:

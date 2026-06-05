@@ -7,6 +7,7 @@ tags:
   - personal
   - development
   - professional
+  - d-tier
 modified_time: 2025-07-30T00:00:00.001-05:00
 ---
 I've never seen a good product manager in an AI company.

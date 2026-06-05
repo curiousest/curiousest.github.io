@@ -1,11 +1,11 @@
 ---
 layout: post
 title: 2013 Backpacking Itinerary
-date: '2013-08-23T03:31:00.003-04:00'
+date: 2013-08-23T03:31:00.003-04:00
 author: Doug Hindson
 tags:
-- facts and data
-modified_time: '2014-01-15T17:55:18.887-05:00'
+  - d-tier
+modified_time: 2014-01-15T17:55:18.887-05:00
 blogger_id: tag:blogger.com,1999:blog-3762968903344452987.post-4502190468310688330
 blogger_orig_url: https://www.curiousest.com/2013/08/itinerary.html
 ---

@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Desensitized
-date: '2013-10-18T12:29:00.003-04:00'
+date: 2013-10-18T12:29:00.003-04:00
 author: Doug Hindson
 tags:
-- essay
-- blog
-modified_time: '2013-10-18T12:50:42.774-04:00'
+  - essay
+  - blog
+  - d-tier
+modified_time: 2013-10-18T12:50:42.774-04:00
 blogger_id: tag:blogger.com,1999:blog-3762968903344452987.post-5536214378171088618
 blogger_orig_url: https://www.curiousest.com/2013/10/HowILearnedtoStopCaring.html
 ---

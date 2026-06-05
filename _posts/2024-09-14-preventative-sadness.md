@@ -6,6 +6,7 @@ author: Douglas Hindson
 tags:
   - story
   - poetry
+  - c-tier
 modified_time: 2024-09-14T00:00:00.001-05:00
 ---
 > I once was a man who was often sad,<br>

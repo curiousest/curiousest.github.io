@@ -43,13 +43,14 @@ a:hover {
 
 .site-masthead {
   margin-bottom: 2.5rem;
+  text-align: center;
 }
 
 .site-name {
   font-family: var(--sans);
-  font-size: 1.5rem;
+  font-size: 2.2rem;
   font-weight: 700;
-  letter-spacing: -0.01em;
+  letter-spacing: -0.02em;
   color: var(--text);
   text-decoration: none;
   display: block;
@@ -434,58 +435,250 @@ button:active {
   box-shadow: inset 0 2px 3px rgba(0, 0, 0, 0.15);
 }
 
-/* ===== CATEGORY TABS ===== */
+/* ===== VIEW PICKER ===== */
 
-.cat-tabs {
+.homepage-header {
+  position: relative;
   display: flex;
-  flex-wrap: wrap;
-  gap: 0.4rem;
-  margin-bottom: 1.75rem;
+  align-items: center;
+  margin-bottom: 0.75rem;
+  padding-left: 1rem;
 }
 
-.cat-tab {
+.view-picker {
+  position: relative;
+  display: inline-block;
+}
+
+.view-pick-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
   font-family: var(--sans);
-  font-size: 0.68rem;
-  font-weight: 600;
-  letter-spacing: 0.1em;
-  text-transform: uppercase;
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: var(--text);
   background: none;
-  color: var(--meta);
-  border: 1px solid var(--rule);
-  border-radius: 2px;
-  padding: 0.25rem 0.65rem;
+  border: none;
+  padding: 0;
   cursor: pointer;
-  text-decoration: none;
-  line-height: 1.6;
   -webkit-appearance: none;
-  transition: none;
 }
 
-.cat-tab:hover {
+.view-pick-btn:hover {
   color: var(--text);
-  border-color: #bbb;
   opacity: 1;
 }
 
-.cat-tab:active {
-  box-shadow: none;
+.view-pick-btn svg {
+  flex-shrink: 0;
+  opacity: 0.4;
+  transition: transform 0.15s;
 }
 
-.cat-tab.active {
-  background: var(--text);
-  color: var(--bg);
-  border-color: var(--text);
+.view-picker.open .view-pick-btn svg {
+  transform: rotate(180deg);
 }
 
-.cat-section-label {
+.view-dropdown {
+  display: none;
+  position: absolute;
+  top: calc(100% + 4px);
+  left: 50%;
+  transform: translateX(-50%);
+  background: var(--bg);
+  border: 1px solid #ccc;
+  border-radius: 2px;
+  z-index: 20;
+  min-width: 9rem;
+  box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+  padding: 0.25rem 0;
+}
+
+.view-picker.open .view-dropdown {
+  display: block;
+}
+
+.view-option {
+  display: block;
+  width: 100%;
+  text-align: left;
   font-family: var(--sans);
-  font-size: 0.62rem;
+  font-size: 0.78rem;
+  font-weight: 500;
+  color: var(--soft);
+  background: none;
+  border: none;
+  border-radius: 0;
+  padding: 0.35rem 0.9rem;
+  cursor: pointer;
+  -webkit-appearance: none;
+  line-height: 1.6;
+}
+
+.view-option:hover {
+  color: var(--text);
+  background: var(--rule);
+}
+
+.view-option.active {
+  color: var(--text);
   font-weight: 700;
-  letter-spacing: 0.22em;
+}
+
+/* ===== CATEGORY PICKER ===== */
+
+.cat-picker {
+  position: relative;
+  margin-left: auto;
+  z-index: 10;
+}
+
+.cat-pick-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.65rem 0.75rem;
+  color: var(--meta);
+  background: none;
+  border: none;
+  border-radius: 0;
+  cursor: pointer;
+  -webkit-appearance: none;
+  line-height: 1;
+}
+
+.cat-pick-btn:hover,
+.cat-picker.open .cat-pick-btn {
+  color: var(--text);
+}
+
+.cat-pick-btn svg {
+  width: 12px;
+  height: 10px;
+}
+
+.cat-dropdown {
+  display: none;
+  position: absolute;
+  top: calc(100% + 3px);
+  right: 0;
+  left: auto;
+  background: var(--bg);
+  border: 1px solid #ccc;
+  border-radius: 2px;
+  z-index: 20;
+  min-width: 9rem;
+  box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+  padding: 0.25rem 0;
+}
+
+.cat-picker.open .cat-dropdown {
+  display: block;
+}
+
+.cat-option {
+  display: block;
+  width: 100%;
+  text-align: left;
+  font-family: var(--sans);
+  font-size: 0.68rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
   text-transform: uppercase;
   color: var(--meta);
-  margin-bottom: 0.75rem;
-  margin-top: 0.25rem;
+  background: none;
+  border: none;
+  border-radius: 0;
+  padding: 0.35rem 0.9rem;
+  cursor: pointer;
+  -webkit-appearance: none;
+  line-height: 1.6;
+}
+
+.cat-option:hover {
+  color: var(--text);
+  background: var(--rule);
+}
+
+.cat-option.active {
+  color: var(--text);
+  font-weight: 700;
+}
+
+/* ===== TIER ROWS ===== */
+
+.tier-row {
+  display: flex;
+  align-items: stretch;
+  border: 1px solid var(--rule);
+  margin-left: -1.5rem;
+  margin-bottom: 0.4rem;
+  border-radius: 2px;
+  overflow: hidden;
+}
+
+.tier-key {
+  font-family: var(--sans);
+  font-size: 1rem;
+  font-weight: 800;
+  width: 1.5rem;
+  min-width: 1.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-right: 2px solid rgba(0,0,0,0.08);
+  color: rgba(0,0,0,0.55);
+  flex-shrink: 0;
+  letter-spacing: -0.02em;
+}
+
+[data-tier="s-tier"] .tier-key { background: #e8aaaa; }
+[data-tier="a-tier"] .tier-key { background: #f0c49a; }
+[data-tier="b-tier"] .tier-key { background: #f0ed9a; }
+[data-tier="c-tier"] .tier-key { background: #a8dda8; }
+[data-tier="d-tier"] .tier-key { background: #a8cfe0; }
+[data-tier="f-tier"] .tier-key { background: #e0a8a8; }
+[data-tier="notes"]  .tier-key { background: #d8d4cc; color: rgba(0,0,0,0.35); font-size: 1.2rem; }
+
+ul.posts.tier-posts {
+  flex: 1;
+  margin: 0;
+  padding: 0.55rem 0.75rem;
+}
+
+ul.posts.tier-posts li {
+  margin-bottom: 0.35rem;
+}
+
+ul.posts.tier-posts li:last-child {
+  margin-bottom: 0;
+}
+
+ul.posts.tier-posts li a,
+#view-bydate ul.posts li a {
+  flex: 1;
+  min-width: 0;
+}
+
+.cat-badge {
+  font-size: 0.72rem;
+  flex-shrink: 0;
+  align-self: center;
+  padding: 0 0.2rem;
+  white-space: nowrap;
+  color: var(--meta);
+  background: none;
+}
+
+.cat-badge.story   { font-family: var(--serif); font-style: italic; }
+.cat-badge.essay   { font-family: var(--serif); font-variant: small-caps; letter-spacing: 0.04em; }
+.cat-badge.grow    { font-family: var(--sans); font-weight: 700; font-size: 0.62rem; letter-spacing: 0.08em; text-transform: uppercase; }
+.cat-badge.fitness { font-family: var(--sans); font-style: italic; font-size: 0.65rem; }
+.cat-badge.project { font-family: var(--mono); font-size: 0.62rem; }
+
+#view-bydate .cat-section > .year-group:first-child .year-label {
+  padding-right: 2.5rem;
 }
 
 /* ===== HOMEPAGE COMPATIBILITY ===== */

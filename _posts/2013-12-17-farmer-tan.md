@@ -1,13 +1,14 @@
 ---
 layout: post
 title: Farmer Tan
-date: '2013-12-17T16:50:00.000-05:00'
+date: 2013-12-17T16:50:00.000-05:00
 author: Doug Hindson
-tags: 
-- favourite
-- story
-- blog
-modified_time: '2013-12-17T16:50:47.073-05:00'
+tags:
+  - favourite
+  - story
+  - blog
+  - b-tier
+modified_time: 2013-12-17T16:50:47.073-05:00
 thumbnail: https://2.bp.blogspot.com/-4zCcVyKTY4w/UrDB0_Tj9OI/AAAAAAAAASc/KYde-hMwEys/s72-c/IMAG0857.jpg
 blogger_id: tag:blogger.com,1999:blog-3762968903344452987.post-6490256988386727697
 blogger_orig_url: https://www.curiousest.com/2013/12/farmer-tan.html

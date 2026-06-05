@@ -5,6 +5,7 @@ date: 2024-12-23T00:00:00.001-05:00
 author: Douglas Hindson
 tags:
   - essay
+  - f-tier
 modified_time: 2024-12-23T00:00:00.001-05:00
 ---
 ## The argument: are we masters or slaves of the universe?

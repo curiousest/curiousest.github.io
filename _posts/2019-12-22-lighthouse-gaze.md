@@ -1,12 +1,13 @@
 ---
 layout: post
-title: "Lighthouse Gaze"
-date: '2019-12-22T00:00:00.001-05:00'
+title: Lighthouse Gaze
+date: 2019-12-22T00:00:00.001-05:00
 author: Douglas Hindson
-tags: 
-- blog
-- story
-modified_time: '2019-12-22T00:00:00.001-05:00'
+tags:
+  - blog
+  - story
+  - d-tier
+modified_time: 2019-12-22T00:00:00.001-05:00
 ---
 
 _Some people look most beautiful in sunlight because their low-contrast features are exposed._

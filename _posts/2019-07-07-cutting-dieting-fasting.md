@@ -1,12 +1,13 @@
 ---
 layout: post
-title: "Cutting, dieting, fasting"
-date: '2019-07-07T00:00:00.001-05:00'
+title: Cutting, dieting, fasting
+date: 2019-07-07T00:00:00.001-05:00
 author: Douglas Hindson
-tags: 
-- blog
-- fitness
-modified_time: '2020-02-01T00:00:00.001-05:00'
+tags:
+  - blog
+  - fitness
+  - d-tier
+modified_time: 2020-02-01T00:00:00.001-05:00
 ---
 
 # Cutting, dieting

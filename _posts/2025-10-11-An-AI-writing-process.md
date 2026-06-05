@@ -5,7 +5,8 @@ date: 2025-10-11T00:00:00.001-05:00
 author: Douglas Hindson
 tags:
   - professional
-  - projects
+  - project
+  - d-tier
 modified_time: 2025-07-30T00:00:00.001-05:00
 ---
 ## forwards

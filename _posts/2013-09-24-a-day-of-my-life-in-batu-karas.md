@@ -1,11 +1,12 @@
 ---
 layout: post
 title: A Day of My Life in Batu Karas
-date: '2013-09-24T22:56:00.000-04:00'
+date: 2013-09-24T22:56:00.000-04:00
 author: Doug Hindson
 tags:
-- blog
-modified_time: '2013-09-24T22:56:11.346-04:00'
+  - blog
+  - d-tier
+modified_time: 2013-09-24T22:56:11.346-04:00
 thumbnail: https://4.bp.blogspot.com/-55IOJNmIDWc/UkJHG4U-4nI/AAAAAAAAAPo/tELmv2i8E7w/s72-c/IMAG0592.jpg
 blogger_id: tag:blogger.com,1999:blog-3762968903344452987.post-6702113905621644453
 blogger_orig_url: https://www.curiousest.com/2013/09/a-day-of-my-life-in-batu-karas.html

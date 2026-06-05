@@ -6,6 +6,7 @@ author: Douglas Hindson
 tags:
   - blog
   - career
+  - d-tier
 modified_time: 2021-09-22T00:00:00.001-05:00
 ---
 

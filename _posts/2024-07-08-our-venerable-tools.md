@@ -5,6 +5,7 @@ date: 2024-07-08T00:00:00.001-05:00
 author: Douglas Hindson
 tags:
   - essay
+  - f-tier
 modified_time: 2024-07-08T00:00:00.001-05:00
 ---
 If you take a big knife out anywhere in first-world culture, people will be like, "what are you doing with that big knife?" And you might even get arrested just for carrying it around.

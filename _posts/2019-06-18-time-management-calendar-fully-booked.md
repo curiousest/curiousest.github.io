@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "Time management for personal life: a fully booked calendar"
-date: '2019-06-18T00:00:00.001-05:00'
+date: 2019-06-18T00:00:00.001-05:00
 author: Douglas Hindson
-tags: 
-- lifehacking
-modified_time: '2019-06-18T00:00:00.001-05:00'
+tags:
+  - lifehacking
+  - d-tier
+modified_time: 2019-06-18T00:00:00.001-05:00
 ---
 
 I've been trialing a time management strategy: a fully booked calendar for my personal life.

@@ -8,6 +8,7 @@ tags:
   - professional
   - development
   - favourite
+  - b-tier
 modified_time: 2024-09-13T00:00:00.001-05:00
 ---
 Memorizing is a waste of time. Find a way to learn without memorizing.

@@ -7,6 +7,7 @@ tags:
   - story
   - personal
   - development
+  - d-tier
 modified_time: 2024-12-04T00:00:00.001-05:00
 ---
 There once was an eagle who commissioned an army of beavers to build a great dam to divert a river. They started in the summer, and the beavers built busily underwater. When fall came around and the dam was not yet built, the eagle assembled the beavers and explained,

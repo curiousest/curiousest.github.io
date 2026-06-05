@@ -1,14 +1,15 @@
 ---
 layout: post
 title: Evolution of my desk part 1
-date: '2017-06-13T11:52:00.001-05:00'
+date: 2017-06-13T11:52:00.001-05:00
 author: Douglas Hindson
-tags: 
-- DIY
-- blog
-- favourite
-- projects
-modified_time: '2017-06-13T11:52:00.001-05:00'
+tags:
+  - DIY
+  - blog
+  - favourite
+  - project
+  - a-tier
+modified_time: 2017-06-13T11:52:00.001-05:00
 ---
 
 tl;dr I experimented with my keyboard and computer setup. [Imgur album](https://imgur.com/a/qWvI0). Initially, I thought this would be a good idea:

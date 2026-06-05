@@ -4,8 +4,9 @@ title: Writers will dominate in a world of LLMs (part 1)
 date: 2024-09-01T00:00:00.001-05:00
 author: Douglas Hindson
 tags:
-  - projects
+  - project
   - story
+  - c-tier
 modified_time: 2024-09-01T00:00:00.001-05:00
 ---
 I find writing to be a lot like building. It's the most human form of building, where you get to choose how much reality to include in your work. The culture of writing is as old as civilization but it's still developing, while the culture of building IT products is new and innovating. These two cultures can learn a lot from each other.

@@ -1,14 +1,15 @@
 ---
 layout: post
-title: 'Evolution of my desk part 2: sound-proofing'
-date: '2018-11-11T11:00:00.001-05:00'
+title: "Evolution of my desk part 2: sound-proofing"
+date: 2018-11-11T11:00:00.001-05:00
 author: Douglas Hindson
-tags: 
-- DIY
-- blog
-- projects
-- sound
-modified_time: '2018-11-11T11:00:00.001-05:00'
+tags:
+  - DIY
+  - blog
+  - project
+  - sound
+  - d-tier
+modified_time: 2018-11-11T11:00:00.001-05:00
 ---
 
 [Part 1 - on keyboards](/2017/06/13/evolution-of-my-desk.html)

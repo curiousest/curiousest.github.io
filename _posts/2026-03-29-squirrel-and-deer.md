@@ -7,6 +7,7 @@ tags:
   - story
   - personal
   - development
+  - c-tier
 modified_time: 2024-12-04T00:00:00.001-05:00
 ---
 A squirrel explained to a deer,

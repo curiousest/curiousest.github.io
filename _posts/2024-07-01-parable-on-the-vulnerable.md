@@ -9,6 +9,7 @@ tags:
   - essay
   - favourite
   - feminism
+  - c-tier
 modified_time: 2019-07-01T00:00:00.001-05:00
 ---
 Here is an excerpt from [a post](/one-day-of-travel) I wrote ten years ago, describing my travel between two cities in Indonesia:

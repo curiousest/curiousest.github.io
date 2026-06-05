@@ -1,14 +1,15 @@
 ---
 layout: post
-title: "Activities guiding my professional career"
-date: '2019-09-07T00:00:00.001-05:00'
+title: Activities guiding my professional career
+date: 2019-09-07T00:00:00.001-05:00
 author: Douglas Hindson
-tags: 
-- blog
-- career
-- personal development
-- tech industry
-modified_time: '2019-07-07T00:00:00.001-05:00'
+tags:
+  - blog
+  - career
+  - professional
+  - development
+  - d-tier
+modified_time: 2019-07-07T00:00:00.001-05:00
 ---
 
 # Purpose

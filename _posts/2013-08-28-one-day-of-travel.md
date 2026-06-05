@@ -1,11 +1,12 @@
 ---
 layout: post
 title: One day of travel
-date: '2013-08-28T05:05:00.004-04:00'
+date: 2013-08-28T05:05:00.004-04:00
 author: Doug Hindson
 tags:
-- blog
-modified_time: '2013-08-28T22:43:52.882-04:00'
+  - blog
+  - d-tier
+modified_time: 2013-08-28T22:43:52.882-04:00
 blogger_id: tag:blogger.com,1999:blog-3762968903344452987.post-8861877115330897139
 blogger_orig_url: https://www.curiousest.com/2013/08/one-day-of-travel.html
 ---

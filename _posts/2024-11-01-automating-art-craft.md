@@ -4,9 +4,10 @@ title: Automating art-craft
 date: 2024-11-02T00:00:00.001-05:00
 author: Douglas Hindson
 tags:
-  - projects
+  - project
   - essay
   - essays
+  - c-tier
 modified_time: 2024-11-02T00:00:00.001-05:00
 ---
 > Be the data you want to see in the world.

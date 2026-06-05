@@ -5,6 +5,7 @@ date: 2023-01-07T00:00:00.001-05:00
 author: Douglas Hindson
 tags:
   - story
+  - c-tier
 modified_time: 2023-01-07T00:00:00.001-05:00
 ---
 

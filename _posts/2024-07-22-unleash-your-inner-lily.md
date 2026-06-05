@@ -6,6 +6,7 @@ author: Douglas Hindson
 tags:
   - story
   - feminism
+  - c-tier
 modified_time: 2024-07-22T00:00:00.001-05:00
 ---
 Lily is a little beagle who must not have freedom, it's for her own good. At all times, she must be leashed or incarcerated because she will always find a way to abuse her freedom.

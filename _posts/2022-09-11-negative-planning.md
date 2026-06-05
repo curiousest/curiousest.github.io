@@ -1,12 +1,14 @@
 ---
 layout: post
-title: "Plan when not to follow a habit"
-date: '2022-09-11T00:00:00.000-00:00'
+title: Plan when not to follow a habit
+date: 2022-09-11T00:00:00.000-00:00
 author: Douglas Hindson
 tags:
-- personal development
-- habits
-modified_time: '2022-09-11T00:00:00.000-00:00'
+  - habits
+  - d-tier
+  - personal
+  - development
+modified_time: 2022-09-11T00:00:00.000-00:00
 ---
 
 Say you have a good habit like, *"I go to the gym regularly."* To set up [habits for success](/habits), plan when you're **not** going to do it. 

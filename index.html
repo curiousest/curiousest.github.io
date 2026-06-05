@@ -3,122 +3,395 @@ layout: default
 title: curiousest
 ---
 
-<section id="best">
-  <div class="section-label">Posts that define me</div>
-  <ul class="posts">
-    {% for post in site.posts %}
-      {% if post.tags contains "favourite" %}
-        <li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-      {% endif %}
-    {% endfor %}
-  </ul>
-</section>
+<div class="homepage-header">
+  <div class="view-picker" id="view-picker">
+    <button class="view-pick-btn" id="view-pick-btn" aria-haspopup="listbox" aria-expanded="false">
+      <span id="view-pick-label">Tier list of my posts</span>
+      <svg width="8" height="5" viewBox="0 0 8 5" fill="currentColor" aria-hidden="true"><path d="M0 0l4 5 4-5z"/></svg>
+    </button>
+    <div class="view-dropdown" id="view-dropdown" role="listbox">
+      <button class="view-option active" data-view="tierlist" data-label="Tier list of my posts">Tier list</button>
+      <button class="view-option" data-view="bydate" data-label="Posts by date">By date</button>
+    </div>
+  </div>
+  <div class="cat-picker" id="cat-picker">
+    <button class="cat-pick-btn" id="cat-pick-btn" aria-label="Filter by category" aria-haspopup="listbox" aria-expanded="false">
+      <svg width="15" height="12" viewBox="0 0 15 12" fill="currentColor" aria-hidden="true">
+        <rect x="0" y="0" width="15" height="2" rx="1"/>
+        <rect x="3" y="5" width="9" height="2" rx="1"/>
+        <rect x="6" y="10" width="3" height="2" rx="1"/>
+      </svg>
+    </button>
+    <div class="cat-dropdown" role="listbox">
+      <button class="cat-option active" data-cat="all">All</button>
+      <button class="cat-option" data-cat="stories">Stories</button>
+      <button class="cat-option" data-cat="grow">Grow</button>
+      <button class="cat-option" data-cat="essays">Essays</button>
+      <button class="cat-option" data-cat="fitness">Fitness</button>
+      <button class="cat-option" data-cat="projects">Project</button>
+    </div>
+  </div>
+</div>
 
 <section id="categories">
-  <div class="cat-tabs">
-    <button class="cat-tab" data-cat="grow">Grow</button>
-    <button class="cat-tab active" data-cat="stories">Stories</button>
-    <button class="cat-tab" data-cat="essays">Essays</button>
-    <button class="cat-tab" data-cat="fitness">Fitness</button>
-    <button class="cat-tab" data-cat="projects">Projects</button>
-  </div>
+  {% assign tiers = "s-tier,a-tier,b-tier,c-tier,d-tier,f-tier,notes" | split: "," %}
 
-  <div class="cat-section" data-cat="grow">
-    <div class="cat-section-label">Grow</div>
-    <ul class="posts">
-      {% for post in site.posts %}
-        {% if post.tags contains "development" or post.tags contains "personal development" %}
-          <li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+  <!-- ===== TIER LIST VIEW ===== -->
+  <div id="view-tierlist">
+
+    <div class="cat-section" data-cat="all">
+      {% for tier in tiers %}
+        {% assign tier_posts = "" | split: "" %}
+        {% for post in site.posts %}
+          {% if post.tags contains tier %}
+            {% assign tier_posts = tier_posts | push: post %}
+          {% endif %}
+        {% endfor %}
+        {% if tier_posts.size > 0 or tier == "s-tier" %}
+          <div class="tier-row" data-tier="{{ tier }}">
+            <div class="tier-key">{% if tier == "notes" %}∅{% else %}{{ tier | slice: 0 | upcase }}{% endif %}</div>
+            <ul class="posts tier-posts">
+              {% for post in tier_posts %}
+                <li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>{% if post.tags contains "story" %}<span class="cat-badge story">story</span>{% elsif post.tags contains "development" or post.tags contains "personal development" %}<span class="cat-badge grow">grow</span>{% elsif post.tags contains "essay" %}<span class="cat-badge essay">essay</span>{% elsif post.tags contains "fitness" %}<span class="cat-badge fitness">fitness</span>{% elsif post.tags contains "project" or post.tags contains "facts and data" %}<span class="cat-badge project">project</span>{% endif %}</li>
+              {% endfor %}
+            </ul>
+          </div>
         {% endif %}
       {% endfor %}
-    </ul>
-  </div>
+    </div>
 
-  <div class="cat-section" data-cat="stories">
-    <div class="cat-section-label">Stories</div>
-    <ul class="posts">
+    <div class="cat-section" data-cat="stories" style="display:none">
+      {% for tier in tiers %}
+        {% assign tier_posts = "" | split: "" %}
+        {% for post in site.posts %}
+          {% if post.tags contains tier and post.tags contains "story" %}
+            {% assign tier_posts = tier_posts | push: post %}
+          {% endif %}
+        {% endfor %}
+        {% if tier_posts.size > 0 or tier == "s-tier" %}
+          <div class="tier-row" data-tier="{{ tier }}">
+            <div class="tier-key">{% if tier == "notes" %}∅{% else %}{{ tier | slice: 0 | upcase }}{% endif %}</div>
+            <ul class="posts tier-posts">
+              {% for post in tier_posts %}
+                <li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>{% if post.tags contains "story" %}<span class="cat-badge story">story</span>{% elsif post.tags contains "development" or post.tags contains "personal development" %}<span class="cat-badge grow">grow</span>{% elsif post.tags contains "essay" %}<span class="cat-badge essay">essay</span>{% elsif post.tags contains "fitness" %}<span class="cat-badge fitness">fitness</span>{% elsif post.tags contains "project" or post.tags contains "facts and data" %}<span class="cat-badge project">project</span>{% endif %}</li>
+              {% endfor %}
+            </ul>
+          </div>
+        {% endif %}
+      {% endfor %}
+    </div>
+
+    <div class="cat-section" data-cat="grow" style="display:none">
+      {% for tier in tiers %}
+        {% assign tier_posts = "" | split: "" %}
+        {% for post in site.posts %}
+          {% if post.tags contains tier and post.tags contains "development" or post.tags contains tier and post.tags contains "personal development" %}
+            {% assign tier_posts = tier_posts | push: post %}
+          {% endif %}
+        {% endfor %}
+        {% if tier_posts.size > 0 or tier == "s-tier" %}
+          <div class="tier-row" data-tier="{{ tier }}">
+            <div class="tier-key">{% if tier == "notes" %}∅{% else %}{{ tier | slice: 0 | upcase }}{% endif %}</div>
+            <ul class="posts tier-posts">
+              {% for post in tier_posts %}
+                <li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>{% if post.tags contains "story" %}<span class="cat-badge story">story</span>{% elsif post.tags contains "development" or post.tags contains "personal development" %}<span class="cat-badge grow">grow</span>{% elsif post.tags contains "essay" %}<span class="cat-badge essay">essay</span>{% elsif post.tags contains "fitness" %}<span class="cat-badge fitness">fitness</span>{% elsif post.tags contains "project" or post.tags contains "facts and data" %}<span class="cat-badge project">project</span>{% endif %}</li>
+              {% endfor %}
+            </ul>
+          </div>
+        {% endif %}
+      {% endfor %}
+    </div>
+
+    <div class="cat-section" data-cat="essays" style="display:none">
+      {% for tier in tiers %}
+        {% assign tier_posts = "" | split: "" %}
+        {% for post in site.posts %}
+          {% if post.tags contains tier and post.tags contains "essay" %}
+            {% assign tier_posts = tier_posts | push: post %}
+          {% endif %}
+        {% endfor %}
+        {% if tier_posts.size > 0 or tier == "s-tier" %}
+          <div class="tier-row" data-tier="{{ tier }}">
+            <div class="tier-key">{% if tier == "notes" %}∅{% else %}{{ tier | slice: 0 | upcase }}{% endif %}</div>
+            <ul class="posts tier-posts">
+              {% for post in tier_posts %}
+                <li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>{% if post.tags contains "story" %}<span class="cat-badge story">story</span>{% elsif post.tags contains "development" or post.tags contains "personal development" %}<span class="cat-badge grow">grow</span>{% elsif post.tags contains "essay" %}<span class="cat-badge essay">essay</span>{% elsif post.tags contains "fitness" %}<span class="cat-badge fitness">fitness</span>{% elsif post.tags contains "project" or post.tags contains "facts and data" %}<span class="cat-badge project">project</span>{% endif %}</li>
+              {% endfor %}
+            </ul>
+          </div>
+        {% endif %}
+      {% endfor %}
+    </div>
+
+    <div class="cat-section" data-cat="fitness" style="display:none">
+      {% for tier in tiers %}
+        {% assign tier_posts = "" | split: "" %}
+        {% for post in site.posts %}
+          {% if post.tags contains tier and post.tags contains "fitness" %}
+            {% assign tier_posts = tier_posts | push: post %}
+          {% endif %}
+        {% endfor %}
+        {% if tier_posts.size > 0 or tier == "s-tier" %}
+          <div class="tier-row" data-tier="{{ tier }}">
+            <div class="tier-key">{% if tier == "notes" %}∅{% else %}{{ tier | slice: 0 | upcase }}{% endif %}</div>
+            <ul class="posts tier-posts">
+              {% for post in tier_posts %}
+                <li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>{% if post.tags contains "story" %}<span class="cat-badge story">story</span>{% elsif post.tags contains "development" or post.tags contains "personal development" %}<span class="cat-badge grow">grow</span>{% elsif post.tags contains "essay" %}<span class="cat-badge essay">essay</span>{% elsif post.tags contains "fitness" %}<span class="cat-badge fitness">fitness</span>{% elsif post.tags contains "project" or post.tags contains "facts and data" %}<span class="cat-badge project">project</span>{% endif %}</li>
+              {% endfor %}
+            </ul>
+          </div>
+        {% endif %}
+      {% endfor %}
+    </div>
+
+    <div class="cat-section" data-cat="projects" style="display:none">
+      {% for tier in tiers %}
+        {% assign tier_posts = "" | split: "" %}
+        {% for post in site.posts %}
+          {% if post.tags contains tier and post.tags contains "project" or post.tags contains tier and post.tags contains "facts and data" %}
+            {% assign tier_posts = tier_posts | push: post %}
+          {% endif %}
+        {% endfor %}
+        {% if tier_posts.size > 0 or tier == "s-tier" %}
+          <div class="tier-row" data-tier="{{ tier }}">
+            <div class="tier-key">{% if tier == "notes" %}∅{% else %}{{ tier | slice: 0 | upcase }}{% endif %}</div>
+            <ul class="posts tier-posts">
+              {% for post in tier_posts %}
+                <li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>{% if post.tags contains "story" %}<span class="cat-badge story">story</span>{% elsif post.tags contains "development" or post.tags contains "personal development" %}<span class="cat-badge grow">grow</span>{% elsif post.tags contains "essay" %}<span class="cat-badge essay">essay</span>{% elsif post.tags contains "fitness" %}<span class="cat-badge fitness">fitness</span>{% elsif post.tags contains "project" or post.tags contains "facts and data" %}<span class="cat-badge project">project</span>{% endif %}</li>
+              {% endfor %}
+            </ul>
+          </div>
+        {% endif %}
+      {% endfor %}
+    </div>
+
+  </div><!-- #view-tierlist -->
+
+  <!-- ===== BY DATE VIEW ===== -->
+  <div id="view-bydate" style="display:none">
+
+    <div class="cat-section" data-cat="all">
+      {% assign posts_by_year = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
+      {% for year_group in posts_by_year %}
+        <div class="year-group">
+          <div class="year-label">{{ year_group.name }}</div>
+          <ul class="posts">
+            {% for post in year_group.items %}
+              <li>
+                <span class="post-date">{{ post.date | date: "%-d %b" }}</span>
+                <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>{% if post.tags contains "story" %}<span class="cat-badge story">story</span>{% elsif post.tags contains "development" or post.tags contains "personal development" %}<span class="cat-badge grow">grow</span>{% elsif post.tags contains "essay" %}<span class="cat-badge essay">essay</span>{% elsif post.tags contains "fitness" %}<span class="cat-badge fitness">fitness</span>{% elsif post.tags contains "project" or post.tags contains "facts and data" %}<span class="cat-badge project">project</span>{% endif %}
+              </li>
+            {% endfor %}
+          </ul>
+        </div>
+      {% endfor %}
+    </div>
+
+    <div class="cat-section" data-cat="stories" style="display:none">
+      {% assign bd_posts = "" | split: "" %}
       {% for post in site.posts %}
         {% if post.tags contains "story" %}
-          <li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+          {% assign bd_posts = bd_posts | push: post %}
         {% endif %}
       {% endfor %}
-    </ul>
-  </div>
+      {% assign posts_by_year = bd_posts | group_by_exp: "post", "post.date | date: '%Y'" %}
+      {% for year_group in posts_by_year %}
+        {% if year_group.items.size > 0 %}
+          <div class="year-group">
+            <div class="year-label">{{ year_group.name }}</div>
+            <ul class="posts">
+              {% for post in year_group.items %}
+                <li>
+                  <span class="post-date">{{ post.date | date: "%-d %b" }}</span>
+                  <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>{% if post.tags contains "story" %}<span class="cat-badge story">story</span>{% elsif post.tags contains "development" or post.tags contains "personal development" %}<span class="cat-badge grow">grow</span>{% elsif post.tags contains "essay" %}<span class="cat-badge essay">essay</span>{% elsif post.tags contains "fitness" %}<span class="cat-badge fitness">fitness</span>{% elsif post.tags contains "project" or post.tags contains "facts and data" %}<span class="cat-badge project">project</span>{% endif %}
+                </li>
+              {% endfor %}
+            </ul>
+          </div>
+        {% endif %}
+      {% endfor %}
+    </div>
 
-  <div class="cat-section" data-cat="essays">
-    <div class="cat-section-label">Essays</div>
-    <ul class="posts">
+    <div class="cat-section" data-cat="grow" style="display:none">
+      {% assign bd_posts = "" | split: "" %}
+      {% for post in site.posts %}
+        {% if post.tags contains "development" or post.tags contains "personal development" %}
+          {% assign bd_posts = bd_posts | push: post %}
+        {% endif %}
+      {% endfor %}
+      {% assign posts_by_year = bd_posts | group_by_exp: "post", "post.date | date: '%Y'" %}
+      {% for year_group in posts_by_year %}
+        {% if year_group.items.size > 0 %}
+          <div class="year-group">
+            <div class="year-label">{{ year_group.name }}</div>
+            <ul class="posts">
+              {% for post in year_group.items %}
+                <li>
+                  <span class="post-date">{{ post.date | date: "%-d %b" }}</span>
+                  <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>{% if post.tags contains "story" %}<span class="cat-badge story">story</span>{% elsif post.tags contains "development" or post.tags contains "personal development" %}<span class="cat-badge grow">grow</span>{% elsif post.tags contains "essay" %}<span class="cat-badge essay">essay</span>{% elsif post.tags contains "fitness" %}<span class="cat-badge fitness">fitness</span>{% elsif post.tags contains "project" or post.tags contains "facts and data" %}<span class="cat-badge project">project</span>{% endif %}
+                </li>
+              {% endfor %}
+            </ul>
+          </div>
+        {% endif %}
+      {% endfor %}
+    </div>
+
+    <div class="cat-section" data-cat="essays" style="display:none">
+      {% assign bd_posts = "" | split: "" %}
       {% for post in site.posts %}
         {% if post.tags contains "essay" %}
-          <li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+          {% assign bd_posts = bd_posts | push: post %}
         {% endif %}
       {% endfor %}
-    </ul>
-  </div>
+      {% assign posts_by_year = bd_posts | group_by_exp: "post", "post.date | date: '%Y'" %}
+      {% for year_group in posts_by_year %}
+        {% if year_group.items.size > 0 %}
+          <div class="year-group">
+            <div class="year-label">{{ year_group.name }}</div>
+            <ul class="posts">
+              {% for post in year_group.items %}
+                <li>
+                  <span class="post-date">{{ post.date | date: "%-d %b" }}</span>
+                  <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>{% if post.tags contains "story" %}<span class="cat-badge story">story</span>{% elsif post.tags contains "development" or post.tags contains "personal development" %}<span class="cat-badge grow">grow</span>{% elsif post.tags contains "essay" %}<span class="cat-badge essay">essay</span>{% elsif post.tags contains "fitness" %}<span class="cat-badge fitness">fitness</span>{% elsif post.tags contains "project" or post.tags contains "facts and data" %}<span class="cat-badge project">project</span>{% endif %}
+                </li>
+              {% endfor %}
+            </ul>
+          </div>
+        {% endif %}
+      {% endfor %}
+    </div>
 
-  <div class="cat-section" data-cat="fitness">
-    <div class="cat-section-label">Fitness</div>
-    <ul class="posts">
+    <div class="cat-section" data-cat="fitness" style="display:none">
+      {% assign bd_posts = "" | split: "" %}
       {% for post in site.posts %}
         {% if post.tags contains "fitness" %}
-          <li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+          {% assign bd_posts = bd_posts | push: post %}
         {% endif %}
       {% endfor %}
-    </ul>
-  </div>
+      {% assign posts_by_year = bd_posts | group_by_exp: "post", "post.date | date: '%Y'" %}
+      {% for year_group in posts_by_year %}
+        {% if year_group.items.size > 0 %}
+          <div class="year-group">
+            <div class="year-label">{{ year_group.name }}</div>
+            <ul class="posts">
+              {% for post in year_group.items %}
+                <li>
+                  <span class="post-date">{{ post.date | date: "%-d %b" }}</span>
+                  <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>{% if post.tags contains "story" %}<span class="cat-badge story">story</span>{% elsif post.tags contains "development" or post.tags contains "personal development" %}<span class="cat-badge grow">grow</span>{% elsif post.tags contains "essay" %}<span class="cat-badge essay">essay</span>{% elsif post.tags contains "fitness" %}<span class="cat-badge fitness">fitness</span>{% elsif post.tags contains "project" or post.tags contains "facts and data" %}<span class="cat-badge project">project</span>{% endif %}
+                </li>
+              {% endfor %}
+            </ul>
+          </div>
+        {% endif %}
+      {% endfor %}
+    </div>
 
-  <div class="cat-section" data-cat="projects">
-    <div class="cat-section-label">Projects</div>
-    <ul class="posts">
+    <div class="cat-section" data-cat="projects" style="display:none">
+      {% assign bd_posts = "" | split: "" %}
       {% for post in site.posts %}
-        {% if post.tags contains "projects" or post.tags contains "facts and data" %}
-          <li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+        {% if post.tags contains "project" or post.tags contains "facts and data" %}
+          {% assign bd_posts = bd_posts | push: post %}
         {% endif %}
       {% endfor %}
-    </ul>
-  </div>
+      {% assign posts_by_year = bd_posts | group_by_exp: "post", "post.date | date: '%Y'" %}
+      {% for year_group in posts_by_year %}
+        {% if year_group.items.size > 0 %}
+          <div class="year-group">
+            <div class="year-label">{{ year_group.name }}</div>
+            <ul class="posts">
+              {% for post in year_group.items %}
+                <li>
+                  <span class="post-date">{{ post.date | date: "%-d %b" }}</span>
+                  <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>{% if post.tags contains "story" %}<span class="cat-badge story">story</span>{% elsif post.tags contains "development" or post.tags contains "personal development" %}<span class="cat-badge grow">grow</span>{% elsif post.tags contains "essay" %}<span class="cat-badge essay">essay</span>{% elsif post.tags contains "fitness" %}<span class="cat-badge fitness">fitness</span>{% elsif post.tags contains "project" or post.tags contains "facts and data" %}<span class="cat-badge project">project</span>{% endif %}
+                </li>
+              {% endfor %}
+            </ul>
+          </div>
+        {% endif %}
+      {% endfor %}
+    </div>
+
+  </div><!-- #view-bydate -->
+
 </section>
 
 <script>
 (function() {
-  var tabs = document.querySelectorAll('.cat-tab');
-  var sections = document.querySelectorAll('.cat-section');
-  var labels = document.querySelectorAll('.cat-section-label');
+  var viewPicker    = document.getElementById('view-picker');
+  var viewPickBtn   = document.getElementById('view-pick-btn');
+  var viewPickLabel = document.getElementById('view-pick-label');
+  var viewOptions   = document.querySelectorAll('.view-option');
+  var viewTierlist  = document.getElementById('view-tierlist');
+  var viewBydate    = document.getElementById('view-bydate');
+  var catPicker     = document.getElementById('cat-picker');
+  var catPickBtn    = document.getElementById('cat-pick-btn');
+  var catOptions    = document.querySelectorAll('.cat-option');
+
+  var currentView = 'tierlist';
+  var currentCat  = 'all';
 
   function showCat(cat) {
-    sections.forEach(function(s) {
+    currentCat = cat;
+    var container = currentView === 'tierlist' ? viewTierlist : viewBydate;
+    container.querySelectorAll('.cat-section').forEach(function(s) {
       s.style.display = s.dataset.cat === cat ? '' : 'none';
     });
-    labels.forEach(function(l) { l.style.display = 'none'; });
   }
 
-  // Default to stories on load
-  showCat('stories');
+  function showView(view) {
+    currentView = view;
+    viewTierlist.style.display = view === 'tierlist' ? '' : 'none';
+    viewBydate.style.display   = view === 'bydate'   ? '' : 'none';
+    showCat(currentCat);
+  }
 
-  tabs.forEach(function(tab) {
-    tab.addEventListener('click', function() {
-      tabs.forEach(function(t) { t.classList.remove('active'); });
+  showView('tierlist');
+  showCat('all');
+
+  viewPickBtn.addEventListener('click', function(e) {
+    e.stopPropagation();
+    var opening = !viewPicker.classList.contains('open');
+    viewPicker.classList.toggle('open');
+    viewPickBtn.setAttribute('aria-expanded', opening ? 'true' : 'false');
+  });
+
+  viewOptions.forEach(function(opt) {
+    opt.addEventListener('click', function(e) {
+      e.stopPropagation();
+      viewPickLabel.textContent = this.dataset.label;
+      viewPickBtn.setAttribute('aria-expanded', 'false');
+      viewPicker.classList.remove('open');
+      viewOptions.forEach(function(o) { o.classList.remove('active'); });
+      this.classList.add('active');
+      showView(this.dataset.view);
+    });
+  });
+
+  catPickBtn.addEventListener('click', function(e) {
+    e.stopPropagation();
+    var opening = !catPicker.classList.contains('open');
+    catPicker.classList.toggle('open');
+    catPickBtn.setAttribute('aria-expanded', opening ? 'true' : 'false');
+  });
+
+  catOptions.forEach(function(opt) {
+    opt.addEventListener('click', function(e) {
+      e.stopPropagation();
+      catPickBtn.setAttribute('aria-label', 'Filter: ' + this.textContent.trim());
+      catPickBtn.setAttribute('aria-expanded', 'false');
+      catPicker.classList.remove('open');
+      catOptions.forEach(function(o) { o.classList.remove('active'); });
       this.classList.add('active');
       showCat(this.dataset.cat);
     });
   });
+
+  document.addEventListener('click', function() {
+    viewPicker.classList.remove('open');
+    viewPickBtn.setAttribute('aria-expanded', 'false');
+    catPicker.classList.remove('open');
+    catPickBtn.setAttribute('aria-expanded', 'false');
+  });
 })();
 </script>
-
-<section id="archive">
-  <div class="section-label">All</div>
-  {% assign posts_by_year = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
-  {% for year_group in posts_by_year %}
-    <div class="year-group">
-      <div class="year-label">{{ year_group.name }}</div>
-      <ul class="posts">
-        {% for post in year_group.items %}
-          <li>
-            <span class="post-date">{{ post.date | date: "%-d %b" }}</span>
-            <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
-          </li>
-        {% endfor %}
-      </ul>
-    </div>
-  {% endfor %}
-</section>

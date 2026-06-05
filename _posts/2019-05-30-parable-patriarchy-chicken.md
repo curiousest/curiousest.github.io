@@ -9,6 +9,7 @@ tags:
   - essay
   - favourite
   - feminism
+  - c-tier
 modified_time: 2019-06-17T00:00:00.001-05:00
 ---
 

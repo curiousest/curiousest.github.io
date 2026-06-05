@@ -1,11 +1,12 @@
 ---
 layout: post
-title: "Hey, fitness noob!"
-date: '2020-01-31T00:00:00.001-05:00'
+title: Hey, fitness noob!
+date: 2020-01-31T00:00:00.001-05:00
 author: Douglas Hindson
-tags: 
-- fitness
-modified_time: '2020-01-31T00:00:00.001-05:00'
+tags:
+  - fitness
+  - d-tier
+modified_time: 2020-01-31T00:00:00.001-05:00
 ---
 
 I grew up playing most sports and eating healthy. Despite that, I made mistakes when I tried to get fit and be more attractive. It's easy to screw up improving your fitness, but it's easy to do well too - you need a breadth of simple knowledge. This is the article I wish I had when I started intentionally improving my fitness.

@@ -5,6 +5,7 @@ date: 2025-05-10T00:00:00.001-05:00
 author: Douglas Hindson
 tags:
   - essay
+  - d-tier
 modified_time: 2025-05-10T00:00:00.001-05:00
 ---
 ## Part 1: Good and evil

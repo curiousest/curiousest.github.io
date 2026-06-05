@@ -9,6 +9,7 @@ tags:
   - personal
   - development
   - favourite
+  - c-tier
 modified_time: 2024-02-16T16:50:47.073-05:00
 ---
 I'm taking a year to study philosophy and write a book. I plan on returning to industry after.

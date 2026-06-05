@@ -5,6 +5,7 @@ date: 2022-09-04T00:00:00.001-05:00
 author: Douglas Hindson
 tags:
   - story
+  - d-tier
 modified_time: 2022-07-08T00:00:00.001-05:00
 ---
 

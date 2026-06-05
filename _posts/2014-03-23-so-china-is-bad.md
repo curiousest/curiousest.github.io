@@ -1,11 +1,12 @@
 ---
 layout: post
 title: So China is Bad
-date: '2014-03-23T09:28:00.000-04:00'
+date: 2014-03-23T09:28:00.000-04:00
 author: Doug Hindson
 tags:
-- essay
-modified_time: '2014-03-23T19:57:25.043-04:00'
+  - essay
+  - c-tier
+modified_time: 2014-03-23T19:57:25.043-04:00
 ---
 
 I thought China was bad. I think China is bad. I'm here and things don't seem so bad, so something's up. I began to think about why I think about China so negatively. All the Chinese people I've known in Canada have been so wonderful and Chinese culture is so unoffensive. I realized that all the negative things I think about China comes from Western media and its regurgitation.

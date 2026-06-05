@@ -1,12 +1,13 @@
 ---
 layout: post
 title: An Elaborate Proposition
-date: '2014-01-13T10:13:00.000-05:00'
+date: 2014-01-13T10:13:00.000-05:00
 author: Doug Hindson
-tags: 
-- favourite
-- story
-modified_time: '2014-11-30T10:32:12.785-05:00'
+tags:
+  - favourite
+  - story
+  - b-tier
+modified_time: 2014-11-30T10:32:12.785-05:00
 ---
 
 I'm on a first date in Shanghai. It's just past eleven and we've finished our drinks. She's a Chinese-American girl who runs an art-design-tech startup. She's intense, super cute, and not at all what I expected. I don't know what I expected, but she's better.

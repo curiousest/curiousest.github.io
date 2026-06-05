@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "On the performance of a program manager"
-date: '2019-09-21T00:00:00.001-05:00'
+title: On the performance of a program manager
+date: 2019-09-21T00:00:00.001-05:00
 author: Douglas Hindson
-tags: 
-- career
-- tech industry
-modified_time: '2019-09-21T00:00:00.001-05:00'
+tags:
+  - career
+  - f-tier
+modified_time: 2019-09-21T00:00:00.001-05:00
 ---
 
 [Bus factor](https://en.wikipedia.org/wiki/Bus_factor) in a company is the risk that information and capabilities are not shared among team members. If a person has a high bus factor, they have a significant amount of information and capabilities that aren't shared among the rest of the team.

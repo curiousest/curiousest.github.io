@@ -1,13 +1,15 @@
 ---
 layout: post
-title: "How I speak product"
-date: '2020-05-25T00:00:00.001-05:00'
+title: How I speak product
+date: 2020-05-25T00:00:00.001-05:00
 author: Douglas Hindson
-tags: 
-- personal development
-- professional
-- favourite
-modified_time: '2020-05-25T00:00:00.001-05:00'
+tags:
+  - professional
+  - favourite
+  - personal
+  - development
+  - c-tier
+modified_time: 2020-05-25T00:00:00.001-05:00
 ---
 
 I've observed that people around me are solution-oriented. We like to focus on what needs to be done - the solution. The following interaction happens with everyone, from engineers to salespeople:

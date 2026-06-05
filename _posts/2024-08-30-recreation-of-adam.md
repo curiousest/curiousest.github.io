@@ -5,6 +5,7 @@ date: 2024-08-30T00:00:00.001-05:00
 author: Douglas Hindson
 tags:
   - story
+  - a-tier
 modified_time: 2024-08-30T00:00:00.001-05:00
 ---
 1. **The story** (10min read)

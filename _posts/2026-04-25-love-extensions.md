@@ -5,6 +5,7 @@ date: 2026-04-25T00:00:00.001-05:00
 author: Douglas Hindson
 tags:
   - essay
+  - d-tier
 modified_time: 2024-12-04T00:00:00.001-05:00
 ---
 > You can only extend your love to so many things.
@@ -22,7 +23,7 @@ modified_time: 2024-12-04T00:00:00.001-05:00
 > But as "human" begins to change,
 > we no longer agree what it is.
 > 
-> Will you fight to keep it alive-
+> Who will fight to keep it alive-
 > 
-> or learn to die,
+> and who will learn to die,
 > and love beyond it?

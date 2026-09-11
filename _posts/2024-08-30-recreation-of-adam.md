@@ -26,7 +26,7 @@ modified_time: 2024-08-30T00:00:00.001-05:00
     <button type="button" data-rate="1.75" aria-pressed="false">1.75&times;</button>
     <button type="button" data-rate="2" aria-pressed="false">2&times;</button>
   </div>
-  <p class="post-audio-note">Part 1 only. <a href="/audio/recreation-of-adam.mp3">Download the MP3</a>.</p>
+  <p class="post-audio-note">The story only. <a href="/audio/recreation-of-adam.mp3">Download the MP3</a>.</p>
 </div>
 
 <script>

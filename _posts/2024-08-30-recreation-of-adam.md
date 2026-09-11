@@ -12,6 +12,44 @@ modified_time: 2024-08-30T00:00:00.001-05:00
 2. **The prompts** used to build the story (5min read)
 3. **The model and training data** used to fine-tune LLMs (2min read)
 
+<div class="post-audio">
+  <span class="post-audio-label">Listen &middot; the story, narrated</span>
+  <audio controls preload="none" id="story-audio">
+    <source src="/audio/recreation-of-adam.mp3" type="audio/mpeg">
+    Your browser does not support audio playback.
+  </audio>
+  <div class="post-audio-speed" role="group" aria-label="Playback speed">
+    <span class="post-audio-speed-label">Speed</span>
+    <button type="button" data-rate="1" class="is-active" aria-pressed="true">1&times;</button>
+    <button type="button" data-rate="1.25" aria-pressed="false">1.25&times;</button>
+    <button type="button" data-rate="1.5" aria-pressed="false">1.5&times;</button>
+    <button type="button" data-rate="1.75" aria-pressed="false">1.75&times;</button>
+    <button type="button" data-rate="2" aria-pressed="false">2&times;</button>
+  </div>
+  <p class="post-audio-note">Part 1 only. <a href="/audio/recreation-of-adam.mp3">Download the MP3</a>.</p>
+</div>
+
+<script>
+(function () {
+  var audio = document.getElementById('story-audio');
+  if (!audio) return;
+  // keep voices from turning chipmunk when sped up
+  audio.preservesPitch = audio.mozPreservesPitch = audio.webkitPreservesPitch = true;
+  var buttons = [].slice.call(document.querySelectorAll('.post-audio-speed button'));
+  buttons.forEach(function (b) {
+    b.addEventListener('click', function () {
+      audio.playbackRate = parseFloat(b.getAttribute('data-rate'));
+      buttons.forEach(function (o) {
+        o.classList.remove('is-active');
+        o.setAttribute('aria-pressed', 'false');
+      });
+      b.classList.add('is-active');
+      b.setAttribute('aria-pressed', 'true');
+    });
+  });
+})();
+</script>
+
 <img src="/images/202 - POkFTkT.jpg" style="width: 800px; height: auto; align:center;"><br/>
 
 “Mrs. Shelley, before you go in, I should warn you that most of the staff may be out for a while.”
